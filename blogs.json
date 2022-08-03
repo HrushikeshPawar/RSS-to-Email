@@ -1,0 +1,17 @@
+{
+    "DeepMind Blog": "https://www.deepmind.com/blog/rss.xml",
+    "Nvidia Blog": "https://blogs.nvidia.com/feed/",
+    "CMU Machine Learning Blog": "https://blog.ml.cmu.edu/feed/",
+    "TensorFlow Blog": "https://blog.tensorflow.org/feeds/posts/default?alt=rss",
+    "Machine Learning Mastery Blog": "https://machinelearningmastery.com/feed/",
+    "Colah's Blog": "https://colah.github.io/rss.xml",
+    "Amazon Science Blog": "https://www.amazon.science/index.rss",
+    "The Berkeley Artificial Intelligence Research Blog": "https://bair.berkeley.edu/blog/feed.xml",
+    "Google AI Blog": "https://blog.google/technology/ai/rss/",
+    "OpenAI Blog": "https://openai.com/blog/rss/",
+    "Apple Machine Learning Blog": "https://machinelearning.apple.com/rss.xml",
+    "Towards AI Blog": "https://feeds.feedburner.com/towards-ai/",
+    "Louis Bouchard Blog": "https://www.louisbouchard.ai/rss/",
+    "Computational Intelligence Blog": "https://computational-intelligence.blogspot.com/feeds/posts/default",
+    "TopBots Blog": "https://www.topbots.com/feed/"
+}
