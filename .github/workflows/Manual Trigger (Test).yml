@@ -1,4 +1,4 @@
-name: run main.py
+name: Test run main.py
 
 on: workflow_dispatch
 
