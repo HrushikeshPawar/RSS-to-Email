@@ -3,7 +3,7 @@ name: run main.py
 on:
   schedule:
     - cron: '25 3 * * *' # Everyday at 8:55 AM IST
-    - cron: '35 4'
+    - cron: '45 4 * * *'
 
 jobs:
   build:
