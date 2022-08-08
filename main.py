@@ -7,7 +7,6 @@ from email.mime.text import MIMEText
 from datetime import datetime, timedelta
 import markdown2
 import os
-import sys
 
 BLOG_PATH = 'blogs.json'
 TEST_BLOG_PATH = 'test_blogs.json'
@@ -19,7 +18,11 @@ try:
     RECIPIENT = os.environ["RECIPIENT"]
     PASSWORD = os.environ["PASSWORD"]
 except KeyError:
-    sys.exit("Environment variables not set")
+    with open('settings.json', 'r') as f:
+        settings = json.load(f)
+    SENDER = settings['email_address_from']
+    RECIPIENT = settings['email_address_to']
+    PASSWORD = settings['password']
 
 
 def import_blogs(path: str) -> dict:
