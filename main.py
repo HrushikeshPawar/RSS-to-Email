@@ -130,7 +130,8 @@ def get_content_in_html(articles: dict) -> str:
             new_content += f'\n## [{article}]({article_details["url"]})\n'
 
             # Add article details to content
-            date = datetime.fromtimestamp(article_details["pubdate_parsed"]).astimezone()
+            date = article_details[article]["pubdate_parsed"]
+            date = datetime(date[0], date[1], date[2])
             new_content += f'**Published on:** {date.strftime("%A, %d %B, %Y")}\n'
             new_content += f'\n{article_details["description"]}\n'
         new_content += u'\n---\n'
