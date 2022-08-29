@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '25 3 * * *' # Everyday at 8:55 AM IST
     - cron: '30 13 * * *'
+  workflow_dispatch
 
 jobs:
   build:
