@@ -14,6 +14,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10.6' # install the python version needed
+          check-latest: true
           
       - name: install python packages
         run: |
