@@ -15,7 +15,7 @@ class RSSReader:
 
         # Create Article dict
         self.articles_dicts = {
-            a.title : {
+            a.title.encode("ascii", "ignore").decode() : {
                 'url': a.link,
                 'description': a.description if 'description' in a else None,
                 'pubdate': a.published,
