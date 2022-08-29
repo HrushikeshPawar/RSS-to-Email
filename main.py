@@ -40,7 +40,7 @@ def import_articles(path: str) -> dict:
         articles = {}
         # Save articles to json file
         with open(path, 'w') as f:
-            json.dump(articles, f)
+            json.dump(articles, f, indent=4)
 
     return articles
 
@@ -80,7 +80,7 @@ def update_articles(raw_articles: dict, articles: list, forDate: datetime = TODA
                 articles[blog][article]['email_sent'] = False
 
     with open(ARTICLE_PATH, 'w') as f:
-        json.dump(articles, f)
+        json.dump(articles, f, indent=4)
     return articles
 
 
@@ -105,7 +105,7 @@ def articles_to_mail(articles: dict) -> list:
 
     # Update sent articles in json file
     with open(ARTICLE_PATH, 'w') as f:
-        json.dump(articles, f)
+        json.dump(articles, f, indent=4)
 
     return mail_articles
 
@@ -130,7 +130,7 @@ def get_content_in_html(articles: dict) -> str:
             new_content += f'\n## [{article}]({article_details["url"]})\n'
 
             # Add article details to content
-            date = article_details[article]["pubdate_parsed"]
+            date = article_details["pubdate_parsed"]
             date = datetime(date[0], date[1], date[2])
             new_content += f'**Published on:** {date.strftime("%A, %d %B, %Y")}\n'
             new_content += f'\n{article_details["description"]}\n'
@@ -191,8 +191,8 @@ def check_backlog():
     print('Raw articles obtained!')
 
     # Get articles from RSS feed and update the articles json file
-    edate = datetime(2022, 8, 3)
-    sdate = datetime(2022, 7, 1)
+    edate = datetime(2022, 8, 29)
+    sdate = datetime(2022, 1, 1)
     date_range = [sdate + timedelta(days=x) for x in range((edate - sdate).days)]
 
     for date in date_range:
@@ -212,6 +212,8 @@ def check_backlog():
             send_email(mail_articles)
         else:
             print('No new articles to be mailed!')
+        
+        print("=="*50)
 
         articles = import_articles(ARTICLE_PATH)
 
@@ -252,3 +254,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # check_backlog()
