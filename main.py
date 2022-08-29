@@ -71,9 +71,8 @@ def update_articles(raw_articles: dict, articles: list, forDate: datetime = TODA
         article_details = raw_articles[blog]
 
         for article in article_details:
-            date = datetime.fromtimestamp(article_details[article]["pubdate_parsed"]).astimezone()
-            date = datetime(date.year, date.month, date.day)
-            # inRange = datetime(2022, 1, 1).astimezone() <= date < datetime(2022, 7, 1).astimezone()
+            date = article_details[article]["pubdate_parsed"]
+            date = datetime(date[0], date[1], date[2])
             isDate = date - forDate == timedelta(0)
 
             if article not in articles[blog] and isDate:
@@ -135,12 +134,8 @@ def get_content_in_html(articles: dict) -> str:
             new_content += f'**Published on:** {date.strftime("%A, %d %B, %Y")}\n'
             new_content += f'\n{article_details["description"]}\n'
         new_content += u'\n---\n'
-        # with open(fr'HTML\{blog}.html', 'w', encoding='utf-8') as f:
-        #     f.write(markdown2.markdown(new_content))
 
         content += markdown2.markdown(new_content)
-    # with open(r'HTML\All.html', 'w', encoding='utf-8') as f:
-    #     f.write(markdown2.markdown(content))
 
     return content, cnt
 

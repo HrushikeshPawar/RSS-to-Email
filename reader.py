@@ -1,6 +1,5 @@
 import feedparser
 from datetime import datetime
-from time import mktime
 
 
 class RSSReader:
@@ -17,19 +16,16 @@ class RSSReader:
         # Create Article dict
         self.articles_dicts = {
             a.title : {
-                # 'id': a.id,
-                # 'title': a.title,
                 'url': a.link,
-                'description': a.description,
+                'description': a.description if 'description' in a else None,
                 'pubdate': a.published,
-                # 'pubdate_parsed': datetime.fromtimestamp(mktime(a.published_parsed))
-                'pubdate_parsed': mktime(a.published_parsed)
+                'pubdate_parsed': (a.published_parsed[0], a.published_parsed[1], a.published_parsed[2])
             } for a in self.articles
         }
 
     def print_info(self):
         for article in self.articles_dicts:
-            print(self.articles_dicts[article]['pubdate'], '|', article)
+            print(self.articles_dicts[article]['pubdate'], '|', self.articles_dicts[article]['pubdate_parsed'],  '|', article)
 
     def print_article_by_date(self, date: datetime = datetime.now()):
         for i in range(len(self.articles_dicts)):
@@ -57,7 +53,7 @@ if __name__ == '__main__':
         'https://www.topbots.com/feed/',  # TopBots blog
     ]
 
-    feed = RSSReader('https://www.deepmind.com/blog/rss.xml')
+    feed = RSSReader('https://lilianweng.github.io/index.xml')
     # for url in feed.urls:
     #     print(url)
     feed.print_info()
