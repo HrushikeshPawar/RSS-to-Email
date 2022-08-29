@@ -563,6 +563,17 @@
             "pubdate": "Thu, 25 Aug 2022 13:30:55 GMT",
             "pubdate_parsed": 1661434255.0,
             "email_sent": true
+        },
+        "I always knew that my main interest was in supply chain optimization": {
+            "url": "https://www.amazon.science/working-at-amazon/alp-muharremoglu-columbia-university-of-texas-operations-professor-amazon-scot",
+            "description": "After 15 years in academia, Alp Muharremoglu became a senior principal senior scientist within Amazon\u2019s Supply Chain Optimization Technologies organization, and says his teaching skills are indispensable.",
+            "pubdate": "Mon, 29 Aug 2022 13:36:27 GMT",
+            "pubdate_parsed": [
+                2022,
+                8,
+                29
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
