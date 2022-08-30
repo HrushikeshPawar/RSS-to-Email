@@ -3727,6 +3727,17 @@
                 29
             ],
             "email_sent": true
+        },
+        "Improve Your Model Validation With TorchMetrics": {
+            "url": "https://towardsai.net/p/l/improve-your-model-validation-with-torchmetrics",
+            "description": "Last Updated on August 29, 2022 by Editorial Team Author(s): Mattia Gatti Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. A guide on how to use TorchMetrics with PyTorch or PyTorch Lightning models Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 30 Aug 2022 00:14:55 +0000",
+            "pubdate_parsed": [
+                2022,
+                8,
+                30
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
