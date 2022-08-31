@@ -617,6 +617,28 @@
                 25
             ],
             "email_sent": true
+        },
+        "OBS Studio to Release Software Update 28.0 With NVIDIA Broadcast Features In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2022/08/31/in-the-nvidia-studio-august-31/",
+            "description": "<p>In the NVIDIA Studio celebrates the Open Broadcaster Software (OBS) Studio\u2019s 10th anniversary and its 28.0 software release. Plus, popular streamer WATCHHOLLIE shares how she uses OBS and a GeForce RTX 3080 GPU in a single-PC setup to elevate her livestreams.</p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/08/31/in-the-nvidia-studio-august-31/\" rel=\"nofollow\">OBS Studio to Release Software Update 28.0 With NVIDIA Broadcast Features \u2018In the NVIDIA Studio\u2019</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Wed, 31 Aug 2022 13:00:44 +0000",
+            "pubdate_parsed": [
+                2022,
+                8,
+                31
+            ],
+            "email_sent": true
+        },
+        "Rendered.ai Founder and CEO Nathan Kundtz on Using AI to Build Better AI": {
+            "url": "https://blogs.nvidia.com/blog/2022/08/31/rendered-ai/",
+            "description": "<p>Data is the fuel that makes artificial intelligence run. Training machine learning and AI systems requires data. And the quality of datasets has a big impact on the systems\u2019 results. But compiling quality real-world data for AI and ML can be difficult and expensive. That\u2019s where synthetic data comes in. The guest for this week\u2019s <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2022/08/31/rendered-ai/\">Read article &#62;</a></p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/08/31/rendered-ai/\" rel=\"nofollow\">Rendered.ai Founder and CEO Nathan Kundtz on Using AI to Build Better AI</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Wed, 31 Aug 2022 13:00:41 +0000",
+            "pubdate_parsed": [
+                2022,
+                8,
+                31
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
