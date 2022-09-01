@@ -3960,6 +3960,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "One of the Most Challenging Tasks for AI": {
+            "url": "https://www.louisbouchard.ai/psg/",
+            "description": "A New Challenging Task for\u00a0AI:  panoptic scene graph generation",
+            "pubdate": "Thu, 01 Sep 2022 00:19:49 GMT",
+            "pubdate_parsed": [
+                2022,
+                9,
+                1
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
