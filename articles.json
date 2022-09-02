@@ -3804,6 +3804,17 @@
                 31
             ],
             "email_sent": true
+        },
+        "What is Panoptic Scene Graph Generation (PSG)?": {
+            "url": "https://towardsai.net/p/l/what-is-panoptic-scene-graph-generation-psg",
+            "description": "Last Updated on September 1, 2022 by Editorial Team Author(s): Louis Bouchard Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. PSG&#x200a;&#x2014;&#x200a;A New Challenging Task for AI Explained Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 02 Sep 2022 00:13:45 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                2
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -3980,6 +3991,17 @@
                 2022,
                 9,
                 1
+            ],
+            "email_sent": true
+        },
+        "Guiding Stable Diffusion with yourImages": {
+            "url": "https://www.louisbouchard.ai/imageworthoneword/",
+            "description": "Personalizing Text-to-Image Generation using Textual Inversion",
+            "pubdate": "Fri, 02 Sep 2022 02:08:32 GMT",
+            "pubdate_parsed": [
+                2022,
+                9,
+                2
             ],
             "email_sent": true
         }
