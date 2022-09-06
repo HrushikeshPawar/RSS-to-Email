@@ -417,6 +417,17 @@
                 25
             ],
             "email_sent": true
+        },
+        "In conversation with artificial intelligence: aligning language models with human values": {
+            "url": "https://www.deepmind.com/blog/in-conversation-with-artificial-intelligence-aligning-language-models-with-human-values",
+            "description": "Our new paper, In conversation with AI: aligning language models with human values, explores a different approach, asking what successful communication between humans and an artificial conversational agent might look like and what values should guide conversation in these contexts.",
+            "pubdate": "Tue, 06 Sep 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                9,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Nvidia Blog": {
@@ -648,6 +659,17 @@
                 2022,
                 9,
                 1
+            ],
+            "email_sent": true
+        },
+        "Ridiculously Realistic Renders Rule This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2022/09/06/in-the-nvidia-studio-september-6/",
+            "description": "<p>Viral creator turned NVIDIA 3D artist Lorenzo Drago takes viewers on a jaw-dropping journey through Toyama, Japan\u2019s Etch\u016b-Daimon Station this week In the NVIDIA Studio. </p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/09/06/in-the-nvidia-studio-september-6/\" rel=\"nofollow\">Ridiculously Realistic Renders Rule This Week \u2018In the NVIDIA Studio\u2019</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Tue, 06 Sep 2022 13:00:27 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                6
             ],
             "email_sent": true
         }
