@@ -672,6 +672,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "GeForce NOW Supports Over 1,400 Games Streaming Instantly": {
+            "url": "https://blogs.nvidia.com/blog/2022/09/08/geforce-now-thursday-september-8/",
+            "description": "<p>This GFN Thursday marks a milestone: With the addition of six new titles this week, more than 1,400 games are now available to stream from the GeForce NOW library. Plus, GeForce NOW members streaming to supported Smart TVs from Samsung and LG can get into their games faster with an improved user interface. Your Games, <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2022/09/08/geforce-now-thursday-september-8/\">Read article &#62;</a></p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/09/08/geforce-now-thursday-september-8/\" rel=\"nofollow\">GeForce NOW Supports Over 1,400 Games Streaming Instantly</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Thu, 08 Sep 2022 13:00:55 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                8
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -3066,6 +3077,17 @@
                 2022,
                 9,
                 2
+            ],
+            "email_sent": true
+        },
+        "Automatically optimizing execution of unfamiliar tensor operations": {
+            "url": "https://www.amazon.science/blog/automatically-optimizing-execution-of-unfamiliar-tensor-operations",
+            "description": "New auto-scheduler speeds optimization process sixfold while improving performance of resulting code up to 70%.",
+            "pubdate": "Thu, 08 Sep 2022 13:46:52 GMT",
+            "pubdate_parsed": [
+                2022,
+                9,
+                8
             ],
             "email_sent": true
         }
