@@ -3848,6 +3848,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "Recurrent Neural Networks: A Very Special Kind of Mnemonist": {
+            "url": "https://towardsai.net/p/l/recurrent-neural-networks-a-very-special-kind-of-mnemonist",
+            "description": "Last Updated on September 7, 2022 by Editorial Team Author(s): Diego Manfre Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Preserving information is another way of remembering Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Thu, 08 Sep 2022 00:13:50 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                8
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -4035,6 +4046,17 @@
                 2022,
                 9,
                 2
+            ],
+            "email_sent": true
+        },
+        "General Video Recognition with AI": {
+            "url": "https://www.louisbouchard.ai/general-video-recognition/",
+            "description": "What does such a model understand when it sees such a picture or, even more complex, a video?",
+            "pubdate": "Thu, 08 Sep 2022 01:50:38 GMT",
+            "pubdate_parsed": [
+                2022,
+                9,
+                8
             ],
             "email_sent": true
         }
