@@ -696,6 +696,17 @@
                 26
             ],
             "email_sent": true
+        },
+        "Tracking Any Pixel in a Video": {
+            "url": "https://blog.ml.cmu.edu/2022/09/09/tracking-any-pixel-in-a-video/",
+            "description": "We upgrade pixels into PIPs: &#8220;Persistent Independent Particles&#8221;. With this representation, we track any pixel over time, and overcome visibility issues with a learned temporal prior. Motion estimation is a fundamental task of computer vision, with extremely broad applications. By tracking something, you can build models of its various properties: shape, texture, articulation, dynamics, affordances, and so on. More fine-grained tracking allows more fine-grained understanding. For robots, fine-grained tracking also enables fine-grained manipulation. Even setting aside downstream AI-related applications, motion tracks are directly useful for video editing applications &#8212; making realistic edits to a person or object in a video demands precise-as-possible tracking of the pixels, across an indefinite timespan. There are a variety of methods for tracking objects (at the level of segmentation masks or bounding boxes), or for tracking certain points in certain categories (e.g., the joints of a person), but there are actually very few options for general-purpose fine-grained tracking. In this domain, the dominant approaches are feature matching and optical flow. The feature matching approach is: compute a feature for the target on the first frame, then compute features for pixels in other frames, and then compute &#8220;matches&#8221; using feature similarity (i.e., nearest neighbors). This often [&#8230;]",
+            "pubdate": "Sat, 10 Sep 2022 00:54:53 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                10
+            ],
+            "email_sent": true
         }
     },
     "TensorFlow Blog": {
