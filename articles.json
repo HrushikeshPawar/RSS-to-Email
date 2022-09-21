@@ -716,6 +716,17 @@
                 15
             ],
             "email_sent": true
+        },
+        "A Podcast With Teeth: How Overjet Brings AI to Dentists Offices": {
+            "url": "https://blogs.nvidia.com/blog/2022/09/21/ai-podcast-overjet/",
+            "description": "<p>Dentists get a bad rap. Dentists also get more people out of more aggravating pain than just about anyone. Which is why the more technology dentists have, the better. Overjet, a member of the NVIDIA Inception program for startups, is moving fast to bring AI to dentists\u2019 offices. On this episode of the NVIDIA AI <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2022/09/21/ai-podcast-overjet/\">Read article &#62;</a></p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/09/21/ai-podcast-overjet/\" rel=\"nofollow\">A Podcast With Teeth: How Overjet Brings AI to Dentists\u2019 Offices</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Wed, 21 Sep 2022 13:00:46 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                21
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -3145,6 +3156,17 @@
                 14
             ],
             "email_sent": true
+        },
+        "Jaco Geldenhuys and Willem Visser win ISSTA Impact Paper Award": {
+            "url": "https://www.amazon.science/latest-news/amazon-scientists-jaco-geldenhuys-and-willem-visser-win-2022-issta-impact-paper-award",
+            "description": "Scientists\u2019 paper on probabilistic symbolic execution has significantly influenced software testing and analysis.",
+            "pubdate": "Wed, 21 Sep 2022 13:31:46 GMT",
+            "pubdate_parsed": [
+                2022,
+                9,
+                21
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -4902,6 +4924,17 @@
                 2022,
                 9,
                 14
+            ],
+            "email_sent": true
+        },
+        "AI Research Review - Multistream CNN": {
+            "url": "https://www.assemblyai.com/blog/ai-research-review-multistream-cnn/",
+            "description": "This week\u2019s AI Research Review is Multistream CNN For Robust Acoustic Modeling",
+            "pubdate": "Wed, 21 Sep 2022 10:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                9,
+                21
             ],
             "email_sent": true
         }
