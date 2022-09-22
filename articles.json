@@ -439,6 +439,17 @@
                 14
             ],
             "email_sent": true
+        },
+        "Building safer dialogue agents": {
+            "url": "https://www.deepmind.com/blog/building-safer-dialogue-agents",
+            "description": "In our latest paper, we introduce Sparrow \u2013 a dialogue agent that\u2019s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user, answer questions, and search the internet using Google when it\u2019s helpful to look up evidence to inform its responses.",
+            "pubdate": "Thu, 22 Sep 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                9,
+                22
+            ],
+            "email_sent": true
         }
     },
     "Nvidia Blog": {
@@ -725,6 +736,28 @@
                 2022,
                 9,
                 21
+            ],
+            "email_sent": true
+        },
+        "Go Hands On: Logitech G CLOUD Launches With Support for GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2022/09/22/geforce-now-thursday-september-22/",
+            "description": "<p>When it rains, it pours. And this GFN Thursday brings a downpour of news for GeForce NOW members. The Logitech G CLOUD is the latest gaming handheld device to support GeForce NOW, giving members a brand new way to keep the gaming going. But that\u2019s not all: Portal with RTX joins GeForce NOW in November, <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2022/09/22/geforce-now-thursday-september-22/\">Read article &#62;</a></p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/09/22/geforce-now-thursday-september-22/\" rel=\"nofollow\">Go Hands On: Logitech G CLOUD Launches With Support for GeForce NOW</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Thu, 22 Sep 2022 13:00:48 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                22
+            ],
+            "email_sent": true
+        },
+        "Continental and AEye Join NVIDIA DRIVE Sim Sensor Ecosystem, Providing Rich Capabilities for AV Development": {
+            "url": "https://blogs.nvidia.com/blog/2022/09/22/continental-aeye-drive-sim-sensor-ecosystem/",
+            "description": "<p>Autonomous vehicle sensors require the same rigorous testing and validation as the car itself, and one simulation platform is up to the task. Global tier-1 supplier Continental and software-defined lidar maker AEye announced this week at NVIDIA GTC that they will migrate their intelligent lidar sensor model into NVIDIA DRIVE Sim. The companies are the <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2022/09/22/continental-aeye-drive-sim-sensor-ecosystem/\">Read article &#62;</a></p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/09/22/continental-aeye-drive-sim-sensor-ecosystem/\" rel=\"nofollow\">Continental and AEye Join NVIDIA DRIVE Sim Sensor Ecosystem, Providing Rich Capabilities for AV Development</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Thu, 22 Sep 2022 12:41:01 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                22
             ],
             "email_sent": true
         }
@@ -4062,6 +4095,28 @@
             "url": "https://towardsai.net/p/l/power-limitations-and-use-cases-of-gpt-3-from-my-tests-and-prototype-apps-you-can-replicate-right",
             "description": "Last Updated on September 21, 2022 by Editorial Team Author(s): LucianoSphere Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Exemplified with smart chatbots that can even listen and talk naturally command programs, or help students as full-time online tutors. And&#x2026; Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
             "pubdate": "Thu, 22 Sep 2022 00:08:10 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                22
+            ],
+            "email_sent": true
+        },
+        "PySpark For Beginners": {
+            "url": "https://towardsai.net/p/l/pyspark-for-beginners",
+            "description": "Last Updated on September 22, 2022 by Editorial Team Author(s): Muttineni Sai Rohith Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. PySpark is a Python API for Apache Spark. Using PySpark, we can run applications parallelly on the distributed cluster (multiple nodes). Source: Databricks So we will start the theory part first as to why we need the Pyspark and the background of Apache Spark, features and cluster manager types, and Pyspark modules and packages. Apache Spark is an analytical processing engine for large-scale, powerful distributed data processing and machine learning applications. Generally, Spark is written in Scala, but for industrial adaption, Python API\u200a\u2014\u200aPySpark is released to use spark with Python. In real-time, PySpark is used a lot in the machine learning &#38; Data scientists community; Spark runs operations on billions and trillions of data on distributed clusters 100 times faster than the traditional python applications. Pyspark Features and Advantages Pyspark Architecture Apache Spark works in a master-slave architecture where the master is called \u201cDriver\u201d and slaves are called \u201cWorkers\u201d. Spark Driver creates a spark context that serves as an entry point to the application, and all operations run on the worker nodes, and resources are managed by the cluster\u00a0manager. Source: Spark.Apache.org Cluster Manager\u00a0Types The system currently supports several cluster managers besides, we can also run spark locally on our desktop/system: Standalone\u200a\u2014\u200aa simple cluster manager included with Spark that makes it easy to set up a\u00a0cluster. Apache Mesos\u200a\u2014\u200aa general cluster manager that can also run Hadoop MapReduce and service applications. (Deprecated) Hadoop YARN\u200a\u2014\u200athe resource manager in Hadoop 2 and 3. Mostly used cluster\u00a0Manager Kubernetes\u200a\u2014\u200aan open-source system for automating deployment, scaling, and management of containerized applications. Pyspark conf, Pyspark context, and Pyspark\u00a0session: Pyspark conf: The SparkConf offers configuration for any Spark application. To start any Spark application on a local Cluster or a dataset, we need to set some configuration and parameters, and it can be done using SparkConf. Features of Pyspark\u00a0conf: set(key, value)\u200a\u2014\u200aSet a configuration property. setMaster(value)\u200a\u2014\u200aSet master URL to connect\u00a0to. setAppName(value)\u200a\u2014\u200aSet application name. get(key,defaultValue=None)\u200a\u2014\u200aGet the configured value for some key, or return a default otherwise. setSparkHome(value)\u200a\u2014\u200aSet path where Spark is installed on worker\u00a0nodes. Pyspark context: SparkContext is the entry point to any spark functionality. When we run any Spark application, a driver program starts, which has the main function and your SparkContext gets initiated here. The driver program then runs the operations inside the executors on worker\u00a0nodes. The Spark driver program creates and uses SparkContext to connect to the cluster manager to submit PySpark jobs and know what resource manager to communicate to. It is the heart of the PySpark application. We can create only one SparkContext per JVM. In order to create another first, you need to stop the existing one by using stop() method. SparkContext is available in default as \u2018sc\u2019. So creating the other variable instead of sc will give an\u00a0error. Pyspark session: Since Spark 2.0 SparkSession has become an entry point to PySpark to work with RDD, and DataFrame. Prior to 2.0, SparkContext used to be an entry point. SparkSession is a combined class for all different contexts we used to have prior to 2.0 release (SQLContext and HiveContext e.t.c). Since 2.0 SparkSession can be used in replace with SQLContext, HiveContext, and other contexts defined prior to\u00a02.0. Though SparkContext used to be an entry point prior to 2.0, It is not completely replaced with SparkSession; many features of SparkContext are still available and used in Spark 2.0 and later. SparkSession internally creates SparkConfig and SparkContext with the configuration provided with\u00a0it. We can create as many SparkSession as you want in a PySpark application using either SparkSession.builder() or SparkSession.newSession(). Many Spark session objects are required when you want to keep PySpark tables (relational entities) logically separated. Creating a SparkSession from pyspark.sql import SparkSession spark = SparkSession.builder.appName(\"Practice\").getOrCreate() spark Pyspark Modules and\u00a0Packages Pyspark Modules and\u00a0Packages PySpark RDD\u200a\u2014\u200aResilient Distributed Dataset: \u201cResilient Distributed Datasets (RDD) is a distributed memory abstraction that helps a programmer to perform in-memory computations on a large cluster.\u201d One of the important advantages of RDD is fault tolerance, which means if any failure occurs it recovers automatically. RDD becomes immutable when it is created i.e., it cannot be changed once it is\u00a0created. RDD divides data into smaller parts based on a key. The benefit of dividing data into smaller chunks is that if one executor node fails, another node will still process the data. So it is able to recover quickly from any issues as the same data chunks are replicated across multiple executor nodes. RDD provides the functionality to perform functional calculations against the dataset very quickly by binding the multiple\u00a0nodes. Pyspark For Beginners&#124; Part-4: Pyspark RDD Pyspark DataFrame: DataFrame is a distributed collection of data organized into named columns. It is conceptually equivalent to a table in a relational database or a data frame in R/Python, but with richer optimizations under the hood. DataFrames can be constructed from a wide array of sources such as structured data files, tables in Hive, external databases, or existing\u00a0RDDs. Due to parallel execution on all cores on multiple machines, PySpark runs operations faster than pandas. In other words, pandas DataFrames run operations on a single node, whereas PySpark runs on multiple machines. Pyspark For Begineers&#124; Part-2: Pyspark DataFrame Pyspark SQL: PySpark SQL is a module in Spark which integrates relational processing with Spark\u2019s functional programming API. We can extract the data by using an SQL query language. We can use the queries same as the SQL language. In other words, Spark SQL brings native RAW SQL queries on Spark, meaning you can run traditional ANSI SQL\u2019s on Spark Dataframe, in the above section of this PySpark tutorial, you will learn in detail about using SQL select, where, group by, join, union\u00a0e.t.c PySpark [&#8230;]",
+            "pubdate": "Thu, 22 Sep 2022 13:33:19 +0000",
+            "pubdate_parsed": [
+                2022,
+                9,
+                22
+            ],
+            "email_sent": true
+        },
+        "This Is How You Can Build a Churn Prediction Model Using Spark": {
+            "url": "https://towardsai.net/p/l/this-is-how-you-can-build-a-churn-prediction-model-using-spark",
+            "description": "Last Updated on September 22, 2022 by Editorial Team Author(s): Paul Iusztin Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. An end-to-end tutorial on how to build a churn prediction pipeline using only Spark. Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Thu, 22 Sep 2022 12:13:31 +0000",
             "pubdate_parsed": [
                 2022,
                 9,
