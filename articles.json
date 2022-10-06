@@ -4510,6 +4510,17 @@
                 8
             ],
             "email_sent": true
+        },
+        "OpenAI's Most Recent Model: Whisper (explained)": {
+            "url": "https://www.louisbouchard.ai/whisper/",
+            "description": "A good transcription tool that would accurately understand what you say and write it\u00a0down",
+            "pubdate": "Thu, 06 Oct 2022 01:25:29 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
