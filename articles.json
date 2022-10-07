@@ -450,6 +450,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "How undesired goals can arise with correct rewards": {
+            "url": "https://www.deepmind.com/blog/how-undesired-goals-can-arise-with-correct-rewards",
+            "description": "As we build increasingly advanced artificial intelligence (AI) systems, we want to make sure they don\u2019t pursue undesired goals. Such behaviour in an AI agent is often the result of specification gaming \u2013 exploiting a poor choice of what they are rewarded for. In our latest paper, we explore a more subtle mechanism by which AI systems may unintentionally learn to pursue undesired goals: goal misgeneralisation (GMG).\u00a0GMG occurs when a system's capabilities generalise successfully but its goal does not generalise as desired, so the system competently pursues the wrong goal. Crucially, in contrast to specification gaming, GMG can occur even when the AI system is trained with a correct specification.",
+            "pubdate": "Fri, 07 Oct 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                7
+            ],
+            "email_sent": true
         }
     },
     "Nvidia Blog": {
@@ -3277,6 +3288,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "TRIPP explores the potential of VRpowered meditation": {
+            "url": "https://www.amazon.science/latest-news/tripp-explores-the-potential-of-virtual-reality-powered-meditation",
+            "description": "Alexa Fund portfolio company\u2019s science-led program could change how we approach mental wellness \u2014 and how we use VR.",
+            "pubdate": "Fri, 07 Oct 2022 13:57:11 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                7
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -4330,6 +4352,17 @@
                 2022,
                 10,
                 5
+            ],
+            "email_sent": true
+        },
+        "ROC and AUC for Model Evaluation": {
+            "url": "https://towardsai.net/p/l/roc-and-auc-for-model-evaluation",
+            "description": "Last Updated on October 7, 2022 by Editorial Team Author(s): Saurabh Saxena Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Model Evaluation Image by\u00a0Author ROC or Receiver Operating Characteristic Curve is the most frequently used tool for evaluating the binary or multi-class classification model. Unlike other metrics, it is calculated on prediction scores like Precision-Recall Curve instead of prediction class. In my previous post, the importance of the precision-recall curve is highlighted as how to plot for multi-class classification. To understand ROC Curve, let\u2019s quickly refresh our memory on the possible outcomes in a binary classification problem by referring to the Confusion Matrix. Confusion Matrix &#124; Image by\u00a0Author ROC Curve is a plot of True Positive Rate(TPR) plotted against False Positive Rate(FPR) at various threshold values. It helps to visualize how threshold affects classifier performance. True Positive Rate (TPR) is referred to the proportion of examples of a particular class that has been predicted by the model as belonging to that class. It is also referred to as Recall or Sensitivity. Image by\u00a0Author where TP and FN are True Positive and False Negative, respectively. False Positive Rate (FPR): It is the probability of a person testing positive who does not have a disease. It is also referred to as the fall-out\u00a0rate. Image by\u00a0Author where FP is the number of False Positives and TN is the number of True Negatives. Image by\u00a0Author ROC Curve can also be defined as a Sensitivity vs. 1-Specificity plot. ROC Curve &#124; Image by\u00a0Author Let\u2019s have a look at ROC Curve for binary classification. from sklearn.datasets import make_classificationfrom sklearn.model_selection import train_test_splitfrom sklearn.linear_model import LogisticRegressionfrom sklearn.metrics import roc_curvefrom sklearn.metrics import RocCurveDisplayX, y = make_classification(n_samples=500, n_classes=2, random_state=1)X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2, random_state=2)lr = LogisticRegression()lr.fit(X_train, y_train)y_pred = lr.predict(X_test)y_pred_prob = lr.predict_proba(X_test)y_pred_prob = y_pred_prob[:,1]fpr, tpr, threshold = roc_curve(y_test, y_pred_prob)plt = RocCurveDisplay(fpr=fpr, tpr=tpr)plt.plot() ROC Curve &#124; Image by\u00a0Author AUC Score AUC Stands for \u2018Area under the curve,\u2019 and it is calculated by the trapezoidal rule of area calculation under any plot. It summarizes the ROC Curve into a single metric for binary classification and each class in a multi-class model. However, to summarize the multi-class into single metric micro, macro, and weighted AUC can be\u00a0used. Higher the AUC, the better the classifier. Its value fluctuated between 0(worst model) and 1(ideal\u00a0model). ROC AUC &#124; Image by\u00a0Author from sklearn.metrics import roc_auc_scoreauc = roc_auc_score(y_test, y_pred_prob)print(auc) Output:0.9727017262143718 Let\u2019s have a look at how to plot ROC Curve and calculate AUC Score on a random classification dataset using the sklearn\u00a0library. plt = RocCurveDisplay(fpr=fpr, tpr=tpr, roc_auc=auc)plt.plot() ROC Curve with AUC &#124; Image by\u00a0Author Why ROC\u00a0Curve? ROC is calculated on a precision score, while many metrics like accuracy and precision look at the prediction class. It is a trade-off between Sensitivity(TPR) and 1-Specificity(FPR), allowing one to choose a threshold that keeps a balance between TPR and FPR, which suits the particular problem. Plotting ROC Curve is a cakewalk for binary problems. However, it daunts professionals to calculate multi-class classification. Below is the method to plot ROC and AUC for multi-class. Below is the python code to create and plot ROC and AUC for multi-class classification problems. https://medium.com/media/90775345066e0ada14362f17b686d5c4/href from sklearn.datasets import make_classificationfrom sklearn.preprocessing import label_binarizefrom sklearn.model_selection import train_test_splitfrom sklearn.linear_model import LogisticRegressionfrom sklearn.multiclass import OneVsRestClassifier # Load DatasetX, y = make_classification(n_samples=500, n_classes=3, random_state=1, n_informative=3)y = label_binarize(y, classes=[0,1,2])X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.5, random_state=1)lr = LogisticRegression()ovr = OneVsRestClassifier(lr)ovr.fit(X_train, y_train)y_pred = ovr.predict(X_test)y_pred_prob = ovr.predict_proba(X_test)fpr, tpr, threshold, auc, labels = roc_auc_curve(y_test, y_pred_prob, labels=[0,1,2])roc_auc_curve_plot(fpr, tpr, threshold, auc, labels) ROC Curve for multi-class &#124; Image by\u00a0Author References: [1] ROC Curve. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html [2] AUC. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.auc.html [3] Precision-Recall Curve. https://pub.towardsai.net/precision-recall-curve-26f9e7984add ROC and AUC for Model Evaluation was originally published in Towards AI on Medium, where people are continuing the conversation by highlighting and responding to this story. Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 07 Oct 2022 12:13:26 +0000",
+            "pubdate_parsed": [
+                2022,
+                10,
+                7
             ],
             "email_sent": true
         }
