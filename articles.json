@@ -461,6 +461,17 @@
                 7
             ],
             "email_sent": true
+        },
+        "Measuring perception in AI models": {
+            "url": "https://www.deepmind.com/blog/measuring-perception-in-ai-models",
+            "description": "Perception \u2013 the process of experiencing the world through senses \u2013 is a significant part of intelligence. And building agents with human-level perceptual understanding of the world is a central but challenging task, which is becoming increasingly important in robotics, self-driving cars, personal assistants, medical imaging, and more. So today, we\u2019re introducing the Perception Test, a multimodal benchmark using real-world videos to help evaluate the perception capabilities of a model.",
+            "pubdate": "Wed, 12 Oct 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                12
+            ],
+            "email_sent": true
         }
     },
     "Nvidia Blog": {
@@ -824,6 +835,17 @@
                 2022,
                 10,
                 6
+            ],
+            "email_sent": true
+        },
+        "GeForce RTX 4090 GPU Arrives, Enabling New World-Building Possibilities for 3D Artists This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2022/10/12/in-the-nvidia-studio-october-12/",
+            "description": "<p>This week 'In the NVIDIA Studio' creators can now pick up the GeForce RTX 4090 GPU, available from top add-in card providers including ASUS, Colorful, Gainward, Galaxy, GIGABYTE, INNO3D, MSI, Palit, PNY and ZOTAC, as well as from system integrators and builders worldwide. </p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/10/12/in-the-nvidia-studio-october-12/\" rel=\"nofollow\">GeForce RTX 4090 GPU Arrives, Enabling New World-Building Possibilities for 3D Artists This Week \u2018In the NVIDIA Studio\u2019</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Wed, 12 Oct 2022 13:00:24 +0000",
+            "pubdate_parsed": [
+                2022,
+                10,
+                12
             ],
             "email_sent": true
         }
