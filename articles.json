@@ -3332,6 +3332,17 @@
                 7
             ],
             "email_sent": true
+        },
+        "Maximizing the efficiency of Amazon's own delivery networks": {
+            "url": "https://www.amazon.science/blog/maximizing-the-efficiency-of-amazons-own-delivery-networks",
+            "description": "INFORMS talk explores techniques Amazon\u2019s Supply Chain Optimization Technologies organization is testing to fulfill customer orders more efficiently.",
+            "pubdate": "Fri, 14 Oct 2022 13:44:31 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                14
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -4480,6 +4491,17 @@
             "url": "https://towardsai.net/p/l/expand-your-skills-with-open-source-graph-database-nebulagraph",
             "description": "Last Updated on October 13, 2022 by Editorial Team Author(s): Cornellius Yudha Wijaya Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Learn widely used Graph Database for your skillset Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
             "pubdate": "Fri, 14 Oct 2022 00:13:14 +0000",
+            "pubdate_parsed": [
+                2022,
+                10,
+                14
+            ],
+            "email_sent": true
+        },
+        "Why would a Traditional Data Scientist Learn ANN Technology?": {
+            "url": "https://towardsai.net/p/l/why-would-a-traditional-data-scientist-learn-ann-technology",
+            "description": "Last Updated on October 14, 2022 by Editorial Team Author(s): Poornachandra Sarang Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Bringing out the importance of ANN over GOFAI Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 14 Oct 2022 13:08:13 +0000",
             "pubdate_parsed": [
                 2022,
                 10,
@@ -6349,6 +6371,17 @@
                 2022,
                 10,
                 2
+            ],
+            "email_sent": true
+        },
+        "Getting started with Hugging Face Inference Endpoints": {
+            "url": "https://huggingface.co/blog/inference-endpoints",
+            "description": null,
+            "pubdate": "Fri, 14 Oct 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                14
             ],
             "email_sent": true
         }
