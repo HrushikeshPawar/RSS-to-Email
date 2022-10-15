@@ -859,6 +859,17 @@
                 13
             ],
             "email_sent": true
+        },
+        "AI Supercomputer to Power $200 Million Oregon State University Innovation Complex": {
+            "url": "https://blogs.nvidia.com/blog/2022/10/14/ai-supercomputer-oregon-state/",
+            "description": "<p>As a civil engineer, Scott Ashford used explosives to make the ground under Japan\u2019s Sendai airport safer in an earthquake. Now, as the dean of the engineering college at Oregon State University, he\u2019s at ground zero of another seismic event. In its biggest fundraising celebration in nearly a decade, Oregon State announced plans today for <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2022/10/14/ai-supercomputer-oregon-state/\">Read article &#62;</a></p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/10/14/ai-supercomputer-oregon-state/\" rel=\"nofollow\">AI Supercomputer to Power $200 Million Oregon State University Innovation Complex</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Sat, 15 Oct 2022 04:30:04 +0000",
+            "pubdate_parsed": [
+                2022,
+                10,
+                15
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -4508,6 +4519,17 @@
                 14
             ],
             "email_sent": true
+        },
+        "Googles Audiolm: Generating Music by Hearing a Songs Snippet": {
+            "url": "https://towardsai.net/p/l/googles-audiolm-generating-music-by-hearing-a-songs-snippet",
+            "description": "Last Updated on October 14, 2022 by Editorial Team Author(s): Salvatore Raieli Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Whether music or speech, Google&#039;s new model can continue playing what is\u00a0hearing. image by Marius Masalar at unsplash.com AudioLM is Google\u2019s new model, capable of generating music in the same style as the prompt. The model is also capable of generating complex sounds such as piano music or people talking. the result is stunning. In fact, it seems to be indistinguishable from the original. Why is generating music difficult? image by Dolo Iglesias at unsplash.com Generating music is not an easy task. In fact, generating audio signals (music, ambient sounds, people&#039;s speech) requires multiple scales of abstraction. For example, music has a structure that has to be analyzed over a long period of time and is also composed of numerous interacting signals. Even personal speech itself can be analyzed at different levels, be it the simple acoustic signal or phonetics, but also in terms of prosody, syntax, grammar, or semantics. Several attempts have been made previously. The first attempts to generate music focused on generating MIDI files (an interesting project where they generated MIDI music for piano was created in 2018 using a transformer). In addition, some studies focused on tasks such as text-to-speech, where speech is generated from a transcript. The problem is that everything that is not in the transcript is not translated into the audio file. Several studies explain how in human communication, pauses and inflections, and other signals are extremely important. For example, those using Alexa or other speakers have noticed that the voice does not sound natural. Especially in the early days, no matter how correct the pronunciation was, it sounded unnatural and gave an uncanny\u00a0effect. AudioLM, the new Google\u00a0model image by Priscilla Du Preez at unsplash.com A few days ago, Google announced the release of a new model: \u201cAudioLM: a Language Modeling Approach to Audio Generation\u201d. The new model is capable of generating audio (such as realistic music and speech) just by listening to\u00a0audio. Google AI on Twitter: \"Learn about AudioLM, an audio generation framework that demonstrates long-term consistency (e.g., syntax in speech &#38; melody in music) and high fidelity, with applications for speech synthesis and computer-assisted music. \u2193 https://t.co/onTH6HdCcX / Twitter\" Learn about AudioLM, an audio generation framework that demonstrates long-term consistency (e.g., syntax in speech &#38; melody in music) and high fidelity, with applications for speech synthesis and computer-assisted music. \u2193 https://t.co/onTH6HdCcX As they blogged, there has been a great improvement in the field of Natural Language Processing (NLP) in recent years. In fact, language models have proven to be extremely effective in a number of tasks. Many of these systems are based on the use of transformers, and those who have used them know that one of the initial pre-processing steps is to tokenize (break up the text into smaller units that are assigned a numerical value). The key intuition behind AudioLM is to leverage such advances in language modeling to generate audio without being trained on annotated data.\u200a\u2014\u200aGoogle AI\u00a0blogpost AudioLM does not need transcription or labeling. The authors collected a database of sounds and fed it directly to the model. The model compresses the sound files into a series of snippets (sort of tokens). These tokens are then used as if they were an NLP model (the model, in this way, uses the same approach to learn patterns and relationships between the various audio snippets). In the same way as a text-generating model, AudioLM generates sounds from a\u00a0prompt. The result is very interesting, the sound is much more natural. AudioLM seems to be able to find and recreate certain patterns present in human music (like subtle vibrations contained in each note when piano keys are struck). In the link below, Google has provided a number of examples if you are curious to\u00a0listen: AudioLM AudioLM has been trained on a vast library of sounds that include not only music but also human voices. For this reason, the model can generate sentences produced by a human being. The model is able to pick up the accent of the speaker and add pauses and exclamations. Although many of the sentences generated by the model do not make sense, the result is impressive. Indeed, treating sequences of sounds as if they were sequences of words may seem like a clever approach, nonetheless, some difficulties remain: First, one must cope with the fact that the data rate for audio is significantly higher, thus leading to much longer sequences\u200a\u2014\u200awhile a written sentence can be represented by a few dozen characters, its audio waveform typically contains hundreds of thousands of values. Second, there is a one-to-many relationship between text and audio. This means that the same sentence can be rendered by different speakers with different speaking styles, emotional content and recording conditions.\u200a\u2014\u200aGoogle AI\u00a0blogpost In more detail, the audio tokenization approach was already tried by OpenAI Jukebox, only that the model generated many more artifacts, and the sound did not sound as\u00a0natural. Overview of the tokenizers used in AudioLM. image from the original paper\u00a0(here) As described by the authors, the model consists of three\u00a0parts: a tokenizer model, which maps a sequence of sounds into a discrete sequence of tokens. This step also reduces the size of the sequence (the sampling rate is reduced by about 300\u00a0times). a decoder-only transformer (a classical language model) that maximizes the likelihood of predicting the next tokens in the sequence. The model contains 12 layers with 16 attention heads, an embedding dimension of 1024, a feed-forward layer dimension of\u00a04096 a detokenizer model that transforms predicted tokens into audio\u00a0tokens. The model was trained on 60,000 hours of English speech and 40,000 hours of music for the piano experiments. [&#8230;]",
+            "pubdate": "Sat, 15 Oct 2022 00:08:46 +0000",
+            "pubdate_parsed": [
+                2022,
+                10,
+                15
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -4717,6 +4739,17 @@
                 2022,
                 10,
                 6
+            ],
+            "email_sent": true
+        },
+        "3D Models from Text! DreamFusion Explained": {
+            "url": "https://www.louisbouchard.ai/dreamfusion/",
+            "description": "How AI generates 3d models from only text!",
+            "pubdate": "Sat, 15 Oct 2022 01:08:42 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                15
             ],
             "email_sent": true
         }
