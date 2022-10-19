@@ -5652,6 +5652,17 @@
                 29
             ],
             "email_sent": true
+        },
+        "Transcribe audio or video files right from your terminal": {
+            "url": "https://www.assemblyai.com/blog/transcribe-audio-or-video-files-right-from-your-terminal/",
+            "description": "We built the AssemblyAI CLI to help developers quickly test our latest models, right from your terminal, with minimal installation required.",
+            "pubdate": "Wed, 19 Oct 2022 13:43:36 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                19
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
