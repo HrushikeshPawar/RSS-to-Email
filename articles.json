@@ -3409,6 +3409,17 @@
                 18
             ],
             "email_sent": true
+        },
+        "The quest to deploy autonomous robots within Amazon fulfillment centers": {
+            "url": "https://www.amazon.science/latest-news/the-quest-to-deploy-autonomous-robots-within-amazon-fulfillment-centers",
+            "description": "Company is testing a new class of robots that use artificial intelligence and computer vision to move freely throughout facilities.",
+            "pubdate": "Mon, 24 Oct 2022 13:51:48 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                24
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -4748,6 +4759,17 @@
                 2022,
                 10,
                 23
+            ],
+            "email_sent": true
+        },
+        "Top 5 Machine Learning Industries in 2022": {
+            "url": "https://towardsai.net/p/l/top-5-machine-learning-industries-in-2022",
+            "description": "Last Updated on October 24, 2022 by Editorial Team Author(s): Mostafa Ibrahim Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Machine learning is rapidly expanding into a lot of industries and sectors! Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 24 Oct 2022 12:08:59 +0000",
+            "pubdate_parsed": [
+                2022,
+                10,
+                24
             ],
             "email_sent": true
         }
