@@ -3453,6 +3453,17 @@
                 25
             ],
             "email_sent": true
+        },
+        "Amazon SCOT announces 2022 INFORMS Scholars": {
+            "url": "https://www.amazon.science/latest-news/amazon-scot-announces-2022-informs-scholars",
+            "description": "Program was established to help expand the pipeline of operations research, management science, and analytics talent from underrepresented backgrounds.",
+            "pubdate": "Fri, 28 Oct 2022 13:32:13 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                28
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
