@@ -925,6 +925,28 @@
                 27
             ],
             "email_sent": true
+        },
+        "GeForce RTX 40 Series Receives Massive Creator App Benefits This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2022/10/31/in-the-nvidia-studio-october-31/",
+            "description": "<p>Artists deploying the critically acclaimed GeForce RTX 4090 GPUs are primed to receive significant performance boosts in key creative apps. Plus, a special spook-tober edition of In the NVIDIA Studio features two talented 3D artists and their Halloween-themed creations this week.</p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/10/31/in-the-nvidia-studio-october-31/\" rel=\"nofollow\">GeForce RTX 40 Series Receives Massive Creator App Benefits This Week \u2018In the NVIDIA Studio\u2019</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Mon, 31 Oct 2022 13:00:03 +0000",
+            "pubdate_parsed": [
+                2022,
+                10,
+                31
+            ],
+            "email_sent": true
+        },
+        "Think Fast: Lotus Eletre Tops Charts in Driving and AI Compute Speeds, Powered by NVIDIA DRIVE Orin": {
+            "url": "https://blogs.nvidia.com/blog/2022/10/31/lotus-eletre-ai-drive-orin/",
+            "description": "<p>One of the biggest names in racing is going even bigger. Performance automaker Lotus launched its first SUV, the Eletre, earlier this week. The fully electric vehicle sacrifices little in terms of speed and outperforms when it comes to technology. It features an immersive digital cockpit, lengthy battery range of up to 370 miles and <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2022/10/31/lotus-eletre-ai-drive-orin/\">Read article &#62;</a></p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/10/31/lotus-eletre-ai-drive-orin/\" rel=\"nofollow\">Think Fast: Lotus Eletre Tops Charts in Driving and AI Compute Speeds, Powered by NVIDIA DRIVE Orin</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Mon, 31 Oct 2022 12:38:05 +0000",
+            "pubdate_parsed": [
+                2022,
+                10,
+                31
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -3464,6 +3486,17 @@
                 28
             ],
             "email_sent": true
+        },
+        "David Schusters quest to make practical quantum computers a reality": {
+            "url": "https://www.amazon.science/working-at-amazon/david-schusters-quest-to-make-practical-quantum-computers-a-reality",
+            "description": "With quantum computers poised to take a big step forward, we speak to an Amazon Scholar who has spent two decades driving the technology to realize its enormous potential.",
+            "pubdate": "Mon, 31 Oct 2022 14:00:17 GMT",
+            "pubdate_parsed": [
+                2022,
+                10,
+                31
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -4847,6 +4880,17 @@
                 2022,
                 10,
                 27
+            ],
+            "email_sent": true
+        },
+        "Non Max Suppression (NMS) in PyTorch": {
+            "url": "https://towardsai.net/p/l/non-max-suppression-nms-in-pytorch",
+            "description": "Last Updated on October 31, 2022 by Editorial Team Author(s): Francesco Zuppichini Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Implementing non max suppression in PyTorch Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 31 Oct 2022 12:28:39 +0000",
+            "pubdate_parsed": [
+                2022,
+                10,
+                31
             ],
             "email_sent": true
         }
