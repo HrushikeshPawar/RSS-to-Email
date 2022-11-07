@@ -6015,6 +6015,17 @@
                 19
             ],
             "email_sent": true
+        },
+        "AI for product managers: Todays top terms to stay in the know": {
+            "url": "https://www.assemblyai.com/blog/ai-for-product-managers-todays-top-terms-to-stay-in-the-know/",
+            "description": "Gaining a basic understanding of newer AI terminology is critical for any field, including product management. This guide will serve as an entry point into the current key AI terminology to know now.",
+            "pubdate": "Mon, 07 Nov 2022 06:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                7
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
