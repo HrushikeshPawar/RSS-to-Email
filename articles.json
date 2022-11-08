@@ -6967,6 +6967,18 @@
                 2
             ],
             "email_sent": true
+        },
+        "Introducing our new pricing": {
+            "url": "https://huggingface.co/blog/pricing-update",
+            "description": null,
+            "pubdate": "Tue, 08 Nov 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                8
+            ],
+            "email_sent": true
         }
-    }
+    },
+    "Sorta Insightful": {}
 }
