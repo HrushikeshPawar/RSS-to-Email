@@ -3541,6 +3541,17 @@
                 4
             ],
             "email_sent": true
+        },
+        "Honors and awards presented to Amazon researchers": {
+            "url": "https://www.amazon.science/latest-news/honors-and-awards-presented-to-amazon-researchers-november-2022",
+            "description": "Omar Javed, Steven Flammia, Michael I. Jordan, and Daniela Witten recently recognized for their contributions to science.",
+            "pubdate": "Mon, 14 Nov 2022 13:30:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                14
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -5034,6 +5045,28 @@
                 2022,
                 11,
                 11
+            ],
+            "email_sent": true
+        },
+        "AnimeGAN effect with Python": {
+            "url": "https://towardsai.net/p/l/animegan-effect-with-python",
+            "description": "Last Updated on November 14, 2022 by Editorial Team Author(s): Rokas Balsys Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. I&#x2019;ll show you how you can easily apply the AnimeGAN effect on your media to get beautiful animated pictures, videos, or real-time camera Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 14 Nov 2022 12:48:15 +0000",
+            "pubdate_parsed": [
+                2022,
+                11,
+                14
+            ],
+            "email_sent": true
+        },
+        "Top 5 Upcoming Programming Languages for Web Development": {
+            "url": "https://towardsai.net/p/l/top-5-upcoming-programming-languages-for-web-development",
+            "description": "Last Updated on November 14, 2022 by Editorial Team Author(s): Amit Chauhan Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Programming languages for front-end, backend, and full-stack development Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 14 Nov 2022 12:38:58 +0000",
+            "pubdate_parsed": [
+                2022,
+                11,
+                14
             ],
             "email_sent": true
         }
