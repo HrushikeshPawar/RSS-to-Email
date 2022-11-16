@@ -3552,6 +3552,17 @@
                 14
             ],
             "email_sent": true
+        },
+        "How Amazon integrated Alexa into NASAs Orion spacecraft": {
+            "url": "https://www.amazon.science/latest-news/the-science-behind-alexa-on-artemis-and-orion-spacecraft-nasa",
+            "description": "From physical constraints to acoustic challenges, learn how Amazon collaborated with NASA and Lockheed Martin to get Alexa to work in space.",
+            "pubdate": "Wed, 16 Nov 2022 10:50:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                16
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -5069,6 +5080,28 @@
                 14
             ],
             "email_sent": true
+        },
+        "From VGGNet to EfficientNet: Key Milestones in the Evolution of CNN Design": {
+            "url": "https://towardsai.net/p/l/from-vggnet-to-efficientnet-key-milestones-in-the-evolution-of-cnn-design",
+            "description": "Last Updated on November 16, 2022 by Editorial Team Author(s): Houssem Ben Braiek Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Modular, Multipath, Factorized, Compressed, Scalable&#x2026; All in CNN Nowadays, but What Led us Here&#x2026;We&#x2019;ll take you through the major&#x2026; Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Wed, 16 Nov 2022 12:43:43 +0000",
+            "pubdate_parsed": [
+                2022,
+                11,
+                16
+            ],
+            "email_sent": true
+        },
+        "A Step-by-Step Approach To Building a Text Summarization Webapp in Python From Scratch": {
+            "url": "https://towardsai.net/p/l/a-step-by-step-approach-to-building-a-text-summarization-webapp-in-python-from-scratch",
+            "description": "Last Updated on November 16, 2022 by Editorial Team Author(s): Dr. Dharini R Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Using Hugging Face Inference API, Flask, HTML &#38;\u00a0CSS Photo by Patrick Tomasso on\u00a0Unsplash What is the aim? To build a web application that can get an input text and show its\u00a0summary. What are we going to use? Hugging Face Accelerated Inference API, Python Flask Framework, HTML,\u00a0CSS. How is it done? By carrying out the following steps. The 3-Step\u00a0process 1. Identify the inference API of a text summarization model from the Hugging Face\u00a0library. 2. Build the front end with HTML and\u00a0CSS. 3. Build the back end with Python Flask and include the summarization task. Text summarization is the task of extracting a brief from a given set of sentences. A summary can be of two types\u200a\u2014\u200aan abstractive summary or an extractive summary. An extractive summary has words extracted from the given input, placing them together to form a brief. The abstractive summary generates the summary not only by replicating the words in the input, but also coining new words based on the understanding of the\u00a0text. We are going to build an abstractive summarization application using the Hugging Face Accelerated Inference API. To utilize a model by providing input to it and to get the model\u2019s output, we just have to make an API\u00a0call. The accelerated inference enables the \u2018plug-and-play\u2019 kind of usage to the machine learning models by means of API\u00a0calls. Kindly refer to the following blog link to understand the working of Inference API and its benefits with an implementation demo. Plug-and-Play ML Models with \u2018Accelerated Inference API\u2019 from Hugging Face The web application part of our project can easily be built with the Flask framework. The Flask helps with the development of a web application and renders an HTML file, which can be viewed in a web\u00a0browser. Welcome to Flask &#8211; Flask Documentation (2.2.x) The front end of our web application is built with HTML and CSS. The Hyper Text Markup Language (HTML) and Cascading Style Sheets (CSS) are used to design the structure of a webpage and presentation of a webpage, respectively. Having looked at the gist of everything we are going to use, let&#039;s have an idea of what we will build. Our web app is going to\u00a0have a front end\u200a\u2014\u200aa web page that gets the user input text and shows the summary as\u00a0output. a back end\u200a\u2014\u200awhere the user input is fed to the model, and the results are extracted from the\u00a0model. Now kindly make sure to go through the 3 step process of building our summarization application. 1. Identify and utilize a text summarization model from Hugging\u00a0Face For our project, we will be using the model facebook/bart-large-cnn provided by Lewis et al. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension] To use the model\u2019s Inference API, select the model from the Hugging Face library and then clickInference APIunder the Deploy\u00a0button. On clicking that, we will see a python script that can be utilized for the inference, as shown\u00a0below. Selecting the Inference API from Hugging\u00a0Face An Access Token is needed to get the API_URL and\u00a0headers. Create a profile in Hugging Face and create a new access token by following this path Profile -&#62; Settings -&#62; Access Tokens\u00a0Tab. The newly created access token can be used in place of Bearer and\u00a0headers Now let&#039;s move to the next part of our project to create a web application. 2. Build the front end with HTML and\u00a0CSS. The code for the front end is written in two parts \u200a\u2014\u200aA static file\u200a\u2014\u200aA HTML\u00a0file The static file consists of customizations to improvise the look of our front end. As the name suggests, the contents of a static file are not going to be changed according to the user\u2019s input or actions. A static file can include anything such as images, videos, cascading style sheets(CSS), flash files, etc., and these are not dynamically generated by the web server like a typical HTML response because they remain\u00a0static. In the desired location, create two folders named staticand templates In the static folder, create a new file named main.css, where CSS is the cascading style sheet that is used to style the\u00a0HTML. main.css consists of tags present in the HTML code with their corresponding styling and formatting. For a more detailed tutorial on how CSS is used, please refer to this\u00a0link. The code for the static file main.css is given below, followed by an explanation. https://medium.com/media/9085edd775ba2e82870a4b711d3e6523/href As we can see, the above CSS file consists of appearance-based formatting and customization for most of the tags used in our HTML\u00a0code. Code Explanation Lines 2 to 9\u200a\u2014\u200aconsist of styling and formatting aimed at the tag\u00a0header. Lines 11 to 25\u200a\u2014\u200aconsist of formatting for tag\u00a0h1. Lines 28 to 34\u200a\u2014\u200ahave the styling for body tag, along with a background image named image.gif Lines 35 to 39\u200a\u2014\u200aformatting for container Lines 41 to 47\u200a\u2014\u200astyling for div tag, which specifies the division of some\u00a0content Lines 49 to 64\u200a\u2014\u200aformatting for tags h2 and\u00a0h3 Lines 68 to 77\u200a\u2014\u200aconsist of formatting aimed at placing two text boxes side by side with the help of tags parent and child. Let&#039;s move on to creating the front end with our HTML\u00a0code. The HTML is built with the objective of providing a structured pleasant user interface, a space for users to provide input and a space for showing the\u00a0summary. In the already created folder named templates, create a new file named index.html. The code for index.html is given below, followed by the explanation. https://medium.com/media/259955078d0a4fa19f39d7196e7b124b/href Code Explanation Lines 4 to 11\u2014 Header of the\u00a0HTML Line 9\u200a\u2014\u200aWe have added the source of the static file (main.css). Line 10\u200a\u2014\u200aWe have given a title for our webpage named Summarization Application. Lines 13 to 42\u200a\u2014\u200aBody of [&#8230;]",
+            "pubdate": "Wed, 16 Nov 2022 12:05:08 +0000",
+            "pubdate_parsed": [
+                2022,
+                11,
+                16
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -6123,6 +6156,17 @@
                 2022,
                 11,
                 7
+            ],
+            "email_sent": true
+        },
+        "AI research review - Merging Models Modulo Permutation Symmetries": {
+            "url": "https://www.assemblyai.com/blog/ai-research-review-merging-models-modulo-permutation-symmetries/",
+            "description": "This week\u2019s AI Research Review is Git Re-Basin: Merging Models Modulo Permutation Symmetries.",
+            "pubdate": "Wed, 16 Nov 2022 06:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                16
             ],
             "email_sent": true
         }
