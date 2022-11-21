@@ -5102,6 +5102,17 @@
                 16
             ],
             "email_sent": true
+        },
+        "In-depth Azure Machine Learning Model Train, Test, and Deploy Pipelines on Cloud With Endpoints for Web APIs": {
+            "url": "https://towardsai.net/p/cloud-computing/in-depth-azure-machine-learning-model-train-test-and-deploy-pipelines-on-cloud-with-endpoints-for-web-apis",
+            "description": "Last Updated on November 20, 2022 by Editorial Team Author(s): Amit Chauhan An image by the Author The workspace consists of various artifacts Manage resources: It includes compute instances and compute clusters. Linked Services: Data Stores: It is a service to store various data. For example \u2014 Blob storage, hive storage, and SQL database. Compute targets: These are the machines where we run our model and do the train and test. Assets: Environments Experiments Pipeline Datasets Models Endpoints The whole scope of the workspace depends on some dependencies, there will be various logs, various notebooks, entries of the assets, etc. For them, the workspace requires storage. Dependencies Azure Storage account: Used for the administration and the working of the workspace. Azure container registry: When we deploy our model to the production and docker instances. Azure key vault: To store various keys, secret information, and privacy information. Azure application insight: It is used to monitor our machine learning applications and various information like response time, requests, failure conditions, performance, etc. Basic concepts Datasets It is information composed in the form of rows and columns, i.e., a collection of data. There are many methods in azure to upload/fetch the dataset for machine learning experiments. Data-stores When we want to fetch the dataset from the local system, then we need some storage that is where the data store comes into the picture. Data-store is just the connection to the various storage types like account storage, database, or analytics as a data lake. Various storage types Blob, file storage, data lake, Azure SQL, Azure PostgreSQL, MySQL, Azure Data bricks. These are supported by the azure system. Creating the machine learning workspace Below are the following steps to create the workspace Open the azure dashboard, search for the machine learning resource, click on it and then create. If you don\u2019t have an azure account, then follow the link below. How to Open an Azure cloud account with Debit Card A simple and easy process for all data scientist amitprius.medium.com An image by the Author 2. Fill in all the information. If there is no resource group name, then create a new one. When we will write the workspace name, the other information like a key vault, storage account, and application insight is filled automatically. We will keep the container registry to \u2018None\u2019 for now because it is required at the time of deployment. An image by the Author We can choose any region, but if we have a large amount of data, we can choose the nearest region of fast data transfer. In the Networking option, choose public access for practicing the experiment. n the Advanced option, there are many options, and keep it as it is, in data impact, if we enable then we are telling Microsoft that the data we will upload is sensitive. 3. After getting the Validation passed, click on create to make the workspace. It will create the four resources as shown below. An image by the Author 4. Now, click on the go to the resource, and the workspace dashboard will open with the launch studio option as shown below. An image by the Author In the above image, the access control (IAM) is used to create more users to use this workspace. Launching the machine learning studio After creating the workspace, it\u2019s time to launch the ML studio, and it will look like the image below. An image by the Author The author in the above image is responsible for making machine learning experiments and pipelines. 2. Make a new storage account to avoid the files of other storage systems. An image by the Author 3. Now, create a container inside this storage account. An image by the Author 4. Now, create a data store in the ML studio that will connect to this newly made storage account. An image by the Author 5. Fill in the information. An image by the Author To get the access key, go to the new storage account in step 2 and copy the key from the access key option, as shown below. An image by the Author Now, click on the create button of the data store. The data store is created and registered with the workspace along with the storage account. 6. Now, upload the dataset to the container we created in the storage account in step 3. An image by the Author We also check the file through the storage browser option in the storage account. An image by the Author 7. Now, create the dataset and choose the file from the data stores. An image by the Author Click the next button; when we will select \u2018From Azure storage\u2019 other options will come on the left side. We choose this option because our storage is a blob type. An image by the Author An image by the Author An image by the Author An image by the Author Now, we can deselect the Loan_ID and Gender column in the Schema option. An image by the Author Our data is uploaded in the dataset. An image by the Author An image by the Author Compute Resources In this topic, we will discuss the managed resources artifacts i.e. compute instances and compute clusters that come in the machine learning workspace. These are just different names for computers and virtual machines. The computed target is connected with linked services in the workspace. Why do we need computing resources? For any machine learning modeling, we need a computation resource that will train our model. Compute instance: It is a type of virtual machine/server or computer that is used for cloud computation. It is not a machine only but connected to the workspace and has Python, R, Docker, and Azure ML SDK configured. The default storage account while creating the workspace is attached to this instance means we can access all notebooks and other data stored. Mostly used in a development process training, testing, and inferencing. Inference means creating endpoints for web [&#8230;]",
+            "pubdate": "Mon, 21 Nov 2022 01:10:46 +0000",
+            "pubdate_parsed": [
+                2022,
+                11,
+                21
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -7119,6 +7130,17 @@
                 2022,
                 11,
                 8
+            ],
+            "email_sent": true
+        },
+        "An Overview of Inference Solutions on Hugging Face": {
+            "url": "https://huggingface.co/blog/inference-update",
+            "description": null,
+            "pubdate": "Mon, 21 Nov 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                21
             ],
             "email_sent": true
         }
