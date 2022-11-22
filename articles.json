@@ -6202,6 +6202,17 @@
                 16
             ],
             "email_sent": true
+        },
+        "DeepMind's AlphaTensor Explained": {
+            "url": "https://www.assemblyai.com/blog/deepminds-alphatensor-explained/",
+            "description": "AlphaTensor is a novel AI solution to discover mathematical algorithms with Reinforcement Learning. Learn everything you need to know about AlphaTensor in this comprehensive introduction.",
+            "pubdate": "Tue, 22 Nov 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                22
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
