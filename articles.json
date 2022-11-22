@@ -5357,6 +5357,17 @@
                 17
             ],
             "email_sent": true
+        },
+        "Galactica: What is it and What Happened?": {
+            "url": "https://www.louisbouchard.ai/galactica/",
+            "description": "Galactica, Meta AI's most recent model: The AI Scientist",
+            "pubdate": "Tue, 22 Nov 2022 03:46:58 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                22
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
