@@ -5113,6 +5113,17 @@
                 21
             ],
             "email_sent": true
+        },
+        "Galactica: What Is It and What Happened?": {
+            "url": "https://towardsai.net/p/l/galactica-what-is-it-and-what-happened",
+            "description": "Last Updated on November 22, 2022 by Editorial Team Author(s): Louis Bouchard Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Galactica, Meta AI&#x2019;s most recent model: The AI Scientist Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Wed, 23 Nov 2022 00:18:30 +0000",
+            "pubdate_parsed": [
+                2022,
+                11,
+                23
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -7163,6 +7174,17 @@
                 2022,
                 11,
                 21
+            ],
+            "email_sent": true
+        },
+        "Director of Machine Learning Insights [Part 4]": {
+            "url": "https://huggingface.co/blog/ml-director-insights-4",
+            "description": null,
+            "pubdate": "Wed, 23 Nov 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                23
             ],
             "email_sent": true
         }
