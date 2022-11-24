@@ -5766,6 +5766,17 @@
                 8
             ],
             "email_sent": true
+        },
+        "IEEE Transactions on Artificial Intelligence, Volume 3, Issue 6, December 2022": {
+            "url": "https://computational-intelligence.blogspot.com/2022/11/ieee-transactions-on-artificial.html",
+            "description": "<div style=\"text-align: left;\"><b>1)</b> <a href=\"https://ieeexplore.ieee.org/document/9645355/\">Recent Advances in Trustworthy Explainable Artificial Intelligence: Status, Challenges, and Perspectives</a></div><div><b>Author(s): </b>Atul Rawal, James McCoy, Danda B. Rawat, Brian M. Sadler, Robert St. Amant</div><div><b>Pages: </b>852 - 866</div><div><br /></div><div><b>2)</b> <a href=\"https://ieeexplore.ieee.org/document/9736644/\">An Overview of Emotion in Artificial Intelligence</a></div><div><b>Author(s):&nbsp;</b>Gustavo Assun\u00e7\u00e3o, Bruno Patr\u00e3o, Miguel Castelo-Branco, Paulo Menezes</div><div><b>Pages:&nbsp;</b>867 - 886</div><div><br /></div><div><b>3)</b> <a href=\"https://ieeexplore.ieee.org/document/9762529/\">The New Generation Brain-Inspired Sparse Learning: A Comprehensive Survey</a></div><div><b>Author(s):&nbsp;</b>Licheng Jiao, Yuting Yang, Fang Liu, Shuyuan Yang, Biao Hou</div><div><b>Pages:&nbsp;</b>887 - 907</div><div><br /></div><div><b>4)</b> <a href=\"https://ieeexplore.ieee.org/document/9645219/\">Intellectual Property Protection for Deep Learning Models: Taxonomy, Methods, Attacks, and Evaluations</a></div><div><b>Author(s):&nbsp;</b>Mingfu Xue, Yushu Zhang, Jian Wang, Weiqiang Liu</div><div><b>Pages:&nbsp;</b>908 - 923</div><div><br /></div><div><b>5)</b> <a href=\"https://ieeexplore.ieee.org/document/9878189/\">Integrating Constraints Into Dimensionality Reduction for Visualization: A Survey</a></div><div><b>Author(s):&nbsp;</b>Viet Minh Vu, Adrien Bibal, Beno\u00eet Fr\u00e9nay</div><div><b>Pages:&nbsp;</b>944 - 962</div><div><br /></div><div><b>6)</b> <a href=\"https://ieeexplore.ieee.org/document/9645169/\">Decentralized Deep Learning for Multi-Access Edge Computing: A Survey on Communication Efficiency and Trustworthiness</a></div><div><b>Author(s):&nbsp;</b>Yuwei Sun, Hideya Ochiai, Hiroshi Esaki</div><div><b>Pages:&nbsp;</b>963 - 972</div><div><br /></div><div><b>7)</b> <a href=\"https://ieeexplore.ieee.org/document/9738474/\">On Supervised Class-Imbalanced Learning: An Updated Perspective and Some Key Challenges</a></div><div><b>Author(s):&nbsp;</b>Swagatam Das, Sankha Subhra Mullick, Ivan Zelinka</div><div><b>Pages:&nbsp;</b>973 - 993</div><div><br /></div><div><b>8)</b> <a href=\"https://ieeexplore.ieee.org/document/9893751/\">A Survey on Siamese Network: Methodologies, Applications, and Opportunities</a></div><div><b>Author(s):&nbsp;</b>Yikai Li, C. L. Philip Chen, Tong Zhang</div><div><b>Pages:&nbsp;</b>994 - 1014</div><div><br /></div><div><b>9)</b> <a href=\"https://ieeexplore.ieee.org/document/9850361/\">Semisupervised Deep Learning for Image Classification With Distribution Mismatch: A Survey</a></div><div><b>Author(s):&nbsp;</b>Saul Calderon-Ramirez, Shengxiang Yang, David Elizondo</div><div><b>Pages:&nbsp;</b>1015 - 1029</div><div><br /></div>",
+            "pubdate": "2022-11-24T21:45:00.000+13:00",
+            "pubdate_parsed": [
+                2022,
+                11,
+                24
+            ],
+            "email_sent": true
         }
     },
     "TopBots Blog": {
