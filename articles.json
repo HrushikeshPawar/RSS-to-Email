@@ -3930,6 +3930,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "Partnering with iCAD to improve breast cancer screening": {
+            "url": "https://blog.google/technology/ai/icad-partnership-breast-cancer-screening/",
+            "description": "A visual representation of multiple mammograms being scanned by artificial intelligence for signs of breast cancer.",
+            "pubdate": "Mon, 28 Nov 2022 13:00:00 +0000",
+            "pubdate_parsed": [
+                2022,
+                11,
+                28
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -5188,6 +5199,17 @@
                 2022,
                 11,
                 27
+            ],
+            "email_sent": true
+        },
+        "The Beauty of A.I. Is That It Lives in the Twilight Zone Between Atoms And Bits": {
+            "url": "https://towardsai.net/p/l/the-beauty-of-a-i-is-that-it-lives-in-the-twilight-zone-between-atoms-and-bits",
+            "description": "Last Updated on November 28, 2022 by Editorial Team Author(s): Tarek Amr Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. And this is probably its main weakness as well. Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 28 Nov 2022 12:18:44 +0000",
+            "pubdate_parsed": [
+                2022,
+                11,
+                28
             ],
             "email_sent": true
         }
