@@ -980,6 +980,17 @@
                 10
             ],
             "email_sent": true
+        },
+        "Qubit Pharmaceuticals Accelerates Drug Discovery With Hybrid Quantum Computing": {
+            "url": "https://blogs.nvidia.com/blog/2022/11/30/qubit-pharmaceuticals-accelerates-drug-discovery-quantum-computing/",
+            "description": "<p>The promise of quantum computing is to solve unsolvable problems. And companies are already making headway with hybrid approaches \u2014 those that combine classical and quantum computing \u2014 to tackle challenges like drug discovery for incurable diseases. By accelerating drug molecule simulation and modeling with hybrid quantum computing, startup Qubit Pharmaceuticals is significantly reducing the <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2022/11/30/qubit-pharmaceuticals-accelerates-drug-discovery-quantum-computing/\">Read article &#62;</a></p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/11/30/qubit-pharmaceuticals-accelerates-drug-discovery-quantum-computing/\" rel=\"nofollow\">Qubit Pharmaceuticals Accelerates Drug Discovery With Hybrid Quantum Computing</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Wed, 30 Nov 2022 08:01:00 +0000",
+            "pubdate_parsed": [
+                2022,
+                11,
+                30
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -7295,6 +7306,17 @@
                 2022,
                 11,
                 23
+            ],
+            "email_sent": true
+        },
+        "VQ Diffusion with  Diffusers": {
+            "url": "https://huggingface.co/blog/vq-diffusion",
+            "description": null,
+            "pubdate": "Wed, 30 Nov 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                11,
+                30
             ],
             "email_sent": true
         }
