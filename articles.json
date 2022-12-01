@@ -7319,6 +7319,17 @@
                 30
             ],
             "email_sent": true
+        },
+        "Probabilistic Time Series Forecasting with  Transformers": {
+            "url": "https://huggingface.co/blog/time-series-transformers",
+            "description": null,
+            "pubdate": "Thu, 01 Dec 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                1
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {}
