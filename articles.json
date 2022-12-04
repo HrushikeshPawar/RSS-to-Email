@@ -5245,6 +5245,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "Efficient NeRFs for Real-Time Portrait Synthesis (RAD-NeRF)": {
+            "url": "https://towardsai.net/p/l/efficient-nerfs-for-real-time-portrait-synthesis-rad-nerf",
+            "description": "Last Updated on December 3, 2022 by Editorial Team Author(s): Louis Bouchard Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. From Audio to Talking Heads in Real-Time with AI! Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Sun, 04 Dec 2022 00:14:22 +0000",
+            "pubdate_parsed": [
+                2022,
+                12,
+                4
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
