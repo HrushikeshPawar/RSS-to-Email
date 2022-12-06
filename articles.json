@@ -5511,6 +5511,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "What is ChatGPT?": {
+            "url": "https://www.louisbouchard.ai/chatgpt/",
+            "description": "OpenAI's most recent conversational AI explained",
+            "pubdate": "Tue, 06 Dec 2022 01:24:41 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
