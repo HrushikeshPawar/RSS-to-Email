@@ -991,6 +991,17 @@
                 30
             ],
             "email_sent": true
+        },
+        "Hittin the Sim: NVIDIAs Matt Cragun on Conditioning Autonomous Vehicles in Simulation": {
+            "url": "https://blogs.nvidia.com/blog/2022/12/07/autonomous-vehicles-simulation/",
+            "description": "<p>Training, testing and validating autonomous vehicles requires a continuous pipeline \u2014 or data factory \u2014 to introduce new scenarios and refine deep neural networks. A key component of this process is simulation. AV developers can test a virtually limitless number of scenarios, repeatably and at scale, with high-fidelity, physically based simulation. And like much of <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2022/12/07/autonomous-vehicles-simulation/\">Read article &#62;</a></p>\n<p>The post <a href=\"https://blogs.nvidia.com/blog/2022/12/07/autonomous-vehicles-simulation/\" rel=\"nofollow\">Hittin\u2019 the Sim: NVIDIA\u2019s Matt Cragun on Conditioning Autonomous Vehicles in Simulation</a> appeared first on <a href=\"https://blogs.nvidia.com\" rel=\"nofollow\">NVIDIA Blog</a>.</p>",
+            "pubdate": "Wed, 07 Dec 2022 13:00:03 +0000",
+            "pubdate_parsed": [
+                2022,
+                12,
+                7
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
