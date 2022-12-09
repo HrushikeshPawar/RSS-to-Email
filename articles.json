@@ -3596,6 +3596,17 @@
                 16
             ],
             "email_sent": true
+        },
+        "How Amazon Robotics is working to eliminate the need for barcodes": {
+            "url": "https://www.amazon.science/latest-news/how-amazon-robotics-is-working-on-new-ways-to-eliminate-the-need-for-barcodes",
+            "description": "Why multimodal identification is a crucial step in automating item identification at Amazon scale.",
+            "pubdate": "Fri, 09 Dec 2022 12:55:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                9
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -7427,6 +7438,17 @@
                 2022,
                 12,
                 1
+            ],
+            "email_sent": true
+        },
+        "From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community": {
+            "url": "https://huggingface.co/blog/elixir-bumblebee",
+            "description": null,
+            "pubdate": "Fri, 09 Dec 2022 00:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                9
             ],
             "email_sent": true
         }
