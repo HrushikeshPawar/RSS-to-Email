@@ -6455,6 +6455,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "Build standout call coaching features with AI Summarization": {
+            "url": "https://www.assemblyai.com/blog/build-standout-call-coaching-features-ai-summarization/",
+            "description": "Revenue intelligence platforms are adopting an AI-first approach to build competitive call coaching features. This includes embedding AI Summarization models that are purpose-built for understanding conversations.",
+            "pubdate": "Mon, 12 Dec 2022 06:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                12
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
