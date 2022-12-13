@@ -5322,6 +5322,28 @@
                 7
             ],
             "email_sent": true
+        },
+        "How to Quickly Build A Semantic Search System With txtai And Weaviate": {
+            "url": "https://towardsai.net/p/l/how-to-quickly-build-a-semantic-search-system-with-txtai-and-weaviate",
+            "description": "Last Updated on December 12, 2022 by Editorial Team Author(s): ___ Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. An introduction to the weaviate-txtai library Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 13 Dec 2022 02:41:41 +0000",
+            "pubdate_parsed": [
+                2022,
+                12,
+                13
+            ],
+            "email_sent": true
+        },
+        "End-to-End Machine Learning Project with Deployment Part 1: Project Set-Up": {
+            "url": "https://towardsai.net/p/l/end-to-end-machine-learning-project-with-deployment-part-1-project-set-up",
+            "description": "Last Updated on December 12, 2022 by Editorial Team Author(s): Abhishek Jana Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Get Your Project Ready for Machine Learning: A Step-by-Step Guide Many of us often make the mistake of jumping straight into coding when working on end-to-end projects. This approach can work well when dealing with small datasets that don\u2019t need much preprocessing. In these cases, we can quickly train a predictive machine learning model and deploy it in the cloud. But this approach has its limitations. If the project is not set up correctly, the code may not be \u201creusable\u201d or \u201cscalable\u201d, which can cause problems down the\u00a0road. What is the meaning of \u201creusable\u201d and \u201cscalable\u201d in a machine learning\u00a0project? \u201cReusable\u201d refers to the ability of a project or its components to be used again in future projects. Reusability can save time, money, and resources in future projects by reducing the need to start from\u00a0scratch. We say that a project is \u201cscalable\u201d when it can be easily adapted to work with larger or smaller datasets without significant changes to its overall design or structure. This is important because it allows the project to be used effectively in a wide range of situations, regardless of the size of the data it is working\u00a0with. If you\u2019re wondering how to get started, here\u2019s a step-by-step guide. Keep in mind that I won\u2019t be explaining the code in detail but rather provide an overview of the project\u00a0flow. Step 1. Don\u2019t\u00a0Code! It is important to carefully read and understand the problem statement and data description before starting to work on a dataset. Doing so can provide valuable information about the dataset, such as its origin, the number and names of columns, and how to access the data. In some cases, the description may even indicate that the dataset is outdated or commonly used and, therefore may not provide new insights. Let\u2019s look at an\u00a0example. I am currently working on a rental bike sharing which is a 10-year-old dataset and is used by many data science enthusiasts. So this is not going to give us any new information. So if you look at the dataset, it gives us a description of the dataset without even looking into the data. It tells us the source of the data which has the most up-to-date version. We can use\u00a0that. In industry, data descriptions are often provided along with the dataset. This is called a \u201cData Sharing Agreement,\u201d or DSA. It is important to read and understand this information before beginning your analysis. This brings us to our next\u00a0step. Step 2. Documentation! A data science or machine learning project typically involves multiple teams, such as a data maintenance team, a data analysis team, a model training team, and a front-end development team. It is important to document the project in a clear and organized way so that all team members can understand it and stay up to date with the latest developments. This is especially important when presenting the project to stakeholders or when new members join the team and need to quickly get up to speed. By documenting the project consistently and thoroughly, the team can ensure that everyone is on the same page and working towards the same\u00a0goals. There are five types of documents we need to maintain: High-Level Design Document: A high-level design document, or HLD, is a general document that outlines the overall flow of a project. It typically includes a description of the data that will be used, the steps involved in the project, and the tools and resources that will be required to complete it. This document provides a high-level overview of the project and is used to guide the development team in implementing the project. It may also be used to communicate the project\u2019s goals and objectives to stakeholders and other interested parties. Low-Level Design Document: The Low-Level Design (LLD) document is a more specific document that focuses on the details of data handling and machine learning model training. The LLD provides a more in-depth look at the technical aspects of the project and how the various components will work together. Architecture Design Document: AD provides a detailed description of the internal structure of a program. It includes a class diagram with methods and their relationships, as well as a description of program specifications. This document serves as a guide for the programmer, allowing them to write code directly from the\u00a0design. Wireframe Document: This is a preview of how the front-end will look after the project is deployed. Detailed Project Report: DPR is mostly geared towards the stakeholders about the overall findings of the\u00a0project. High-level design (HLD) and low-level design (LLD) are early planning stages in a project where the overall structure and detailed specifications of the project are laid out, respectively. Once the HLD and LLD are approved, the development team can begin writing code and creating application design (AD) and wireframe documents. The project progress and findings are typically summarized in a final document called the Detailed Project Report\u00a0(DPR). Step 3. Select a Template! Now to begin coding, we can create a GitHub repository and push our work\u00a0there. project structure Here is a project template that can help you when starting a new project. In the following parts, I will explain the purpose of each directory and file in the template. For now, you can clone this repository and explore the \u201cdocuments\u201d directory. After reading this, you should be able to use the template to create the high-level design (HLD) and low-level design (LLD) for your own project. Give it a try, and let me know how it\u00a0goes. You can follow me on GitHub, LinkedIn, and medium for the latest updates and stay informed about [&#8230;]",
+            "pubdate": "Tue, 13 Dec 2022 00:11:01 +0000",
+            "pubdate_parsed": [
+                2022,
+                12,
+                13
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -5586,6 +5608,17 @@
                 2022,
                 12,
                 6
+            ],
+            "email_sent": true
+        },
+        "Prompting Explained: How to talk toChatGPT": {
+            "url": "https://www.louisbouchard.ai/prompting-explained/",
+            "description": "What is a prompt engineer and how to improve at\u00a0it\u2026",
+            "pubdate": "Tue, 13 Dec 2022 01:53:03 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                13
             ],
             "email_sent": true
         }
