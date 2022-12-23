@@ -3607,6 +3607,17 @@
                 9
             ],
             "email_sent": true
+        },
+        "AmazonNext program hosts final project presentations at Virginia HQ2": {
+            "url": "https://www.amazon.science/academic-engagements/amazonnext-program-hosts-final-project-presentations-at-virginia-hq2",
+            "description": "Program focuses on diversifying tech-industry talent.",
+            "pubdate": "Fri, 23 Dec 2022 13:19:31 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                23
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -6596,6 +6607,17 @@
                 2022,
                 12,
                 22
+            ],
+            "email_sent": true
+        },
+        "How ChatGPT actually works": {
+            "url": "https://www.assemblyai.com/blog/how-chatgpt-actually-works/",
+            "description": "Since its release, the public has been playing with ChatGPT and seeing what it can do, but how does ChatGPT actually work? While the details of its inner workings have not been published, we can piece together its functioning principles from recent research.",
+            "pubdate": "Fri, 23 Dec 2022 08:43:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                23
             ],
             "email_sent": true
         }
