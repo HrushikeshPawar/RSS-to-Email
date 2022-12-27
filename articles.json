@@ -3618,6 +3618,17 @@
                 23
             ],
             "email_sent": true
+        },
+        "Improving automatic discrimination of logos with similar texts": {
+            "url": "https://www.amazon.science/blog/improving-automatic-discrimination-of-logos-with-similar-texts",
+            "description": "Combining contrastive training and selection of hard negative examples establishes new benchmarks.",
+            "pubdate": "Tue, 27 Dec 2022 01:52:08 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                27
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
