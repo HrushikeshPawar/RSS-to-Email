@@ -1426,6 +1426,39 @@
                 18
             ],
             "email_sent": true
+        },
+        "Building a Logistic Regression Classifier in PyTorch": {
+            "url": "https://machinelearningmastery.com/building-a-logistic-regression-classifier-in-pytorch/",
+            "description": "<p>Last Updated on December 30, 2022 Logistic regression is a type of regression that predicts the probability of an event. It is used for classification problems and has many applications in the fields of machine learning, artificial intelligence, and data mining. The formula of logistic regression is to apply a sigmoid function to the output [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/building-a-logistic-regression-classifier-in-pytorch/\" rel=\"nofollow\">Building a Logistic Regression Classifier in PyTorch</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Fri, 30 Dec 2022 09:11:28 +0000",
+            "pubdate_parsed": [
+                2022,
+                12,
+                30
+            ],
+            "email_sent": true
+        },
+        "Training Logistic Regression with Cross-Entropy Loss in PyTorch": {
+            "url": "https://machinelearningmastery.com/training-logistic-regression-with-cross-entropy-loss-in-pytorch/",
+            "description": "<p>Last Updated on December 30, 2022 In the previous session of our PyTorch series, we demonstrated how badly initialized weights can impact the accuracy of a classification model when mean square error (MSE) loss is used. We noticed that the model didn&#8217;t converge during training and its accuracy was also significantly reduced. In the following, [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/training-logistic-regression-with-cross-entropy-loss-in-pytorch/\" rel=\"nofollow\">Training Logistic Regression with Cross-Entropy Loss in PyTorch</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Fri, 30 Dec 2022 08:47:11 +0000",
+            "pubdate_parsed": [
+                2022,
+                12,
+                30
+            ],
+            "email_sent": true
+        },
+        "Initializing Weights for Deep Learning Models": {
+            "url": "https://machinelearningmastery.com/initializing-weights-for-deep-learning-models/",
+            "description": "<p>Last Updated on December 30, 2022 In order to build a classifier that accurately classifies the data samples and performs well on test data, you need to initialize the weights in a way that the model converges well. Usually we randomized the weights. But when we use mean square error (MSE) as loss for training [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/initializing-weights-for-deep-learning-models/\" rel=\"nofollow\">Initializing Weights for Deep Learning Models</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Fri, 30 Dec 2022 08:24:53 +0000",
+            "pubdate_parsed": [
+                2022,
+                12,
+                30
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
@@ -3627,6 +3660,17 @@
                 2022,
                 12,
                 27
+            ],
+            "email_sent": true
+        },
+        "Stories that inspired us in 2022": {
+            "url": "https://www.amazon.science/latest-news/stories-that-inspired-us-in-2022",
+            "description": "From the remarkable story of Josh Miele and his passion for improving accessibility, to the challenges overcome by scientists and engineers getting Alexa to work in space, these five stories touched both emotional and intellectual chords.",
+            "pubdate": "Fri, 30 Dec 2022 12:00:00 GMT",
+            "pubdate_parsed": [
+                2022,
+                12,
+                30
             ],
             "email_sent": true
         }
