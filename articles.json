@@ -5575,6 +5575,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "Building A LSTM From Scratch In Python": {
+            "url": "https://towardsai.net/p/l/building-a-lstm-from-scratch-in-python",
+            "description": "Last Updated on January 2, 2023 by Editorial Team Author(s): Youssef Hosni Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. How to build a basic LSTM using Basic Python libraries Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 02 Jan 2023 12:05:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                1,
+                2
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -7768,6 +7779,17 @@
                 2022,
                 12,
                 9
+            ],
+            "email_sent": true
+        },
+        "Accelerating PyTorch Transformers with Intel Sapphire Rapids, part 1": {
+            "url": "https://huggingface.co/blog/intel-sapphire-rapids",
+            "description": null,
+            "pubdate": "Mon, 02 Jan 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                1,
+                2
             ],
             "email_sent": true
         }
