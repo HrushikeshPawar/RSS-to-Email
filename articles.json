@@ -7891,6 +7891,17 @@
                 3
             ],
             "email_sent": true
+        },
+        "AI for Game Development: Creating a Farming Game in 5 Days. Part 2": {
+            "url": "https://huggingface.co/blog/ml-for-games-2",
+            "description": null,
+            "pubdate": "Mon, 09 Jan 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                1,
+                9
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {}
