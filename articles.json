@@ -5652,6 +5652,17 @@
                 8
             ],
             "email_sent": true
+        },
+        "Exposing the Racial Divide in Data Science: The Reality of Discrimination and How to Overcome It": {
+            "url": "https://towardsai.net/p/l/exposing-the-racial-divide-in-data-science-the-reality-of-discrimination-and-how-to-overcome-it",
+            "description": "Last Updated on January 9, 2023 by Editorial Team Author(s): Andrew Austin Originally published on Towards AI the World&#8217;s Leading AI and Technology News and Media Company. If you are building an AI-related product or service, we invite you to consider becoming an AI sponsor. At Towards AI, we help scale AI and technology startups. Let us help you unleash your technology to the masses. Racism in Data Science: A Call to Address the Inequalities within the Field Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. It\u2019s free, we don\u2019t spam, and we never share your email address. Keep up to date with the latest work in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 10 Jan 2023 00:13:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                1,
+                10
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -5938,6 +5949,17 @@
                 2022,
                 12,
                 22
+            ],
+            "email_sent": true
+        },
+        "An interview with the Director of Perception at Zoox: Ruijie (RJ) He: What is an ML Engineer and more...": {
+            "url": "https://www.louisbouchard.ai/rj-he-zoox/",
+            "description": "An interview with the Director of Perception at Zoox, Ruijie (RJ) He, with the goal of demystifying what is a good profile to get an ML engineer job and perform at the interviews.",
+            "pubdate": "Tue, 10 Jan 2023 02:19:34 GMT",
+            "pubdate_parsed": [
+                2023,
+                1,
+                10
             ],
             "email_sent": true
         }
