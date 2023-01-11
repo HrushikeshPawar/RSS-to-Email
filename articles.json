@@ -4218,6 +4218,17 @@
                 24
             ],
             "email_sent": true
+        },
+        "Forecasting Potential Misuses of Language Models for Disinformation Campaignsand How to Reduce Risk": {
+            "url": "https://openai.com/blog/forecasting-misuse/",
+            "description": "<!--kg-card-begin: markdown--><div class=\"post-excerpt\">\n<p>OpenAI researchers collaborated with Georgetown University&#x2019;s Center for Security and Emerging Technology and the Stanford Internet Observatory to investigate how large language models might be misused for disinformation purposes. The collaboration included an October 2021 workshop bringing together 30 disinformation researchers, machine learning experts, and policy analysts, and</p></div>",
+            "pubdate": "Wed, 11 Jan 2023 11:00:41 GMT",
+            "pubdate_parsed": [
+                2023,
+                1,
+                11
+            ],
+            "email_sent": true
         }
     },
     "Apple Machine Learning Blog": {
@@ -5672,6 +5683,17 @@
                 2023,
                 1,
                 10
+            ],
+            "email_sent": true
+        },
+        "Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023": {
+            "url": "https://towardsai.net/p/l/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023",
+            "description": "Last Updated on January 11, 2023 by Editorial Team Author(s): Youssef Hosni Originally published on Towards AI. In today&#x2019;s hype of Machine learning where many organizations have integrated or are trying to integrate ML systems into their products and&#x2026; Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Wed, 11 Jan 2023 12:11:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                1,
+                11
             ],
             "email_sent": true
         }
