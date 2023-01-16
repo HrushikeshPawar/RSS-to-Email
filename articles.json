@@ -4051,6 +4051,17 @@
                 28
             ],
             "email_sent": true
+        },
+        "Why we focus on AI (and to what end)": {
+            "url": "https://blog.google/technology/ai/why-we-focus-on-ai-and-to-what-end/",
+            "description": "Illustration of colorful dots and lines",
+            "pubdate": "Mon, 16 Jan 2023 09:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                1,
+                16
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -8010,6 +8021,17 @@
                 2023,
                 1,
                 9
+            ],
+            "email_sent": true
+        },
+        "Image Similarity with Hugging Face Datasets and Transformers": {
+            "url": "https://huggingface.co/blog/image-similarity",
+            "description": null,
+            "pubdate": "Mon, 16 Jan 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                1,
+                16
             ],
             "email_sent": true
         }
