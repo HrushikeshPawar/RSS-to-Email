@@ -4062,6 +4062,17 @@
                 16
             ],
             "email_sent": true
+        },
+        "7 ways Google is using AI to help solve society's challenges": {
+            "url": "https://blog.google/technology/ai/7-ways-google-is-using-ai-to-help-solve-societys-challenges/",
+            "description": "Colorful illustration depicting five of the uses of AI: A map showing a river and where it will flood; a collection of wildfire symbols; a microscope; bugs crawling on leaves; and a map marker with dotted lines coming from it",
+            "pubdate": "Tue, 17 Jan 2023 08:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                1,
+                17
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -5760,6 +5771,17 @@
                 2023,
                 1,
                 15
+            ],
+            "email_sent": true
+        },
+        "How to Track ML Experiments With DVC Inside VSCode To Boost Your Productivity": {
+            "url": "https://towardsai.net/p/l/how-to-track-ml-experiments-with-dvc-inside-vscode-to-boost-your-productivity",
+            "description": "Last Updated on January 17, 2023 by Editorial Team Author(s): BEXGBoost Originally published on Towards AI. Manage ML experiments like a pro Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 17 Jan 2023 12:05:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                1,
+                17
             ],
             "email_sent": true
         }
@@ -8032,6 +8054,17 @@
                 2023,
                 1,
                 16
+            ],
+            "email_sent": true
+        },
+        "Welcome PaddlePaddle to the Hugging Face Hub": {
+            "url": "https://huggingface.co/blog/paddlepaddle",
+            "description": null,
+            "pubdate": "Tue, 17 Jan 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                1,
+                17
             ],
             "email_sent": true
         }
