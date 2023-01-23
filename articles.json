@@ -1013,6 +1013,17 @@
                 8
             ],
             "email_sent": true
+        },
+        "Booked for Brilliance: Swedens National Library Turns Page to AI to Parse Centuries of Data": {
+            "url": "https://blogs.nvidia.com/blog/2023/01/23/sweden-library-ai-open-source/",
+            "description": "For the past 500 years, the National Library of Sweden has collected virtually every word published in Swedish, from priceless medieval manuscripts to present-day pizza menus. Thanks to a centuries-old law that requires a copy of everything published in Swedish to be submitted to the library \u2014 also known as Kungliga biblioteket, or KB \u2014 <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/01/23/sweden-library-ai-open-source/\">Read article &#62;</a>",
+            "pubdate": "Mon, 23 Jan 2023 08:01:40 +0000",
+            "pubdate_parsed": [
+                2023,
+                1,
+                23
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
