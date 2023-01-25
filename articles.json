@@ -1024,6 +1024,17 @@
                 23
             ],
             "email_sent": true
+        },
+        "NVIDIA CEO Ignites AI Conversation in Stockholm": {
+            "url": "https://blogs.nvidia.com/blog/2023/01/24/nvidia-ceo-stockholm/",
+            "description": "Jensen Huang headlines Stockholm AI confab, Berzelius supercomputer upgraded to 94 NVIDIA DGX A100 systems.",
+            "pubdate": "Wed, 25 Jan 2023 00:36:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                1,
+                25
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
