@@ -6248,6 +6248,17 @@
                 10
             ],
             "email_sent": true
+        },
+        "Image Editing from Text Instructions: InstructPix2Pix": {
+            "url": "https://www.louisbouchard.ai/instructpix2pix/",
+            "description": "The hottest image editing AI, InstructPix2Pix, explained!",
+            "pubdate": "Thu, 26 Jan 2023 02:18:42 GMT",
+            "pubdate_parsed": [
+                2023,
+                1,
+                26
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
