@@ -8331,6 +8331,17 @@
                 26
             ],
             "email_sent": true
+        },
+        "The State of Computer Vision at Hugging Face ": {
+            "url": "https://huggingface.co/blog/cv_state",
+            "description": null,
+            "pubdate": "Mon, 30 Jan 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                1,
+                30
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
