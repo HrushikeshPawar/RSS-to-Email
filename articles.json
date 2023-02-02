@@ -6048,6 +6048,17 @@
                 1
             ],
             "email_sent": true
+        },
+        "Parquet Best Practices: The Art of Filtering": {
+            "url": "https://towardsai.net/p/l/parquet-best-practices-the-art-of-filtering",
+            "description": "Last Updated on February 1, 2023 by Editorial Team Author(s): Arli Originally published on Towards AI. Understanding how to filter Parquet files Continue reading on Towards AI \u00bb Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Thu, 02 Feb 2023 00:21:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                2,
+                2
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
