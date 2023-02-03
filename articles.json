@@ -8397,6 +8397,17 @@
                 30
             ],
             "email_sent": true
+        },
+        "A Dive into Pretraining Strategies for Vision-Language Models": {
+            "url": "https://huggingface.co/blog/vision_language_pretraining",
+            "description": null,
+            "pubdate": "Fri, 03 Feb 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                2,
+                3
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
