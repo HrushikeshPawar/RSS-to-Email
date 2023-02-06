@@ -8463,6 +8463,17 @@
                 3
             ],
             "email_sent": true
+        },
+        "Accelerating PyTorch Transformers with Intel Sapphire Rapids, part 2": {
+            "url": "https://huggingface.co/blog/intel-sapphire-rapids-inference",
+            "description": null,
+            "pubdate": "Mon, 06 Feb 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                2,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
