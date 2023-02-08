@@ -8474,6 +8474,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "Speech Synthesis, Recognition, and More With SpeechT5": {
+            "url": "https://huggingface.co/blog/speecht5",
+            "description": null,
+            "pubdate": "Wed, 08 Feb 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                2,
+                8
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
