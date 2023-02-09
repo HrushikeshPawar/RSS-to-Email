@@ -1492,6 +1492,17 @@
                 5
             ],
             "email_sent": true
+        },
+        "How to Grid Search Hyperparameters for PyTorch Models": {
+            "url": "https://machinelearningmastery.com/how-to-grid-search-hyperparameters-for-pytorch-models/",
+            "description": "<p>The &#8220;weights&#8221; of a neural network is referred as &#8220;parameters&#8221; in PyTorch code and it is fine-tuned by optimizer during training. On the contrary, hyperparameters are the parameters of a neural network that is fixed by design and not tuned by training. Examples are the number of hidden layers and the choice of activation functions. [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/how-to-grid-search-hyperparameters-for-pytorch-models/\" rel=\"nofollow\">How to Grid Search Hyperparameters for PyTorch Models</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Thu, 09 Feb 2023 13:35:17 +0000",
+            "pubdate_parsed": [
+                2023,
+                2,
+                9
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
