@@ -8496,6 +8496,17 @@
                 8
             ],
             "email_sent": true
+        },
+        " PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware": {
+            "url": "https://huggingface.co/blog/peft",
+            "description": null,
+            "pubdate": "Fri, 10 Feb 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                2,
+                10
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
