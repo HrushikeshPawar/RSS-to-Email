@@ -1503,6 +1503,17 @@
                 9
             ],
             "email_sent": true
+        },
+        "Using Activation Functions in Deep Learning Models": {
+            "url": "https://machinelearningmastery.com/using-activation-functions-in-deep-learning-models/",
+            "description": "<p>A deep learning model in its simplest form are layers of perceptrons connected in tandem. Without any activation functions, they are just matrix multiplications with limited power, regardless how many of them. Activation is the magic why neural network can be an approximation to a wide variety of non-linear function. In PyTorch, there are many [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/using-activation-functions-in-deep-learning-models/\" rel=\"nofollow\">Using Activation Functions in Deep Learning Models</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Tue, 14 Feb 2023 13:36:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                2,
+                14
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
@@ -7476,6 +7487,17 @@
                 2023,
                 1,
                 18
+            ],
+            "email_sent": true
+        },
+        "How CallRail doubled its Conversation Intelligence customers by building with a trusted AI partner": {
+            "url": "https://www.assemblyai.com/blog/how-callrail-doubled-its-conversation-intelligence-customers-by-building-with-a-trusted-ai-partner/",
+            "description": "With AssemblyAI\u2019s Conversational Summarization Model, CallRail helps its customers easily review calls at scale.",
+            "pubdate": "Tue, 14 Feb 2023 06:00:33 GMT",
+            "pubdate_parsed": [
+                2023,
+                2,
+                14
             ],
             "email_sent": true
         }
