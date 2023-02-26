@@ -1536,6 +1536,17 @@
                 21
             ],
             "email_sent": true
+        },
+        "Understand Model Behavior During Training by Visualizing Metrics": {
+            "url": "https://machinelearningmastery.com/understand-model-behavior-during-training-by-visualizing-metrics/",
+            "description": "<p>You can learn a lot about neural networks and deep learning models by observing their performance over time during training. For example, if you see the training accuracy went worse with training epochs, you know you have issue with the optimization. Probably your learning rate is too fast. In this post, you will discover how [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/understand-model-behavior-during-training-by-visualizing-metrics/\" rel=\"nofollow\">Understand Model Behavior During Training by Visualizing Metrics</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Sun, 26 Feb 2023 13:19:03 +0000",
+            "pubdate_parsed": [
+                2023,
+                2,
+                26
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
