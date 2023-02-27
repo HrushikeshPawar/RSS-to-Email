@@ -1035,6 +1035,17 @@
                 25
             ],
             "email_sent": true
+        },
+        "NVIDIA Unveils GPU-Accelerated AI-on-5G System for Edge AI, 5G and Omniverse Digital Twins": {
+            "url": "https://blogs.nvidia.com/blog/2023/02/27/mwc-ai-on-5g-system/",
+            "description": "Telcos are seeking industry-standard solutions that can run 5G, AI applications and immersive graphics workloads on the same server \u2014 including for computer vision and the metaverse. To meet this need, NVIDIA is developing a new AI-on-5G solution that combines 5G vRAN, edge AI and digital twin workloads on an all-in-one, hyperconverged and GPU-accelerated system. <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/02/27/mwc-ai-on-5g-system/\">Read article &#62;</a>",
+            "pubdate": "Mon, 27 Feb 2023 13:00:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                2,
+                27
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
