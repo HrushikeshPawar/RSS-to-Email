@@ -8727,6 +8727,17 @@
                 10
             ],
             "email_sent": true
+        },
+        "Leveraging Hugging Face for complex text classification use cases": {
+            "url": "https://huggingface.co/blog/classification-use-cases",
+            "description": null,
+            "pubdate": "Wed, 01 Mar 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                3,
+                1
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
