@@ -1558,6 +1558,17 @@
                 26
             ],
             "email_sent": true
+        },
+        "Visualizing a PyTorch Model": {
+            "url": "https://machinelearningmastery.com/visualizing-a-pytorch-model/",
+            "description": "<p>PyTorch is a deep learning library. You can build very sophisticated deep learning models with PyTorch. However, there are times you want to have a graphical representation of your model architecture. In this post, you will learn: How to save your PyTorch model in an exchange format How to use Netron to create a graphical [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/visualizing-a-pytorch-model/\" rel=\"nofollow\">Visualizing a PyTorch Model</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Thu, 02 Mar 2023 13:25:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                2
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
@@ -7165,6 +7176,17 @@
                 15
             ],
             "email_sent": true
+        },
+        "The Evolution Of Science: From Descartes To Generative AI": {
+            "url": "https://www.topbots.com/the-evolution-of-science-from-descartes-to-generative-ai/",
+            "description": "<p>Machine learning became the best tool in history for mathematical manipulation through the use of algorithms for pattern recognition.</p>\n<p>The post <a href=\"https://www.topbots.com/the-evolution-of-science-from-descartes-to-generative-ai/\" rel=\"nofollow\">The Evolution Of Science: From Descartes To Generative AI</a> appeared first on <a href=\"https://www.topbots.com\" rel=\"nofollow\">TOPBOTS</a>.</p>",
+            "pubdate": "Thu, 02 Mar 2023 13:45:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                2
+            ],
+            "email_sent": true
         }
     },
     "Sebastian Raschka Blog": {
@@ -8736,6 +8758,17 @@
                 2023,
                 3,
                 1
+            ],
+            "email_sent": true
+        },
+        "Ethical guidelines for developing the Diffusers library": {
+            "url": "https://huggingface.co/blog/ethics-diffusers",
+            "description": null,
+            "pubdate": "Thu, 02 Mar 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                3,
+                2
             ],
             "email_sent": true
         }
