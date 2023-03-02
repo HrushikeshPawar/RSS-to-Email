@@ -1046,6 +1046,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "GeForce NOW Springs Into March With 19 New Games in the Cloud, Including Disney Dreamlight Valley": {
+            "url": "https://blogs.nvidia.com/blog/2023/03/02/geforce-now-thursday-march-2/",
+            "description": "March is already here and a new month always means new games, with a total of 19 joining the GeForce NOW library. Set off on a magical journey to restore Disney magic when Disney Dreamlight Valley joins the cloud later this month. Plus, the hunt is on with Capcom\u2019s Monster Hunter Rise now available for <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/03/02/geforce-now-thursday-march-2/\">Read article &#62;</a>",
+            "pubdate": "Thu, 02 Mar 2023 14:00:43 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                2
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -8785,5 +8796,6 @@
             ],
             "email_sent": true
         }
-    }
+    },
+    "Azure-MLOps": {}
 }
