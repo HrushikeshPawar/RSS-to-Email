@@ -8782,6 +8782,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "Using Machine Learning to Aid Survivors and Race through Time": {
+            "url": "https://huggingface.co/blog/using-ml-for-disasters",
+            "description": null,
+            "pubdate": "Fri, 03 Mar 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                3,
+                3
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
