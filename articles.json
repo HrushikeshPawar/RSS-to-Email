@@ -1580,6 +1580,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "Building a Convolutional Neural Network in PyTorch": {
+            "url": "https://machinelearningmastery.com/building-a-convolutional-neural-network-in-pytorch/",
+            "description": "<p>Neural networks are built with layers connected to each other. There are many different kind of layers. For image related applications, you can always find convolutional layers. It is a layer with very few parameters but applied over a large sized input. It is powerful because it can preserve the spatial structure of the image. [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/building-a-convolutional-neural-network-in-pytorch/\" rel=\"nofollow\">Building a Convolutional Neural Network in PyTorch</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Sun, 05 Mar 2023 13:06:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                5
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
