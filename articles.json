@@ -6710,6 +6710,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "Interview with NVIDIA Data Scientist Meriem Bendris & RTX 4080 Giveaway!": {
+            "url": "https://www.louisbouchard.ai/nvidia-meriem-bendris/",
+            "description": "What is it like, and how to get there (and RTX 4080 giveaway)",
+            "pubdate": "Tue, 07 Mar 2023 12:37:36 GMT",
+            "pubdate_parsed": [
+                2023,
+                3,
+                7
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
