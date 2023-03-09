@@ -6721,6 +6721,17 @@
                 7
             ],
             "email_sent": true
+        },
+        "How to Build a strong Data Science Resume with Kaggle": {
+            "url": "https://www.louisbouchard.ai/build-a-strong-data-science-resume-with-kaggle/",
+            "description": "An interview with Chris Deotte, Quadruple Kaggle Grandmaster at NVIDIA",
+            "pubdate": "Thu, 09 Mar 2023 03:38:32 GMT",
+            "pubdate_parsed": [
+                2023,
+                3,
+                9
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
