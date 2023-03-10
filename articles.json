@@ -1591,6 +1591,17 @@
                 5
             ],
             "email_sent": true
+        },
+        "LSTM for Time Series Prediction in PyTorch": {
+            "url": "https://machinelearningmastery.com/lstm-for-time-series-prediction-in-pytorch/",
+            "description": "<p>Long Short-Term Memory (LSTM) is a structure that can be used in neural network. It is a type of recurrent neural network (RNN) that expects the input in the form of a sequence of features. It is useful for data such as time series or string of text. In this post, you will learn about [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/lstm-for-time-series-prediction-in-pytorch/\" rel=\"nofollow\">LSTM for Time Series Prediction in PyTorch</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Fri, 10 Mar 2023 01:24:39 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                10
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
