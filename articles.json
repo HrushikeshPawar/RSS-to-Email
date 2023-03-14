@@ -4238,6 +4238,17 @@
                 17
             ],
             "email_sent": true
+        },
+        "The next generation of AI for developers and Google Workspace": {
+            "url": "https://blog.google/technology/ai/ai-developers-google-cloud-workspace/",
+            "description": "Moving lines and dots in the 4 Google colors",
+            "pubdate": "Tue, 14 Mar 2023 13:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                14
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
