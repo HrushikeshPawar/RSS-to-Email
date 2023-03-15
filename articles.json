@@ -6765,6 +6765,17 @@
                 9
             ],
             "email_sent": true
+        },
+        "How good is GPT-4?": {
+            "url": "https://www.louisbouchard.ai/gpt-4/",
+            "description": "If you thought ChatGPT was good, wait before you try this\u00a0one\u2026",
+            "pubdate": "Wed, 15 Mar 2023 01:36:24 GMT",
+            "pubdate_parsed": [
+                2023,
+                3,
+                15
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
