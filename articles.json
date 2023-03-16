@@ -1057,6 +1057,39 @@
                 2
             ],
             "email_sent": true
+        },
+        "NVIDIA Canvas 1.4 Available With Panorama Beta This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/03/16/in-the-nvidia-studio-march-16/",
+            "description": "An update is now available for NVIDIA Canvas, the free beta app that harnesses the power of AI to help artists quickly turn simple brushstrokes into realistic landscapes.",
+            "pubdate": "Thu, 16 Mar 2023 13:05:17 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                16
+            ],
+            "email_sent": true
+        },
+        "Game Like a PC: GeForce NOW Breaks Boundaries Transforming Macs Into Ultimate Gaming PCs": {
+            "url": "https://blogs.nvidia.com/blog/2023/03/16/geforce-now-thursday-march-16/",
+            "description": "Disney Dreamlight Valley is streaming from Steam and Epic Games Store on GeForce NOW starting today. It\u2019s one of two new games this week that members can stream with beyond-fast performance using a GeForce NOW Ultimate membership. Game as if using a PC on any device \u2014 at up to 4K resolution and 120 frames <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/03/16/geforce-now-thursday-march-16/\">Read article &#62;</a>",
+            "pubdate": "Thu, 16 Mar 2023 13:00:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                16
+            ],
+            "email_sent": true
+        },
+        "Peter Ma on How Hes Using AI to Found 8 Promising Signals for Alien Life": {
+            "url": "https://blogs.nvidia.com/blog/2023/03/16/peter-ma-podcast/",
+            "description": "Peter Ma was bored in his high school computer science class. So he decided to teach himself something new: how to use artificial intelligence to find alien life. That\u2019s how he eventually became the lead author of a groundbreaking study published in Nature Astronomy. The study reveals how Ma and his co-authors used AI to <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/03/16/peter-ma-podcast/\">Read article &#62;</a>",
+            "pubdate": "Thu, 16 Mar 2023 13:00:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                16
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
