@@ -1090,6 +1090,17 @@
                 16
             ],
             "email_sent": true
+        },
+        "NVIDIA CEO to Reveal Whats Next for AI at GTC": {
+            "url": "https://blogs.nvidia.com/blog/2023/03/16/next-ai-gtc/",
+            "description": "The secret\u2019s out. Thanks to ChatGPT, everyone knows about the power of modern AI. To find out what\u2019s coming next, tune in to NVIDIA founder and CEO Jensen Huang\u2019s keynote address at NVIDIA GTC on Tuesday, March 21, at 8 a.m. Pacific. Huang will share his vision for the future of AI and how NVIDIA <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/03/16/next-ai-gtc/\">Read article &#62;</a>",
+            "pubdate": "Fri, 17 Mar 2023 00:46:40 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                17
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
