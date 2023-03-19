@@ -6820,6 +6820,17 @@
                 15
             ],
             "email_sent": true
+        },
+        "What is a Solution Architect atNVIDIA?": {
+            "url": "https://www.louisbouchard.ai/solution-architect/",
+            "description": "An interview with Adam Grzywaczewski, senior data scientist at NVIDIA",
+            "pubdate": "Sun, 19 Mar 2023 03:30:57 GMT",
+            "pubdate_parsed": [
+                2023,
+                3,
+                19
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
