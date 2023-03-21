@@ -7819,6 +7819,17 @@
                 8
             ],
             "email_sent": true
+        },
+        "AI trends in 2023: Graph Neural Networks": {
+            "url": "https://www.assemblyai.com/blog/ai-trends-graph-neural-networks/",
+            "description": "From fundamental research to productionized AI models, let\u2019s discover how this cutting-edge technology is powering production applications and may be shaping the future of AI.",
+            "pubdate": "Tue, 21 Mar 2023 10:23:28 GMT",
+            "pubdate_parsed": [
+                2023,
+                3,
+                21
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
