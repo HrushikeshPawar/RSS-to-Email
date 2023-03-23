@@ -1101,6 +1101,17 @@
                 17
             ],
             "email_sent": true
+        },
+        "GFN Thursday Celebrates 1,500+ Games and Their Journey to GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/03/23/geforce-now-thursday-march-23/",
+            "description": "Gamers love games \u2014 as do the people who make them. GeForce NOW streams over 1,500 games from the cloud, and with the Game Developers Conference in full swing this week, today\u2019s GFN Thursday celebrates all things games: the tech behind them, the tools that bring them to the cloud, the ways to play them <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/03/23/geforce-now-thursday-march-23/\">Read article &#62;</a>",
+            "pubdate": "Thu, 23 Mar 2023 13:00:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                23
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
