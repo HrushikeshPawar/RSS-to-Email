@@ -6466,6 +6466,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "Correlation and Causation: What are the Differences?": {
+            "url": "https://towardsai.net/p/machine-learning/correlation-and-causation-what-are-the-differences",
+            "description": "Last Updated on March 23, 2023 by Editorial Team Author(s): Cornellius Yudha Wijaya &#160; Originally published on Towards AI. Learn the differences between both concepts Photo by Sam Moghadam Khamseh on Unsplash In statistics and data science, we often encounter correlation and causation terms. Albeit, the correlation was mentioned more often compared to causation. Nevertheless, their meaning is often associated with how two variables are related. However, correlation and causation are two different terms that stand by their definition. It&#8217;s two different concepts that might be intertwined and used together, but we still need to know the differences. So, what are correlation and causation? Also, what are the differences between them and their usefulness? Let&#8217;s explore the concept a little bit. Correlation and Causation Correlation Let&#8217;s&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 24 Mar 2023 00:11:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                24
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
