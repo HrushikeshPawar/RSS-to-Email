@@ -9046,6 +9046,17 @@
                 3
             ],
             "email_sent": true
+        },
+        "Accelerating Stable Diffusion Inference on Intel CPUs": {
+            "url": "https://huggingface.co/blog/stable-diffusion-inference-intel",
+            "description": null,
+            "pubdate": "Tue, 28 Mar 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                3,
+                28
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
