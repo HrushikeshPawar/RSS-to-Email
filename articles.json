@@ -1112,6 +1112,17 @@
                 23
             ],
             "email_sent": true
+        },
+        "Blender Update 3.5 Fuels 3D Content Creation, Powered by NVIDIA GeForce RTX GPUs": {
+            "url": "https://blogs.nvidia.com/blog/2023/03/29/blender-3-5-release/",
+            "description": "Blender, the world\u2019s most popular 3D creation suite \u2014 free and open source \u2014 released its major version 3.5 update. Expected to have a profound impact on 3D creative workflows, this latest release features support for Open Shading Language (OSL) shaders with the NVIDIA OptiX ray-tracing engine.",
+            "pubdate": "Wed, 29 Mar 2023 13:00:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                29
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
