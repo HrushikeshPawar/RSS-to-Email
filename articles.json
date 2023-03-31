@@ -1158,6 +1158,17 @@
                 10
             ],
             "email_sent": true
+        },
+        "Are Model Explanations Useful in Practice? Rethinking How to Support Human-ML Interactions.": {
+            "url": "https://blog.ml.cmu.edu/2023/03/30/are-model-explanations-useful-in-practice-rethinking-how-to-support-human-ml-interactions/",
+            "description": "Model explanations have been touted as crucial information to facilitate human-ML interactions in many real-world applications where end users make decisions informed by ML predictions. For example, explanations are thought to assist model developers in identifying when models rely on spurious artifacts and to aid domain experts in determining whether to follow a model\u2019s prediction. However, while numerous explainable AI (XAI) methods have been developed, XAI has yet to deliver on this promise. XAI methods are typically optimized for diverse but narrow technical objectives disconnected from their claimed use cases. To connect methods to concrete use cases, we argued in our Communications of ACM paper [1] for researchers to rigorously evaluate how well proposed methods can help real users in their real-world applications.&#160; Towards bridging this gap, our group has since completed two collaborative projects where we worked with domain experts in e-commerce fraud detection and paper matching for peer review. Through these efforts, we\u2019ve gleaned the following two insights: Existing XAI methods are not useful for decision-making. Presenting humans with popular, general-purpose XAI methods does not improve their performance on real-world use cases that motivated the development of these methods. Our negative findings align with those of contemporaneous works. [&#8230;]",
+            "pubdate": "Fri, 31 Mar 2023 03:32:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                3,
+                31
+            ],
+            "email_sent": true
         }
     },
     "TensorFlow Blog": {
