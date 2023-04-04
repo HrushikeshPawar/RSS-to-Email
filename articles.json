@@ -1134,6 +1134,17 @@
                 30
             ],
             "email_sent": true
+        },
+        "Video Editor Patrick Stirling Invents Custom Effect for DaVinci Resolve Software": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/04/davinci-resolve-fusion-ai-effects/",
+            "description": "Video editor Patrick Stirling used the Magic Mask feature in Blackmagic Design\u2019s DaVinci Resolve software to create a custom effect that creates textured animations of people, this week In the NVIDIA Studio.",
+            "pubdate": "Tue, 04 Apr 2023 13:00:31 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                4
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -1699,6 +1710,17 @@
                 2023,
                 3,
                 13
+            ],
+            "email_sent": true
+        },
+        "Deep Learning with PyTorch (9-Day Mini-Course)": {
+            "url": "https://machinelearningmastery.com/deep-learning-with-pytorch-9-day-mini-course/",
+            "description": "<p>Last Updated on April 4, 2023 Deep learning is a fascinating field of study and the techniques are achieving world class results in a range of challenging machine learning problems. It can be hard to get started in deep learning.Which library should you use and which techniques should you focus on? In this 9-part crash [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/deep-learning-with-pytorch-9-day-mini-course/\" rel=\"nofollow\">Deep Learning with PyTorch (9-Day Mini-Course)</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Tue, 04 Apr 2023 05:28:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                4
             ],
             "email_sent": true
         }
