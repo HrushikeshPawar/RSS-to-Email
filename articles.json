@@ -4392,6 +4392,17 @@
                 14
             ],
             "email_sent": true
+        },
+        "Ask a Techspert: What is generative AI?": {
+            "url": "https://blog.google/inside-google/googlers/ask-a-techspert/what-is-generative-ai/",
+            "description": "illustration of lines and dots",
+            "pubdate": "Tue, 11 Apr 2023 13:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                11
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -7960,6 +7971,17 @@
                 2023,
                 3,
                 21
+            ],
+            "email_sent": true
+        },
+        "How AI-powered transcription helped a hiring intelligence platform cut time spent on manual tasks by 90% for its customers": {
+            "url": "https://www.assemblyai.com/blog/how-ai-powered-transcription-helped-a-hiring-intelligence-platform-cut-time-spent-on-manual-tasks-by-90-for-its-customers/",
+            "description": "Hiring intelligence platform Screenloop builds features using AI-powered transcription that reduce time-to-hire, limit candidate drop-off, and increase offer acceptance for end users.",
+            "pubdate": "Tue, 11 Apr 2023 12:27:23 GMT",
+            "pubdate_parsed": [
+                2023,
+                4,
+                11
             ],
             "email_sent": true
         }
