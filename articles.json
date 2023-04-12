@@ -1156,6 +1156,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "The New Standard in Gaming: GeForce RTX Gamers Embrace Ray Tracing, DLSS in Record Numbers": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/12/ray-tracing-dlss/",
+            "description": "Creating a map requires masterful geographical knowledge, artistic skill and evolving technologies that have taken people from using hand-drawn sketches to satellite imagery. Just as important, changes need to be navigated in the way people consume maps, from paper charts to GPS navigation and interactive online charts. The way people think about video games is <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/04/12/ray-tracing-dlss/\">Read article &#62;</a>",
+            "pubdate": "Wed, 12 Apr 2023 13:00:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                12
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -6576,6 +6587,17 @@
                 24
             ],
             "email_sent": true
+        },
+        "Trends in AI  April 2023 // GPT-4, New Prompting Tricks, Zero-shot Video Generation": {
+            "url": "https://towardsai.net/p/machine-learning/trends-in-ai-april-2023-gpt-4-new-prompting-tricks-zero-shot-video-generation",
+            "description": "Last Updated on April 12, 2023 by Editorial Team Author(s): Sergi Castella i Sap\u00e9 Originally published on Towards AI. GPT-4 has arrived; it\u2019s already everywhere. ChatGPT plugins bring augmented LMs to the masses, new Language Model tricks are discovered, Diffusion models for video generation, Neural Radiance Fields, and more. Just three weeks after the announcement of GPT-4, it already feels like it\u2019s been with us forever. Meanwhile, an open letter with high-profile signatories calling for a stop on giant AI experiments went viral, and subsequently, the AGI discourse has been unleashed and Eliezer Yudkowsky\u2019s imminent superintelligence doom existential risk theories have made it to Times Magazine. If you\u2019ve got a case of existential angst over a hypothetical intelligence explosion, here\u2019s a phenomenal based take from Julian Togelius that can soothe your soul. With that out of the way, let\u2019s start looking at what happened recently in the AI world. ????\ufe0f News ChatGPT plugins: ChatGPT can now interact with external modules via natural language and act as an augmented language model. For instance, using WolframAlpha for information about the world and sound computation, or Kayak to search for flights, stays or rental cars. Italy banned ChatGPT temporarily last week on the grounds that it violates GDPR. While OpenAI complied with the ban, this has left the EU in a weird spot with growing uncertainties about what Language Model technologies will be allowed in the old continent. Stanford\u2019s Center for Research on Foundation Models (CRFM) unveiled Alpaca, an instruction-following model trained by distilling OpenAI\u2019s models using Meta\u2019s LLAMA as a base model. Since then, the past couple of weeks has seen a good amount of similar open-source distillations from GPT models, such as Vicuna (Post, Demo, Repo) an up to 13B instruction-following model trained by distilling from conversations people have shared from ChatGPT (via ShareGPT). Stanford released their annual AI Index Report for 2023, highlighting, among others, how much AI research has shifted from academia into the industry and quantifying the growth that the field has experienced in the past decade. Midjourney (an independent research lab) has the world in awe with its new v5 image generation model. Adobe is building competing products for its creative suit, but it looks like they are struggling to have on-par quality, as they\u2019re more cautious with training data to avoid using copyrighted data inadvertently. Runway \u2014 the company behind Stable Diffusion \u2014 has been touting their new video generation product Gen 2. Nvidia announced during their latest developer conference their efforts to become the leading foundry for large foundation models. Clients will be able to define a model they want to train and Nvidia will use their infrastructure and expertise to train the model for them. Meanwhile, Google outlined in more detail their latest TPU v4 accelerators in their latest paper. GitHub announced Copilot X, a big update to Copilot that adds chat and voice interface features, supports pull request completions, question answering on documentation, and adopts GPT-4. ???? Research This month, our selection of research includes GPT-4, applications of language models, diffusion models, computer vision, video generation, recommender systems, and neural radiance fields. 1. GPT-4 Technical Report // Sparks of Artificial General Intelligence: Early experiments with GPT-4 By S\u00e9bastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang. \u2753 Why \u2192 The already famous GPT-4 from OpenAI has been the uncontested star this past month. But its release has generated more questions than its technical report chose to answer. Hence the addition here of the massive evaluation paper that examines its behavior in more detail. Of course, the writing of this very text was aided by GPT-4. ???? Key insights \u2192 This evaluation paper is filled with samples and anecdotes from GPT-4 experiments. While this cherry-picking approach is unapologetically motivated and biased, it turns out to be an essential tool for grasping the behavior of this powerful model. Not a replacement for the big tables with bold numbers, but a necessary companion. The hilarious example: how GPT-4 ability to draw a unicorn in TikZ (LaTeX) improved over time while the model was still under active development. Source: https://arxiv.org/pdf/2303.08774.pdf The 155-page evaluation report covers a vast range of topics, such as multimodal capabilities, mathematical reasoning, coding, human interaction, and societal influences. The authors argue that GPT-4 shows some behavior that could be labeled general intelligence while acknowledging its limitations and caveats. The cluelessness of Microsoft\u2019s researchers highlights the secrecy involved in this project: the authors from the very tech giant who partnered with OpenAI and provided the infrastructure for training GPT-4 didn\u2019t seem to have details of GPT-4 beyond having access to a mysterious API endpoint. 2. Larger language models do in-context learning differently By Jerry Wei, Jason Wei, Yi Tay, Dustin Tran, Albert Webson, Yifeng Lu, Xinyun Chen, Hanxiao Liu, Da Huang, Denny Zhou, Tengyu Ma. \u2753 Why \u2192 The emergence of complex in-context learning in large language models has piqued everyone\u2019s interest. This article delves into some niche but fascinating emerging capabilities from large language models that are not present in their smaller counterparts. ???? Key insights \u2192 Larger models possess unique abilities that smaller models simply can\u2019t replicate, no matter how much data and effort is put to into it. For example, large models can learn within the prompt to flip labels and learn new mappings, such as reversing the sentiment labels of sentences (e.g., positive sentences are labeled negative and vice versa). Source: https://arxiv.org/pdf/2303.03846.pdf The main emergence study reveals: Large models learn to flip labels, while smaller models stick to their pre-trained knowledge, continuing to label positive as positive and negative as negative. Semantically unrelated labels (SUL) emerge with scale, where the models label things with tokens that are not words. Instruction-tuned models strengthen both the use of semantic priors and the capacity to learn input-label mappings. However, they place more emphasis on the former aspect. 3. Reflexion: an autonomous [&#8230;]",
+            "pubdate": "Wed, 12 Apr 2023 04:01:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                12
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -7987,7 +8009,19 @@
         }
     },
     "Javier ML Blog": {},
-    "Data School": {},
+    "Data School": {
+        "Building a dataset of Python versions with regular expressions": {
+            "url": "https://www.dataschool.io/web-scraping-with-regex/",
+            "description": "Learn how to use pandas, requests, and regular expressions  (\"regex\") to create a dataset of every Python version and its release date!",
+            "pubdate": "Wed, 12 Apr 2023 13:29:32 GMT",
+            "pubdate_parsed": [
+                2023,
+                4,
+                12
+            ],
+            "email_sent": true
+        }
+    },
     "Lil'Log": {
         "Learning with not Enough Data Part 2: Active Learning": {
             "url": "https://lilianweng.github.io/posts/2022-02-20-active-learning/",
