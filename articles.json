@@ -1167,6 +1167,28 @@
                 12
             ],
             "email_sent": true
+        },
+        "New GeForce RTX 4070 GPU Dramatically Accelerates Creativity": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/13/geforce-rtx-4070-studio-creators/",
+            "description": "The GeForce RTX 4070 GPU, the latest in the 40 Series lineup, is available today starting at $599. It comes backed by NVIDIA Studio technologies, including hardware acceleration for 3D, video and AI workflows; optimizations for RTX hardware in over 110 popular creative apps; and exclusive NVIDIA Studio apps like Omniverse, Broadcast, Canvas and RTX Remix.",
+            "pubdate": "Thu, 13 Apr 2023 13:00:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                13
+            ],
+            "email_sent": true
+        },
+        "A Gripping New Adventure: GeForce NOW Brings Titles From Bandai Namco Europe to the Cloud, Including Little Nightmares Series": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/13/geforce-now-thursday-april-13/",
+            "description": "A new adventure with publisher Bandai Namco Europe kicks off this GFN Thursday. Some of its popular titles lead seven new games joining the cloud this week. Plus, gamers can play them on more devices than ever, with native 4K streaming for GeForce NOW available on select LG Smart TVs. Better Together Bandai Namco is <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/04/13/geforce-now-thursday-april-13/\">Read article &#62;</a>",
+            "pubdate": "Thu, 13 Apr 2023 13:00:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                13
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
