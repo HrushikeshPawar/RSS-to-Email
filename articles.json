@@ -9212,6 +9212,17 @@
                 28
             ],
             "email_sent": true
+        },
+        "Graph Classification with Transformers": {
+            "url": "https://huggingface.co/blog/graphml-classification",
+            "description": null,
+            "pubdate": "Fri, 14 Apr 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                4,
+                14
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
