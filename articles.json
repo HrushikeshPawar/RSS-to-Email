@@ -1189,6 +1189,17 @@
                 13
             ],
             "email_sent": true
+        },
+        "NVIDIA Studio Creators Take Collaboration to Bone-Chilling New Heights": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/19/studio-omniverse-usd-composer-animation/",
+            "description": "This week\u2019s In the NVIDIA Studio artists specializing in 3D, Gianluca Squillace and Pasquale Scionti, benefitted from just that \u2014 in their individual work and in collaborating to construct the final scene for their project, Cold Inside Diorama.",
+            "pubdate": "Wed, 19 Apr 2023 13:00:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                19
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -7016,6 +7027,17 @@
                 2023,
                 4,
                 16
+            ],
+            "email_sent": true
+        },
+        "Break into AI in 2023: Best Resume & Interview Tips with Brian Burns (AI Pub) - What's AI Podcast Episode 9": {
+            "url": "https://www.louisbouchard.ai/brian-burns/",
+            "description": "Ph.D., Twitter, Breaking into the AI Field, and more with Brian Burns (AI\u00a0Pub)",
+            "pubdate": "Wed, 19 Apr 2023 12:17:29 GMT",
+            "pubdate_parsed": [
+                2023,
+                4,
+                19
             ],
             "email_sent": true
         }
