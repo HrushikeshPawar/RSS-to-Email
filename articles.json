@@ -1222,6 +1222,17 @@
                 20
             ],
             "email_sent": true
+        },
+        "Epic Benefits: Omniverse Connector for Unreal Engine Saves Content Creators Time and Effort": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/21/epic-benefits-omniverse-connector-unreal-engine/",
+            "description": "Content creators using Epic Games\u2019 open, advanced real-time 3D creation tool, Unreal Engine, are now equipped with more features to bring their work to life with NVIDIA Omniverse, a platform for creating and operating metaverse applications. The Omniverse Connector for Unreal Engine\u2019s 201.0 update brings significant enhancements to creative workflows using both open platforms. Streamlining <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/04/21/epic-benefits-omniverse-connector-unreal-engine/\">Read article &#62;</a>",
+            "pubdate": "Fri, 21 Apr 2023 13:00:43 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                21
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -4467,6 +4478,17 @@
                 2023,
                 4,
                 11
+            ],
+            "email_sent": true
+        },
+        "Bard now helps you code": {
+            "url": "https://blog.google/technology/ai/code-with-bard/",
+            "description": "An animated GIF displaying text of how \u201cBard can help you\u201d: debug your lines of source code, generate documentation and tutorials for source code, explain your code to you line by line, translate your code from one language to another.",
+            "pubdate": "Fri, 21 Apr 2023 13:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                21
             ],
             "email_sent": true
         }
