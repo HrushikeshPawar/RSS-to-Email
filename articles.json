@@ -1233,6 +1233,17 @@
                 21
             ],
             "email_sent": true
+        },
+        "Right on Track: NVIDIA Open-Source Software Helps Developers Add Guardrails to AI Chatbots": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/25/ai-chatbot-guardrails-nemo/",
+            "description": "Newly released open-source software can help developers guide generative AI applications to create impressive text responses that stay on track. NeMo Guardrails will help ensure smart applications powered by large language models (LLMs) are accurate, appropriate, on topic and secure. The software includes all the code, examples and documentation businesses need to add safety to <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/04/25/ai-chatbot-guardrails-nemo/\">Read article &#62;</a>",
+            "pubdate": "Tue, 25 Apr 2023 13:00:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                25
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
