@@ -1244,6 +1244,28 @@
                 25
             ],
             "email_sent": true
+        },
+        "Viral NVIDIA Broadcast Demo Drops Hammer on Imperfect Audio This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/26/broadcast-ai-effects-noise-echo-removal/",
+            "description": "Spotlighted by this week\u2019s In the NVIDIA Studio featured artist Unmesh Dinda, NVIDIA Broadcast transforms the homes, apartments and dorm rooms of content creators, livestreamers and people working from home through the power of AI \u2014 all without the need for specialized equipment.",
+            "pubdate": "Wed, 26 Apr 2023 13:00:23 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                26
+            ],
+            "email_sent": true
+        },
+        "The Future of Intelligent Vehicle Interiors: Building Trust with HMI & AI": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/26/intelligent-vehicle-interiors/",
+            "description": "Imagine a future where your vehicle\u2019s interior offers personalized experiences and builds trust through human-machine interfaces (HMI) and AI. In this episode of the NVIDIA AI Podcast, Andreas Binner, chief technology officer at Rightware, delves into this fascinating topic with host Katie Burke Washabaugh. Rightware is a Helsinki-based company at the forefront of developing in-vehicle <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/04/26/intelligent-vehicle-interiors/\">Read article &#62;</a>",
+            "pubdate": "Wed, 26 Apr 2023 13:00:18 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                26
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -7095,6 +7117,17 @@
                 19
             ],
             "email_sent": true
+        },
+        "How AI Enhances Writing & Affects Journalism": {
+            "url": "https://www.louisbouchard.ai/ai-writing/",
+            "description": "An interview with Limarc Ambalina, VP of Editorial at HackerNoon",
+            "pubdate": "Wed, 26 Apr 2023 12:10:39 GMT",
+            "pubdate_parsed": [
+                2023,
+                4,
+                26
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
@@ -8114,6 +8147,17 @@
                 2023,
                 4,
                 11
+            ],
+            "email_sent": true
+        },
+        "How Grain builds with AI to generate powerful insights from customer meetings": {
+            "url": "https://www.assemblyai.com/blog/grain-builds-ai-powerful-insights-customer-meetings/",
+            "description": "AI-powered meeting recorder Grain integrates AssemblyAI's Core Transcription model to create highly accurate transcripts that translate into better intelligent insights for Grain\u2019s core customers.",
+            "pubdate": "Wed, 26 Apr 2023 12:03:46 GMT",
+            "pubdate_parsed": [
+                2023,
+                4,
+                26
             ],
             "email_sent": true
         }
