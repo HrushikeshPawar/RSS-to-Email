@@ -483,6 +483,17 @@
                 8
             ],
             "email_sent": true
+        },
+        "DeepMinds latest research at ICLR 2023": {
+            "url": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023",
+            "description": "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers from around the world will gather to share their cutting-edge work in deep learning spanning the fields of AI, statistics and data science, and applications including machine vision, gaming and robotics. We\u2019re proud to support the conference as a Diamond sponsor and DEI champion.",
+            "pubdate": "Thu, 27 Apr 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                4,
+                27
+            ],
+            "email_sent": true
         }
     },
     "Nvidia Blog": {
@@ -1264,6 +1275,17 @@
                 2023,
                 4,
                 26
+            ],
+            "email_sent": true
+        },
+        "Welcome to the Family: GeForce NOW, Capcom Bring Resident Evil Titles to the Cloud": {
+            "url": "https://blogs.nvidia.com/blog/2023/04/27/geforce-now-thursday-april-27/",
+            "description": "Horror descends from the cloud this GFN Thursday with the arrival of publisher Capcom\u2019s iconic Resident Evil series. They\u2019re part of nine new games expanding the GeForce NOW library of over 1,600 titles. RTX 4080 SuperPODs are now live in Miami, Portland, Ore., and Stockholm. Follow along with the server rollout process, and make the <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/04/27/geforce-now-thursday-april-27/\">Read article &#62;</a>",
+            "pubdate": "Thu, 27 Apr 2023 13:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                4,
+                27
             ],
             "email_sent": true
         }
@@ -9353,6 +9375,17 @@
                 2023,
                 4,
                 14
+            ],
+            "email_sent": true
+        },
+        "Training a language model with Transformers using TensorFlow and TPUs": {
+            "url": "https://huggingface.co/blog/tf_tpu",
+            "description": null,
+            "pubdate": "Thu, 27 Apr 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                4,
+                27
             ],
             "email_sent": true
         }
