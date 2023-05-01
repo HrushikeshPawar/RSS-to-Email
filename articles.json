@@ -1288,6 +1288,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "Now Shipping: DGX H100 Systems Bring Advanced AI Capabilities to Industries Worldwide": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/01/dgx-h100-systems-shipping/",
+            "description": "Customers from Japan to Ecuador and Sweden are using NVIDIA DGX H100 systems like AI factories to manufacture intelligence. They\u2019re creating services that offer AI-driven insights in finance, healthcare, law, IT and telecom \u2014 and working to transform their industries in the process. Among the dozens of use cases, one aims to predict how factory <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/01/dgx-h100-systems-shipping/\">Read article &#62;</a>",
+            "pubdate": "Mon, 01 May 2023 13:15:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                1
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
