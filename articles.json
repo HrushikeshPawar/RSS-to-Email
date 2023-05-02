@@ -1299,6 +1299,17 @@
                 1
             ],
             "email_sent": true
+        },
+        "Renders and Dragons Rule Creative Kingdoms This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/02/blender-optix-ai/",
+            "description": "Content creator Grant Abbitt embodies selflessness, one of the best qualities that a creative can possess. Passionate about giving back to the creative community, Abbitt offers inspiration, guidance and free education for others in his field through YouTube tutorials.",
+            "pubdate": "Tue, 02 May 2023 13:00:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                2
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
