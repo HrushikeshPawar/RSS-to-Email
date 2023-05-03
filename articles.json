@@ -4113,6 +4113,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "Amazon provides gift to 10 Penn PhD students for work on trustworthy AI": {
+            "url": "https://www.amazon.science/news-and-features/amazon-provides-gift-to-10-penn-engineering-phd-students-for-work-on-trustworthy-ai",
+            "description": "Projects are centered around themes of fairness, privacy, explainability, and interpretability.",
+            "pubdate": "Wed, 03 May 2023 12:59:01 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                3
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -4566,6 +4577,17 @@
                 2023,
                 4,
                 21
+            ],
+            "email_sent": true
+        },
+        "Try 4 new Arts and AI experiments": {
+            "url": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
+            "description": "A gif running through all 4 experiments",
+            "pubdate": "Wed, 03 May 2023 09:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                3
             ],
             "email_sent": true
         }
@@ -8213,6 +8235,17 @@
                 2023,
                 4,
                 26
+            ],
+            "email_sent": true
+        },
+        "The Full Story of Large Language Models and RLHF": {
+            "url": "https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/",
+            "description": "Large Language Models have been in the limelight since the release of ChatGPT, with new models being announced seemingly every week. This guide walks through the essential ideas of how these models came to be.",
+            "pubdate": "Wed, 03 May 2023 08:20:11 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                3
             ],
             "email_sent": true
         }
