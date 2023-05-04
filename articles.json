@@ -1310,6 +1310,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "GeForce NOW Makes May-hem With 16 New Games, Including The Lord of the Rings: Gollum": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/04/geforce-now-thursday-may-4/",
+            "description": "What has it got in its pocketses? More games coming in May, that\u2019s what. GFN Thursday gets the summer started early with two newly supported games this week and 16 more coming later this month \u2014 including The Lord of the Rings: Gollum. Don\u2019t forget to take advantage of the limited-time discount on six-month Priority <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/04/geforce-now-thursday-may-4/\">Read article &#62;</a>",
+            "pubdate": "Thu, 04 May 2023 13:00:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                4
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -8246,6 +8257,17 @@
                 2023,
                 5,
                 3
+            ],
+            "email_sent": true
+        },
+        "How AI helps Marvin's users spend 60% less time analyzing research data": {
+            "url": "https://www.assemblyai.com/blog/ai-helps-marvins-users-spend-60-less-time-analyzing-research-data/",
+            "description": "Learn how Marvin's product team embedded powerful AI models, like AssemblyAI\u2019s Core Transcription and PII Redaction models, into the user research platform that help users spend less time wrestling with data and more time making sense of it, driving improved ROI and intelligent insights.",
+            "pubdate": "Thu, 04 May 2023 10:58:54 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                4
             ],
             "email_sent": true
         }
