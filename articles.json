@@ -7205,6 +7205,17 @@
                 26
             ],
             "email_sent": true
+        },
+        "Perfusion: Stable Diffusion but more Controllable!": {
+            "url": "https://www.louisbouchard.ai/perfusion/",
+            "description": "The new Perfusion model by NVIDIA Explained",
+            "pubdate": "Fri, 05 May 2023 11:19:09 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                5
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
