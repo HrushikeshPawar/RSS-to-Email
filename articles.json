@@ -4601,6 +4601,17 @@
                 3
             ],
             "email_sent": true
+        },
+        "How 4 startups are using AI to solve climate change challenges": {
+            "url": "https://blog.google/outreach-initiatives/entrepreneurs/how-4-startups-are-using-ai-to-solve-climate-change-challenges/",
+            "description": "A group of approximately 35 people stand outside a building on a gravel surface. Some kneel while others stand behind them, all smiling and looking at the camera. They all wear Google for Startups badges and coats.",
+            "pubdate": "Mon, 08 May 2023 11:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                8
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -9485,6 +9496,17 @@
                 2023,
                 4,
                 27
+            ],
+            "email_sent": true
+        },
+        "A Dive into Text-to-Video Models": {
+            "url": "https://huggingface.co/blog/text-to-video",
+            "description": null,
+            "pubdate": "Mon, 08 May 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                8
             ],
             "email_sent": true
         }
