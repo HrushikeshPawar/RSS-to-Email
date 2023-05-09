@@ -1321,6 +1321,17 @@
                 4
             ],
             "email_sent": true
+        },
+        "Explore the Hidden Temple of Itzamn This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/09/unreal-engine-lumen-dlss/",
+            "description": "3D artist Milan Dey finds inspiration in games, movies, comics and pop culture. He drew from all of the above when creating a stunning 3D scene of Mayan ruins, The Hidden Temple of Itzamn\u00e1, this week In the NVIDIA Studio.",
+            "pubdate": "Tue, 09 May 2023 13:00:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                9
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -9520,6 +9531,17 @@
                 2023,
                 1,
                 20
+            ],
+            "email_sent": true
+        },
+        "A Botes Shaped Addendum to Writing Mystery Hunt 2023": {
+            "url": "http://www.alexirpan.com/2023/05/09/bootes-2023.html",
+            "description": "<p>I promise this will not be as long as the <a href=\"https://www.alexirpan.com/2023/04/21/mh-2023.html\">previous post</a>,\nbut I will assume you\u2019ve read it.</p>",
+            "pubdate": "Tue, 09 May 2023 01:34:00 -0700",
+            "pubdate_parsed": [
+                2023,
+                5,
+                9
             ],
             "email_sent": true
         }
