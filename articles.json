@@ -1332,6 +1332,17 @@
                 9
             ],
             "email_sent": true
+        },
+        "How AI and Crowdsourcing Can Advance mRNA Vaccine Distribution": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/10/vaccine-mrna/",
+            "description": "Artificial intelligence is teaming up with crowdsourcing to improve the thermo-stability &#8211; the ability to avoid breaking down under heat stress &#8211;\u00a0 of mRNA vaccines, making distribution more accessible worldwide. In this episode of NVIDIA&#8217;s AI Podcast, host Noah Kravitz interviewed Bojan Tunguz, a physicist and senior system software engineer at NVIDIA, and Johnny Israeli, <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/10/vaccine-mrna/\">Read article &#62;</a>",
+            "pubdate": "Wed, 10 May 2023 13:00:18 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                10
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
