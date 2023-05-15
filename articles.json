@@ -9531,6 +9531,28 @@
                 8
             ],
             "email_sent": true
+        },
+        "Run a Chatgpt-like Chatbot on a Single GPU with ROCm": {
+            "url": "https://huggingface.co/blog/chatbot-amd-gpu",
+            "description": null,
+            "pubdate": "Mon, 15 May 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                15
+            ],
+            "email_sent": true
+        },
+        "Introducing RWKV  An RNN with the advantages of a transformer": {
+            "url": "https://huggingface.co/blog/rwkv",
+            "description": null,
+            "pubdate": "Mon, 15 May 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                15
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
