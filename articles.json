@@ -1343,6 +1343,28 @@
                 10
             ],
             "email_sent": true
+        },
+        "Mammoth Mission: How Colossal Biosciences Aims to De-Extinct the Woolly Mammoth": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/16/colossal-biosciences-de-extinct-woolly-mammoth-parabricks/",
+            "description": "Ten thousand years after the last woolly mammoths vanished with the last Ice Age, a team of computational biologists is on a mission to bring them back within five years. Led by synthetic biology pioneer George Church, Colossal Biosciences is also seeking to return the dodo bird and Tasmanian tiger, as well as help save <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/16/colossal-biosciences-de-extinct-woolly-mammoth-parabricks/\">Read article &#62;</a>",
+            "pubdate": "Tue, 16 May 2023 13:00:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                16
+            ],
+            "email_sent": true
+        },
+        "Chip Manufacturing Ideal Application for AI, NVIDIA CEO Says": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/16/itf-world-2023/",
+            "description": "Chip manufacturing is an \u201cideal application\u201d for NVIDIA accelerated and AI computing, NVIDIA founder and CEO Jensen Huang said Tuesday. Detailing how the latest advancements in computing are accelerating \u201cthe world\u2019s most important industry,\u201d Huang spoke at ITF World 2023 semiconductor conference in Antwerp, Belgium. Huang delivered his remarks via video to a gathering of <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/16/itf-world-2023/\">Read article &#62;</a>",
+            "pubdate": "Tue, 16 May 2023 09:00:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                16
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -7249,6 +7271,17 @@
                 5
             ],
             "email_sent": true
+        },
+        "Copilot, ChatGPT and Copyrights": {
+            "url": "https://www.louisbouchard.ai/copilot-chatgpt-and-copyrights/",
+            "description": "An interview with David Mertz, senior developer, data scientist, and\u00a0author",
+            "pubdate": "Tue, 16 May 2023 10:52:58 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                16
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
@@ -8312,6 +8345,17 @@
                 2023,
                 5,
                 4
+            ],
+            "email_sent": true
+        },
+        "3 ways to build and deploy AI tools and features faster": {
+            "url": "https://www.assemblyai.com/blog/3-ways-build-deploy-ai-tools-features-faster/",
+            "description": "This blog post examines some of the top blockers facing companies looking to build with AI, as well as explores solutions to building and deploying successful AI tools and features faster.",
+            "pubdate": "Tue, 16 May 2023 12:15:38 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                16
             ],
             "email_sent": true
         }
@@ -9551,6 +9595,17 @@
                 2023,
                 5,
                 15
+            ],
+            "email_sent": true
+        },
+        "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon": {
+            "url": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
+            "description": null,
+            "pubdate": "Tue, 16 May 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                16
             ],
             "email_sent": true
         }
