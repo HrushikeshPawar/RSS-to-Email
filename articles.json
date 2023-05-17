@@ -1365,6 +1365,17 @@
                 16
             ],
             "email_sent": true
+        },
+        "Into the Omniverse: Adobe Substance 3D, NVIDIA Omniverse Enhance Creative Freedom Within 3D Workflows": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/17/adobe-substance-3d-omniverse-enhance-creative-freedom/",
+            "description": "An update to the Omniverse Connector for Adobe Substance 3D Painter will save 3D creators across industries significant time and effort.",
+            "pubdate": "Wed, 17 May 2023 13:00:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                17
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
