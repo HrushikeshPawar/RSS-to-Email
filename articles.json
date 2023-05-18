@@ -1376,6 +1376,28 @@
                 17
             ],
             "email_sent": true
+        },
+        "Beyond Fast: GeForce RTX 4060 GPU Family Gives Creators More Options to Accelerate Workflows, Starting at $299": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/18/geforce-rtx-4060-ti/",
+            "description": "The GeForce RTX 4060 family will be available starting next week, bringing massive creator benefits to the popular 60-class GPUs.",
+            "pubdate": "Thu, 18 May 2023 13:00:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                18
+            ],
+            "email_sent": true
+        },
+        "First Xbox Title Joins GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/18/geforce-now-thursday-may-18/",
+            "description": "Get ready for action \u2014 the first Xbox game title is now streaming from GeForce GPUs in the cloud directly to GeForce NOW members, with more to come later this month. Gears 5 comes to the service this GFN Thursday. Keep reading to find out what other entries from the Xbox library will be streaming <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/18/geforce-now-thursday-may-18/\">Read article &#62;</a>",
+            "pubdate": "Thu, 18 May 2023 13:00:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                18
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
