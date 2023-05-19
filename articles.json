@@ -4700,6 +4700,17 @@
                 8
             ],
             "email_sent": true
+        },
+        "A policy agenda for responsible AI progress: Opportunity, Responsibility, Security": {
+            "url": "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/",
+            "description": "Illustration of a light bulb, compass and shield with connecting lines",
+            "pubdate": "Fri, 19 May 2023 10:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                19
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
