@@ -1976,6 +1976,17 @@
                 4
             ],
             "email_sent": true
+        },
+        "What are Large Language Models": {
+            "url": "https://machinelearningmastery.com/what-are-large-language-models/",
+            "description": "<p>Last Updated on May 19, 2023 Large language models (LLMs) are recent advances in deep learning models to work on human languages. Some great use case of LLMs has been demonstrated. A large language model is a trained deep-learning model that understands and generates text in a human-like fashion. Behind the scene, it is a [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/what-are-large-language-models/\" rel=\"nofollow\">What are Large Language Models</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Fri, 19 May 2023 02:46:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                19
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
