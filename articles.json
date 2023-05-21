@@ -1987,6 +1987,17 @@
                 19
             ],
             "email_sent": true
+        },
+        "Get a Taste of LLMs from GPT4All": {
+            "url": "https://machinelearningmastery.com/get-a-taste-of-llms-from-gpt4all/",
+            "description": "<p>Large language models have become popular recently. ChatGPT is fashionable. Trying out ChatGPT to understand what LLMs are about is easy, but sometimes, you may want an offline alternative that can run on your computer. In this post, you will learn about GPT4All as an LLM that you can install on your computer. In particular, [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/get-a-taste-of-llms-from-gpt4all/\" rel=\"nofollow\">Get a Taste of LLMs from GPT4All</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Sun, 21 May 2023 03:19:44 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                21
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
