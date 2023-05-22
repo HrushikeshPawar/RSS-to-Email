@@ -1398,6 +1398,17 @@
                 18
             ],
             "email_sent": true
+        },
+        "Whats Up? Watts Down  More Science, Less Energy": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/21/gpu-energy-efficiency-nersc/",
+            "description": "People agree: accelerated computing is energy-efficient computing. The National Energy Research Scientific Computing Center (NERSC), the U.S. Department of Energy\u2019s lead facility for open science, measured results across four of its key high performance computing and AI applications. They clocked how fast the applications ran and how much energy they consumed on CPU-only and GPU-accelerated <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/21/gpu-energy-efficiency-nersc/\">Read article &#62;</a>",
+            "pubdate": "Mon, 22 May 2023 06:00:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                22
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
