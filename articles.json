@@ -1409,6 +1409,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "Privateer Space: The Final Frontier in AI Space Junk Management": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/23/privateer-space/",
+            "description": "It\u2019s time to take out the space trash. In this episode of the NVIDIA AI Podcast, host Noah Kravitz dives into an illuminating conversation with Alex Fielding, co-founder and CEO of Privateer Space. Fielding is a tech industry veteran, having previously worked alongside Apple co-founder Steve Wozniak on several projects, and holds a deep expertise <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/23/privateer-space/\">Read article &#62;</a>",
+            "pubdate": "Tue, 23 May 2023 13:00:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                23
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -2007,6 +2018,17 @@
                 2023,
                 5,
                 21
+            ],
+            "email_sent": true
+        },
+        "What Are Zero-Shot Prompting and Few-Shot Prompting": {
+            "url": "https://machinelearningmastery.com/what-are-zero-shot-prompting-and-few-shot-prompting/",
+            "description": "<p>In the literature on language models, you will often encounter the terms &#8220;zero-shot prompting&#8221; and &#8220;few-shot prompting.&#8221; It is important to understand how a large language model generates an output. In this post, you will learn: What is zero-shot and few-shot prompting? How to experiment with them in GPT4All Let&#8217;s get started. Overview This post [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/what-are-zero-shot-prompting-and-few-shot-prompting/\" rel=\"nofollow\">What Are Zero-Shot Prompting and Few-Shot Prompting</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Tue, 23 May 2023 03:35:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                23
             ],
             "email_sent": true
         }
@@ -9688,6 +9710,17 @@
         },
         "Instruction-tuning Stable Diffusion with InstructPix2Pix": {
             "url": "https://huggingface.co/blog/instruction-tuning-sd",
+            "description": null,
+            "pubdate": "Tue, 23 May 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                23
+            ],
+            "email_sent": true
+        },
+        "Safetensors audited as really safe and becoming the default": {
+            "url": "https://huggingface.co/blog/safetensors-security-audit",
             "description": null,
             "pubdate": "Tue, 23 May 2023 00:00:00 GMT",
             "pubdate_parsed": [
