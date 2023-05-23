@@ -9685,6 +9685,17 @@
                 16
             ],
             "email_sent": true
+        },
+        "Instruction-tuning Stable Diffusion with InstructPix2Pix": {
+            "url": "https://huggingface.co/blog/instruction-tuning-sd",
+            "description": null,
+            "pubdate": "Tue, 23 May 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                23
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
