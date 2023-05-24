@@ -1420,6 +1420,17 @@
                 23
             ],
             "email_sent": true
+        },
+        "Livestreaming Bliss: Wander Warwicks World This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/24/geforce-rtx-4060-vegas-pro/",
+            "description": "The GeForce RTX 4060 Ti 8GB GPU is now available from top add-in card providers including ASUS, Colorful, Galax, GIGABYTE, INNO3D, MSI, Palit, PNY and ZOTAC, as well as from system integrators and builders worldwide.",
+            "pubdate": "Wed, 24 May 2023 13:00:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                24
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -9727,6 +9738,17 @@
                 2023,
                 5,
                 23
+            ],
+            "email_sent": true
+        },
+        "Hugging Face Collaborates with Microsoft to Launch Hugging Face Model Catalog on Azure": {
+            "url": "https://huggingface.co/blog/hugging-face-endpoints-on-azure",
+            "description": null,
+            "pubdate": "Wed, 24 May 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                24
             ],
             "email_sent": true
         }
