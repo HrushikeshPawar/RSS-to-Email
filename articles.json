@@ -9855,6 +9855,83 @@
                 26
             ],
             "email_sent": true
+        },
+        "Weekly Piece of Future #17 - by Zoltan Tapi": {
+            "url": "https://www.emergentmind.com/posts/weekly-piece-of-future-17-by-zoltan-tapi",
+            "description": "<p>\n  Full article: <a href=\"https://rushingrobotics.com/p/weekly-piece-of-future-17\">Weekly Piece of Future #17 - by Zoltan Tapi</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 13:26:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "Voyager: An Open-Ended Embodied Agent with Large Language Models": {
+            "url": "https://www.emergentmind.com/posts/2305-16291-voyager-an-open-ended-embodied-agent-with",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Voyager is an autonomous lifelong learning agent in Minecraft that constantly explores, learns new skills, and makes discoveries.</li>\n      <li>It features an automatic curriculum, an expanding skill library, and an iterative prompting mechanism to improve program execution.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2305.16291\">Voyager: An Open-Ended Embodied Agent with Large Language Models</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 13:26:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "ChatGPT Shared Links FAQ": {
+            "url": "https://www.emergentmind.com/posts/chatgpt-shared-links-faq-openai-help-center",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT now has a shared links feature, allowing users to generate a unique URL for a conversation and share it with others.</li>\n      <li>Shared links can be used for sharing specific conversations or messages, collaborating with external parties, and creating reference points for future discussions.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq\">ChatGPT Shared Links FAQ</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 12:02:39 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "Model evaluation for extreme risks": {
+            "url": "https://www.emergentmind.com/posts/2305-15324-model-evaluation-for-extreme-risks",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Current general-purpose AI systems can have both beneficial and harmful capabilities, posing extreme risks.</li>\n      <li>Dangerous capability evaluations and alignment evaluations are essential for responsible AI development, deployment, and security.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2305.15324\">Model evaluation for extreme risks</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 11:02:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "How to Make Money with ChatGPT: Unlocking Profitable Opportunities - Global News Bulletin": {
+            "url": "https://www.emergentmind.com/posts/how-to-make-money-with-chatgpt-unlocking-profitable",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT is an advanced language model developed by OpenAI that can be used to generate income in various fields including content creation, customer support, and personalized recommendations.</li>\n      <li>Possible monetization strategies include consultation services, content creation and writing services, ChatGPT-powered products, affiliate marketing, and training and customization.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://globenewsbulletin.com/information/how-to-make-money-with-chatgpt/\">How to Make Money with ChatGPT: Unlocking Profitable Opportunities - Global News Bulletin</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 10:01:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "Eating Disorder Helpline Fires Staff, Transitions to Chatbot After Unionization": {
+            "url": "https://www.emergentmind.com/posts/eating-disorder-helpline-fires-staff-transitions-to",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>National Eating Disorders Association replaces helpline workers with chatbot named Tessa after they unionized</li>\n      <li>Tessa has been in operation since February 2022 and will become the main support system available through NEDA starting June 1</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.vice.com/en/article/n7ezkm/eating-disorder-helpline-fires-staff-transitions-to-chatbot-after-unionization\">Eating Disorder Helpline Fires Staff, Transitions to Chatbot After Unionization</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 08:01:36 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models": {
+            "url": "https://www.emergentmind.com/posts/2305-12544-a-phd-student-s-perspective-on-research-in",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large language models have led to many generative NLP applications, but also a misleading belief that 'it's all been solved.'</li>\n      <li>PhD students in an academic research lab compiled a list of rich NLP research areas to explore, inviting suggestions for additional areas.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2305.12544\">A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 08:01:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
         }
     }
 }
