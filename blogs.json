@@ -22,6 +22,5 @@
     "Lil'Log": "https://lilianweng.github.io/index.xml",
     "Hugging Face Blog": "https://huggingface.co/blog/feed.xml",
     "Sorta Insightful": "https://www.alexirpan.com/feed.xml",
-    "Azure-MLOps": "https://learn.microsoft.com/api/search/rss?search=mlops&locale=en-us&facet=&%24filter=scopes%2Fany%28t%3A+t+eq+%27Azure+Architecture+Center%27%29",
-    "Emergent Mind": "https://www.emergentmind.com/feeds/rss"
+    "Azure-MLOps": "https://learn.microsoft.com/api/search/rss?search=mlops&locale=en-us&facet=&%24filter=scopes%2Fany%28t%3A+t+eq+%27Azure+Architecture+Center%27%29"
 }
