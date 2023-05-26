@@ -9777,5 +9777,84 @@
             "email_sent": true
         }
     },
-    "Azure-MLOps": {}
+    "Azure-MLOps": {},
+    "Emergent Mind": {
+        "Public school bans on AI tools like ChatGPT raise fears private school kids are gaining an unfair edge and widening a digital divide - ABC News": {
+            "url": "https://www.emergentmind.com/posts/public-school-bans-on-ai-tools-like-chatgpt-raise-fears",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI tools like ChatGPT are banned in most Australian public schools, raising fears that private school students are gaining an unfair advantage.</li>\n      <li>Education ministers are expected to discuss the issue in a meeting in July, while some experts argue that AI can help reduce teacher workload and improve learning outcomes.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.abc.net.au/news/2023-05-26/artificial-intelligence-chatgpt-classrooms-schools/102356926\">Public school bans on AI tools like ChatGPT raise fears private school kids are gaining an unfair edge and widening a digital divide - ABC News</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 06:01:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "AgentGPT": {
+            "url": "https://www.emergentmind.com/posts/agentgpt",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AgentGPT allows users to create and deploy autonomous AI agents in their browser.</li>\n      <li>Users can easily create an agent by adding a name, setting a goal, and deploying it.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://agentgpt.reworkd.ai/\">AgentGPT</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 06:01:31 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "Everything You Need to Know About the Role of an AI Engineer - Today Business Posts": {
+            "url": "https://www.emergentmind.com/posts/everything-you-need-to-know-about-the-role-of-an-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI engineers combine artificial intelligence and engineering principles to create intelligent systems that can learn and adapt.</li>\n      <li>These professionals are in high demand, working in various industries and specializing in areas such as natural language processing, computer vision, and robotics.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://todaybusinessposts.com/everything-you-need-to-know-about-the-role-of-an-ai-engineer/\">Everything You Need to Know About the Role of an AI Engineer - Today Business Posts</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 04:04:23 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "MIT MAS.S68": {
+            "url": "https://www.emergentmind.com/posts/mit-mas-s68-generative-ai-for-constructive",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The course focuses on the advancements in large language models like ChatGPT and their impact on communication technology.</li>\n      <li>Students will engage in guided discussions, hands-on experimentation, project critiques, and can choose between completing a project or producing a research project proposal.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://ai4comm.media.mit.edu/\">MIT MAS.S68</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 04:04:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "SnapChat Server Down: Thousands of user report C14A Error code - What is support code c14a on snapchat ?": {
+            "url": "https://www.emergentmind.com/posts/snapchat-server-down-thousands-of-user-report-c14a",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Snapchat users are experiencing a temporary outage known as the C14A error code, preventing them from accessing the app.</li>\n      <li>Snapchat has dealt with this issue before and offers troubleshooting tips to help users regain access to their accounts.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.bikeflame.com/2023/05/snapchat-server-down-thousands-of-user.html\">SnapChat Server Down: Thousands of user report C14A Error code - What is support code c14a on snapchat ?</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 03:01:59 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "The False Promise of Imitating Proprietary LLMs": {
+            "url": "https://www.emergentmind.com/posts/2305-15717-the-false-promise-of-imitating-proprietary",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Finetuning weaker language models on stronger ones like ChatGPT can produce convincing outputs but fails to close the capability gap.</li>\n      <li>Imitation models can mimic the style of ChatGPT but not its factuality, making it a false promise for improving open-source models.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2305.15717\">The False Promise of Imitating Proprietary LLMs</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 03:01:57 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        },
+        "Majority of Americans have heard of ChatGPT, but few have tried it": {
+            "url": "https://www.emergentmind.com/posts/majority-of-americans-have-heard-of-chatgpt-but-few",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Nearly six-in-ten adults in the US are familiar with ChatGPT, an open-access online chatbot.</li>\n      <li>Only 14% have tried using it for entertainment, learning, or work purposes.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.pewresearch.org/short-reads/2023/05/24/a-majority-of-americans-have-heard-of-chatgpt-but-few-have-tried-it-themselves/\">Majority of Americans have heard of ChatGPT, but few have tried it</a>\n</p>",
+            "pubdate": "Fri, 26 May 2023 01:01:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                26
+            ],
+            "email_sent": true
+        }
+    }
 }
