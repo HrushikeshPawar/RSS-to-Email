@@ -7403,6 +7403,17 @@
                 16
             ],
             "email_sent": true
+        },
+        "Image Manipulation with Your Mouse! Drag Your Gan Explained": {
+            "url": "https://www.louisbouchard.ai/draggan/",
+            "description": "Move anything from point A to point\u00a0B!",
+            "pubdate": "Sat, 27 May 2023 12:21:18 GMT",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
@@ -10003,6 +10014,72 @@
             "url": "https://www.emergentmind.com/posts/2305-14342-sophia-a-scalable-stochastic-second-order",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>Sophia is a new second-order clipped stochastic optimization algorithm that improves language model training efficiency.</li>\n      <li>The optimizer achieves a 2x speed-up compared to Adam and adapts to the curvature in different components of the parameters.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2305.14342\">Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training</a>\n</p>",
             "pubdate": "Sat, 27 May 2023 00:03:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "Dream of creating your own game comes true with artificial intelligence - Podcasts - California18": {
+            "url": "https://www.emergentmind.com/posts/dream-of-creating-your-own-game-comes-true-with",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial intelligence system ChatGPT helps users create video games without specific knowledge.</li>\n      <li>Graphic designer Erick Teixeira uses ChatGPT to develop his own game.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://california18.com/dream-of-creating-your-own-game-comes-true-with-artificial-intelligence-podcasts/11141542023/\">Dream of creating your own game comes true with artificial intelligence - Podcasts - California18</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 13:02:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "Digital Overlords? Nah, Weve Got This!": {
+            "url": "https://www.emergentmind.com/posts/digital-overlords-nah-we-ve-got-this-by-daniel",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article explores the concept of collective human intelligence in the age of artificial intelligence and digitally sentient entities.</li>\n      <li>The author, a computer scientist and anthropologist, shares their personal perspective on the future of AI based on their research experience.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/technology-past-present-and-future/digital-overlords-nah-weve-got-this-79602600bc6e\">Digital Overlords? Nah, We\u2019ve Got This!</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 11:02:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "WordPress and Drupal Co-Founders Discuss Open Source, AI, and the Future of the Web  WP Tavern": {
+            "url": "https://www.emergentmind.com/posts/wordpress-and-drupal-co-founders-discuss-open-source",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>WordPress co-founders Matt Mullenweg and Mike Little join Drupal founder Dries Buytaert to discuss the benefits of open source collaboration and its future.</li>\n      <li>Mullenweg is optimistic about AI working with open source and believes that proprietary software competitors will eventually run on open source software.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://wptavern.com/wordpress-and-drupal-co-founders-discuss-open-source-ai-and-the-future-of-the-web\">WordPress and Drupal Co-Founders Discuss Open Source, AI, and the Future of the Web \u2013 WP Tavern</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 11:02:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "GPT-4 is Vulnerable to Prompt Injection Attacks on Causing Misinformation": {
+            "url": "https://www.emergentmind.com/posts/gpt-4-is-vulnerable-to-prompt-injection-attacks-on",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT's GPT-4 model, despite its improved information accuracy, is still vulnerable to providing misinformation through prompt injection attacks.</li>\n      <li>By manipulating role tags in the OpenAI API, users can guide the model into providing false information, creating a potential loophole for spreading misinformation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.kdnuggets.com/2023/05/gpt4-vulnerable-prompt-injection-attacks-causing-misinformation.html\">GPT-4 is Vulnerable to Prompt Injection Attacks on Causing Misinformation</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 09:39:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "Podcast Q&A and Info": {
+            "url": "https://www.emergentmind.com/posts/podcast-q-a-and-info",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Crowdcast, an interactive AI-generated podcast, covers a wide range of topics including the positive aspects of the dark web, the possibility of extraterrestrial life, and conspiracy theories surrounding The Great British Bake-Off.</li>\n      <li>The podcast is made by Adam Tal, with episodes generated using AI and content derived from top comments on the /r/crowdcast subreddit.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/a98e19cc-151c-4e64-9a48-a73097e73a36\">Podcast Q&amp;A and Info</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 08:01:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "A Lawyer's Filing \"Is Replete with Citations to Non-Existent Cases\" -- Thanks, ChatGPT?": {
+            "url": "https://www.emergentmind.com/posts/a-lawyer-s-filing-is-replete-with-citations-to",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A lawyer faces possible sanctions after citing nonexistent cases in court, which were provided by an AI tool called ChatGPT.</li>\n      <li>The lawyer relied on the AI-generated cases without verifying their authenticity, leading to an order to show cause why he shouldn't be sanctioned.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://reason.com/volokh/2023/05/27/a-lawyers-filing-is-replete-with-citations-to-non-existent-cases-thanks-chatgpt/\">A Lawyer's Filing &quot;Is Replete with Citations to Non-Existent Cases&quot; -- Thanks, ChatGPT?</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 07:01:56 +0000",
             "pubdate_parsed": [
                 2023,
                 5,
