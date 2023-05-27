@@ -1431,6 +1431,17 @@
                 24
             ],
             "email_sent": true
+        },
+        "NVIDIA CEO Tells NTU Grads to Run, Not Walk  But Be Prepared to Stumble": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/26/huang-ntu-commencement/",
+            "description": "\u201cYou are running for food, or you are running from becoming food. And often times, you can\u2019t tell which. Either way, run.\u201d NVIDIA founder and CEO Jensen Huang today urged graduates of National Taiwan University to run hard to seize the unprecedented opportunities that AI will present, but embrace the inevitable failures along the way. <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/26/huang-ntu-commencement/\">Read article &#62;</a>",
+            "pubdate": "Sat, 27 May 2023 02:45:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -9930,6 +9941,72 @@
                 2023,
                 5,
                 26
+            ],
+            "email_sent": true
+        },
+        "Why are we going to need a private and custom personal AI  Falconius": {
+            "url": "https://www.emergentmind.com/posts/why-are-we-going-to-need-a-private-and-custom-personal",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The growth of language models like ChatGPT has led to the possibility of a universal language API for communicating with software applications.</li>\n      <li>A private, personal AI could help users negotiate and make choices based on their preferences, but using platforms from major companies could lead to data privacy concerns and less negotiation leverage.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://falconius.com/index.php/2023/05/26/why-are-we-going-to-need-a-private-and-custom-personal-ai/\">Why are we going to need a private and custom personal AI \u2013 Falconius</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 03:05:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "Hacker News Community Insights": {
+            "url": "https://www.emergentmind.com/posts/hacker-news-community-insights",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Hacker News is a social news website focusing on computer science and entrepreneurship, created by Y Combinator co-founder Paul Graham.</li>\n      <li>The community includes tech-savvy individuals from various backgrounds, such as software engineers, entrepreneurs, and data scientists, and encourages respectful, insightful discussions.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868\">Hacker News Community Insights</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 03:01:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "Large Language Models are Few-Shot Health Learners": {
+            "url": "https://www.emergentmind.com/posts/2305-15525-large-language-models-are-few-shot-health",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large language models can be tuned to understand physiological and behavioral time-series data.</li>\n      <li>These models can make meaningful inferences on health tasks like cardiac signal analysis, physical activity recognition, and mental health screening.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2305.15525\">Large Language Models are Few-Shot Health Learners</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 02:01:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.": {
+            "url": "https://www.emergentmind.com/posts/github-opendatadiscovery-odd-platform-first",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ODD operates various types of entities such as Datasets, Transformers, Data Consumers, Data Quality Tests, Data Inputs, Transformer Runs, and Quality Test Runs.</li>\n      <li>For more information and community support, visit their GitHub and Slack channels.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/opendatadiscovery/odd-platform\">First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 01:02:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "Landmark Attention: Random-Access Infinite Context Length for Transformers": {
+            "url": "https://www.emergentmind.com/posts/2305-16300-landmark-attention-random-access-infinite",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers present a new approach to improve transformers' memory capabilities by using landmark tokens to represent blocks of input.</li>\n      <li>This method allows access to the entire context while maintaining random-access flexibility, achieving comparable performance with Transformer-XL and extending context length capacity of LLaMA 7B up to 32k tokens.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2305.16300\">Landmark Attention: Random-Access Infinite Context Length for Transformers</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 00:03:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
+            ],
+            "email_sent": true
+        },
+        "Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training": {
+            "url": "https://www.emergentmind.com/posts/2305-14342-sophia-a-scalable-stochastic-second-order",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Sophia is a new second-order clipped stochastic optimization algorithm that improves language model training efficiency.</li>\n      <li>The optimizer achieves a 2x speed-up compared to Adam and adapts to the curvature in different components of the parameters.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2305.14342\">Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training</a>\n</p>",
+            "pubdate": "Sat, 27 May 2023 00:03:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                27
             ],
             "email_sent": true
         }
