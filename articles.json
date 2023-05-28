@@ -10108,6 +10108,61 @@
                 28
             ],
             "email_sent": true
+        },
+        "aider is GPT-4 powered coding in your terminal": {
+            "url": "https://www.emergentmind.com/posts/github-paul-gauthier-aider-aider-is-gpt-4-powered",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>aider is a chat-based tool that allows users to collaborate with GPT-4 on code projects and supports various commands for file management, committing changes, and running shell commands.</li>\n      <li>While GPT-4 can assist with code editing and fixing bugs, it has limitations such as requiring GPT-4 API access and working only with code that fits within its context window.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/paul-gauthier/aider\">aider is GPT-4 powered coding in your terminal</a>\n</p>",
+            "pubdate": "Sun, 28 May 2023 13:01:59 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                28
+            ],
+            "email_sent": true
+        },
+        "Python image tiling library for image processing, object detection, etc.": {
+            "url": "https://www.emergentmind.com/posts/github-kalfasyan-plakakia-python-image-tiling",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A Python library for image tiling that considers bounding boxes inside the image.</li>\n      <li>Supports rectangular tiles, overlapping tiles and duplicate bounding box avoidance.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/kalfasyan/plakakia\">Python image tiling library for image processing, object detection, etc.</a>\n</p>",
+            "pubdate": "Sun, 28 May 2023 08:07:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                28
+            ],
+            "email_sent": true
+        },
+        "xorvoid": {
+            "url": "https://www.emergentmind.com/posts/xorvoid",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT is a powerful AI language model that excels at producing average answers across a wide range of topics, but lacks a deep understanding or mental model of the world.</li>\n      <li>Despite concerns about job losses and economic upheaval, ChatGPT is more likely to spur innovation and multidisciplinary projects, similar to how previous technological advances have transformed industries.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://xorvoid.com/chatgpt_a_mental_model.html\">xorvoid</a>\n</p>",
+            "pubdate": "Sun, 28 May 2023 08:01:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                28
+            ],
+            "email_sent": true
+        },
+        "The Larger They Are, the Harder They Fail: Language Models do not Recognize Identifier Swaps in Python": {
+            "url": "https://www.emergentmind.com/posts/2305-15507-the-larger-they-are-the-harder-they-fail",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large Language Models (LLMs) fail to generate correct Python code when default function names are changed.</li>\n      <li>As model size increases, some LLMs become more confident in incorrect predictions, a phenomenon called Inverse Scaling.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2305.15507\">The Larger They Are, the Harder They Fail: Language Models do not Recognize Identifier Swaps in Python</a>\n</p>",
+            "pubdate": "Sun, 28 May 2023 07:01:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                28
+            ],
+            "email_sent": true
+        },
+        "The Smallest Units of Introspection": {
+            "url": "https://www.emergentmind.com/posts/the-smallest-units-of-introspection-by",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the challenges in developing a theory of Artificial General Intelligence (AGI) and investigates the cognitive aspects of the mind through introspection.</li>\n      <li>It emphasizes the importance of understanding individual thoughts as momentary, sequential units of action and suggests that the conscious, introspective self is an ever-progressing series of thoughts reacting to thoughts.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://ykulbashian.medium.com/the-smallest-units-of-introspection-fbdc565f4201\">The Smallest Units of Introspection</a>\n</p>",
+            "pubdate": "Sun, 28 May 2023 04:03:44 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                28
+            ],
+            "email_sent": true
         }
     }
 }
