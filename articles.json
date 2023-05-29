@@ -1453,6 +1453,61 @@
                 29
             ],
             "email_sent": true
+        },
+        "MediaTek Partners With NVIDIA to Transform Automobiles With AI and Accelerated Computing": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/28/mediatek-intelligent-cabin-solutions/",
+            "description": "MediaTek, a leading innovator in connectivity and multimedia, is teaming with NVIDIA to bring drivers and passengers new experiences inside the car. The partnership was announced today at a COMPUTEX press conference with MediaTek CEO Rick Tsai and NVIDIA founder and CEO Jensen Huang. \u201cNVIDIA is a world-renowned pioneer and industry leader in AI and <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/28/mediatek-intelligent-cabin-solutions/\">Read article &#62;</a>",
+            "pubdate": "Mon, 29 May 2023 06:30:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "Live From Taipei: NVIDIA CEO Unveils Gen AI Platforms for Every Industry": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/28/computex-keynote-generative-ai/",
+            "description": "In his first live keynote since the pandemic, NVIDIA founder and CEO Jensen Huang today kicked off the COMPUTEX conference in Taipei, announcing platforms that companies can use to ride a historic wave of generative AI that\u2019s transforming industries from advertising to manufacturing to telecom. \u201cWe\u2019re back,\u201d Huang roared as he took the stage after <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/28/computex-keynote-generative-ai/\">Read article &#62;</a>",
+            "pubdate": "Mon, 29 May 2023 05:02:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "NVIDIA Brings Advanced Autonomy to Mobile Robots With Isaac AMR": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/28/isaac-amr-nova-orin-autonomous-mobile-robots/",
+            "description": "As mobile robot shipments surge to meet the growing demands of industries seeking operational efficiencies, NVIDIA is launching a new platform to enable the next generation of autonomous mobile robot (AMR) fleets. Isaac AMR brings advanced mapping, autonomy and simulation to mobile robots and will soon be available for early customers, NVIDIA founder and CEO <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/28/isaac-amr-nova-orin-autonomous-mobile-robots/\">Read article &#62;</a>",
+            "pubdate": "Mon, 29 May 2023 04:51:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "Techman Robot Selects NVIDIA Isaac Sim to Optimize Automated Optical Inspection": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/28/techman-robot-isaac-sim/",
+            "description": "How do you help robots build better robots? By simulating even more robots. NVIDIA founder and CEO Jensen Huang today showcased how leading electronics manufacturer Quanta is using AI-enabled robots to inspect the quality of its products. In his keynote speech at this week\u2019s COMPUTEX trade show in Taipei, Huang presented on how electronics manufacturers <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/28/techman-robot-isaac-sim/\">Read article &#62;</a>",
+            "pubdate": "Mon, 29 May 2023 04:51:36 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "Electronics Giants Tap Into Industrial Automation With NVIDIA Metropolis for Factories": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/28/electronics-giants-industrial-automation-nvidia-metropolis-for-factories/",
+            "description": "The $46 trillion global electronics manufacturing industry spans more than 10 million factories worldwide, where much is at stake in producing defect-free products. To drive product excellence, leading electronics manufacturers are adopting NVIDIA Metropolis for Factories. More than 50 manufacturing giants and industrial automation providers \u2014 including Foxconn Industrial Internet, Pegatron, Quanta, Siemens and Wistron <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/28/electronics-giants-industrial-automation-nvidia-metropolis-for-factories/\">Read article &#62;</a>",
+            "pubdate": "Mon, 29 May 2023 04:50:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -10172,6 +10227,83 @@
                 2023,
                 5,
                 28
+            ],
+            "email_sent": true
+        },
+        "Using AI, scientists find a drug that could combat drug-resistant infections": {
+            "url": "https://www.emergentmind.com/posts/using-ai-scientists-find-a-drug-that-could-combat",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers at MIT and McMaster University used a machine-learning algorithm to identify a compound that can kill Acinetobacter baumannii, a drug-resistant bacterium found in hospitals.</li>\n      <li>The compound, named abaucin, was discovered from a library of nearly 7,000 potential drug compounds and could combat infections such as pneumonia, meningitis, and infections in wounded soldiers.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://news.mit.edu/2023/using-ai-scientists-combat-drug-resistant-infections-0525\">Using AI, scientists find a drug that could combat drug-resistant infections</a>\n</p>",
+            "pubdate": "Mon, 29 May 2023 13:01:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "Power Analysis Seminar Recap": {
+            "url": "https://www.emergentmind.com/posts/power-analysis-seminar-recap",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A Power Analysis seminar featuring Robert Greene and Dan Linden focuses on applying the '48 Laws of Power' to analyze a spiritual influencer's tweet, revealing the power dynamics at play.</li>\n      <li>Participants dissect the tweet using various laws, highlighting the influencer's tactics such as concealing intentions, courting attention, and playing on people's need to believe.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/c69b4edd-d0de-4401-9611-6a933be6e9b8\">Power Analysis Seminar Recap</a>\n</p>",
+            "pubdate": "Mon, 29 May 2023 11:04:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "Shark Tank Simulator": {
+            "url": "https://www.emergentmind.com/posts/shark-tank-simulator",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>GameGPT transforms into a virtual host for a Shark Tank simulator game, where players pitch their ideas to successful investors, aiming to secure a deal.</li>\n      <li>Players provide their company name, product description, and investment request, then engage in a dialogue with the 'Sharks', who ask questions, make offers, or decline deals.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/48155efe-101b-4662-b41e-c13aa909f017\">Shark Tank Simulator</a>\n</p>",
+            "pubdate": "Mon, 29 May 2023 10:01:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "Production AI systems are really hard - by Kevin Fischer": {
+            "url": "https://www.emergentmind.com/posts/production-ai-systems-are-really-hard-by-kevin",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI systems are complex and cannot easily replace jobs that require extensive training, like radiologists.</li>\n      <li>Factors such as domain knowledge, data availability, and regulatory environment make it difficult to create viable AI adoption strategies.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://methexis.substack.com/p/production-ai-systems-are-really\">Production AI systems are really hard - by Kevin Fischer</a>\n</p>",
+            "pubdate": "Mon, 29 May 2023 09:01:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "10% Less Stagnation - by Bryan Caplan - Bet On It": {
+            "url": "https://www.emergentmind.com/posts/10-less-stagnation-by-bryan-caplan-bet-on-it",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI advancements may affect student workload and evaluation, making cheating easier and exams more crucial.</li>\n      <li>AI could disrupt various industries including computer science, alter career aspirations, and impact academic research.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://betonit.substack.com/p/how-ai-will-change-higher-education\">10% Less Stagnation - by Bryan Caplan - Bet On It</a>\n</p>",
+            "pubdate": "Mon, 29 May 2023 09:01:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "Subredditstatistic - Statistics for every subreddit of Reddit.com": {
+            "url": "https://www.emergentmind.com/posts/subredditstatistic-statistics-for-every-subreddit-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A community of machine learning enthusiasts, researchers, journalists, and writers sharing interesting news and articles about AI applications.</li>\n      <li>Stay updated on ML, AI, CV, and NLP fields with daily posts from around the world.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://subredditstatistics.com/r/machinelearningnews\">Subredditstatistic - Statistics for every subreddit of Reddit.com</a>\n</p>",
+            "pubdate": "Mon, 29 May 2023 07:01:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
+        },
+        "Nvidia ACE Brings AI to Game Characters, Allows Lifelike Conversations": {
+            "url": "https://www.emergentmind.com/posts/nvidia-ace-brings-ai-to-game-characters-allows",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Nvidia unveils ACE for Games, an AI model foundry service to make game characters more interactive with natural language conversation, audio-to-facial-expression, and text-to-speech capabilities.</li>\n      <li>ACE for Games uses Nvidia NeMo, Riva, and Omniverse Audio2Face to enable seamless interaction between human players and NPC game characters.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.tomshardware.com/news/nvidia-ace-brings-npcs-to-life\">Nvidia ACE Brings AI to Game Characters, Allows Lifelike Conversations</a>\n</p>",
+            "pubdate": "Mon, 29 May 2023 04:03:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
             ],
             "email_sent": true
         }
