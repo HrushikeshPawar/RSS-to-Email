@@ -1442,6 +1442,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "NVIDIA Brings New Generative AI Capabilities, Groundbreaking Performance to 100 Million Windows RTX PCs and Workstations": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/28/computex-generative-ai-rtx/",
+            "description": "Generative AI is rapidly ushering in a new era of computing for productivity, content creation, gaming and more. Generative AI models and applications \u2014 like NVIDIA NeMo and DLSS 3 Frame Generation, Meta LLaMa, ChatGPT, Adobe Firefly and Stable Diffusion \u2014 use neural networks to identify patterns and structures within existing data to generate new <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/05/28/computex-generative-ai-rtx/\">Read article &#62;</a>",
+            "pubdate": "Mon, 29 May 2023 03:14:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                29
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
