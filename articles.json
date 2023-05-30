@@ -1508,6 +1508,17 @@
                 29
             ],
             "email_sent": true
+        },
+        "NVIDIA RTX Transforming 14-Inch Laptops, Plus Simultaneous Screen Encoding and May Studio Driver Available Today": {
+            "url": "https://blogs.nvidia.com/blog/2023/05/30/computex-studio-laptops-encoding-capcut/",
+            "description": "New 14-inch NVIDIA Studio laptops, equipped with GeForce RTX 40 Series Laptop GPUs, give creators peak portability with a significant increase in performance over the last generation.",
+            "pubdate": "Tue, 30 May 2023 13:00:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                30
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -10333,6 +10344,83 @@
             "url": "https://www.emergentmind.com/posts/australian-tech-unicorn-employment-hero-takes-on-seek",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>Employment Hero launched an AI hiring tool called Swag to help small-and-medium-sized enterprises with recruitment.</li>\n      <li>Swag can create job descriptions, predict hiring needs, match candidates with roles, and post jobs to job boards.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.forbes.com.au/news/innovation/australian-tech-unicorn-employment-hero-takes-on-seek/\">Australian tech unicorn Employment Hero takes on Seek</a>\n</p>",
             "pubdate": "Tue, 30 May 2023 01:01:36 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                30
+            ],
+            "email_sent": true
+        },
+        "EmailWizard by PromptChainer": {
+            "url": "https://www.emergentmind.com/posts/emailwizard-by-promptchainer",
+            "description": "<p>\n  Full article: <a href=\"https://emailwizard.promptchainer.io/\">EmailWizard by PromptChainer</a>\n</p>",
+            "pubdate": "Tue, 30 May 2023 13:02:11 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                30
+            ],
+            "email_sent": true
+        },
+        "Text In AI-Generated Images Just Got Better": {
+            "url": "https://www.emergentmind.com/posts/text-in-ai-generated-images-just-got-better-by",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Generative AI has improved significantly, resulting in better text and details in images.</li>\n      <li>Midjourney's V5 has shown notable enhancements in the hands department of generated images.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/seeds-for-the-future/text-in-ai-generated-images-just-got-better-2b8b8e5a2ba8?sk=aebe057a94801de39afe42d9a5b8b610\">Text In AI-Generated Images Just Got Better</a>\n</p>",
+            "pubdate": "Tue, 30 May 2023 12:01:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                30
+            ],
+            "email_sent": true
+        },
+        "Statement on AI Risk": {
+            "url": "https://www.emergentmind.com/posts/statement-on-ai-risk-cais",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI experts and public figures highlight the urgent need to address severe risks posed by advanced AI.</li>\n      <li>Mitigating AI-related extinction risks should be a global priority alongside pandemics and nuclear war.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.safe.ai/statement-on-ai-risk\">Statement on AI Risk</a>\n</p>",
+            "pubdate": "Tue, 30 May 2023 12:01:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                30
+            ],
+            "email_sent": true
+        },
+        "Software company CEO says using ChatGPT cuts the time it takes to complete coding tasks from around 9 weeks to just a few days": {
+            "url": "https://www.emergentmind.com/posts/software-company-ceo-says-using-chatgpt-cuts-the-time",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Freshworks employees use OpenAI's ChatGPT for coding, reducing task completion time from 9 weeks to a few days.</li>\n      <li>Generative AI's coding skills are making software development easier and more efficient across industries.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://africa.businessinsider.com/news/software-company-ceo-says-using-chatgpt-cuts-the-time-it-takes-to-complete-coding/mpfyey9\">Software company CEO says using ChatGPT cuts the time it takes to complete coding tasks from around 9 weeks to just a few days</a>\n</p>",
+            "pubdate": "Tue, 30 May 2023 11:03:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                30
+            ],
+            "email_sent": true
+        },
+        "Revolutionizing Entity Extraction with Deep Learning & AI Solutions": {
+            "url": "https://www.emergentmind.com/posts/revolutionizing-entity-extraction-with-deep-learning",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Futurism Technologies uses AI and Deep Learning to automate and optimize electrical installation planning process.</li>\n      <li>Generative AI has the potential to automatically design optimal electrical layouts and create 3D virtual representations of installations.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.futurismtechnologies.com/blog/revolutionizing-entity-extraction-with-ai-and-deep-learning-a-futurism-innovation/\">Revolutionizing Entity Extraction with Deep Learning &amp; AI Solutions</a>\n</p>",
+            "pubdate": "Tue, 30 May 2023 10:01:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                30
+            ],
+            "email_sent": true
+        },
+        "Capital letter test is a foolproof way of sorting AIs from humans": {
+            "url": "https://www.emergentmind.com/posts/capital-letter-test-is-a-foolproof-way-of-sorting-ais",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A test using capital letters confuses AI models like ChatGPT, while humans can easily answer correctly.</li>\n      <li>The test involves questions with capital letters that change the meaning of words or create nonsense.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.shiningscience.com/2023/05/capital-letter-test-is-foolproof-way-of.html\">Capital letter test is a foolproof way of sorting AIs from humans</a>\n</p>",
+            "pubdate": "Tue, 30 May 2023 09:02:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                5,
+                30
+            ],
+            "email_sent": true
+        },
+        "Revolutionize Your UI/UX Design Process with Artificial Intelligence": {
+            "url": "https://www.emergentmind.com/posts/revolutionize-your-ui-ux-design-process-with-artificial",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial Intelligence (AI) is transforming UI/UX design by personalizing user experiences, streamlining workflows, and improving accessibility.</li>\n      <li>However, implementing AI in design also raises privacy concerns, potential biases, and the risk of losing the human touch.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://shakuro.com/blog/how-to-use-artificial-intelligence-in-ui-ux-design?utm_source=reddit&amp;utm_medium=how-to-use-artificial-intelligence-in-ui-ux-design&amp;utm_campaign=smm_sharing\">Revolutionize Your UI/UX Design Process with Artificial Intelligence</a>\n</p>",
+            "pubdate": "Tue, 30 May 2023 09:02:15 +0000",
             "pubdate_parsed": [
                 2023,
                 5,
