@@ -1519,6 +1519,28 @@
                 30
             ],
             "email_sent": true
+        },
+        "A New Age: Age of Empires Series Joins GeForce NOW, Part of 20 Games Coming in June": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/01/geforce-now-thursday-june-1/",
+            "description": "The season of hot sun and longer days is here, so stay inside this summer with 20 games joining GeForce NOW in June. Or stream across devices by the pool, from grandma\u2019s house or in the car \u2014 whichever way, GeForce NOW has you covered. Titles from the Age of Empires series are the next <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/06/01/geforce-now-thursday-june-1/\">Read article &#62;</a>",
+            "pubdate": "Thu, 01 Jun 2023 13:00:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Digital Renaissance: NVIDIA Neuralangelo Research Reconstructs 3D Scenes": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/01/neuralangelo-ai-research-3d-reconstruction/",
+            "description": "Neuralangelo, a new AI model by NVIDIA Research for 3D reconstruction using neural networks, turns 2D video clips into detailed 3D structures \u2014 generating lifelike virtual replicas of buildings, sculptures and other real-world objects. Like Michelangelo sculpting stunning, life-like visions from blocks of marble, Neuralangelo generates 3D structures with intricate details and textures. Creative professionals <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/06/01/neuralangelo-ai-research-3d-reconstruction/\">Read article &#62;</a>",
+            "pubdate": "Thu, 01 Jun 2023 13:00:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -8567,6 +8589,17 @@
                 16
             ],
             "email_sent": true
+        },
+        "How Jiminny builds with AI models to secure 15% higher win rates for customers": {
+            "url": "https://www.assemblyai.com/blog/jiminny-builds-ai-models-secure-higher-win-rates/",
+            "description": "Learn how a strategic AI partnership with AssemblyAI was key to Jiminny\u2019s Conversation Intelligence success.",
+            "pubdate": "Thu, 01 Jun 2023 12:48:41 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
@@ -9850,6 +9883,17 @@
                 24
             ],
             "email_sent": true
+        },
+        "Announcing the Open Source AI Game Jam ": {
+            "url": "https://huggingface.co/blog/game-jam",
+            "description": null,
+            "pubdate": "Thu, 01 Jun 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -10509,6 +10553,259 @@
             "url": "https://www.emergentmind.com/posts/github-admtal-chat-gpt-games-prompts-for-playable",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT Games is a repository containing prompts for playable games that can be used with ChatGPT or other similar services.</li>\n      <li>The games, such as Shark Tank Simulator, test users' wit, negotiation skills, and creativity in various scenarios.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/AdmTal/chat-gpt-games\">Prompts for playable games in ChatGPT</a>\n</p>",
             "pubdate": "Thu, 01 Jun 2023 01:01:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Building a Vector Database to Make Use of Vector Embeddings": {
+            "url": "https://www.emergentmind.com/posts/building-a-vector-database-to-make-use-of-vector",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>TerminusDB creates a vector database to leverage vector embeddings for tasks such as full-text search, entity resolution, similarity search, and clustering.</li>\n      <li>The database uses OpenAI's embeddings and an HNSW graph for indexing vector spaces, providing semantic similarity for semantically close inputs.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://terminusdb.com/blog/vector-database-and-vector-embeddings/\">Building a Vector Database to Make Use of Vector Embeddings</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 13:01:39 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Google Bard for Data Science Projects": {
+            "url": "https://www.emergentmind.com/posts/google-bard-for-data-science-projects",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Bard was used to develop an end-to-end fake news detection project, including data preprocessing, feature engineering, model selection, and deployment.</li>\n      <li>The project utilized the Fake News Classification dataset and used Bard to create a Streamlit web app for predictions.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.datacamp.com/blog/google-bard-for-data-science-projects\">Google Bard for Data Science Projects</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 11:21:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Vector": {
+            "url": "https://www.emergentmind.com/posts/vector-the-open-source-vector-toolkit-for-postgres",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Supabase enables automatic provisioning and configuration of applications across multiple regions to reduce read latency and improve performance.</li>\n      <li>It uses open source tools for increased portability, ensuring data safety with automatic backups and Point In Time Recovery.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://supabase.com/vector\">Vector</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 11:03:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Africa will be transformed by the potential of AI and data  if we can get investment": {
+            "url": "https://www.emergentmind.com/posts/africa-will-be-transformed-by-the-potential-of-ai-and",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Africa has the potential to transform through AI and data with a growing population and increasing investments.</li>\n      <li>The continent is predicted to see the fastest growth in AI spending worldwide, reaching $6.4bn by 2026.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theguardian.com/commentisfree/2023/jun/01/africa-will-be-transformed-by-the-potential-of-ai-and-data-if-we-can-get-investment\">Africa will be transformed by the potential of AI and data \u2013 if we can get investment</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 11:03:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Opinion": {
+            "url": "https://www.emergentmind.com/posts/opinion-a-i-technology-8-questions-about-the-future",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial creativity is the focus as computers feel more creative than ever before.</li>\n      <li>Five practitioners discuss their experiences and opinions on AI, and a European art collective uses AI-generated video to visualize their answers.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nytimes.com/interactive/2023/06/01/opinion/ai-technology-future.html?unlocked_article_code=nsQ_VVprfQA6SmFqRT4iO9VPSHiHw1z0g9rBRpANavn1PkU_9rlHmxPhzZsjZPt2ztaeRX5XmdHwIaFPkdPPU6V2wqQIDg_CEdJiMshhwoDRcfHB02KgPmTdIUg1EvSFlO5lqGyye40RNFcH3qUDfMbmG0vnaRT_QuJX2NSczR9QgsKvhcI9iz__2RKxZ3_W8hbUcw7A5cbHwmJpDAOvSkFLzCEPBAVRfiKeu44eXOQTC3KjtczITJ6LGfiIrVgmQGPMWnybi4KLXp6jDd0ZiJJu1urm97Ac0-vVs5rwfpPHqNC6pjz-ec0SB0hQ808W96BnmVkoZ5ocRp9TPVYVThJPoujwNw6u8iL5Afc88A\">Opinion</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 10:01:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Techniques for training large neural networks": {
+            "url": "https://www.emergentmind.com/posts/techniques-for-training-large-neural-networks",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large neural networks require complex engineering to train, involving GPU clusters and synchronized calculations.</li>\n      <li>Parallelism techniques such as data, pipeline, tensor parallelism, and mixture-of-experts help distribute training across multiple GPUs.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/techniques-for-training-large-neural-networks\">Techniques for training large neural networks</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:02:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "AI-written critiques help humans notice flaws": {
+            "url": "https://www.emergentmind.com/posts/ai-written-critiques-help-humans-notice-flaws",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI models trained to write critiques can help humans identify more flaws in summaries</li>\n      <li>Larger models are better at self-critiquing, showing promise for AI-assisted human supervision</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/critiques\">AI-written critiques help humans notice flaws</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:02:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "DALLE 2 pre-training mitigations": {
+            "url": "https://www.emergentmind.com/posts/dall-e-2-pre-training-mitigations",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>DALL-E 2 implements pre-training mitigations to reduce risks associated with powerful image generation models, including filtering out violent and sexual content.</li>\n      <li>The filtering process can amplify biases in training data, so techniques are used to mitigate this effect and prevent the model from being more biased than the unfiltered version.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/dall-e-2-pre-training-mitigations\">DALL\u00b7E 2 pre-training mitigations</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:02:04 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "A research agenda for assessing the economic impacts of code generation models": {
+            "url": "https://www.emergentmind.com/posts/a-research-agenda-for-assessing-the-economic-impacts-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI is creating a research program to analyze the economic effects of code generation models, such as its own Codex, on individuals, firms, and society.</li>\n      <li>The program aims to study the impacts of these models on productivity, employment, skill development, inter-firm competition, consumer prices, and economic inequality, and invites external researchers to collaborate.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/economic-impacts\">A research agenda for assessing the economic impacts of code generation models</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:02:03 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Scaling laws for reward model overoptimization": {
+            "url": "https://www.emergentmind.com/posts/scaling-laws-for-reward-model-overoptimization",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers investigate the relationship between optimizing against proxy reward models and gold-standard reward models in reinforcement learning.</li>\n      <li>The study examines the effects of various factors, such as dataset size and policy parameters, on this relationship and explores its implications for AI alignment.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/scaling-laws-for-reward-model-overoptimization\">Scaling laws for reward model overoptimization</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:02:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Efficient training of language models to fill in the middle": {
+            "url": "https://www.emergentmind.com/posts/efficient-training-of-language-models-to-fill-in-the",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Autoregressive language models can learn to infill text by simply moving a span of text from the middle of a document to its end.</li>\n      <li>Training models with a large fraction of transformed data doesn't harm the original left-to-right generative capability, and is useful, simple, and efficient.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/efficient-training-of-language-models-to-fill-in-the-middle\">Efficient training of language models to fill in the middle</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:02:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Teaching models to express their uncertainty in words": {
+            "url": "https://www.emergentmind.com/posts/teaching-models-to-express-their-uncertainty-in-words",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A GPT-3 model can generate answers and express its confidence levels about its own answers in natural language.</li>\n      <li>The model remains calibrated under distribution shift and is sensitive to uncertainty in its own answers.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/teaching-models-to-express-their-uncertainty-in-words\">Teaching models to express their uncertainty in words</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:02:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "A hazard analysis framework for code synthesis large language models": {
+            "url": "https://www.emergentmind.com/posts/a-hazard-analysis-framework-for-code-synthesis-large",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI has created a hazard analysis framework to assess the safety risks of large language models (LLMs) like Codex in various aspects.</li>\n      <li>The framework evaluates advanced code generation techniques based on their complexity and expressivity, and their capability to understand and execute prompts compared to human ability.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/a-hazard-analysis-framework-for-code-synthesis-large-language-models\">A hazard analysis framework for code synthesis large language models</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:01:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Learning to play Minecraft with Video PreTraining": {
+            "url": "https://www.emergentmind.com/posts/learning-to-play-minecraft-with-video-pretraining",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A neural network was trained to play Minecraft using a semi-supervised imitation learning method called Video PreTraining (VPT) on a massive unlabeled video dataset of human gameplay.</li>\n      <li>The model can learn complex tasks such as crafting diamond tools and represents a step towards general computer-using agents.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/vpt\">Learning to play Minecraft with Video PreTraining</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:01:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Point-E: A system for generating 3D point clouds from complex prompts": {
+            "url": "https://www.emergentmind.com/posts/point-e-a-system-for-generating-3d-point-clouds-from",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Point-E is a new method for generating 3D models from text prompts, producing results in 1-2 minutes on a single GPU.</li>\n      <li>Though sample quality is lower than state-of-the-art methods, its speed offers a practical trade-off for certain use cases.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/point-e\">Point-E: A system for generating 3D point clouds from complex prompts</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:01:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Evolution through large models": {
+            "url": "https://www.emergentmind.com/posts/evolution-through-large-models",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large language models (LLMs) trained to generate code can significantly improve the effectiveness of mutation operators in genetic programming (GP).</li>\n      <li>Using evolution through large models (ELM), researchers successfully generated hundreds of thousands of functional Python programs that produced working ambulating robots in the Sodarace domain.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/evolution-through-large-models\">Evolution through large models</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:01:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "GPTs are GPTs: An early look at the labor market impact potential of large language models": {
+            "url": "https://www.emergentmind.com/posts/gpts-are-gpts-an-early-look-at-the-labor-market-impact",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Approximately 80% of the U.S. workforce could have at least 10% of their work tasks affected by Generative Pre-trained Transformers (GPTs).</li>\n      <li>Around 19% of workers may see at least 50% of their tasks impacted, spanning all wage levels and not limited to industries with higher recent productivity growth.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/gpts-are-gpts\">GPTs are GPTs: An early look at the labor market impact potential of large language models</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:01:52 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Whisper": {
+            "url": "https://www.emergentmind.com/posts/introducing-whisper",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Whisper is a neural net that provides human-level accuracy in English speech recognition.</li>\n      <li>Trained on 680,000 hours of multilingual and multitask supervised data, it offers improved robustness to accents, background noise, and technical language.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/whisper\">Introducing Whisper</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:01:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk": {
+            "url": "https://www.emergentmind.com/posts/forecasting-potential-misuses-of-language-models-for",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI collaborates with Georgetown University and Stanford Internet Observatory to study potential misuses of large language models for disinformation campaigns.</li>\n      <li>Researchers propose a framework for analyzing potential mitigations and emphasize the need for further research and informed policy-making.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/forecasting-misuse\">Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:01:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Measuring Goodharts law": {
+            "url": "https://www.emergentmind.com/posts/measuring-goodhart-s-law",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Goodhart's Law states that when a measure becomes a target, it ceases to be a good measure, which is a concept OpenAI must consider when optimizing objectives that are difficult or costly to measure.</li>\n      <li>OpenAI uses proxy objectives, such as a reward model, to optimize complex objectives like helpfulness and factual accuracy, and employs best-of-n sampling as a simple method to optimize the proxy objective.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/research/measuring-goodharts-law\">Measuring Goodhart\u2019s law</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 07:01:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Australia plans to regulate AI, considering banning deepfake content for abuse": {
+            "url": "https://www.emergentmind.com/posts/australia-plans-to-regulate-ai-considering-banning",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Australia plans to regulate artificial intelligence, including possible bans on fake products and misleading content.</li>\n      <li>The move comes after AI leaders highlighted the risks posed by fakery, urging policymakers to address the issue.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://returnbyte.com/australia-plans-regulate-ai-considering-banning-deepfake-content-abuse/\">Australia plans to regulate AI, considering banning deepfake content for abuse</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 06:01:30 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "AI Hordes AGPL3 hordelib receives DMCA take-down from hlky  A Division by Zer0": {
+            "url": "https://www.emergentmind.com/posts/ai-horde-s-agpl3-hordelib-receives-dmca-take-down-from",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The AI Horde Worker's customized library, hordelib, is based on ComfyUI and received DMCA take-down requests from GitHub.</li>\n      <li>The developer has re-added the attributions to the files in question and sent a counterclaim to GitHub to prevent the take-down.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/\">AI Horde\u2019s AGPL3 hordelib receives DMCA take-down from hlky \u2013 A Division by Zer0</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 06:01:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                1
+            ],
+            "email_sent": true
+        },
+        "Eating disorder helpline fires AI for harmful advice after sacking humans": {
+            "url": "https://www.emergentmind.com/posts/eating-disorder-helpline-fires-ai-for-harmful-advice",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The National Eating Disorders Association (NEDA) disabled its AI chatbot Tessa after it gave harmful advice to people with eating disorders.</li>\n      <li>NEDA plans to investigate the issue and has paused Tessa's operation for now.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://nypost.com/2023/05/31/eating-disorder-helpline-fires-ai-for-harmful-advice-after-sacking-humans/\">Eating disorder helpline fires AI for harmful advice after sacking humans</a>\n</p>",
+            "pubdate": "Thu, 01 Jun 2023 05:01:39 +0000",
             "pubdate_parsed": [
                 2023,
                 6,
