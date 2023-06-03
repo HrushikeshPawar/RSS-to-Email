@@ -10944,6 +10944,61 @@
                 3
             ],
             "email_sent": true
+        },
+        "Pure Rust implementation of a minimal Generative Pretrained Transformer": {
+            "url": "https://www.emergentmind.com/posts/github-keyvank-femtogpt-pure-rust-implementation-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A new implementation of a minimal Generative Pretrained Transformer (GPT) has been created using the Rust programming language.</li>\n      <li>This implementation, known as femtoGPT, is not part of any branch in the main repository and may belong to an external fork.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/keyvank/femtoGPT\">Pure Rust implementation of a minimal Generative Pretrained Transformer</a>\n</p>",
+            "pubdate": "Sat, 03 Jun 2023 13:01:52 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                3
+            ],
+            "email_sent": true
+        },
+        "Ahead of AI #9: LLM Tuning & Dataset Perspectives": {
+            "url": "https://www.emergentmind.com/posts/ahead-of-ai-9-llm-tuning-dataset-perspectives",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers examine training and finetuning methods for language models, such as LLaMA and GPT-4.</li>\n      <li>Studies explore questions like how much data is needed for finetuning LLMs and alternative approaches to reinforcement learning with human feedback.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://magazine.sebastianraschka.com/p/ahead-of-ai-9-llm-tuning-and-dataset\">Ahead of AI #9: LLM Tuning &amp; Dataset Perspectives</a>\n</p>",
+            "pubdate": "Sat, 03 Jun 2023 13:01:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                3
+            ],
+            "email_sent": true
+        },
+        "Small Islands of Consciousness. Memory and awareness-driven learning": {
+            "url": "https://www.emergentmind.com/posts/small-islands-of-consciousness-memory-and",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses how awareness-based learning works in the mind and how it differs from other types of learning.</li>\n      <li>It suggests that consciousness is not continuous but rather experienced in small chunks, like 'islands' of awareness surrounded by a sea of unknown.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://ykulbashian.medium.com/small-islands-of-consciousness-ed5b56f068ca\">Small Islands of Consciousness. Memory and awareness-driven learning</a>\n</p>",
+            "pubdate": "Sat, 03 Jun 2023 12:02:23 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                3
+            ],
+            "email_sent": true
+        },
+        "Notes on training BERT from scratch on an 8GB consumer GPU": {
+            "url": "https://www.emergentmind.com/posts/notes-on-training-bert-from-scratch-on-an-8gb-consumer",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A BERT model was trained from scratch on a desktop PC with a Nvidia 3060 Ti 8GB GPU using Hugging Face libraries and 20GB of uncompressed text data.</li>\n      <li>The model performed well on natural language tasks, achieving results comparable to early 2018 state-of-the-art models.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://sidsite.com/posts/bert-from-scratch/\">Notes on training BERT from scratch on an 8GB consumer GPU</a>\n</p>",
+            "pubdate": "Sat, 03 Jun 2023 11:02:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                3
+            ],
+            "email_sent": true
+        },
+        "What exciting advancements can we expect from GPT-5?": {
+            "url": "https://www.emergentmind.com/posts/what-exciting-advancements-can-we-expect-from-gpt-5",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>GPT-5 is expected to offer enhanced contextual understanding, maintaining context over longer conversations.</li>\n      <li>It may also feature increased multimodal capabilities, handling text, images, videos, and audio, as well as improved emotional intelligence.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.techtusa.com/software-services/what-exciting-advancements-can-we-expect-from-gpt-5-184491\">What exciting advancements can we expect from GPT-5?</a>\n</p>",
+            "pubdate": "Sat, 03 Jun 2023 10:02:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                3
+            ],
+            "email_sent": true
         }
     }
 }
