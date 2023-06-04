@@ -10999,6 +10999,17 @@
                 3
             ],
             "email_sent": true
+        },
+        "Mafia Nickname Game": {
+            "url": "https://www.emergentmind.com/posts/mafia-nickname-game",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>GameGPT hosts a game called 'Mafia Nickname Speed Round' where users create nicknames for fictional mobsters based on their descriptions.</li>\n      <li>Players are scored on nickname quality, with praise or wisecracks given based on their performance.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/534a9e07-ed46-4176-871d-0973dab3b366\">Mafia Nickname Game</a>\n</p>",
+            "pubdate": "Sun, 04 Jun 2023 02:02:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                4
+            ],
+            "email_sent": true
         }
     }
 }
