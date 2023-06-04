@@ -11010,6 +11010,83 @@
                 4
             ],
             "email_sent": true
+        },
+        "CEO Update: Paving the road forward with AI and community at the center - Stack Overflow Blog": {
+            "url": "https://www.emergentmind.com/posts/ceo-update-paving-the-road-forward-with-ai-and",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Stack Overflow continues to help customers and community by driving productivity and efficiency.</li>\n      <li>The company is exploring the use of generative AI (GenAI) to augment the question writing experience and improve the platform.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://stackoverflow.blog/2023/05/31/ceo-update-paving-the-road-forward-with-ai-and-community-at-the-center/\">CEO Update: Paving the road forward with AI and community at the center - Stack Overflow Blog</a>\n</p>",
+            "pubdate": "Sun, 04 Jun 2023 12:01:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                4
+            ],
+            "email_sent": true
+        },
+        "Crypto collapse? Get in loser, were pivoting to AI  Attack of the 50 Foot Blockchain": {
+            "url": "https://www.emergentmind.com/posts/crypto-collapse-get-in-loser-we-re-pivoting-to-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Half of the crypto industry has been pivoting to AI, with many similarities to the grifts in the cryptocurrency world.</li>\n      <li>AI technologies such as ChatGPT and AI art generators have gained popularity, raising questions about who benefits and who gets ripped off.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://davidgerard.co.uk/blockchain/2023/06/03/crypto-collapse-get-in-loser-were-pivoting-to-ai/\">Crypto collapse? Get in loser, we\u2019re pivoting to AI \u2013 Attack of the 50 Foot Blockchain</a>\n</p>",
+            "pubdate": "Sun, 04 Jun 2023 11:03:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                4
+            ],
+            "email_sent": true
+        },
+        "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.": {
+            "url": "https://www.emergentmind.com/posts/github-facebookincubator-aitemplate-aitemplate-is-a",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AITemplate is a Python framework that converts deep neural networks into C++ code for fast inference on NVIDIA and AMD GPUs.</li>\n      <li>It offers high performance, flexibility, and compatibility with major models like ResNet, MaskRCNN, BERT, and VisionTransformer.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/facebookincubator/AITemplate\">AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.</a>\n</p>",
+            "pubdate": "Sun, 04 Jun 2023 10:01:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                4
+            ],
+            "email_sent": true
+        },
+        "Amazon will no longer send you damaged products, will use AI technology to check products before shipping - Global News Bulletin": {
+            "url": "https://www.emergentmind.com/posts/amazon-will-no-longer-send-you-damaged-products-will",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Amazon is implementing AI technology in its warehouses to inspect items before they are shipped, ensuring customers receive products in good condition.</li>\n      <li>The AI system, already in use in two warehouses, is three times better than a human worker at identifying damaged items and will help automate tasks, reducing physical strain on workers.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://globenewsbulletin.com/technology/amazon-will-no-longer-send-you-damaged-products-will-use-ai-technology-to-check-products-before-shipping/\">Amazon will no longer send you damaged products, will use AI technology to check products before shipping - Global News Bulletin</a>\n</p>",
+            "pubdate": "Sun, 04 Jun 2023 09:02:11 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                4
+            ],
+            "email_sent": true
+        },
+        "Thought Cloning: Learning to Think while Acting by Imitating Human Thinking": {
+            "url": "https://www.emergentmind.com/posts/2306-00323-thought-cloning-learning-to-think-while",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Thought Cloning is a novel Imitation Learning framework that aims to train AI agents to think like humans, improving their abilities.</li>\n      <li>The technique shows faster learning, better handling of new situations, increased safety, and interpretability compared to Behavioral Cloning.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2306.00323\">Thought Cloning: Learning to Think while Acting by Imitating Human Thinking</a>\n</p>",
+            "pubdate": "Sun, 04 Jun 2023 08:02:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                4
+            ],
+            "email_sent": true
+        },
+        "OpenAI's plans according to Sam Altman": {
+            "url": "https://www.emergentmind.com/posts/openai-s-plans-according-to-sam-altman-9b51db",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI is currently facing GPU limitations affecting its short-term plans and API reliability, but aims to make GPT-4 cheaper and faster in 2023 and introduce multimodality in 2024.</li>\n      <li>The company does not plan to compete with its customers by releasing more products beyond ChatGPT, and Sam Altman emphasizes the importance of open source and regulation in AI development.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://web.archive.org/web/20230601000258/https://website-nm4keew22-humanloopml.vercel.app/blog/openai-plans\">OpenAI's plans according to Sam Altman</a>\n</p>",
+            "pubdate": "Sun, 04 Jun 2023 08:02:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                4
+            ],
+            "email_sent": true
+        },
+        "Try Gorilla: A Large Language Model Connected with Massive APIs": {
+            "url": "https://www.emergentmind.com/posts/try-gorilla-a-large-language-model-connected-with",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Gorilla is a powerful Large Language Model designed to interact with various APIs to improve real-world applications.</li>\n      <li>It outperforms GPT-4 in generating API calls and adapts to changes in API documentation, making it highly reliable and applicable.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@dan.avila7/try-gorilla-a-large-language-model-connected-with-massive-apis-442f3b554ffb\">Try Gorilla: A Large Language Model Connected with Massive APIs</a>\n</p>",
+            "pubdate": "Sun, 04 Jun 2023 05:01:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                4
+            ],
+            "email_sent": true
         }
     }
 }
