@@ -11087,6 +11087,28 @@
                 4
             ],
             "email_sent": true
+        },
+        "Intelligent brains take longer to solve difficult problems - News - BIH at Charit": {
+            "url": "https://www.emergentmind.com/posts/intelligent-brains-take-longer-to-solve-difficult",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers found that individuals with higher intelligence scores took longer to solve complex tasks but made fewer errors.</li>\n      <li>Slower decision-makers had higher average functional connectivity, or temporal synchrony, between their brain regions.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems\">Intelligent brains take longer to solve difficult problems - News - BIH at Charit\u00e9</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 00:03:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "Tree of Processing. On a whim during the winter of 2021, I": {
+            "url": "https://www.emergentmind.com/posts/tree-of-processing-on-a-whim-during-the-winter-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A hobbyist coder combines creative coding using p5.js and AI with OpenAI's ChatGPT to generate unique art based on user prompts.</li>\n      <li>The project uses a tree search algorithm to refine and optimize the generated code, but awaits the public API for multimodal models to improve evaluation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@brysontang/tree-of-processing-bd002ca91396\">Tree of Processing. On a whim during the winter of 2021, I\u2026</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 00:03:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
         }
     }
 }
