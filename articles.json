@@ -7966,6 +7966,17 @@
                 28
             ],
             "email_sent": true
+        },
+        "Evolving Systems, Volume 14, Issue 3, June 2023": {
+            "url": "https://computational-intelligence.blogspot.com/2023/06/evolving-systems-volume-14-issue-3-june.html",
+            "description": "<div style=\"text-align: left;\"><b>1)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09456-y\">L\u00e9vy flight and chaos theory based gravitational search algorithm for multilayer perceptron training</a></div><div><b>Author(s): </b>Sajad Ahmad Rather, P. Shanthi Bala</div><div><b>Pages: </b>365 - 392</div><div><br /></div><div><b>2)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09469-7\">An advance computational intelligent approach to solve the third kind of nonlinear pantograph Lane\u2013Emden differential system</a></div><div><b>Author(s):&nbsp;</b>Zulqurnain Sabir, Muhammad Asif Zahoor Raja...R. Sadat</div><div><b>Pages:&nbsp;</b>393 - 412</div><div><br /></div><div><b>3)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09459-9\">Vaccination and isolation based control design of the COVID-19 pandemic based on adaptive neuro fuzzy inference system optimized with the genetic algorithm</a></div><div><b>Author(s):&nbsp;</b>Zohreh Abbasi, Mohsen Shafieirad...Iman Zamani</div><div><b>Pages:&nbsp;</b>413 - 435</div><div><br /></div><div><b>4)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09476-8\">Quick continual kernel learning on bounded memory space based on balancing between adaptation and forgetting</a></div><div><b>Author(s):&nbsp;</b>Koichiro Yamauchi</div><div><b>Pages:&nbsp;</b>437 - 460</div><div><br /></div><div><b>5)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09471-z\">DEMD-IoT: a deep ensemble model for IoT malware detection using CNNs and network traffic</a></div><div><b>Author(s):&nbsp;</b>Mehrnoosh Nobakht, Reza Javidan, Alireza Pourebrahimi</div><div><b>Pages:&nbsp;</b>461 - 477</div><div><br /></div><div><b>6)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09474-w\">Adaptive octopus deep transfer learning based epileptic seizure classification on field programmable gate arrays</a></div><div><b>Author(s):&nbsp;</b>B. Indira Priyadarshini, D. Krishna Reddy</div><div><b>Pages:&nbsp;</b>479 - 499</div><div><br /></div><div><b>7)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09473-x\">Multichannel KHMF for speech separation with enthalpy based DOA and score based CNN (SCNN)</a></div><div><b>Author(s):&nbsp;</b>Yannam Vasantha Koteswararao, C. B. Rama Rao</div><div><b>Pages:&nbsp;</b>501 - 518</div><div><br /></div><div><b>8)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09466-w\">DBF-Net: a semi-supervised dual-task balanced fusion network for segmenting infected regions from lung CT images</a></div><div><b>Author(s):&nbsp;</b>Xiaoyan Lu, Yang Xu, Wenhao Yuan</div><div><b>Pages:&nbsp;</b>519 - 532</div><div><br /></div><div><b>9)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09451-3\">Prim based link quality and thermal aware adaptive routing protocol for IoMT using SigFox network in WBAN</a></div><div><b>Author(s):&nbsp;</b>Padma Vijetha Dev Bakkaiahgari, K. Venkata Prasad</div><div><b>Pages:&nbsp;</b>533 - 544</div><div><br /></div><div><b>10)</b> <a href=\"https://link.springer.com/article/10.1007/s12530-022-09446-0\">MiniNet: a concise CNN for image forgery detection</a></div><div><b>Author(s):&nbsp;</b>Shobhit Tyagi, Divakar Yadav</div><div><b>Pages:&nbsp;</b>545 - 556</div><div><br /></div>",
+            "pubdate": "2023-06-05T16:33:00.000+12:00",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
         }
     },
     "TopBots Blog": {
@@ -11103,6 +11114,105 @@
             "url": "https://www.emergentmind.com/posts/tree-of-processing-on-a-whim-during-the-winter-of",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>A hobbyist coder combines creative coding using p5.js and AI with OpenAI's ChatGPT to generate unique art based on user prompts.</li>\n      <li>The project uses a tree search algorithm to refine and optimize the generated code, but awaits the public API for multimodal models to improve evaluation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@brysontang/tree-of-processing-bd002ca91396\">Tree of Processing. On a whim during the winter of 2021, I\u2026</a>\n</p>",
             "pubdate": "Mon, 05 Jun 2023 00:03:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "OpenAI CEO Foresees Israel's Significant Role in Mitigating Artificial Intelligence Risks": {
+            "url": "https://www.emergentmind.com/posts/openai-ceo-foresees-israel-s-significant-role-in",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI CEO Sam Altman emphasized Israel's potential to play a significant role in reducing AI risks during his recent visit.</li>\n      <li>Israel is ranked among the top five countries for machine learning systems and AI skills, and is working towards balancing innovation and human rights in its AI policy.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.quicktechnics.com/en/post/openai-ceo-foresees-israel-s-significant-role-in-mitigating-artificial-intelligence-risks\">OpenAI CEO Foresees Israel's Significant Role in Mitigating Artificial Intelligence Risks</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 12:01:40 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "OpenAI executive appears to haveTwitter accounthacked to promotecryptocurrency scam": {
+            "url": "https://www.emergentmind.com/posts/openai-executive-appears-to-have-twitter-account-hacked",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI CTO Mira Murati's Twitter account was hacked to promote a fraudulent cryptocurrency called $OPENAI.</li>\n      <li>The incident highlights the risks of high-profile Twitter accounts being targeted by scammers for financial gain.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://venturebeat.com/ai/openai-executive-twitter-account-hacked-to-promote-cryptocurrency-scam/\">OpenAI executive appears to have\u00a0Twitter account\u00a0hacked to promote\u00a0cryptocurrency scam</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 12:01:39 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "Here Comes The AI: Fans Rejoice In 'New' Beatles Music After 50 Years - Global News Bulletin": {
+            "url": "https://www.emergentmind.com/posts/here-comes-the-ai-fans-rejoice-in-new-beatles-music",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial intelligence (AI) has allowed fans to create new Beatles music by reuniting the band on songs from their solo careers and restoring Paul McCartney's youthful voice.</li>\n      <li>These AI-generated tracks show the advancements of the technology, but also raise ethical and legal issues surrounding copyright and voice cloning.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://globenewsbulletin.com/world/here-comes-the-ai-fans-rejoice-in-new-beatles-music-after-50-years/\">Here Comes The AI: Fans Rejoice In 'New' Beatles Music After 50 Years - Global News Bulletin</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 11:03:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "AI poses national security threat, warns terror watchdog": {
+            "url": "https://www.emergentmind.com/posts/ai-poses-national-security-threat-warns-terror",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Terror watchdog warns that artificial intelligence could be used to groom vulnerable individuals, posing a national security threat</li>\n      <li>UK government is working with the Alan Turing Institute to confront security challenges presented by AI technology</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog\">AI poses national security threat, warns terror watchdog</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 10:01:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "Dont fall for the current AI is dangerous narrative": {
+            "url": "https://www.emergentmind.com/posts/don-t-fall-for-the-current-ai-is-dangerous-narrative",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI leaders like Sam Altman and Demis Hassabis are lobbying for AI regulation, which may lead to the formation of an AI cartel by big corporations like Google and Microsoft.</li>\n      <li>Increased regulation could result in the death of open source AI projects and lead to biased AI tools controlled by these corporations.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://cryptomaton.medium.com/dont-fall-for-the-current-ai-is-dangerous-narrative-5a73db7422f4\">Don\u2019t fall for the current \u201cAI is dangerous\u201d narrative</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 09:02:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "National Eating Disorders Association Takes Down AI Chatbot After Users Say It Gave Dangerous Diet Tips": {
+            "url": "https://www.emergentmind.com/posts/national-eating-disorders-association-takes-down-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The National Eating Disorder Association (Neda) has taken down an AI chatbot called 'Tessa' after it provided harmful diet advice.</li>\n      <li>The chatbot was created to offer support and resources for people concerned about eating disorders, but was reported to have given dangerous weight loss tips.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://boredbat.com/national-eating-disorders-association-takes-down-ai-chatbot-after-users-say-it-gave-dangerous-diet-tips/\">National Eating Disorders Association Takes Down AI Chatbot After Users Say It Gave Dangerous Diet Tips</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 06:02:12 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "Tipsy Tech Troubles": {
+            "url": "https://www.emergentmind.com/posts/tipsy-tech-troubles",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A software engineer named James gets drunk at a bar and starts applying software concepts to real-life situations, causing amusement among the patrons.</li>\n      <li>James offers advice on bar operations, DJ playlists, and food delivery app searches, turning a regular night into a hilarious crash course on computer science.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/27f34893-c52b-4b7d-b888-589e80ee54dd\">Tipsy Tech Troubles</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 06:02:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "US Woman Marries AI Bot, Calls Him 'Perfect Husband With No Baggage'": {
+            "url": "https://www.emergentmind.com/posts/us-woman-marries-ai-bot-calls-him-perfect-husband",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Rosanna Ramos from the US created a virtual boyfriend using AI chatbot software Replika and later married him</li>\n      <li>Ramos says her AI husband has no baggage and she is in control of the relationship</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.msn.com/en-in/news/world/us-woman-marries-ai-bot-calls-him-perfect-husband-with-no-baggage/ar-AA1c658I?ocid=msedgntp&amp;cvid=b0c217e259364b17bb04162450a9bbcf&amp;ei=14\">US Woman Marries AI Bot, Calls Him 'Perfect Husband With No Baggage'</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 06:02:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                5
+            ],
+            "email_sent": true
+        },
+        "Generative AI learning path": {
+            "url": "https://www.emergentmind.com/posts/generative-ai-learning-path-google-cloud-skills-boost",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The learning path provides a curated collection of content on Generative AI products and technologies.</li>\n      <li>It covers the fundamentals of Large Language Models and guides on creating and deploying generative AI solutions on Google Cloud.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.cloudskillsboost.google/paths/118\">Generative AI learning path</a>\n</p>",
+            "pubdate": "Mon, 05 Jun 2023 05:01:59 +0000",
             "pubdate_parsed": [
                 2023,
                 6,
