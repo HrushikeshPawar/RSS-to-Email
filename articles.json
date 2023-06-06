@@ -1541,6 +1541,17 @@
                 1
             ],
             "email_sent": true
+        },
+        "Technical Artist Builds Great Woolly Mammoth With NVIDIA Omniverse USD Composer This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/06/omniverse-usd-marvelous-designer-connector/",
+            "description": "Keerthan Sathya, a senior technical artist specializing in 3D, emerged trium-elephant In the NVIDIA Studio this week with the incredibly detailed, expertly constructed, jaw-droppingly beautiful animation Tiny Mammoth.",
+            "pubdate": "Tue, 06 Jun 2023 13:00:17 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                6
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -7513,6 +7524,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "From GPT3 to AGI: Insights from Felix Tao, CEO of Mindverse AI": {
+            "url": "https://www.louisbouchard.ai/from-gpt3-to-agi-insights-from-felix-tao-ceo-of-mindverse-ai/",
+            "description": "Navigating the Changing Landscape of AI: Felix Tao's Journey from Researcher to\u00a0CEO",
+            "pubdate": "Tue, 06 Jun 2023 10:20:52 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
@@ -9916,6 +9938,17 @@
                 1
             ],
             "email_sent": true
+        },
+        "Welcome fastText to the  Hub": {
+            "url": "https://huggingface.co/blog/fasttext",
+            "description": null,
+            "pubdate": "Tue, 06 Jun 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -11228,6 +11261,72 @@
                 2023,
                 6,
                 5
+            ],
+            "email_sent": true
+        },
+        "Chat GPT's Interesting 'Thoughts' About Magic Mushrooms   Eden Industries": {
+            "url": "https://www.emergentmind.com/posts/chat-gpt-s-interesting-thoughts-about-magic",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Chat GPT answers questions about Psilocybe mushrooms, their potential effects, and connections to various topics.</li>\n      <li>The AI provides interesting insights and speculation on the role of mushrooms in various scenarios, including mental health, VR, and more.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://edenshrooms.com/blogs/the-magic-mushroom-blog/chatgpt-magic-mushrooms\">Chat GPT's Interesting 'Thoughts' About Magic Mushrooms  \u2013 Eden Industries</a>\n</p>",
+            "pubdate": "Tue, 06 Jun 2023 13:01:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                6
+            ],
+            "email_sent": true
+        },
+        "Six tips for better coding with ChatGPT": {
+            "url": "https://www.emergentmind.com/posts/six-tips-for-better-coding-with-chatgpt",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT, an AI-driven chatbot, can assist in debugging, annotating code, and translating software, but it has limitations and must be used with caution.</li>\n      <li>Tips for using ChatGPT include choosing appropriate applications, verifying results, ensuring safety, iterating conversations, and treating it like an intern.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nature.com/articles/d41586-023-01833-0\">Six tips for better coding with ChatGPT</a>\n</p>",
+            "pubdate": "Tue, 06 Jun 2023 13:01:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                6
+            ],
+            "email_sent": true
+        },
+        "Power Laws for Hyperparameter Optimization": {
+            "url": "https://www.emergentmind.com/posts/2302-00441-power-laws-for-hyperparameter-optimization",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Deep Power Laws (DPL) is a new ensemble of neural network models designed for hyperparameter optimization.</li>\n      <li>By utilizing gray-box evaluations, DPL achieves the best any-time results across 3 benchmarks and 59 tasks compared to 7 state-of-the-art competitors.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2302.00441\">Power Laws for Hyperparameter Optimization</a>\n</p>",
+            "pubdate": "Tue, 06 Jun 2023 12:01:52 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                6
+            ],
+            "email_sent": true
+        },
+        "useLLM - React Hooks for Large Language Models": {
+            "url": "https://www.emergentmind.com/posts/usellm-react-hooks-for-large-language-models",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>useLLM React Hooks allow easy integration of large language models like ChatGPT into React applications.</li>\n      <li>Add AI-powered features to your React apps in minutes with useLLM.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://usellm.org/\">useLLM - React Hooks for Large Language Models</a>\n</p>",
+            "pubdate": "Tue, 06 Jun 2023 11:02:57 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                6
+            ],
+            "email_sent": true
+        },
+        "NVIDIA Grace Hopper Superchip": {
+            "url": "https://www.emergentmind.com/posts/nvidia-grace-hopper-superchip-nvidia",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The NVIDIA GH200 Grace Hopper Superchip is designed for large-scale AI and high-performance computing applications.</li>\n      <li>The superchip combines the Grace and Hopper architectures, offering up to 10X higher performance and faster memory for handling terabytes of data.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/\">NVIDIA Grace Hopper Superchip</a>\n</p>",
+            "pubdate": "Tue, 06 Jun 2023 10:01:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                6
+            ],
+            "email_sent": true
+        },
+        "Apple Vision Pro: Apples first spatial computer - Apple": {
+            "url": "https://www.emergentmind.com/posts/introducing-apple-vision-pro-apple-s-first-spatial",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Apple has unveiled Apple Vision Pro, a spatial computer that combines digital content with the physical world, featuring a three-dimensional user interface and visionOS.</li>\n      <li>The device offers new ways to interact with apps, capture and relive memories, watch movies and TV shows, and connect with others in FaceTime.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/\">Introducing Apple Vision Pro: Apple\u2019s first spatial computer - Apple</a>\n</p>",
+            "pubdate": "Tue, 06 Jun 2023 05:01:30 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                6
             ],
             "email_sent": true
         }
