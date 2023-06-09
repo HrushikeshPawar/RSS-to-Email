@@ -11516,6 +11516,39 @@
                 9
             ],
             "email_sent": true
+        },
+        "Weekly Piece of Future #19 - by Zoltan Tapi": {
+            "url": "https://www.emergentmind.com/posts/weekly-piece-of-future-19-by-zoltan-tapi",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Scientists have invented self-healing robot skin that can repair itself within 24 hours, paving the way for more durable and resilient robots. Chinese researchers have developed a nanoplatform capable of eliminating cancer cells, offering new possibilities for breast cancer treatment.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://rushingrobotics.com/p/weekly-piece-of-future-19\">Weekly Piece of Future #19 - by Zoltan Tapi</a>\n</p>",
+            "pubdate": "Fri, 09 Jun 2023 13:02:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                9
+            ],
+            "email_sent": true
+        },
+        "Reddit - Dive into anything": {
+            "url": "https://www.emergentmind.com/posts/reddit-dive-into-anything-29e0a0",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A former COO of a NASDAQ company wants to expose the corrupt CEO after discovering his lies and manipulation.</li>\n      <li>The CEO's actions negatively impacted investors, including veterans and friends from the COO's community, and the COO is seeking guidance before taking action.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.reddit.com/r/TrueOffMyChest/comments/144c4fe/i_was_the_coo_of_a_nasdaq_company_the_ceo_i_came/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=ioscss&amp;utm_content=2&amp;utm_term=1\">Reddit - Dive into anything</a>\n</p>",
+            "pubdate": "Fri, 09 Jun 2023 12:02:06 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                9
+            ],
+            "email_sent": true
+        },
+        "Say Goodbye to Costly Auto-GPT and LangChain Runs: Meet ReWOO - The Game-Changing Modular Paradigm that Cuts Token Consumption by Detaching Reasoning from External Observations - MarkTechPost": {
+            "url": "https://www.emergentmind.com/posts/say-goodbye-to-costly-auto-gpt-and-langchain-runs-meet",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ReWOO is a modular paradigm that separates the reasoning process of large language models from external observations, reducing token consumption.</li>\n      <li>The approach has shown improvements in efficiency and accuracy across multiple natural language processing benchmarks.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.marktechpost.com/2023/06/04/say-goodbye-to-costly-auto-gpt-and-langchain-runs-meet-rewoo-the-game-changing-modular-paradigm-that-cuts-token-consumption-by-detaching-reasoning-from-external-observations/\">Say Goodbye to Costly Auto-GPT and LangChain Runs: Meet ReWOO - The Game-Changing Modular Paradigm that Cuts Token Consumption by Detaching Reasoning from External Observations - MarkTechPost</a>\n</p>",
+            "pubdate": "Fri, 09 Jun 2023 11:02:59 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                9
+            ],
+            "email_sent": true
         }
     }
 }
