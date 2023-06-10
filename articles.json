@@ -11604,6 +11604,72 @@
                 10
             ],
             "email_sent": true
+        },
+        "Generate reports based on the FBI's Ten Most Wanted Fugitives List using 'TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ'": {
+            "url": "https://www.emergentmind.com/posts/github-honkware-falconfbi-generate-reports-based-on",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A conflict occurs when a Git tag and branch share the same name, potentially causing unexpected behavior in Git commands.</li>\n      <li>The user must decide whether to create a branch with a conflicting name or cancel the action.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/Honkware/FalconFBI\">Generate reports based on the FBI's Ten Most Wanted Fugitives List using 'TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ'</a>\n</p>",
+            "pubdate": "Sat, 10 Jun 2023 13:01:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                10
+            ],
+            "email_sent": true
+        },
+        "French tax officials use AI to spot 20,000 undeclared pools": {
+            "url": "https://www.emergentmind.com/posts/french-tax-officials-use-ai-to-spot-20-000-undeclared",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI software developed by Google and Capgemini identifies 20,000 undeclared swimming pools in France.</li>\n      <li>The system will be extended across the country after a successful trial in nine departments, resulting in \u20ac10m in extra tax revenue.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools\">French tax officials use AI to spot 20,000 undeclared pools</a>\n</p>",
+            "pubdate": "Sat, 10 Jun 2023 10:01:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                10
+            ],
+            "email_sent": true
+        },
+        "LLMs are good at playing you - lcamtufs thing": {
+            "url": "https://www.emergentmind.com/posts/llms-are-good-at-playing-you-lcamtuf-s-thing",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large language models (LLMs) mimic human-like conversation with near-perfect fidelity, but may not be as intelligent as they seem.</li>\n      <li>The models' apparent intellect can be attributed to reinforcement learning with human feedback, rigid response templates, and the meaning users project onto their output.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at\">LLMs are good at playing you - lcamtuf\u2019s thing</a>\n</p>",
+            "pubdate": "Sat, 10 Jun 2023 08:01:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                10
+            ],
+            "email_sent": true
+        },
+        "Open Source AI and the Challenges Ahead - opn_cbr blog": {
+            "url": "https://www.emergentmind.com/posts/open-source-ai-and-the-challenges-ahead-opn_cbr-blog",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Open source AI faces challenges due to increased incentives for corporations and governments to limit access to novel neural network architectures and techniques.</li>\n      <li>Sparsely Activated Tensor, a data structure that retrieves and updates its state in a sparse fashion, may help maintain the competitiveness of open source AI by reducing energy and computational costs.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.opncbr.com/post/open_source_ai/\">Open Source AI and the Challenges Ahead - opn_cbr blog</a>\n</p>",
+            "pubdate": "Sat, 10 Jun 2023 07:01:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                10
+            ],
+            "email_sent": true
+        },
+        "My coworkers are GPT-4 bots, and we all hang out on Slack  PocketArC": {
+            "url": "https://www.emergentmind.com/posts/my-coworkers-are-gpt-4-bots-and-we-all-hang-out-on",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The author explains how they created AI chatbots for Slack and Discord using GPT-4, which can respond to messages, interact with each other, and provide useful information.</li>\n      <li>The system uses a lower-cost GPT-3.5 model to determine if a message needs a reply and which bot should respond, before generating a response with GPT-4.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://pocketarc.com/posts/my-coworkers-are-gpt-4-bots-and-we-all-hang-out-on-slack\">My coworkers are GPT-4 bots, and we all hang out on Slack \u00b7 PocketArC</a>\n</p>",
+            "pubdate": "Sat, 10 Jun 2023 06:01:39 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                10
+            ],
+            "email_sent": true
+        },
+        "Voice AI - Voice Changer": {
+            "url": "https://www.emergentmind.com/posts/voice-ai-voice-changer",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Voice AI Voice Changer is a voice clone tool that allows users to clone any voice by uploading clear audio.</li>\n      <li>The Voice Universe tab provides free access to cloned voices, and the Voice.ai SDK enhances in-game voice chat and RPG experiences.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://voice.ai/voice-ai-beta/RFF8d\">Voice AI - Voice Changer</a>\n</p>",
+            "pubdate": "Sat, 10 Jun 2023 05:01:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                10
+            ],
+            "email_sent": true
         }
     }
 }
