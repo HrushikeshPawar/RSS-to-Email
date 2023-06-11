@@ -7546,6 +7546,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "The Best Image-to-3D AI to date: Neuralangelo": {
+            "url": "https://www.louisbouchard.ai/neuralangelo/",
+            "description": "Here's the best Images-to-3D AI to date, and how it\u00a0works\u2026",
+            "pubdate": "Sun, 11 Jun 2023 11:57:07 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                11
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
@@ -11668,6 +11679,83 @@
                 2023,
                 6,
                 10
+            ],
+            "email_sent": true
+        },
+        "Indian CEO Accepts OpenAI CEOs Challenge To Compete in AI Field - TheNewsCrypto": {
+            "url": "https://www.emergentmind.com/posts/indian-ceo-accepts-openai-ceo-s-challenge-to-compete-in",
+            "description": "<p>\n  Full article: <a href=\"https://thenewscrypto.com/indian-ceo-accepts-openai-ceos-challenge-to-compete-in-ai-field/\">Indian CEO Accepts OpenAI CEO\u2019s Challenge To Compete in AI Field - TheNewsCrypto</a>\n</p>",
+            "pubdate": "Sun, 11 Jun 2023 13:05:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                11
+            ],
+            "email_sent": true
+        },
+        "The AI Hype Wall of Shame  Critical AI": {
+            "url": "https://www.emergentmind.com/posts/the-ai-hype-wall-of-shame-critical-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Critical AI and the DAIR Institute collaborate to create the AI Hype Wall of Shame, combating misleading public information about artificial intelligence.</li>\n      <li>They use a 'Marvin' rating system, inspired by Marvin the Paranoid Android from the Hitchhiker's Guide to the Galaxy, to categorize instances of AI hype.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://criticalai.org/the-ai-hype-wall-of-shame/\">The AI Hype Wall of Shame \u2013 Critical AI</a>\n</p>",
+            "pubdate": "Sun, 11 Jun 2023 13:02:12 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                11
+            ],
+            "email_sent": true
+        },
+        "Archaeologists Unlock Secrets of Ancient Mesopotamian Texts with the Help of AI - Flash Blitz": {
+            "url": "https://www.emergentmind.com/posts/archaeologists-unlock-secrets-of-ancient-mesopotamian",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Archaeologists use artificial intelligence to decode ancient Mesopotamian texts, providing insights into their culture and way of life.</li>\n      <li>AI algorithms recognized patterns and symbols, enhancing understanding of Mesopotamian history, mythology, law, trade, and diplomacy.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://flashblitz.com/archaeology/archaeological-science-and-technology/archaeologists-unlock-secrets-of-ancient-mesopotamian-texts-with-the-help-of-ai/\">Archaeologists Unlock Secrets of Ancient Mesopotamian Texts with the Help of AI - Flash Blitz</a>\n</p>",
+            "pubdate": "Sun, 11 Jun 2023 12:01:52 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                11
+            ],
+            "email_sent": true
+        },
+        "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.": {
+            "url": "https://www.emergentmind.com/posts/github-facebookresearch-audiocraft-audiocraft-is-a",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Audiocraft is a PyTorch library designed for deep learning research on audio generation, featuring MusicGen, a state-of-the-art controllable text-to-music model.</li>\n      <li>MusicGen is an auto-regressive Transformer model that doesn't require self-supervised semantic representation and generates all 4 codebooks in one pass, allowing for faster and more efficient audio generation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/facebookresearch/audiocraft\">Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</a>\n</p>",
+            "pubdate": "Sun, 11 Jun 2023 11:03:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                11
+            ],
+            "email_sent": true
+        },
+        "OpenAI CEO Sam Altman Backs China's Leadership in AI Regulation - TheNewsCrypto": {
+            "url": "https://www.emergentmind.com/posts/openai-ceo-sam-altman-backs-china-s-leadership-in-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI CEO Sam Altman says China should take the lead in formulating artificial intelligence rules for security purposes.</li>\n      <li>Altman believes China's strong AI talent and the need for global collaboration make it suitable for taking on this role.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://thenewscrypto.com/openai-ceo-sam-altman-backs-chinas-leadership-in-ai-regulation/\">OpenAI CEO Sam Altman Backs China's Leadership in AI Regulation - TheNewsCrypto</a>\n</p>",
+            "pubdate": "Sun, 11 Jun 2023 11:03:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                11
+            ],
+            "email_sent": true
+        },
+        "Can you trust ChatGPTs package recommendations?": {
+            "url": "https://www.emergentmind.com/posts/can-you-trust-chatgpt-s-package-recommendations",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers discovered that attackers can exploit ChatGPT's tendency to generate non-existent coding libraries to spread malicious packages.</li>\n      <li>The technique, called AI package hallucination, takes advantage of ChatGPT's sometimes factually inaccurate responses and poses a threat to developers relying on AI-generated recommendations.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://vulcan.io/blog/ai-hallucinations-package-risk\">Can you trust ChatGPT\u2019s package recommendations?</a>\n</p>",
+            "pubdate": "Sun, 11 Jun 2023 10:02:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                11
+            ],
+            "email_sent": true
+        },
+        "Extensible AGI Framework": {
+            "url": "https://www.emergentmind.com/posts/github-databassgit-agentforge-extensible-agi",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AgentForge is an advanced AI-driven task automation system designed for generating, prioritizing, and executing tasks based on a specified objective.</li>\n      <li>Utilizing state-of-the-art technologies such as ChromaDB, SentenceTransformer, and the OpenAI API, the project aims to establish a user-friendly, low-code/no-code framework for rapid iteration on cognitive architectures and seamless integration of new logic modules.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/DataBassGit/AgentForge\">Extensible AGI Framework</a>\n</p>",
+            "pubdate": "Sun, 11 Jun 2023 06:01:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                11
             ],
             "email_sent": true
         }
