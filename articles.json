@@ -10037,6 +10037,17 @@
                 7
             ],
             "email_sent": true
+        },
+        "The Hugging Face Hub for Galleries, Libraries, Archives and Museums": {
+            "url": "https://huggingface.co/blog/hf-hub-glam-guide",
+            "description": null,
+            "pubdate": "Mon, 12 Jun 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                12
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -11774,6 +11785,28 @@
             "url": "https://www.emergentmind.com/posts/surging-stockmarkets-are-powered-by-artificial",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>The release of OpenAI's Chat GPT has sparked widespread excitement about artificial intelligence, leading to a boom in tech companies' valuations.</li>\n      <li>Nvidia's share price has risen by almost 23% since reporting strong earnings, and the S&amp;P 500 index has risen almost 20% from its October low.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence\">Surging stockmarkets are powered by artificial intelligence</a>\n</p>",
             "pubdate": "Mon, 12 Jun 2023 00:03:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                12
+            ],
+            "email_sent": true
+        },
+        "Open-Source vs. OpenAI. 8 Best Open-Source Alternatives to GPT": {
+            "url": "https://www.emergentmind.com/posts/open-source-vs-openai-8-best-open-source-alternatives",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>This article discusses the growing popularity of open-source alternatives to GPT models due to concerns about data privacy and a desire for more control over the data training process.</li>\n      <li>Some popular open-source alternatives include LLaMA, OPT, MPT-7B, GPT-J, GPT-NeoX, Dolly, Alpaca, Vicuna, and OpenAssistant.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://neoteric.eu/blog/open-source-vs-openai-8-best-open-source-alternatives-to-gpt/\">Open-Source vs. OpenAI. 8 Best Open-Source Alternatives to GPT</a>\n</p>",
+            "pubdate": "Mon, 12 Jun 2023 12:02:12 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                12
+            ],
+            "email_sent": true
+        },
+        "The Unabomber was an AI Doomer (Obviously)": {
+            "url": "https://www.emergentmind.com/posts/the-unabomber-was-an-ai-doomer-obviously",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Ted Kaczynski, also known as the Unabomber, addressed the prospect of human-level AI in his manifesto, predicting a techno-dystopia ruled by artificial intelligence.</li>\n      <li>Kaczynski's scenarios involved humans becoming obsolete and losing purpose, but his solutions of technological stasis and AI prohibition may not be the best approach.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously\">The Unabomber was an AI Doomer (Obviously)</a>\n</p>",
+            "pubdate": "Mon, 12 Jun 2023 10:01:35 +0000",
             "pubdate_parsed": [
                 2023,
                 6,
