@@ -1574,6 +1574,17 @@
                 13
             ],
             "email_sent": true
+        },
+        "Rendered.ai Integrates NVIDIA Omniverse for Synthetic Data Generation": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/13/rendered-ai-omniverse-replicator-integration/",
+            "description": "Rendered.ai is easing AI training for developers, data scientists and others with its platform-as-a-service for synthetic data generation, or SDG. Training computer vision AI models requires massive, high-quality, diverse and unbiased datasets. These can be challenging and costly to obtain, especially with increasing demands both of and for AI. The Rendered.ai platform-as-a-service helps to solve <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/06/13/rendered-ai-omniverse-replicator-integration/\">Read article &#62;</a>",
+            "pubdate": "Tue, 13 Jun 2023 11:05:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                13
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -11840,6 +11851,17 @@
             "url": "https://www.emergentmind.com/posts/why-are-large-language-models-general-learners",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>Large Language Models (LLMs) can become general learners by grasping deeper understanding of reality to predict next tokens.</li>\n      <li>This ability to understand context and rules allows LLMs to expand their knowledge into complex domains like medicine or law.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://intuitiveai.substack.com/p/why-are-large-language-models-general\">Why are Large Language Models general learners?</a>\n</p>",
             "pubdate": "Tue, 13 Jun 2023 02:01:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                13
+            ],
+            "email_sent": true
+        },
+        "Orca: Progressive Learning from Complex Explanation Traces of GPT-4": {
+            "url": "https://www.emergentmind.com/posts/2306-02707-orca-progressive-learning-from-complex",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers develop Orca, a 13-billion parameter model that imitates the reasoning process of large foundation models.</li>\n      <li>Orca surpasses conventional instruction-tuned models in benchmarks and shows competitive performance in professional and academic examinations.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2306.02707\">Orca: Progressive Learning from Complex Explanation Traces of GPT-4</a>\n</p>",
+            "pubdate": "Tue, 13 Jun 2023 05:01:26 +0000",
             "pubdate_parsed": [
                 2023,
                 6,
