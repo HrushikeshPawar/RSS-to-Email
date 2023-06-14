@@ -1585,6 +1585,17 @@
                 13
             ],
             "email_sent": true
+        },
+        "Filmmaker Sara Dietschy Talks AI This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/14/sara-dietschy-davinci-resolve-ai/",
+            "description": "With over 900,000 subscribers on her YouTube channel, editor and filmmaker Sara Dietschy creates docuseries, reviews and vlogs that explore the intersection of technology and creativity.",
+            "pubdate": "Wed, 14 Jun 2023 13:00:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                14
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -4918,6 +4929,17 @@
                 2023,
                 5,
                 19
+            ],
+            "email_sent": true
+        },
+        "Introducing new AI-powered ad solutions to drive demand": {
+            "url": "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/",
+            "description": "Illustration of consumer behaviors across devices and screens.",
+            "pubdate": "Wed, 14 Jun 2023 04:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                14
             ],
             "email_sent": true
         }
@@ -11877,6 +11899,17 @@
                 2023,
                 6,
                 13
+            ],
+            "email_sent": true
+        },
+        "Adobe Illustrator Has Entered The AI Game": {
+            "url": "https://www.emergentmind.com/posts/adobe-illustrator-has-entered-the-ai-game",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Adobe Illustrator has added a new AI-powered recoloring feature to its software.</li>\n      <li>This development follows the introduction of the Generative Fill feature in Photoshop.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/seeds-for-the-future/adobe-illustrator-has-entered-the-ai-game-c99fa4fe06df?sk=28abd0f9d222ac5b4e62bc50209dc01e\">Adobe Illustrator Has Entered The AI Game</a>\n</p>",
+            "pubdate": "Wed, 14 Jun 2023 08:51:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                14
             ],
             "email_sent": true
         }
