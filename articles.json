@@ -1596,6 +1596,17 @@
                 14
             ],
             "email_sent": true
+        },
+        "Do Pass Go, Do Collect More Games: Xbox Game Pass Coming to GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/15/geforce-now-thursday-june-15/",
+            "description": "Xbox Game Pass support is coming to GeForce NOW. Members will soon be able to play supported PC games from the Xbox Game Pass catalog through NVIDIA\u2019s cloud gaming servers. Learn more about how support for Game Pass and Microsoft Store will roll out in the coming months. Plus, Age of Empires IV: Anniversary Edition <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/06/15/geforce-now-thursday-june-15/\">Read article &#62;</a>",
+            "pubdate": "Thu, 15 Jun 2023 13:00:44 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                15
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -10125,6 +10136,17 @@
                 12
             ],
             "email_sent": true
+        },
+        "Deploy Livebook notebooks as apps to Hugging Face Spaces": {
+            "url": "https://huggingface.co/blog/livebook-app-deployment",
+            "description": null,
+            "pubdate": "Thu, 15 Jun 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                15
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -11939,6 +11961,17 @@
             "url": "https://www.emergentmind.com/posts/i-m-an-er-doctor-here-s-how-i-m-already-using-chatgpt",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>An ER doctor has been using ChatGPT to help explain medical situations empathically and simply to patients and their families.</li>\n      <li>This usage of AI in healthcare can save time, reduce confusion, and improve doctor-patient relationships.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://inflecthealth.medium.com/im-an-er-doctor-here-s-how-i-m-already-using-chatgpt-to-help-treat-patients-a023615c65b6\">I\u2019m an ER doctor. Here\u2019s how I\u2019m already using ChatGPT to help treat patients.</a>\n</p>",
             "pubdate": "Thu, 15 Jun 2023 00:03:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                15
+            ],
+            "email_sent": true
+        },
+        "An Introduction to Pandas AI": {
+            "url": "https://www.emergentmind.com/posts/an-introduction-to-pandas-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Pandas AI leverages large language models to automate data analysis tasks, simplifying workflows and saving time.</li>\n      <li>It can generate insights from datasets, perform complex tasks, visualize data, and analyze multiple dataframes.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.datacamp.com/blog/an-introduction-to-pandas-ai\">An Introduction to Pandas AI</a>\n</p>",
+            "pubdate": "Thu, 15 Jun 2023 11:03:26 +0000",
             "pubdate_parsed": [
                 2023,
                 6,
