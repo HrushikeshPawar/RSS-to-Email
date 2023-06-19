@@ -12077,6 +12077,17 @@
                 18
             ],
             "email_sent": true
+        },
+        "An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.": {
+            "url": "https://www.emergentmind.com/posts/github-bentoml-openllm-an-open-platform-for",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenLLM is an open platform for running, deploying, and monitoring large language models (LLMs) in production environments.</li>\n      <li>It supports a wide range of open-source LLMs, offers flexible APIs, and integrates with tools like LangChain, BentoML, and HuggingFace for building AI applications.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/bentoml/OpenLLM\">An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.</a>\n</p>",
+            "pubdate": "Mon, 19 Jun 2023 08:01:32 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                19
+            ],
+            "email_sent": true
         }
     }
 }
