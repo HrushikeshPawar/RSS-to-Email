@@ -4476,6 +4476,17 @@
                 3
             ],
             "email_sent": true
+        },
+        "Paper on graph database schemata wins best-industry-paper award": {
+            "url": "https://www.amazon.science/blog/paper-on-graph-database-schemata-wins-best-industry-paper-award",
+            "description": "SIGMOD paper by Amazon researchers and collaborators presents flexible data definition language that enables rapid development of complex graph databases.",
+            "pubdate": "Tue, 20 Jun 2023 13:00:09 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                20
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -10189,6 +10200,17 @@
                 2023,
                 6,
                 16
+            ],
+            "email_sent": true
+        },
+        "AI Policy @: Response to the U.S. NTIA's Request for Comment on AI Accountability": {
+            "url": "https://huggingface.co/blog/policy-ntia-rfc",
+            "description": null,
+            "pubdate": "Tue, 20 Jun 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                20
             ],
             "email_sent": true
         }
