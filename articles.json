@@ -1607,6 +1607,28 @@
                 15
             ],
             "email_sent": true
+        },
+        "Shell-e-brate Good Times in 3D With Kingsletter This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/21/blender-adobe-substance-3d-painter/",
+            "description": "Amir Anbarestani, an accomplished 3D artist who goes by the moniker Kingsletter, had a \u201cshell of a good time\u201d creating his Space Turtle scene this week In the NVIDIA Studio.",
+            "pubdate": "Wed, 21 Jun 2023 13:00:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
+        },
+        "Into the Omniverse: Universal Scene Description Support for Marvelous Designer Lets Users Tailor Digital Assets, Clothes for 3D Characters": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/21/usd-support-for-marvelous-designer/",
+            "description": "Whether animating fish fins or fashioning chic outfits for digital characters, creators can tap Marvelous Designer software to compose and tailor assets, clothes and other materials for their 3D workflows.",
+            "pubdate": "Wed, 21 Jun 2023 13:00:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -4997,6 +5019,28 @@
                 14
             ],
             "email_sent": true
+        },
+        "A new accelerator for AI-first startups in Europe and Israel": {
+            "url": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/",
+            "description": "A man in a yellow shirt with a ponytail speaks to a woman with dark curly hair in the center of a large group of people.",
+            "pubdate": "Wed, 21 Jun 2023 11:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
+        },
+        "The creative and transformational possibilities of AI": {
+            "url": "https://blog.google/technology/ai/ai-creativity/",
+            "description": "The words \u201ctake a moment to imagine\u201d on a background with smaller images of mountains at sunset, a Help me write prompte, and some decorative shapes.",
+            "pubdate": "Wed, 21 Jun 2023 09:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -7179,6 +7223,17 @@
                 2023,
                 4,
                 12
+            ],
+            "email_sent": true
+        },
+        "Launching our LangChain & Vector DBs in Production course  50+ lessons & practical projects for free": {
+            "url": "https://towardsai.net/p/machine-learning/launching-our-langchain-vector-dbs-in-production-course-50-lessons-practical-projects-for-free",
+            "description": "Last Updated on June 21, 2023 by Editorial Team We\u2019re thrilled to announce an exciting collaboration between Towards AI,\u00a0Activeloop, and the Intel Disruptor Initiative. We are launching the\u00a0Foundational Model Certification course, an educational journey for the next generation of AI professionals and enthusiasts. Consistent with our commitment at Towards AI, this course aims to empower AI enthusiasts with advanced tools and resources, paving the path to create impactful AI solutions. Spanning over 50 lessons and 10 practical projects, the course offers a comprehensive exploration of Large Language Models (LLMs), leveraging the capabilities of LangChain and Deep Lake. LangChain, a potent tool for working with LLMs, coupled with Deep Lake, the vector database for all AI data that provides serverless memory to LLMs, forms the course\u2019s centerpiece. The course is divided into eight modules, featuring over 50 practical lessons. Below are some key concepts and topics included in the course: From Zero to Hero with LangChain: A comprehensive introduction to the essential concepts, set up, and usage of Large Language Models (LLMs), LangChain, and Deep Lake. Large Language Models and LangChain: An in-depth exploration of Large Language Models and LangChain, with practical experience gained through the development of a News Articles Summarizer project. Learning How to Prompt: Gain proficiency in prompt engineering techniques and apply them in practice. Learn tips and tricks for prompting like role prompting, few shot prompting, chain of thought, and the ReAct framework. Keeping Knowledge Organized with Indexes: Exploring The Role of LangChain\u2019s Indexes and Retrievers: pros and cons of leveraging documents as the base for the LLMs and how to do that with retrievers and indexes. Build an automated customer support agent. Combining Components Together with Chains: Exploring The Role of LangChain\u2019s Indexes and Retrievers: pros and cons of leveraging documents as the base for the LLMs and how to do that with retrievers and indexes. Build an automated customer support agent. Giving Memory to LLMs: This module will aim to help you mastering Memory Types in LangChain and build chat with any data solutions \u2014 to be deployed locally or on the cloud. Making LLMs Interact with the World Using Tools: This module explores LangChain\u2019s tools and their applications, with hands-on projects that enhance blog posts, recreate a Bing chatbot, and demonstrate multiple tool usage. Using Language Model as Reasoning Engines with Agents: The final module introduces the concept of agents in LangChain, with a focus on creating autonomous agents for comprehensive analysis reports. The certification course is the inaugural part of the Gen AI 360: Foundational Model Certification program, which is designed to arm AI developers with the tools necessary to apply Large Language Models across industries. Get started with the\u00a0LangChain &#38; Vector Databases in Production course\u00a0today, free of charge. If you haven\u2019t already, please join the course companion\u00a0Discord Channel\u00a0and the\u00a0Activeloop Slack community\u00a0if you have any questions on Deep Lake. Louie Peters;\u00a0\u201cAs the CEO of Towards AI, I am thrilled to be part of this groundbreaking initiative. Each month, we reach over 385,000 AI developers through our platform. Our aim has always been to educate and upskill these passionate engineers in this rapidly expanding field.\u201d What sets this course apart is its practicality. It\u2019s designed for engineers to implement AI into their company processes or use Foundational Models to build entirely new products. The future is right here, right now. Foundational Models and vector databases are quickly becoming integral components in the day-to-day operations of companies across the globe. Upon course completion, developers certified by Deep Lake will have the ability to harness the full potential of Large Language Models, Deep Lake, and LangChain, paving the way for accelerated AI adoption in their respective fields. But this course isn\u2019t just for engineers. Technology executives too could greatly benefit from this course, staying at the forefront of AI technology, and facilitating its broader adoption in various industries. Together, we\u2019ve set out to create a platform that fosters the adoption of cutting-edge AI technology across any engineering organization. So, to all the innovators, engineers, and tech enthusiasts who dream of pushing the boundaries of AI \u2014 this is your moment. We invite you to join us in this journey. To learn more about the Deep Lake Foundational Model Certification and to\u00a0sign up for free, please visit our website.",
+            "pubdate": "Wed, 21 Jun 2023 08:43:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
             ],
             "email_sent": true
         }
@@ -12119,6 +12174,83 @@
                 2023,
                 6,
                 19
+            ],
+            "email_sent": true
+        },
+        "The best AI photo editors in 2023": {
+            "url": "https://www.emergentmind.com/posts/the-best-ai-photo-editors-in-2023",
+            "description": "<p>\n  Full article: <a href=\"https://octobreak.me/the-best-ai-photo-editors-in-2023/\">The best AI photo editors in 2023</a>\n</p>",
+            "pubdate": "Wed, 21 Jun 2023 13:31:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
+        },
+        "Reviving The Beatles With AI & The Future of Music": {
+            "url": "https://www.emergentmind.com/posts/reviving-the-beatles-with-ai-the-future-of-music",
+            "description": "<p>\n  Full article: <a href=\"https://medium.com/seeds-for-the-future/reviving-the-beatles-with-ai-the-future-of-music-e85be62f6c6a?sk=9d7c6cac2a6f19a904df0023c7f0974d\">Reviving The Beatles With AI &amp; The Future of Music</a>\n</p>",
+            "pubdate": "Wed, 21 Jun 2023 13:28:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
+        },
+        "ChatGPT and Cybersecurity - friends or foes? - Crossplag": {
+            "url": "https://www.emergentmind.com/posts/chatgpt-and-cybersecurity-friends-or-foes",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT has become widely used in fields like customer service and is now entering the cybersecurity domain.</li>\n      <li>Its potential benefits include threat detection and malware analysis, but concerns exist around false positives, privacy, and overreliance on automation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://crossplag.com/chatgpt-and-cybersecurity-friends-or-foes/\">ChatGPT and Cybersecurity - friends or foes? - Crossplag</a>\n</p>",
+            "pubdate": "Wed, 21 Jun 2023 12:44:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
+        },
+        "Textbooks Are All You Need": {
+            "url": "https://www.emergentmind.com/posts/2306-11644-textbooks-are-all-you-need",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Phi-1 is a Transformer-based model with 1.3 billion parameters, trained on a combination of high-quality web data and synthetically generated content.</li>\n      <li>Despite its smaller size, phi-1 achieves pass@1 accuracy of 50.6% on HumanEval and 55.5% on MBPP, displaying surprising emergent properties compared to other models.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2306.11644\">Textbooks Are All You Need</a>\n</p>",
+            "pubdate": "Wed, 21 Jun 2023 11:32:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
+        },
+        "Self-Attention in Transformers": {
+            "url": "https://www.emergentmind.com/posts/self-attention-in-transformers",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Self Attention and Transformers have become popular in natural language processing due to their ability to handle large amounts of contextual information.</li>\n      <li>The transformer architecture uses an encoder-decoder structure and attention mechanisms to focus on important words within a sentence for tasks like translation and summarization.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://kunal221.hashnode.dev/introduction-to-transformers-and-self-attention\">Self-Attention in Transformers</a>\n</p>",
+            "pubdate": "Wed, 21 Jun 2023 11:32:17 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
+        },
+        "US lawmakers introduce National AI Commission Act": {
+            "url": "https://www.emergentmind.com/posts/us-lawmakers-introduce-national-ai-commission-act",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A bipartisan group of US lawmakers introduced a bill to establish a commission on the country's approach toward artificial intelligence (AI).</li>\n      <li>The National AI Commission Act aims to create a national body to formulate a comprehensive framework for regulating AI, addressing potential risks and preventing harm from unregulated AI technology.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://cointelegraph.com/news/us-lawmakers-introduce-national-ai-commission-act\">US lawmakers introduce National AI Commission Act</a>\n</p>",
+            "pubdate": "Wed, 21 Jun 2023 11:31:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
+        },
+        "An In-Depth Guide to Machine Learning for Beginners": {
+            "url": "https://www.emergentmind.com/posts/an-in-depth-guide-to-machine-learning-for-beginners",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Machine learning is a subset of artificial intelligence that focuses on developing algorithms and models for computers to learn from data and make predictions or decisions without explicit programming.</li>\n      <li>The field involves various types of algorithms, such as supervised learning, unsupervised learning, and reinforcement learning, with applications ranging from personalized recommendations to fraud detection and task automation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://aforanalytic.com/an-in-depth-guide-to-machine-learning-for-beginners/\">An In-Depth Guide to Machine Learning for Beginners</a>\n</p>",
+            "pubdate": "Wed, 21 Jun 2023 08:02:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
             ],
             "email_sent": true
         }
