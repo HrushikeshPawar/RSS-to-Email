@@ -4487,6 +4487,17 @@
                 20
             ],
             "email_sent": true
+        },
+        "A quick guide to Amazon's 20-plus papers at CVPR": {
+            "url": "https://www.amazon.science/blog/a-quick-guide-to-amazons-20-plus-papers-at-cvpr",
+            "description": "Image segmentation, multimodal models, and innovative machine learning methods are among the Amazon researchers' areas of focus.",
+            "pubdate": "Wed, 21 Jun 2023 02:46:01 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                21
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
