@@ -1629,6 +1629,17 @@
                 21
             ],
             "email_sent": true
+        },
+        "A Golden Age: Age of Empires III Joins GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/22/geforce-now-thursday-june-22/",
+            "description": "Conquer the lands in Microsoft\u2019s award-winning Age of Empires III: Definitive Edition. It leads 10 new games supported today on GeForce NOW. At Your Command Age of Empires III: Definitive Edition is a remaster of one of the most beloved real-time strategy franchises featuring improved visuals, enhanced gameplay, cross-platform multiplayer and more. Command mighty civilizations <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/06/22/geforce-now-thursday-june-22/\">Read article &#62;</a>",
+            "pubdate": "Thu, 22 Jun 2023 13:00:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                22
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -12251,6 +12262,61 @@
                 2023,
                 6,
                 21
+            ],
+            "email_sent": true
+        },
+        "Exclusive: OpenAI Lobbied E.U. to Water Down AI Regulation": {
+            "url": "https://www.emergentmind.com/posts/exclusive-openai-lobbied-e-u-to-water-down-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI has lobbied to weaken certain aspects of the European Union's AI Act, reducing the regulatory burden on the company</li>\n      <li>The final draft of the act did not label general purpose AI systems as inherently high risk, which OpenAI had argued against</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://time.com/6288245/openai-eu-lobbying-ai-act/\">Exclusive: OpenAI Lobbied E.U. to Water Down AI Regulation</a>\n</p>",
+            "pubdate": "Thu, 22 Jun 2023 11:34:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                22
+            ],
+            "email_sent": true
+        },
+        "Wimbledon to introduce AI-powered commentary to coverage this year": {
+            "url": "https://www.emergentmind.com/posts/wimbledon-to-introduce-ai-powered-commentary-to",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Wimbledon is set to introduce artificial intelligence-powered commentary for its coverage this year.</li>\n      <li>The All England Club has partnered with IBM to offer AI-generated audio commentary and captions in online highlights videos.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year\">Wimbledon to introduce AI-powered commentary to coverage this year</a>\n</p>",
+            "pubdate": "Thu, 22 Jun 2023 10:01:59 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                22
+            ],
+            "email_sent": true
+        },
+        "AI regulation push in U.S. continues as Schumer announces plans  - The Washington Post": {
+            "url": "https://www.emergentmind.com/posts/ai-regulation-push-in-u-s-continues-as-schumer",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Senate Majority Leader Charles E. Schumer calls for new rules for artificial intelligence in the US</li>\n      <li>He encourages bipartisan proposals and cooperation with outside experts to create comprehensive AI legislation</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.washingtonpost.com/technology/2023/06/21/ai-regulation-us-senate-chuck-schumer/\">AI regulation push in U.S. continues as Schumer announces plans  - The Washington Post</a>\n</p>",
+            "pubdate": "Thu, 22 Jun 2023 09:02:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                22
+            ],
+            "email_sent": true
+        },
+        "AI startup Neople raises 1.5M for digital co-workers revolution - IO": {
+            "url": "https://www.emergentmind.com/posts/ai-startup-neople-raises-1-5m-for-digital-co-workers",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Neople, an AI startup, secures \u20ac1.5 million in funding to create advanced digital co-workers using GenAI technology.</li>\n      <li>The digital co-workers can adapt their tone and operate within the same environments as human employees, starting with customer support teams.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://innovationorigins.com/en/ai-startup-neople-raises-e1-5m-for-digital-co-workers-revolution/\">AI startup Neople raises \u20ac1.5M for digital co-workers revolution - IO</a>\n</p>",
+            "pubdate": "Thu, 22 Jun 2023 08:02:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                22
+            ],
+            "email_sent": true
+        },
+        "Do I have AI Anxiety? Heres what 200+ creatives told us": {
+            "url": "https://www.emergentmind.com/posts/do-i-have-ai-anxiety-here-s-what-200-creatives-told",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Over 200 creative professionals shared their thoughts on AI's role in the industry, revealing a mix of excitement, curiosity, and apprehension.</li>\n      <li>Majority of respondents have tried generative AI personally, with 40% experimenting professionally, and 77% believing it is important for creatives to understand the technology.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://empower.agency/ai-anxiety-report/\">\u201cDo I have AI Anxiety?\u201d Here\u2019s what 200+ creatives told us</a>\n</p>",
+            "pubdate": "Thu, 22 Jun 2023 07:02:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                22
             ],
             "email_sent": true
         }
