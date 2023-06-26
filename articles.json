@@ -12451,6 +12451,39 @@
                 25
             ],
             "email_sent": true
+        },
+        "Omar Kamali": {
+            "url": "https://www.emergentmind.com/posts/omar-kamali-founder-ceo-strategic-technology",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Tokens are small units of information that AI systems use to represent different elements, such as words, images, or sounds. They help AI algorithms understand and process complex data.</li>\n      <li>Tokens are crucial in AI systems as they affect information limits, user experience, and operational costs. Understanding tokens helps optimize inputs, improve efficiency, and manage expenses effectively.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://omarkama.li/blog/tokens-the-secret-language-of-ai\">Omar Kamali</a>\n</p>",
+            "pubdate": "Mon, 26 Jun 2023 03:02:17 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                26
+            ],
+            "email_sent": true
+        },
+        "Emotional Coding: Training AI to recognize human emotions": {
+            "url": "https://www.emergentmind.com/posts/emotional-coding-training-ai-to-recognize-human",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>MIT neuroscientists have created a computational model that accurately predicts human emotions, advancing AI's emotional intelligence.</li>\n      <li>The model was trained using scenarios from a British game show and could have applications in mental health, marketing, education, and virtual reality.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.fry-ai.com/p/emotional-coding-training-ai-recognize-human-emotions\">Emotional Coding: Training AI to recognize human emotions</a>\n</p>",
+            "pubdate": "Mon, 26 Jun 2023 02:10:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                26
+            ],
+            "email_sent": true
+        },
+        "How to use ChatGPT functions in JavaScript": {
+            "url": "https://www.emergentmind.com/posts/how-to-use-chatgpt-functions-in-javascript",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT functions allow developers to integrate AI-generated JSON objects with their code for tasks like API calls and data extraction.</li>\n      <li>These functions can be used for advanced chatbots, transforming natural language into API calls, and extracting structured data from unstructured text.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://lucgagan.hashnode.dev/how-to-use-chatgpt-functions-in-javascript\">How to use ChatGPT functions in JavaScript</a>\n</p>",
+            "pubdate": "Mon, 26 Jun 2023 01:10:04 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                26
+            ],
+            "email_sent": true
         }
     }
 }
