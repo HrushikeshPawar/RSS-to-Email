@@ -5342,6 +5342,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "Monge, Bregman and Occam: Interpretable Optimal Transport in High-Dimensions with Feature-Sparse Maps": {
+            "url": "https://machinelearning.apple.com/research/monge-bregman-occam",
+            "description": "Optimal transport (OT) theory focuses, among all maps  that can morph a probability measure onto another, on those that are the \"thriftiest\", i.e. such that the averaged cost  between  and its image  be as small as possible. Many computational approaches have been proposed to estimate such Monge maps when  is the  distance, e.g., using entropic maps (Pooladian and Niles-Weed, 2021), or neural networks (Makkuva et al., 2020;\nKorotin et al., 2020). We propose a new model for transport maps, built on a family of translation invariant costs , where  and  is a regularizer. We propose a\u2026",
+            "pubdate": "Tue, 27 Jun 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                27
+            ],
+            "email_sent": true
         }
     },
     "Towards AI Blog": {
@@ -12504,6 +12515,17 @@
                 2023,
                 6,
                 26
+            ],
+            "email_sent": true
+        },
+        "This Chatbot Gives Phone Call Scammers a Taste of Their Own Medicine": {
+            "url": "https://www.emergentmind.com/posts/this-chatbot-gives-phone-call-scammers-a-taste-of-their",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Apate chatbot from Macquarie University poses as a human to take phone calls from scammers and waste their time.</li>\n      <li>The chatbot aims to protect users from falling victim to scams by engaging with scammers and keeping them occupied.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.pcmag.com/news/this-chatbot-gives-phone-call-scammers-a-taste-of-their-own-medicine\">This Chatbot Gives Phone Call Scammers a Taste of Their Own Medicine</a>\n</p>",
+            "pubdate": "Tue, 27 Jun 2023 01:01:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                27
             ],
             "email_sent": true
         }
