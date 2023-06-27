@@ -1640,6 +1640,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "Quicker Cures: How Insilico Medicine Uses Generative AI to Accelerate Drug Discovery": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/27/insilico-medicine-uses-generative-ai-to-accelerate-drug-discovery/",
+            "description": "While generative AI is a relatively new household term, drug discovery company Insilico Medicine has been using it for years to develop new therapies for debilitating diseases. The company\u2019s early bet on deep learning is bearing fruit \u2014 a drug candidate discovered using its AI platform is now entering Phase 2 clinical trials to treat <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/06/27/insilico-medicine-uses-generative-ai-to-accelerate-drug-discovery/\">Read article &#62;</a>",
+            "pubdate": "Tue, 27 Jun 2023 13:01:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                27
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -7744,6 +7755,17 @@
                 24
             ],
             "email_sent": true
+        },
+        "Building LLM Apps and the Challenges that come with it: An Interview with Jay Alammar": {
+            "url": "https://www.louisbouchard.ai/jay-alammar/",
+            "description": "The What's AI podcast episode 16 with Jay Alammar.",
+            "pubdate": "Tue, 27 Jun 2023 12:29:42 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                27
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
@@ -12522,6 +12544,50 @@
             "url": "https://www.emergentmind.com/posts/this-chatbot-gives-phone-call-scammers-a-taste-of-their",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>The Apate chatbot from Macquarie University poses as a human to take phone calls from scammers and waste their time.</li>\n      <li>The chatbot aims to protect users from falling victim to scams by engaging with scammers and keeping them occupied.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.pcmag.com/news/this-chatbot-gives-phone-call-scammers-a-taste-of-their-own-medicine\">This Chatbot Gives Phone Call Scammers a Taste of Their Own Medicine</a>\n</p>",
             "pubdate": "Tue, 27 Jun 2023 01:01:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                27
+            ],
+            "email_sent": true
+        },
+        "Evaluating Superhuman Models with Consistency Checks": {
+            "url": "https://www.emergentmind.com/posts/2306-09983-evaluating-superhuman-models-with",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers propose a framework for evaluating superhuman machine-learning models by checking for consistency.</li>\n      <li>The framework is applied to tasks like chess, forecasting future events, and legal judgments, helping to identify logical inconsistencies in decision-making.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2306.09983\">Evaluating Superhuman Models with Consistency Checks</a>\n</p>",
+            "pubdate": "Tue, 27 Jun 2023 11:44:57 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                27
+            ],
+            "email_sent": true
+        },
+        "More People Are Going Blind. AI Can Help Fight It | WIRED UK": {
+            "url": "https://www.emergentmind.com/posts/more-people-are-going-blind-ai-can-help-fight-it",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI-enhanced eye scan analyses can detect early warning signs of eye diseases, helping to treat them in time.</li>\n      <li>Optical coherence tomography devices can take high-resolution images of the retina, and AI can analyze these scans for multiple retinal diseases.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.wired.co.uk/article/blindness-eye-disease-artificial-intelligence-scans\">More People Are Going Blind. AI Can Help Fight It | WIRED UK</a>\n</p>",
+            "pubdate": "Tue, 27 Jun 2023 11:44:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                27
+            ],
+            "email_sent": true
+        },
+        "pSEO with PromptChainer: Revolutionizing Programmatic SEO with AI-Powered Flow Content Generation for Niche Websites": {
+            "url": "https://www.emergentmind.com/posts/pseo-with-promptchainer-revolutionizing-programmatic",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>PromptChainer utilizes OpenAI's API to create customizable content for niche websites using a visual flow builder.</li>\n      <li>The platform offers time and cost savings, scalable content creation, and an intuitive interface for both coders and non-coders.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.promptchainer.io/p/pseo-with-promptchainer-revolutionizing\">pSEO with PromptChainer: Revolutionizing Programmatic SEO with AI-Powered Flow Content Generation for Niche Websites</a>\n</p>",
+            "pubdate": "Tue, 27 Jun 2023 11:44:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                27
+            ],
+            "email_sent": true
+        },
+        "LLM Powered Autonomous Agents": {
+            "url": "https://www.emergentmind.com/posts/llm-powered-autonomous-agents-lil-log",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large language models (LLMs) can be used as core controllers for autonomous agents, enabling them to break down complex tasks into manageable subgoals, learn from past actions, and use external tools.</li>\n      <li>Planning, memory, and tool use components are key to creating LLM-powered autonomous agents, which can help improve problem-solving abilities in various domains.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://lilianweng.github.io/posts/2023-06-23-agent/\">LLM Powered Autonomous Agents</a>\n</p>",
+            "pubdate": "Tue, 27 Jun 2023 06:02:11 +0000",
             "pubdate_parsed": [
                 2023,
                 6,
