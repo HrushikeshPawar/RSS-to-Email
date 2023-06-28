@@ -12594,6 +12594,28 @@
                 27
             ],
             "email_sent": true
+        },
+        "The Race to Regulate Artificial Intelligence": {
+            "url": "https://www.emergentmind.com/posts/the-race-to-regulate-artificial-intelligence-foreign",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial intelligence development is rapidly transforming economies and societies, but also raising concerns about potential harms and the need for regulation. Different regulatory paradigms are emerging in the US, China, and Europe, each reflecting their distinct values and incentives, and these will shape the future of technology and society.</li>\n      <li>The US follows a market-driven approach, China a state-driven approach, and the EU a rights-driven approach to AI regulation. While the US has been reluctant to regulate AI, China has adopted strict regulations and the EU has pioneered laws aiming to protect individuals' rights.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.foreignaffairs.com/united-states/race-regulate-artificial-intelligence\">The Race to Regulate Artificial Intelligence</a>\n</p>",
+            "pubdate": "Wed, 28 Jun 2023 02:02:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                28
+            ],
+            "email_sent": true
+        },
+        "Hugging Face CEO tells US House open-source AI is 'extremely aligned' with American interests": {
+            "url": "https://www.emergentmind.com/posts/hugging-face-ceo-tells-us-house-open-source-ai-is",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Hugging Face, a New York-based startup, is contributing to the open-source AI community with the release of AI models such as LLaMA. This has raised concerns over potential misuse or abuse.</li>\n      <li>The company's focus on ethical openness helps counterbalance the power of big private companies, while also tackling challenges such as mitigating biases and reducing misinformation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://venturebeat.com/ai/hugging-face-ceo-tells-us-house-open-source-ai-is-extremely-aligned-with-american-interests/\">Hugging Face CEO tells US House open-source AI is 'extremely aligned' with American interests</a>\n</p>",
+            "pubdate": "Wed, 28 Jun 2023 00:03:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                28
+            ],
+            "email_sent": true
         }
     }
 }
