@@ -1651,6 +1651,28 @@
                 27
             ],
             "email_sent": true
+        },
+        "Calm, Cool and Creative: MUE Studio Showcases 3D Scenes In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/29/mue-studio-chaos-vantage/",
+            "description": "MUE Studio, founded by 3D artists Minjin Kang and Mijoo Kim, specializes in art direction, photography and 3D design for campaigns and installations.",
+            "pubdate": "Thu, 29 Jun 2023 13:00:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                29
+            ],
+            "email_sent": true
+        },
+        "Remnant II Headlines 14 Games Joining GeForce NOW in July": {
+            "url": "https://blogs.nvidia.com/blog/2023/06/29/geforce-now-thursday-june-29/",
+            "description": "It\u2019s a jam-packed July with 14 newly supported titles in the GeForce NOW library, including Remnant II from Gunfire Games and Gearbox Publishing. Need a new adventure? Check out the nine additions streaming from the cloud this week. Plus, the Steam Summer Sale kicks off this week, and many supported titles in the GeForce NOW <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/06/29/geforce-now-thursday-june-29/\">Read article &#62;</a>",
+            "pubdate": "Thu, 29 Jun 2023 13:00:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                29
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -10356,6 +10378,17 @@
                 20
             ],
             "email_sent": true
+        },
+        "Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2": {
+            "url": "https://huggingface.co/blog/bridgetower",
+            "description": null,
+            "pubdate": "Thu, 29 Jun 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                6,
+                29
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -12676,6 +12709,28 @@
             "url": "https://www.emergentmind.com/posts/next-gen-content-farms-are-using-ai-generated-text-to",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>Troll farms reached 140 million Americans monthly on Facebook before the 2020 election, according to an internal report. In addition, many big brands unknowingly had their ads placed on low-quality, AI-generated sites due to automated advertising processes.</li>\n      <li>Google, which operates the largest ad exchange, has faced criticism for allowing ads on content farms despite its policies against it. The issue is further complicated by the fact that AI-generated sites can contribute to the spread of misinformation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/\">Next-gen content farms are using AI-generated text to spin up junk websites</a>\n</p>",
             "pubdate": "Thu, 29 Jun 2023 00:04:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                29
+            ],
+            "email_sent": true
+        },
+        "Deep Neural Networks for Rank-Consistent Ordinal Regression Based On Conditional Probabilities": {
+            "url": "https://www.emergentmind.com/posts/2111-08851-deep-neural-networks-for-rank-consistent",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A new method for rank-consistent ordinal regression in deep neural networks, named CORN, has been proposed to address the limitations of conventional classification losses like the multi-category cross-entropy.</li>\n      <li>The CORN method improves performance by using a novel training scheme that uses conditional training sets and removing the weight-sharing constraint of the previous CORAL method, and it can be utilized with any deep neural network classifier to train it for ordinal regression tasks.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2111.08851\">Deep Neural Networks for Rank-Consistent Ordinal Regression Based On Conditional Probabilities</a>\n</p>",
+            "pubdate": "Thu, 29 Jun 2023 12:02:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                29
+            ],
+            "email_sent": true
+        },
+        "AI Chrome Extensions for Data Scientists Cheat Sheet": {
+            "url": "https://www.emergentmind.com/posts/ai-chrome-extensions-for-data-scientists-cheat-sheet",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>KDnuggets presents a cheat sheet of advanced tools and resources for data scientists, including AI Chrome extensions to enhance efficiency and productivity. The tools cover a wide range of applications, from understanding complex scientific literature to writing high-quality manuscripts.</li>\n      <li>The cheat sheet includes tools like SciSpace Copilot, Fireflies, AIPRM, Originality.AI, CodeSquire.AI, Codeium, Data Scraper, Grammarly GO, Sider, CatalyzeX, and 10AI, each with unique capabilities and applications for research, summarizing papers, generating ChatGPT prompts, detecting AI, coding autopilot, data scraping, web surfing, and content generation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.kdnuggets.com/2023/06/ai-chrome-extensions-data-scientists-cheat-sheet.html\">AI Chrome Extensions for Data Scientists Cheat Sheet</a>\n</p>",
+            "pubdate": "Thu, 29 Jun 2023 06:18:42 +0000",
             "pubdate_parsed": [
                 2023,
                 6,
