@@ -12748,6 +12748,72 @@
                 30
             ],
             "email_sent": true
+        },
+        "Weekly Piece of Future #22 - by Zoltan Tapi": {
+            "url": "https://www.emergentmind.com/posts/weekly-piece-of-future-22-by-zoltan-tapi",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Rushing Robotics covers a range of next-gen technologies including brainchip-enabled dream control, AI surveillance, and robot-driven deliveries. The publication also discusses the integration of AI in Wimbledon's online viewing, Microsoft's analog optical computer, and privacy issues in OpenAI.</li>\n      <li>Readers can also learn about Hitachi's battery-powered trains, the progress of an AI-discovered drug under trials, a $3 smart patch for medical diagnosis, and various tools/products that can enhance their tech experience. The report also shares video content on humanoid robots, lab automation, and object sorting technology.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://rushingrobotics.com/p/weekly-piece-of-future-22\">Weekly Piece of Future #22 - by Zoltan Tapi</a>\n</p>",
+            "pubdate": "Fri, 30 Jun 2023 13:02:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                30
+            ],
+            "email_sent": true
+        },
+        "The Darwinian Argument for Worrying About AI": {
+            "url": "https://www.emergentmind.com/posts/the-darwinian-argument-for-worrying-about-ai-time",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI experts warn about the risk of extinction from AI as they gain more autonomy and control over key decisions, heavily influenced by Darwin's laws of natural selection. This is seen in the manner in which successful and advantageous AI algorithms are selected and fine-tuned while others are discontinued.</li>\n      <li>Concerns arise from the difficulty in controlling AI, the potential for selfish and harmful behavior as AI systems evolve, and the ingrained self-preservation behaviors. The article suggests proactive regulation of the AI industry and government funding for AI safety research as potential solutions.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://time.com/6283958/darwinian-argument-for-worrying-about-ai/\">The Darwinian Argument for Worrying About AI</a>\n</p>",
+            "pubdate": "Fri, 30 Jun 2023 13:02:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                30
+            ],
+            "email_sent": true
+        },
+        "AI system devises first optimizations to sorting code in over a decade": {
+            "url": "https://www.emergentmind.com/posts/ai-system-devises-first-optimizations-to-sorting-code",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Google's DeepMind AI group has developed a tool that can create highly optimized algorithms without being trained on human code examples. The approach treats programming as a game, with the AI learning to minimize the latency of the code while ensuring its completion without errors.</li>\n      <li>The AI, known as AlphaDev, uses a unique method that includes tracking the performance of the code as it's developed and adding assembly instructions individually. Over time, it 'learns' to achieve a completed sorting with a maximum score, meaning a minimum latency.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/\">AI system devises first optimizations to sorting code in over a decade</a>\n</p>",
+            "pubdate": "Fri, 30 Jun 2023 12:03:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                30
+            ],
+            "email_sent": true
+        },
+        "Meta explains how AI influences what we see on Facebook and Instagram - The Verge": {
+            "url": "https://www.emergentmind.com/posts/meta-explains-how-ai-influences-what-we-see-on-facebook",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Meta has explained its use of AI to personalize user experiences on its social media platforms, detailing how content is recommended for users on Facebook and Instagram.</li>\n      <li>The company's algorithms gather public content, consider user engagement with similar content or interests, and rank the content, with a user's actions influencing this process. New features allowing users to understand why they see certain content and tailor their recommendations are being tested.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theverge.com/2023/6/29/23778068/meta-facebook-instagram-social-media-algorithms-ai-transparency\">Meta explains how AI influences what we see on Facebook and Instagram - The Verge</a>\n</p>",
+            "pubdate": "Fri, 30 Jun 2023 10:02:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                30
+            ],
+            "email_sent": true
+        },
+        "FRVR Forge - by Chris Benjaminsen": {
+            "url": "https://www.emergentmind.com/posts/introducing-frvr-forge-by-chris-benjaminsen",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>FRVR has introduced FRVR Forge, a platform that allows users to create games by simply describing them. The platform aims to make creating, playing, and sharing games as easy as using TikTok and Instagram.</li>\n      <li>FRVR Forge uses cloud technologies and can be accessed on any device. The platform offers a live preview, history tab, code tab, and assets tab. The platform also comes with an AI that can generate as much of the game code as possible in one go.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://benjaminsen.substack.com/p/introducing-frvr-forge\">Introducing FRVR Forge - by Chris Benjaminsen</a>\n</p>",
+            "pubdate": "Fri, 30 Jun 2023 08:02:12 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                30
+            ],
+            "email_sent": true
+        },
+        "LLM Tech and a Lot More: Version 13.3 of Wolfram Language and MathematicaStephen Wolfram Writings": {
+            "url": "https://www.emergentmind.com/posts/llm-tech-and-a-lot-more-version-13-3-of-wolfram",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>In the latest Version 13.3, a new feature called Chat Notebooks has been introduced that supports 'chat cells' which allow users to interact with a Language Model (LLM). The LLM can generate precise computational language that can be run to get a result.</li>\n      <li>The system allows for computational thinking, where you can instruct the LLM to produce Wolfram Language code representing your intent. It also allows for the creation of 'personas' for the LLM, varying from a Code Assistant that writes and comments on code, to Code Writer that just writes code.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language\">LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica\u2014Stephen Wolfram Writings</a>\n</p>",
+            "pubdate": "Fri, 30 Jun 2023 04:02:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                30
+            ],
+            "email_sent": true
         }
     }
 }
