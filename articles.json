@@ -12737,6 +12737,17 @@
                 29
             ],
             "email_sent": true
+        },
+        "How Long Can Open-Source LLMs Truly Promise on Context Length?": {
+            "url": "https://www.emergentmind.com/posts/how-long-can-open-source-llms-truly-promise-on-context",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The LongChat Team introduces new chatbot models, LongChat-7B and LongChat-13B, which feature extended context length up to 16K tokens. These models show promising results in closing the gap between open models and proprietary long context models.</li>\n      <li>LongChat models not only handle long context length but also follow human instructions in dialogues precisely, demonstrating strong performance in the human preference benchmark MT-Bench.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://lmsys.org/blog/2023-06-29-longchat/\">How Long Can Open-Source LLMs Truly Promise on Context Length?</a>\n</p>",
+            "pubdate": "Fri, 30 Jun 2023 00:03:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                6,
+                30
+            ],
+            "email_sent": true
         }
     }
 }
