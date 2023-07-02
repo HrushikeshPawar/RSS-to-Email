@@ -12869,6 +12869,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "Easily migrate your codebase from one framework or language to another.": {
+            "url": "https://www.emergentmind.com/posts/github-0xpayne-gpt-migrate-easily-migrate-your",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>GPT-Migrate is a project that assists in migrating codebases to a different framework or language, designed to potentially rewrite an entire codebase. It is still in development alpha and not yet ready for production use.</li>\n      <li>The tool first creates a Docker environment for the target language, evaluates existing code to identify dependencies, rebuilds new code from existing code, develops unit tests, and debugs the code iteratively. It requires Docker, OpenAI API key and python requirements to function.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/0xpayne/gpt-migrate\">Easily migrate your codebase from one framework or language to another.</a>\n</p>",
+            "pubdate": "Sun, 02 Jul 2023 06:01:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                2
+            ],
+            "email_sent": true
         }
     }
 }
