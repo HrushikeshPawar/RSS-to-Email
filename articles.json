@@ -12858,6 +12858,17 @@
                 1
             ],
             "email_sent": true
+        },
+        "throwaway GPT inference": {
+            "url": "https://www.emergentmind.com/posts/github-a1k0n-a1gpt-throwaway-gpt-inference",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses an optimized C++ GPT-2 inference engine developed by a1k0n.</li>\n      <li>The engine has minimal dependencies and is specifically optimized for AVX and Apple Silicon.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/a1k0n/a1gpt\">throwaway GPT inference</a>\n</p>",
+            "pubdate": "Sun, 02 Jul 2023 01:01:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                2
+            ],
+            "email_sent": true
         }
     }
 }
