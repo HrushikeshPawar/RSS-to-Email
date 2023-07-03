@@ -12880,6 +12880,39 @@
                 2
             ],
             "email_sent": true
+        },
+        "Stay on topic with Classifier-Free Guidance": {
+            "url": "https://www.emergentmind.com/posts/2306-17806-stay-on-topic-with-classifier-free",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Classifier-Free Guidance (CFG) has been found to enhance the performance of various language modeling systems such as Pythia, GPT-2 and LLaMA-family models in tasks like Q&amp;A, reasoning, code generation and machine translation, setting a new standard on LAMBADA with LLaMA-7B over PaLM-540B.</li>\n      <li>CFG also improves model performance equivalent to doubling the parameter-count, can be used with other inference-time methods for further improvements and used to increase the faithfulness and coherence of AI assistants in difficult tasks, with human evaluations showing a 75% preference for GPT4All using CFG over baseline.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2306.17806\">Stay on topic with Classifier-Free Guidance</a>\n</p>",
+            "pubdate": "Mon, 03 Jul 2023 02:01:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                3
+            ],
+            "email_sent": true
+        },
+        "AI and the automation of work  Benedict Evans": {
+            "url": "https://www.emergentmind.com/posts/ai-and-the-automation-of-work-benedict-evans",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Work automation has been a process of continuous evolution since the 1800s, leading to increased efficiency and job creation. This evolution continues today with new technologies like generative AI, which, while they can automate certain tasks, are not yet replacements for human workers.</li>\n      <li>The adoption of these new technologies is a complex process that takes time, and their successful implementation relies on understanding their limitations and potentials. Despite fears, the history of automation indicates that it often leads to job creation rather than job loss.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai\">AI and the automation of work \u2014 Benedict Evans</a>\n</p>",
+            "pubdate": "Mon, 03 Jul 2023 01:01:40 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                3
+            ],
+            "email_sent": true
+        },
+        "195 Countries As People Imagined by Midjourney AI": {
+            "url": "https://www.emergentmind.com/posts/195-countries-as-people-imagined-by-midjourney-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Global diversity is cherished through natural beauty, traditions, clothing, and culture, making the world an exciting place to live in.</li>\n      <li>An experiment is conducted to explore this diversity through the eyes of artificial intelligence.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/seeds-for-the-future/what-if-countries-were-people-3e3e21e8804c?sk=10470af2484d58b4b8da821670819b4f\">195 Countries As People Imagined by Midjourney AI</a>\n</p>",
+            "pubdate": "Mon, 03 Jul 2023 00:06:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                3
+            ],
+            "email_sent": true
         }
     }
 }
