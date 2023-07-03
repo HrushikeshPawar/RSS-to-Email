@@ -2306,6 +2306,17 @@
                 17
             ],
             "email_sent": true
+        },
+        "Using the Natural Language Understanding Capability of ChatGPT": {
+            "url": "https://machinelearningmastery.com/using-the-natural-language-understanding-capability-of-chatgpt/",
+            "description": "<p>Last Updated on July 3, 2023 ChatGPT as a Large Language Model, is well-known for understanding human languages. Instead of asking ChatGPT for an answer you don&#8217;t know, you can make it work on existing information while leveraging the natural language understanding (NLU) capability. In this post, you will learn How to make ChatGPT produce [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/using-the-natural-language-understanding-capability-of-chatgpt/\" rel=\"nofollow\">Using the Natural Language Understanding Capability of ChatGPT</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Mon, 03 Jul 2023 03:40:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                3
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
@@ -5083,6 +5094,17 @@
                 2023,
                 6,
                 21
+            ],
+            "email_sent": true
+        },
+        "Leonardo da Vinci: Inside a genius mind": {
+            "url": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/",
+            "description": "A black and white image of da Vinci with colorful stickies featuring drawings in the background",
+            "pubdate": "Mon, 03 Jul 2023 09:30:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                3
             ],
             "email_sent": true
         }
@@ -12907,6 +12929,28 @@
             "url": "https://www.emergentmind.com/posts/195-countries-as-people-imagined-by-midjourney-ai",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>Global diversity is cherished through natural beauty, traditions, clothing, and culture, making the world an exciting place to live in.</li>\n      <li>An experiment is conducted to explore this diversity through the eyes of artificial intelligence.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/seeds-for-the-future/what-if-countries-were-people-3e3e21e8804c?sk=10470af2484d58b4b8da821670819b4f\">195 Countries As People Imagined by Midjourney AI</a>\n</p>",
             "pubdate": "Mon, 03 Jul 2023 00:06:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                3
+            ],
+            "email_sent": true
+        },
+        "Unveiling the inner workings of AI with CRAFT - IO": {
+            "url": "https://www.emergentmind.com/posts/unveiling-the-inner-workings-of-ai-with-craft-io",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Scientists at Brown University's Carney Institute for Brain Science have developed a tool called CRAFT that provides insights into how artificial intelligence (AI) systems perceive images and why they make errors in classifications.</li>\n      <li>CRAFT, which stands for Concept Recursive Activation FacTorization for Explainability, not only identifies concepts based on importance but also exposes biases in data sets that AI systems might unknowingly adopt. Future applications of CRAFT include scientific challenges in fields like cancer diagnostics, fossil recognition, and space exploration.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://innovationorigins.com/en/unveiling-the-inner-workings-of-ai-with-craft/\">Unveiling the inner workings of AI with CRAFT - IO</a>\n</p>",
+            "pubdate": "Mon, 03 Jul 2023 08:02:04 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                3
+            ],
+            "email_sent": true
+        },
+        "Nvidias H100: Funny L2, and Tons of Bandwidth  Chips and Cheese": {
+            "url": "https://www.emergentmind.com/posts/nvidia-s-h100-funny-l2-and-tons-of-bandwidth-chips",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Nvidia H100 GPU features a higher boost clock than the A100, with occasional drops to around 80% of its maximum boost clock, and has a power limit of 350W. The H100 also provides more first level data caching capacity than any other GPU, has 50 MB L2 cache, and sees slightly lower latency than the A100.</li>\n      <li>Conversely, the A100's core clocks remain at 1410 MHz under load, has a higher power limit of 400W, and does not experience any clock speed drops even when power draw exceeds 350W. The A100 also displays lower memory temperatures than the H100 and was a pioneer for Nvidia in implementing large caches.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/\">Nvidia\u2019s H100: Funny L2, and Tons of Bandwidth \u2013 Chips and Cheese</a>\n</p>",
+            "pubdate": "Mon, 03 Jul 2023 07:02:17 +0000",
             "pubdate_parsed": [
                 2023,
                 7,
