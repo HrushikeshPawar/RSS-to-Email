@@ -7832,6 +7832,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "Google Maps Travel Time Prediction Algorithm & AI Research at Google Deepmind": {
+            "url": "https://www.louisbouchard.ai/petar/",
+            "description": "An interview with Petar Velic\u030ckovic\u0301 - The What's AI Podcast Episode 17",
+            "pubdate": "Tue, 04 Jul 2023 10:48:30 GMT",
+            "pubdate_parsed": [
+                2023,
+                7,
+                4
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
@@ -10411,6 +10422,17 @@
                 29
             ],
             "email_sent": true
+        },
+        "Deploy LLMs with Hugging Face Inference Endpoints": {
+            "url": "https://huggingface.co/blog/inference-endpoints-llm",
+            "description": null,
+            "pubdate": "Tue, 04 Jul 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                7,
+                4
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -12962,6 +12984,83 @@
             "url": "https://www.emergentmind.com/posts/what-if-llm-hallucinations-were-a-feature-and-not-a",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>DreamGPT is a new approach that uses hallucinations from Large Language Models to stimulate divergent thinking and generate unique ideas.</li>\n      <li>DreamGPT works by planting random seeds, dreaming about new ideas, combining and evaluating different approaches, and selecting the most novel approach. It is open-source and can run locally on any PC or Mac without a GPU.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.marktechpost.com/2023/05/20/what-if-llm-hallucinations-were-a-feature-and-not-a-bug-meet-dreamgpt-an-open-source-gpt-based-solution-that-uses-hallucinations-from-large-language-models-llms-as-a-feature/\">What if LLM Hallucinations Were A Feature And Not A Bug? Meet dreamGPT: An Open-Source GPT-Based Solution That Uses Hallucinations From Large Language Models (LLMs) As A Feature - MarkTechPost</a>\n</p>",
             "pubdate": "Tue, 04 Jul 2023 02:02:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                4
+            ],
+            "email_sent": true
+        },
+        "Midjourney AI Outpaining": {
+            "url": "https://www.emergentmind.com/posts/midjourney-ai-outpaining",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Midjourney has introduced a 'Zoom Out' feature in its latest V5.2 update.</li>\n      <li>This new feature allows Midjourney to compete with rivals like DALL-E by offering the ability to outpaint.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/the-generator/midjourney-can-finally-outpaint-af1a2e5bc93c?sk=46f7b68c678d7bfae2e206534aa515cc\">Midjourney AI Outpaining</a>\n</p>",
+            "pubdate": "Tue, 04 Jul 2023 13:29:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                4
+            ],
+            "email_sent": true
+        },
+        "The industry behind the industry behind AI - Rest of World": {
+            "url": "https://www.emergentmind.com/posts/the-industry-behind-the-industry-behind-ai-rest-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the unrecognized labor involved in artificial intelligence (AI), focusing on annotation tasks performed by a Remotasks office in Nairobi, a subsidiary of Scale AI.</li>\n      <li>It emphasizes the reliance of AI on human labor, highlighting the often unappreciated and low-paid effort of workers in training AI systems and drawing parallels with moderation contractors.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://restofworld.org/2023/exporter-industry-behind-ai/\">The industry behind the industry behind AI - Rest of World</a>\n</p>",
+            "pubdate": "Tue, 04 Jul 2023 13:02:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                4
+            ],
+            "email_sent": true
+        },
+        "Intel's Latest Research for Graphics and Generative AI": {
+            "url": "https://www.emergentmind.com/posts/intel-s-latest-research-for-graphics-and-generative-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Intel is presenting seven new papers and a course on graphics and generative AI at various GPU and graphics conferences this year. The research focuses on photorealistic rendering, generative AI, and neural graphics.</li>\n      <li>The research includes improvements in rendering complex visual material, acceleration of path tracing convergence with difficult lighting, and making generative AI more accessible. The goal is to help creators, gamers, and AI practitioners accelerate their work and unlock their full creative potential.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.intel.com/content/www/us/en/developer/articles/news/gpu-research-generative-ai-update.html\">Intel's Latest Research for Graphics and Generative AI</a>\n</p>",
+            "pubdate": "Tue, 04 Jul 2023 12:02:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                4
+            ],
+            "email_sent": true
+        },
+        "Neural Chronos ODE: Unveiling Temporal Patterns and Forecasting Future and Past Trends in Time Series Data": {
+            "url": "https://www.emergentmind.com/posts/2307-01023-neural-chronos-ode-unveiling-temporal",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article introduces Neural Chronos Ordinary Differential Equations (Neural CODE), a new deep learning architecture capable of predicting system dynamics both forward and backward in time. The training involves solving the ODE as an initial and final value problem.</li>\n      <li>The article also explores combinations of Neural CODE with Recurrent Neural Networks, resulting in variants like CODE-RNN, CODE-BiRNN, CODE-GRU, CODE-BiGRU, CODE-LSTM, and CODE-BiLSTM. The research shows that these new architectures converge faster and consistently outperform others in time series data tasks.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2307.01023\">Neural Chronos ODE: Unveiling Temporal Patterns and Forecasting Future and Past Trends in Time Series Data</a>\n</p>",
+            "pubdate": "Tue, 04 Jul 2023 10:02:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                4
+            ],
+            "email_sent": true
+        },
+        "GPT-4 is great at infuriating telemarketing scammers  The Register": {
+            "url": "https://www.emergentmind.com/posts/gpt-4-is-great-at-infuriating-telemarketing-scammers",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Jolly Roger Telephone Company has developed an AI system to deter telemarketers, using a variety of bots with unique voices and quirks. The bots engage the telemarketers in meaningless conversation, reducing the need for humans to deal with them.</li>\n      <li>The company has thousands of customers who pay $23.80 a year to use the service. The bots, which include characters such as a distracted mother and feisty senior citizen, have been successful in frustrating telemarketers.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/\">GPT-4 is great at infuriating telemarketing scammers \u2022 The Register</a>\n</p>",
+            "pubdate": "Tue, 04 Jul 2023 10:02:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                4
+            ],
+            "email_sent": true
+        },
+        "The Lone Banana Problem. Or, the new programming: speaking AI - TL;DR - Digital Science": {
+            "url": "https://www.emergentmind.com/posts/the-lone-banana-problem-or-the-new-programming",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large Language Models (LLMs) in AI have shown rapid adoption and have raised questions about our understanding of technology and its impacts on a societal level. One of the challenges is the subtle biases in AI, which are difficult to detect, as exemplified by the 'Lone Banana Problem' where the AI fails to generate a single banana image due to the biases in its training data.</li>\n      <li>Understanding the outputs of AI for given inputs is critical in real-world applications. The AI's reality is different from ours, it understands commonly occurring patterns but doesn't perceive objects as we do. So, responsible and ethical use of AI is crucial, as these technologies are purely pattern-matching and can only be as good as the data we input.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/\">The Lone Banana Problem. Or, the new programming: \u201cspeaking\u201d AI - TL;DR - Digital Science</a>\n</p>",
+            "pubdate": "Tue, 04 Jul 2023 08:02:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                4
+            ],
+            "email_sent": true
+        },
+        "How do I use ChatGPT Browse with Bing to search the web?": {
+            "url": "https://www.emergentmind.com/posts/how-do-i-use-chatgpt-browse-with-bing-to-search-the",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT Browse with Bing is a beta feature that enables ChatGPT Plus subscribers to search the internet for answers to questions requiring recent information. However, it has been temporarily disabled since July 3, 2023, due to issues with displaying content in unintended ways.</li>\n      <li>The team is working to fix the problem and plans to bring back the feature as quickly as possible.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web\">How do I use ChatGPT Browse with Bing to search the web?</a>\n</p>",
+            "pubdate": "Tue, 04 Jul 2023 06:01:46 +0000",
             "pubdate_parsed": [
                 2023,
                 7,
