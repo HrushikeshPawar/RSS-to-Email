@@ -1673,6 +1673,28 @@
                 29
             ],
             "email_sent": true
+        },
+        "My Favorite 3D App: Blender Fanatic Shares His Japanese-Inspired Scene This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/07/06/blendeered-blender-davinci-resolve/",
+            "description": "A diverse range of artists, fashionistas, musicians and the cinematic arts inspired the creative journey of Pedro Soares, aka Blendeered, and helped him fall in love with using 3D to create art.",
+            "pubdate": "Thu, 06 Jul 2023 13:00:39 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                6
+            ],
+            "email_sent": true
+        },
+        "Heres the Deal: Steam Summer Sale Games Streaming on GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/07/06/geforce-now-thursday-july-6/",
+            "description": "GFN Thursday arrives alongside the sweet Steam Summer Sale \u2014 with hundreds of PC games playable on GeForce NOW available during Valve\u2019s special event for PC gamers. Also on sale, OCTOPATH TRAVELER and OCTOPATH TRAVELER II join the GeForce NOW library as a part of five new games coming to the service this week. Saved <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/07/06/geforce-now-thursday-july-6/\">Read article &#62;</a>",
+            "pubdate": "Thu, 06 Jul 2023 13:00:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                6
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -13116,6 +13138,39 @@
             "url": "https://www.emergentmind.com/posts/exploring-large-language-models-llms-in-biomedical",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>GPT Models like GPT-3.5-turbo and GPT3.5 perform well in F1 score and Semantic Answer Similarity with less runtime, but GPT-4 has higher runtime despite good scores. Fine-tuning models provide a competitive edge, with Dolly models showing a balanced performance. However, the Exact Match scores across all models are low, indicating a need for better optimization.</li>\n      <li>Implementing Large Language Models involves significant costs for training, fine-tuning and inference. Costs can range from $1M to $20M for base training and $50k to $500k for fine-tuning. Despite these costs, training and fine-tuning are becoming less expensive over time. Using models from AWS Marketplace can be cost-effective, with options like Cohere or Jurassic-2 A21 available for $4.23 per hour.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://provectus.com/blog/comparison-large-language-models-biomedical-domain/\">Exploring Large Language Models (LLMs) in Biomedical Domain</a>\n</p>",
             "pubdate": "Thu, 06 Jul 2023 02:01:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                6
+            ],
+            "email_sent": true
+        },
+        "G/O Media has started incorporating AI content across their sites": {
+            "url": "https://www.emergentmind.com/posts/g-o-media-has-started-incorporating-ai-content-across",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>G/O Media has started using AI to generate articles, causing backlash from its union who claim it undermines their jobs and delivers inaccurate information.</li>\n      <li>The union advises readers not to click on articles with a 'Bot' byline, while G/O Media continues to publish such content despite the complaints.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://awfulannouncing.com/online-outlets/go-media-ai-content-deadspin-bot-gizmodo.html\">G/O Media has started incorporating AI content across their sites</a>\n</p>",
+            "pubdate": "Thu, 06 Jul 2023 13:01:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                6
+            ],
+            "email_sent": true
+        },
+        "InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.": {
+            "url": "https://www.emergentmind.com/posts/github-internlm-internlm-internlm-has-open-sourced-a",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>InternLM has open-sourced a 7 billion parameter base model and a chat model, both designed for practical use. The model uses trillions of high-quality tokens for training, supports an 8k context window length, and provides a flexible toolset for users to build their own workflows.</li>\n      <li>The performance of InternLM has been evaluated using the open-source evaluation tool OpenCompass. It has also been trained on large-scale clusters with thousands of GPUs and achieves nearly 90% acceleration efficiency during training on 1024 GPUs.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/InternLM/InternLM\">InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.</a>\n</p>",
+            "pubdate": "Thu, 06 Jul 2023 08:01:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                6
+            ],
+            "email_sent": true
+        },
+        "My small, no name company has completely lost its mind with AI - Blind": {
+            "url": "https://www.emergentmind.com/posts/my-small-no-name-company-has-completely-lost-its-mind",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A small, unknown company has been recklessly implementing AI in hopes of solving their issues, leading to a number of problems.</li>\n      <li>The CEO believes AI will fix all problems, causing misguided implementations such as using ChatGPT to write JIRA tickets and HR documents without proper checks.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.teamblind.com/post/My-small-no-name-company-has-completely-lost-its-mind-with-AI-nfqEDfSi\">My small, no name company has completely lost its mind with AI - Blind</a>\n</p>",
+            "pubdate": "Thu, 06 Jul 2023 05:02:03 +0000",
             "pubdate_parsed": [
                 2023,
                 7,
