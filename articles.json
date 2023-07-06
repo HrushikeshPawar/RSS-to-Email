@@ -13100,6 +13100,28 @@
                 5
             ],
             "email_sent": true
+        },
+        "Harrison Ford talks Indiana Jones 5's de-aging: \"That's my actual face\"": {
+            "url": "https://www.emergentmind.com/posts/harrison-ford-talks-indiana-jones-5-s-de-aging-that-s",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Harrison Ford has discussed the de-aging process used in the upcoming Indiana Jones 5 film, revealing it involves using artificial intelligence to scan old footage of him.</li>\n      <li>The film, Indiana Jones and the Dial of Destiny, features a flashback to a younger Indiana Jones, with Ford stating that the de-aged face viewers see is his actual face from his younger years.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.gamesradar.com/indiana-jones-5-harrison-ford-de-aging/\">Harrison Ford talks Indiana Jones 5's de-aging: &quot;That's my actual face&quot;</a>\n</p>",
+            "pubdate": "Thu, 06 Jul 2023 02:01:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                6
+            ],
+            "email_sent": true
+        },
+        "Exploring Large Language Models (LLMs) in Biomedical Domain": {
+            "url": "https://www.emergentmind.com/posts/exploring-large-language-models-llms-in-biomedical",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>GPT Models like GPT-3.5-turbo and GPT3.5 perform well in F1 score and Semantic Answer Similarity with less runtime, but GPT-4 has higher runtime despite good scores. Fine-tuning models provide a competitive edge, with Dolly models showing a balanced performance. However, the Exact Match scores across all models are low, indicating a need for better optimization.</li>\n      <li>Implementing Large Language Models involves significant costs for training, fine-tuning and inference. Costs can range from $1M to $20M for base training and $50k to $500k for fine-tuning. Despite these costs, training and fine-tuning are becoming less expensive over time. Using models from AWS Marketplace can be cost-effective, with options like Cohere or Jurassic-2 A21 available for $4.23 per hour.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://provectus.com/blog/comparison-large-language-models-biomedical-domain/\">Exploring Large Language Models (LLMs) in Biomedical Domain</a>\n</p>",
+            "pubdate": "Thu, 06 Jul 2023 02:01:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                6
+            ],
+            "email_sent": true
         }
     }
 }
