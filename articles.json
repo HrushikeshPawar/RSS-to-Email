@@ -13210,6 +13210,17 @@
                 7
             ],
             "email_sent": true
+        },
+        "Mechanical Turk workers are using AI to automate being human": {
+            "url": "https://www.emergentmind.com/posts/mechanical-turk-workers-are-using-ai-to-automate-being",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Mechanical Turk is a service by Amazon that allows users to divide tasks into small subtasks, performed by human 'turkers'. However, a study has found that about half of these workers are using AI to perform their tasks, effectively automating jobs intended for humans.</li>\n      <li>The study, conducted by researchers at EPFL in Switzerland, revealed that these workers are using large language models like ChatGPT to automate their tasks, a move that questions the value of Mechanical Turk and underlines the looming crisis of AI training on AI-generated data.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/\">Mechanical Turk workers are using AI to automate being human</a>\n</p>",
+            "pubdate": "Fri, 07 Jul 2023 12:02:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                7
+            ],
+            "email_sent": true
         }
     }
 }
