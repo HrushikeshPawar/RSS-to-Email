@@ -13177,6 +13177,39 @@
                 6
             ],
             "email_sent": true
+        },
+        "Waterwave Could Quench AIs' Thirst for GPU Memory - IEEE Spectrum": {
+            "url": "https://www.emergentmind.com/posts/waterwave-could-quench-ais-thirst-for-gpu-memory",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers have developed a new method, called Waterwave, to increase the efficiency of training multiple AI models simultaneously on the same GPU. It breaks up the AI training process into manageable 'sub-models'.</li>\n      <li>Tests have shown that Waterwave is 12 times as fast as existing spatial sharing on a GPU and 1.49 times as fast as existing temporal memory sharing, especially in scenarios with high memory demand.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://spectrum.ieee.org/ai-training\">Waterwave Could Quench AIs' Thirst for GPU Memory - IEEE Spectrum</a>\n</p>",
+            "pubdate": "Fri, 07 Jul 2023 03:01:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                7
+            ],
+            "email_sent": true
+        },
+        "Why Nvidia Keeps Winning: The Rise of an AI Giant": {
+            "url": "https://www.emergentmind.com/posts/why-nvidia-keeps-winning-the-rise-of-an-ai-giant",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Nvidia's rise to prominence in the AI industry is attributed to its focus on graphics processing units (GPUs) and the creation of a GPU ecosystem by CEO Jensen Huang. Huang foresaw the importance of parallel computing for AI and made strategic decisions to distribute the company's software, CUDA, for free to researchers. This built an ecosystem around Nvidia's GPUs, optimizing their usage for AI computations. Furthermore, the company has become a leading player in the transformer models in AI, which are essential for large, scalable models.</li>\n      <li>Nvidia's importance to the AI industry has been affirmed by its trillion-dollar valuation and its indispensable role in the large language model revolution. The company is now a major supplier to both gaming and data center sectors. The absence of significant foreign and domestic competitors, especially in China, further cements Nvidia's dominance in the market.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise\">Why Nvidia Keeps Winning: The Rise of an AI Giant</a>\n</p>",
+            "pubdate": "Fri, 07 Jul 2023 01:01:43 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                7
+            ],
+            "email_sent": true
+        },
+        "Scaling Transformers to 1,000,000,000 Tokens\"": {
+            "url": "https://www.emergentmind.com/posts/github-kyegomez-longnet-implementation-of-plug-in",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>LongNet is a Transformer variant designed to handle sequence lengths of over 1 billion tokens without sacrificing performance on shorter sequences.</li>\n      <li>It features dilated attention, which expands the attentive field exponentially as the distance grows, and can be used as a distributed trainer for very long sequences.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/kyegomez/LongNet\">Scaling Transformers to 1,000,000,000 Tokens&quot;</a>\n</p>",
+            "pubdate": "Fri, 07 Jul 2023 00:03:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                7
+            ],
+            "email_sent": true
         }
     }
 }
