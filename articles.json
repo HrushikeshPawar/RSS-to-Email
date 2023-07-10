@@ -13309,6 +13309,17 @@
                 9
             ],
             "email_sent": true
+        },
+        " MF FOOM: AI-generated MF DOOM songs": {
+            "url": "https://www.emergentmind.com/posts/mf-foom-ai-generated-mf-doom-songs-roman-hauksson",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the process of using GPT-3 to generate songs in the style of MF DOOM, a dense and complex rapper, by fine-tuning the AI model on MF DOOM's lyrics.</li>\n      <li>Despite the sophisticated methods used, the AI-generated songs do not match the quality of MF DOOM's original work, but the experiment provides an interesting exploration of AI's potential in music creation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://roman.computer/mf_foom/\">\ud83c\udfa4 MF FOOM: AI-generated MF DOOM songs</a>\n</p>",
+            "pubdate": "Mon, 10 Jul 2023 05:02:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                10
+            ],
+            "email_sent": true
         }
     }
 }
