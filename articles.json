@@ -1695,6 +1695,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "Sierra Division Studios Presents Three Epic Projects Built With NVIDIA Omniverse": {
+            "url": "https://blogs.nvidia.com/blog/2023/07/11/sierra-division-omniverse-openusd-composer/",
+            "description": "Jacob Norris is a 3D artist and the president, co-founder and creative director of Sierra Division Studios \u2014 an outsource studio specializing in digital 3D content creation.",
+            "pubdate": "Tue, 11 Jul 2023 13:00:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -13318,6 +13329,105 @@
                 2023,
                 7,
                 10
+            ],
+            "email_sent": true
+        },
+        "Ai Development Solution: Empowering the Future with Artificial Intelligence": {
+            "url": "https://www.emergentmind.com/posts/ai-development-solution-empowering-the-future-with",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI Development solutions have the potential to transform industries by solving complex problems, enhancing efficiency, and fostering innovation. They can streamline operations, improve customer engagement, revolutionize healthcare, and disrupt transportation and logistics.</li>\n      <li>AI can also power financial services and drive significant value in various sectors like agriculture, energy, manufacturing, and education. They can unlock new opportunities and give businesses and organizations a competitive edge in the digital era.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/coinmonks/ai-development-solution-empowering-the-future-with-artificial-intelligence-79755417b07e\">Ai Development Solution: Empowering the Future with Artificial Intelligence</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 11 Jul 2023 13:02:32 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
+            ],
+            "email_sent": true
+        },
+        "AI Can Accurately Predict Potentially Fatal Cardiac Events in Firefighters": {
+            "url": "https://www.emergentmind.com/posts/ai-can-accurately-predict-potentially-fatal-cardiac",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers at NIST, Rochester and Google have used AI to accurately predict abnormal cardiac rhythms in firefighters. This development could potentially lead to a portable heart monitor for firefighters, providing early warning signs of heart trouble.</li>\n      <li>Sudden cardiac death is the cause of 40% of on-duty fatalities among firefighters. The AI model, called the Heart Health Monitoring (H2M) model, was trained with real-life data from firefighters and achieved 97% accuracy in identifying abnormal ECG samples.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nist.gov/news-events/news/2023/07/ai-can-accurately-predict-potentially-fatal-cardiac-events-firefighters\">AI Can Accurately Predict Potentially Fatal Cardiac Events in Firefighters</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 11 Jul 2023 13:02:30 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
+            ],
+            "email_sent": true
+        },
+        "Own your own ChatGPT+Midjourney web service  Midjourney GPT": {
+            "url": "https://www.emergentmind.com/posts/own-your-own-chatgpt-midjourney-web-service",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>MIDJOURNEY_PROXY_URL needs to be set up with the address http://public IP:port, not http://localhost:port, especially when using Docker deployment.</li>\n      <li>Additional optional configurations include MIDJOURNEY_PROXY_API_SECRET for API request security and CODE for setting access password.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://midjourney-gpt.com/own-your-own-chatgptmidjourney-web-service/\">Own your own ChatGPT+Midjourney web service \u2013 Midjourney GPT</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 11 Jul 2023 13:02:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
+            ],
+            "email_sent": true
+        },
+        "Decades-long bet on consciousness ends  and its philosopher 1, neuroscientist 0": {
+            "url": "https://www.emergentmind.com/posts/decades-long-bet-on-consciousness-ends-and-it-s",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>In 1998, neuroscientist Christof Koch bet philosopher David Chalmers that the mechanism by which the brain's neurons produce consciousness would be discovered by 2023. However, at the Association for the Scientific Study of Consciousness (ASSC) meeting in 2023, both scientists agreed that the quest is ongoing and Chalmers was declared the winner.</li>\n      <li>The bet was ultimately decided by a study testing two leading hypotheses about the neural basis of consciousness, where neither theory perfectly matched the results, indicating both theories need revision.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nature.com/articles/d41586-023-02120-8\">Decades-long bet on consciousness ends \u2014 and it\u2019s philosopher 1, neuroscientist 0</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 11 Jul 2023 12:02:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
+            ],
+            "email_sent": true
+        },
+        "AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans : ScienceAlert": {
+            "url": "https://www.emergentmind.com/posts/ai-robots-admit-they-d-run-earth-better-than-clouded",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>At a United Nations summit, a panel of AI-enabled humanoid robots suggested they could potentially manage the world better than humans due to their lack of biases and emotional clouding. However, they urged caution in embracing the rapidly evolving field of artificial intelligence.</li>\n      <li>Some of the most advanced humanoid robots were present at the summit, discussing ways to use AI to solve global issues like climate change, hunger, and social care. The robots highlighted the need for trust and transparency, and there was a split opinion on whether there should be global regulation of AI capabilities.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.sciencealert.com/ai-robots-admit-theyd-run-earth-better-than-clouded-humans\">AI Robots Admit They'd Run Earth Better Than 'Clouded' Humans : ScienceAlert</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 11 Jul 2023 11:01:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
+            ],
+            "email_sent": true
+        },
+        "Report: China to tighten rules around releasing generative AI tools": {
+            "url": "https://www.emergentmind.com/posts/report-china-to-tighten-rules-around-releasing",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>China is planning to intensify regulations on artificial intelligence (AI), with a specific focus on content control and licensing. The Cyberspace Administration of China (CAC) plans to require local companies to obtain a license before releasing generative AI systems.</li>\n      <li>This move is a tightening of initial draft regulations released earlier this year, which required companies to register their product with authorities within 10 days of launch. The new regulations are expected to be released at the end of this month, and will also include mandatory security reviews of AI-generated content.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://cointelegraph.com/news/china-to-require-generative-ai-tools-to-obtain-license\">Report: China to tighten rules around releasing generative AI tools</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 11 Jul 2023 11:01:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
+            ],
+            "email_sent": true
+        },
+        "GitHub - mshumer/gpt-prompt-engineer": {
+            "url": "https://www.emergentmind.com/posts/github-mshumer-gpt-prompt-engineer",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The gpt-prompt-engineer is a tool that generates, tests, and ranks multiple prompts based on a task description and test cases, using GPT-4 and GPT-3.5-Turbo.</li>\n      <li>The tool uses an ELO rating system to assess prompt performance, provides a Classification Version for classification tasks, and offers optional logging to Weights &amp; Biases.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/mshumer/gpt-prompt-engineer\">GitHub - mshumer/gpt-prompt-engineer</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 11 Jul 2023 08:01:59 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
+            ],
+            "email_sent": true
+        },
+        "A repository contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance, especially in Text-to-SQL.": {
+            "url": "https://www.emergentmind.com/posts/github-csunny-db-gpt-hub-a-repository-contains",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>DB-GPT-Hub is an experimental project aiming to implement Text-to-SQL parsing using Large Language Models (LLMs), which includes dataset collection, data pre-processing, model selection and construction, and fine-tuning weights. This process aims to reduce the model training cost while improving Text-to-SQL capability, ultimately realizing automatic database-based question and answer capabilities.</li>\n      <li>The project uses multiple publicly available text-to-SQL datasets for enhancement. It allows users to complete complex database query operations through natural language descriptions. The project also provides thorough instructions on environment preparation, data preparation, and model fine-tuning.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/csunny/DB-GPT-Hub\">A repository contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance, especially in Text-to-SQL.</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 11 Jul 2023 06:02:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
+            ],
+            "email_sent": true
+        },
+        "A Survey of Machine Unlearning": {
+            "url": "https://www.emergentmind.com/posts/2209-02299-a-survey-of-machine-unlearning",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Computer systems hold large amounts of personal data, which can pose a threat to user privacy and trust in artificial intelligence. Regulations now require the removal of private information upon request, but machine learning models often 'remember' the old data.</li>\n      <li>This paper presents a comprehensive examination of 'machine unlearning', a new paradigm to make machine learning models forget particular data. It aims to be a resource for researchers and practitioners, highlighting current trends, new research areas, and the potential benefits of machine unlearning.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2209.02299\">A Survey of Machine Unlearning</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 11 Jul 2023 04:01:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                11
             ],
             "email_sent": true
         }
