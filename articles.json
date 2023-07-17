@@ -5195,6 +5195,39 @@
                 5
             ],
             "email_sent": true
+        },
+        "Google.orgs new grant to help track permafrost thaw": {
+            "url": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/",
+            "description": "Aerial photo of an arctic landscape with a lake and a permafrost slump \u2014 a brown landslide caused by the thawing of ground ice.",
+            "pubdate": "Mon, 17 Jul 2023 04:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "6 women leading the fight against climate change": {
+            "url": "https://blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists/",
+            "description": "Illustrated in vivid color, Eunice Newton Foote writes in her notebook, surrounded by scientific instruments.",
+            "pubdate": "Mon, 17 Jul 2023 04:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "6 mujeres lideran la lucha contra el cambio climtico": {
+            "url": "https://blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists-es/",
+            "description": "Eunice Newton Foote, dibujada con colores v\u00edvidos, escribe en su cuaderno, rodeada de instrumentos cient\u00edficos.",
+            "pubdate": "Mon, 17 Jul 2023 04:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -7531,6 +7564,105 @@
                 2023,
                 7,
                 16
+            ],
+            "email_sent": true
+        },
+        "Chromaticity Segmentation ": {
+            "url": "https://towardsai.net/p/machine-learning/chromaticity-segmentation",
+            "description": "Last Updated on July 17, 2023 by Editorial Team Author(s): Erika Lacson Originally published on Towards AI. Introduction to Image Processing with Python Episode 6: Image Segmentation \u2014 Part 2 (Left) Photo by cottonbro studio in pexels. &#124; (Right) Image processed by the Author. Hello again, my fellow image-processing enthusiasts! \ud83d\udd90\ufe0f Welcome to Episode 6, the second part of our deep dive into the world of Image Segmentation! \ud83c\udf0d\ud83d\udd0d In the last episode, we explored thresholding, Otsu\u2019s method, and the fascinating realm of color image segmentation. This time, we\u2019re about to add more colors to our palette with Chromaticity Segmentation and the concept of Image Differencing. \ud83c\udf08 Ready for an even deeper dive into the heart of image analysis? Buckle up, because we\u2019re taking a vibrant journey through: Chromaticity Segmentation \ud83c\udfa8 (This episode) Image Differencing \ud83d\udd04 (This episode) Chromaticity Segmentation \ud83c\udfa8 When it comes to image segmentation, color plays a key role in distinguishing different regions of an image. But have you ever encountered a situation where lighting conditions made color segmentation a nightmare? \ud83d\udca1\ud83d\ude31 No worries, Chromaticity Segmentation is here to save your day! Chromaticity Segmentation normalizes the RGB values of each pixel, making our segmentation independent of lighting conditions. How cool is that? We\u2019ll dive deep into this method, exploring how we can apply it to our images to get more accurate and reliable segmentations. But, before we start jumping in, let\u2019s discuss the RG Chromaticity space. It\u2019s a two-dimensional representation of the color that removes intensity values from our colors. It\u2019s all about the proportion of the difference in color channels, mapping it in the normalized RGB space. \ud83d\uddfa\ufe0f\ud83d\udd34\ud83d\udc9a Excited? Let\u2019s take this journey step-by-step! To compute the RG Chromaticity of an image, we use the following equations: Image by Borja, B. To illustrate: Image by Borja, B. This plot shows us the different colors plotted in the RG color space. Notice that we are just plotting the R and G colors, why is this the case? Because we can compute for b just by using 1-r-g. Let\u2019s try segmenting our plant&#039;s image using this. But first, let\u2019s import the necessary libraries: # Import the necessary librariesfrom skimage.io import imread, imshowimport matplotlib.colors as colorsfrom skimage.color import rgb2grayimport matplotlib.pyplot as pltimport numpy as np We can use RG Chromaticity in both Parametric or Non-Parametric Segmentation. Parametric Segmentation The good thing about this type of segmentation combined with RG Chromaticity is that we can mask any shape. So let\u2019s test it out. We first need to compute the RG Chromaticity of our image: # Display the original imageoriginal_image = imread(&#039;plants.jpg&#039;)plt.figure(figsize=(20,20))plt.imshow(original_image)plt.title(&#039;Original Image&#039;, fontsize=20, weight=&#039;bold&#039;)plt.show() Photo by Scott Webb on Unsplash We use our equations to compute for the RG Chromaticity: original_image_R = original_image[:,:,0]*1.0/original_image.sum(axis=2)original_image_G = original_image[:,:,1]*1.0/original_image.sum(axis=2)plt.figure(figsize=(20,20))plt.scatter(original_image_R.flatten(),original_image_G.flatten())plt.xlim(0,1)plt.ylim(0,1); Photo by Author. We can compute for the 2D histogram of the color values by: plt.figure(figsize=(20,20))plt.hist2d(original_image_R.flatten(), original_image_G.flatten(), bins=100,cmap=&#039;binary&#039;)plt.xlim(0,1)plt.ylim(0,1); Photo by Author. From here, we would notice what color or group of colors comprises our image. To segment our image, we would need to find a reference patch and take the RG Chromaticity of that reference image. Let\u2019s consider the following green patch: patch = original_image[3200:3300,2800:2900,:]plt.figure(figsize=(10,10))plt.imshow(patch)plt.title(&#039;Reference Patch for Green&#039;, fontsize=20, weight=&#039;bold&#039;)plt.axis(&#039;off&#039;); Photo by Author. Getting the RG Chromaticity of this patch: patch_R = patch[:,:,0]*1.0/patch.sum(axis=2)patch_G = patch[:,:,1]*1.0/patch.sum(axis=2)plt.figure(figsize=(10,10))plt.scatter(patch_R.flatten(),patch_G.flatten())plt.xlim(0,1)plt.ylim(0,1); Photo by Author. plt.figure(figsize=(10,10))plt.hist2d(patch_R.flatten(), patch_G.flatten(), bins=100,cmap=&#039;binary&#039;)plt.xlim(0,1)plt.ylim(0,1); Photo by Author. Parametric segmentation now requires us to fit a Gaussian probability distribution using this mask. This probability distribution would dictate which pixel belongs to the color of interest. To do this, we need to compute the Mean and Standard Deviation of our object of interest. std_patch_R = np.std(patch_R.flatten())mean_patch_R = np.mean(patch_R.flatten())std_patch_G = np.std(patch_G.flatten())mean_patch_G = np.mean(patch_G.flatten()) Then, define our Gaussian Function: def gaussian(p,mean,std): return np.exp(-(p-mean)**2/(2*std**2))*(1/(std*((2*np.pi)**0.5))) Trying this out with our computed values: x = np.linspace(0,1)y = gaussian(x,mean_patch_R,std_patch_R)plt.plot(x,y); Photo by Author. This distribution gives us the probability of color being part of our image using the R coordinate. We can actually mask our image just by using this: prob_R = gaussian(original_image_R,mean_patch_R,std_patch_R)plt.imshow(prob_R); Photo by Author. But this covers a band in our RG space. We also need to apply the G distribution. prob_G = gaussian(original_image_G,mean_patch_G,std_patch_G)plt.imshow(prob_G); Photo by Author. And since we\u2019re considering independent probabilities, we can simply multiply the masks together: prob=prob_R * prob_Gplt.imshow(prob) Photo by Author. And that\u2019s it, we found another way to segment our image using parametric segmentation! Non \u2014 Parametric Segmentation For cases where our region of interest cannot be approximated by a 2D Gaussian function, we can use a non-parametric segmentation method. For this, we would use the 2D Histogram of our reference image and use histogram back-projection to mask our original image with the computed histogram of our reference patch. plt.figure(figsize=(10,10))plt.hist2d(patch_R.flatten(), patch_G.flatten(), bins=16,cmap=&#039;binary&#039;)plt.xlim(0,1)plt.ylim(0,1); Photo by Author. To do this, we use histogram back-projection in which we give each pixel location a value equal to it\u2019s histogram value in chromaticity space. Let\u2019s test this knowledge: The non-parametric segmentation is especially useful for multi-color segmentation. Create a collage of different skin patch samples, then create a segmentation model by implementing the backprojection algorithm. def backproj(patch, image): # Convert both images to the HSV color space patch_hsv = colors.rgb_to_hsv(patch) image_hsv = colors.rgb_to_hsv(image) # Compute the 2D histogram of the reference patch in the H and S channels patch_hist, x_edges, y_edges = np.histogram2d( patch_hsv[:, :, 0].flatten(), patch_hsv[:, :, 1].flatten(), bins=(6, 2) , range=[[0, 1], [0, 1]]) # Normalize the histogram to have a maximum value of 1 patch_hist = patch_hist / np.max(patch_hist) # Compute the backprojection of the image histogram using the reference patch histogram indices_h = np.searchsorted(x_edges, image_hsv[:, :, 0], side=&#039;left&#039;) - 1 indices_s = np.searchsorted(y_edges, image_hsv[:, :, 1], side=&#039;left&#039;) - 1 backproj = patch_hist[indices_h, indices_s] # Normalize the backprojection to have a maximum value of 1 backproj = backproj / np.max(backproj) # Display the original image and the backprojection side by side plt.figure(figsize=(15, 15)) plt.subplot(1, 2, 1) plt.imshow(image) plt.title(&#039;Original Image&#039;) plt.subplot(1, 2, 2) plt.imshow(backproj) plt.title(&#039;Skin Segmentation&#039;) plt.tight_layout() plt.show() Let\u2019s load our patch (different skin patches) and image: patch = imread(&#039;patch.png&#039;)[:,:,:3]plt.figure(figsize=(20,20))plt.imshow(patch)plt.title(&#039;Skin Patch&#039;, fontsize=20, weight=&#039;bold&#039;)plt.axis(&#039;off&#039;); L\u2019Or\u00e9al skin color chart (https://www.loreal.com/en/articles/science-and-technology/expert-inskin/) image = imread(&#039;people.jpg&#039;)[:,:,:3]plt.figure(figsize=(20,20))plt.imshow(image)plt.title(&#039;Original [&#8230;]",
+            "pubdate": "Mon, 17 Jul 2023 12:01:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "Data Lifecycle in Production: Defining and Collecting useful data.": {
+            "url": "https://towardsai.net/p/machine-learning/data-lifecycle-in-production-defining-and-collecting-useful-data",
+            "description": "Last Updated on July 17, 2023 by Editorial Team Author(s): Akhil Theerthala Originally published on Towards AI. Photo by Mika Baumeister / Unsplash Recently, I have worked on an MLOps series, where I briefly discussed the different steps involved in the lifecycle of a Machine learning project. We started with the deployment overview and moved a step back until we reached the process of scoping a project. However, those articles were written in the format of notes for the Introduction to Machine Learning in Production course by Andrew Ng. When I progressed to the following courses in the specialization, I discovered that the specialization depends on TensorFlow and TensorFlow Extended frameworks. I could have gone ahead mindlessly and learned new things later; however, I took a step back. I re-evaluated what I wanted and re-assessed the direction where I wanted my journey to progress. In the process, I have realized that though I do the course, I cannot only focus on the course content anymore. I had to analyze what I was being taught. Hence, I took my sweet time before taking the next step, which led to this article. So, without wasting more time, let us get into the topic. Lifecycle of a generic Machine learning project in production. Source: DeepLearning.AI, licensed under the Creative Commons Attribution-ShareAlike 2.0 license. The \u201cWhat?\u201d When you recall the machine learning lifecycle, remember that the first step after defining the project is to question what data would help us successfully achieve the intended goals. In this phase, our only goal is to identify and determine the good and useful data, which we then use to create machine learning models. Wait a minute\u2026how do we determine the criteria for \u201c good\u201d and \u201c useful\u201d? We can either ignore these remarks and move on or carefully examine them. In production, it helps to have a firm grasp of the meaning of these adjectives that pop up from time to time. The Good Data and Bad Data Suppose we are trying to predict the economic fluctuations of a country. To this example, what would you think when I insist on adding a feature which is the number of times I sneeze a day? You start seeing me as a crazy person. Why? Cause my sneeze is irrelevant to the economic fluctuations of a country. When we are trying to predict economic fluctuations, the number of times I sneeze is a garbage value. Now the value for the same feature is different when I try to analyze the state of my cold. The feature remains the same in the two cases, but you see me as a madman, whereas you perfectly agree with me in the other. This is basically how we determine a feature to be good or bad. A good feature or good data is relevant to the project we are working on. Bad data is the exact opposite. Imagine if I insist on adding multiple such features to our project. Our model will not be something that predicts economic fluctuations. It will be something that predicts garbage. This is how the phrase \u201c Garbage In, Garbage Out\u201d came out. This is one of the interesting descriptions that I found regarding Good Data and Bad data: Good Data vs Bad Data. Image by Sven Balnojan, in Data Strategy: Good Data vs. Bad Data published on Towards Data Science. What is useful, then? There was another keyword that was used for the data that we needed to collect. Useful. How do you know if a feature is important for the project? Whatever the case, once we start working on a project in a production setting, it is aimed at a certain group of customers who will benefit from the product. Because of this, we need to think about the user when we collect information or develop services. What can the user provide? What is the type of service we are offering? Is it just augmenting the process, or is it automating the task? When we consider the user aspects, the data we need will change. For example, when building an application that recommends his health routine to the user. If he asks for recommendations for his daily workouts, we tend to collect his gym goals, the frequency of his workout, the time he plans to spend in the gym, any health conditions, etc. You won\u2019t need his daily wake-up time to recommend him his workouts. However, if the user\u2019s goal is to maintain a healthy lifestyle, you won\u2019t need the time he plans to spend in the gym or others. Rather, you would like to know the amount of sleep he is getting, his drinking and smoking habits, his target sleep time, his diet etc. Depending on the user\u2019s needs and criteria, the data that is to be collected should be changed. The \u201cHow?\u201d Since we have discussed what data we need to collect, it is time to discuss the \u201chow\u201d of the data collection process. We have many questions here, But for now, let\u2019s focus on the most basic questions you need to answer to start your machine learning project. How to acquire the data that we need? How much data should we collect? The sources The sources for data acquisition can be widely categorized into two categories, User-generated and System-acquired. At the root level, the user-generated data is obtained from surveys, polls, case studies, Q&#38;A forums, images, videos, etc. This data is highly diverse and can have multiple inconsistencies hidden in it. There is a common saying that is accepted by data professionals, which states that \u201c If it is even remotely possible for users to input the wrong data, they are going to do it.\u201d Hence user-input data requires heavy-duty checking and processing. On the other hand, is the system-generated data. It is the data that is automatically generated or stored by the systems that users utilize. This includes various types of logs, system outputs, online sales records, website traffic, etc. Because [&#8230;]",
+            "pubdate": "Mon, 17 Jul 2023 11:35:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "Deploy Triton Inference Server with AWS ECS: Part (3/4)": {
+            "url": "https://towardsai.net/p/machine-learning/deploy-triton-inference-server-with-aws-ecs-part-3-4",
+            "description": "Last Updated on July 17, 2023 by Editorial Team Author(s): Hao WEI Originally published on Towards AI. A step-by-step coding practice a step-by-step coding practice pub.towardsai.net A step-by-step coding practice pub.towardsai.net In the last two blogs, we built a triton inference server with preprocess and post process, using an MNIST example. The server was running as a local host. In this blog, we will deploy the server to AWS so that it will be accessible to the public. We will use two aws components: ECR and ECS. The complete code is publicly available in the following GitHub repository. Before all experiments, it is suggested to create a Python virtual environment, and install all dependencies by pip install -r requirements.txt . Contribute to haowei-2014/triton development by creating an&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 17 Jul 2023 11:35:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "GPT-4: 8 Models in One; The Secret is Out": {
+            "url": "https://towardsai.net/p/machine-learning/gpt-4-8-models-in-one-the-secret-is-out",
+            "description": "Last Updated on July 17, 2023 by Editorial Team Author(s): Dr. Mandar Karhade, MD. PhD. Originally published on Towards AI. GPT4 kept the model secret to avoid competition, now the secret is out! Top highlight The GPT4 model has been THE groundbreaking model so far, available to the general public either for free or through their commercial portal (for public beta use). It has worked wonders in igniting new project ideas and use-cases for many entrepreneurs but the secrecy about the number of parameters and the model was killing all enthusiasts who were betting on the first 1 trillion parameter model to 100 trillion parameter claims! Well, the cat is out of the bag (Sort of). On June 20th, George Hotz, founder of self-driving startup Comma.ai leaked that GPT-4 isn\u2019t a single monolithic dense model&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 17 Jul 2023 11:35:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "The Best AI Virtual Fitting Room | TryOnDiffusion": {
+            "url": "https://towardsai.net/p/machine-learning/the-best-ai-virtual-fitting-room-tryondiffusion-2",
+            "description": "Last Updated on July 17, 2023 by Editorial Team Author(s): Louis Bouchard Originally published on Towards AI. AI Does magic with UNets, Diffusion, and clothes! Originally published on louisbouchard.ai, read it 2 days before on my blog! https://www.youtube.com/embed/2IJwaDbP3jI Have you ever dreamed of trying out the clothes even when you are shopping on Amazon? This may sound like magic, but it\u2019s actually something becoming more and more possible thanks to AI. As with ChatGPT, MidJourney, and many other AI-powered tools that look like magic and real intelligence, some AIs are trained to take an image of you, and add any piece of clothing to it. I covered a great research approach that was the first doing this virtual Try-on task a few years ago called VOGUE. VOGUE had&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 17 Jul 2023 11:34:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "Create a Stunning Documentation for Your Plotly Dash App with MkDocs": {
+            "url": "https://towardsai.net/p/machine-learning/create-a-stunning-documentation-for-your-plotly-dash-app-with-mkdocs",
+            "description": "Last Updated on July 17, 2023 by Editorial Team Author(s): Janik and Patrick Tinz Originally published on Towards AI. Take your documentation to the next level Photo by Carlos Perez on Unsplash Our experience has shown that software projects are often insufficiently documented. But why? Most software projects have a limited budget and a tight schedule. Documentation is then often neglected. Insufficient documentation increases the costs of maintaining a project. For this reason, good documentation is essential. Good documentation includes more than just the technical description of the code. Many development teams use Markdown files for documentation. It\u2019s easy to lose track of the many Markdown files in large projects. Automatically generated documentation addresses this challenge because maintaining such documentation requires less effort. In addition, the information between&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 17 Jul 2023 11:34:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "A Detailed Tutorial on Polynomial Regression in Python, Overview, Implementation, and Overfitting": {
+            "url": "https://towardsai.net/p/machine-learning/a-detailed-tutorial-on-polynomial-regression-in-python-overview-implementation-and-overfitting",
+            "description": "Last Updated on July 17, 2023 by Editorial Team Author(s): Rashida Nasrin Sucky Originally published on Towards AI. Complete code in Python Photo by Joshua Reddekopp on Unsplash I have been writing tutorials on Machine learning, deep learning, data visualization, analysis, and statistics for some time. But I realized I didn\u2019t write too much about some simple machine learning pipelines that can be very useful. Though there are so many more advanced machine-learning tools and packages out there nowadays, still these simple machine-learning tools are still relevant and useful. This article will be about Polynomial Regression basics and implementation using the scikit-learn library in Python. We will also work on an overfitting experiment for machine learning beginners. Polynomial regression is one of the basic machine&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 17 Jul 2023 11:33:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "The Age of Uncertainty: Unmasking our Reality with AI": {
+            "url": "https://towardsai.net/p/machine-learning/the-age-of-uncertainty-unmasking-our-reality-with-ai",
+            "description": "Last Updated on July 17, 2023 by Editorial Team Author(s): Cezary Gesikowski Originally published on Towards AI. How Generative AI Challenges Our Belief Systems and Shapes the Future of Knowledge \u201cYou might worry that an AI system that is uncertain about its objective won\u2019t be as useful as one that knows the objective, but this uncertainty is a feature, not a bug. It leads to AI systems that are deferential, that ask for clarifying information, and that try to learn human preferences over time.\u201d \u2014 Stuart Russel, author of Human Compatible: Artificial Intelligence and the Problem of Control image by the author via Midjourney Uncertainty is our constant companion. It follows us around, whispering doubts and questions that make our reality feel fragile. What we like to call \u2018the truth\u2019 is increasingly&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 17 Jul 2023 11:33:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "AlexNet: Implementation from Scratch": {
+            "url": "https://towardsai.net/p/machine-learning/alexnet-implementation-from-scratch",
+            "description": "Last Updated on July 17, 2023 by Editorial Team Author(s): Muhammad Arham Originally published on Towards AI. A PyTorch series for people starting with Deep Learning. Following an implementation-based approach of various well-known architectures. Image from Paper Introduction The Alexnet architecture was a breakthrough at the time of its publication, achieving minimal loss on the ImageNet classification task. It uses sequential convolutional blocks with some fully connected layers for the classification task. In this article, we understand the architecture and code it in PyTorch. Architecture The flowchart shows the basic outline of the process. Image by Author The input image is of size 227, width and height with 3 color channels i.e., RGB. They are passed through a series of Convolutional blocks consisting of Convolutional, ReLU, Normalization, and Pooling layers. The output is then flattened to a one-dimensional array and passed through several dense layers. The result is a one-dimensional array, with the size of the vector representing the total number of classes. The exact dimensions and details are extracted directly from the Alex Net paper. The pooling layers reduce the input size and the convolutional filters vary the total channels in the input. The output of the convolutional blocks is a (256,6,6) tensor that is flattened to a single dimension, i.e. 256x6x6 dimensional vector that equals 9216. The vector is passed through two dense layers consisting of 4096 neurons. The last fully connected layer reduces the total output neurons to the number of possible classes. Convolutional Layers If we look into the convolutional layers inside, there are 5 similar blocks, each composed of similar layers. Image by Author The input to the first block is an RGB image with 3 color channels. Each block processes the input and passes the output to the next block in a sequential manner. The output sizes of each block are shown in the image. Convolutional Block The flowchart shows the layers each block is composed of. Image by Author Each block, except 3 and 4 has the above structure. Layers 3 and 4 have no normalization and pooling layers at the end. Convolutional Sizes Each block has different sizes of convolutional layers. The table summarizes the sizes used in the paper. Each convolutional layer uses a ReLU activation that is shown explicitly. Normalization The paper uses LocalResponseNormalization that helps generalized, and as per the paper, improved performance on the classification task. For normalization hyperparameters, they use the following values. Refer to the documentation to learn about what these parameters represent. Pooling Layers The paper proposes to use overlapping pooling where the stride is different from the kernel size. Experimentally, the overlapping pooling reduced the error rates relative to the non-overlapping pooling with the same stride and kernel. Therefore, all pooling layers in the convolutional blocks use stride 2 and kernel size 3. Implementation We start our implementation from the convolutional block structure, which is generalizable to all of the 5 blocks. This can allow modularity, and allow reuse when implementing the complete Alex Net architecture. This reduces code duplication. class AlexNetBlock(nn.Module): def __init__( self, in_channels, out_channels, kernel_size, stride, padding, pool_and_norm: bool = True ) -&#62; None: super(AlexNetBlock, self).__init__() self.conv_layer = nn.Conv2d( in_channels, out_channels, kernel_size, stride, padding) self.relu = nn.ReLU() self.pool_and_norm = pool_and_norm if pool_and_norm: self.norm_layer = nn.LocalResponseNorm( size=5, alpha=0.0001, beta=0.75, k=2) self.pool_layer = nn.MaxPool2d(stride=2, kernel_size=3) def forward(self, x): x = self.conv_layer(x) x = self.relu(x) if self.pool_and_norm: x = self.norm_layer(x) x = self.pool_layer(x) return x The code is self-explanatory, where we receive parameters for the convolutional layer. In addition, we use a pool_and_norm boolean value that will be set to False for block 3 and block 4. The above block can be used in the complete Alex Net architecture. The below code shows the complete Alex Net model, that uses the above block. class AlexNet(nn.Module): def __init__(self, num_classes, in_channels) -&#62; None: super(AlexNet, self).__init__() self.block1 = AlexNetBlock( in_channels, 96, 11, 4, 0, pool_and_norm=True) self.block2 = AlexNetBlock(96, 256, 5, 1, 2, pool_and_norm=True) self.block3 = AlexNetBlock(256, 384, 3, 1, 1, pool_and_norm=False) self.block4 = AlexNetBlock(384, 384, 3, 1, 1, pool_and_norm=False) self.block5 = AlexNetBlock(384, 256, 3, 1, 1, pool_and_norm=True) self.flatten = nn.Flatten() self.fc1 = nn.Linear(256 * 6 * 6, 4096) self.dropout1 = nn.Dropout(0.5) self.fc2 = nn.Linear(4096, 4096) self.dropout2 = nn.Dropout(0.5) self.classification_layer = nn.Linear(4096, num_classes) def forward(self, x): x = self.block1(x) x = self.block2(x) x = self.block3(x) x = self.block4(x) x = self.block5(x) x = self.flatten(x) x = self.fc1(x) x = self.dropout1(x) x = self.fc2(x) x = self.dropout2(x) x = self.classification_layer(x) return x As per the flowchart, we create 5 Alex Net blocks with the configuration described. We then sequentially pass the input through all the layers, till we achieve a one-dimensional array representing the probability of each possible class. For this specific instance, we need two initialization parameters for AlexNet. One is input channels that are by default three for RGB images. The second is the total number of classes that defines our output size. In the paper, the value used was 1000 for the Image Net task. For my implementation, I use the CIFAR-10 dataset so I set it to ten. The below image summarizes the Alex Net architecture. Image by Author Conclusion The above architecture can be trained for a classification task from scratch. I trained it for the CIFAR-10 dataset for ten epochs. The below graph shows the loss progression. Image by Author For just ten epochs, the Cross-Entropy Loss is reducing gradually, and we can do well for simple classification tasks. The article only shows code snippets for understanding. For complete implementation and training code, refer to my GitHub repo. For a detailed understanding of the architecture, consider reading the paper. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 17 Jul 2023 11:32:36 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
             ],
             "email_sent": true
         }
@@ -10640,6 +10772,17 @@
                 2023,
                 7,
                 4
+            ],
+            "email_sent": true
+        },
+        "Open-Source Text Generation & LLM Ecosystem at Hugging Face": {
+            "url": "https://huggingface.co/blog/os-llms",
+            "description": null,
+            "pubdate": "Mon, 17 Jul 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
             ],
             "email_sent": true
         }
@@ -13758,6 +13901,28 @@
                 2023,
                 7,
                 16
+            ],
+            "email_sent": true
+        },
+        "Superpower Daily": {
+            "url": "https://www.emergentmind.com/posts/superpower-daily",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Superpower Daily provides daily updates on AI news and insights.</li>\n      <li>It is read by over 90,000 individuals from top tech companies like Meta, Google, Microsoft, Benchmark, and Accel.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.superpowerdaily.com/\">Superpower Daily</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 17 Jul 2023 07:04:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
+            ],
+            "email_sent": true
+        },
+        "Neural Network Inference Engine in Zig": {
+            "url": "https://www.emergentmind.com/posts/github-eugenhotaj-zig_gpt2-neural-network-inference",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses about a commit on the 'Neural Network Inference Engine in Zig Insights' by EugenHotaj/zig_gpt2.</li>\n      <li>The commit does not belong to any branch on the repository and may belong to a fork outside of the repository.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/EugenHotaj/zig_gpt2\">Neural Network Inference Engine in Zig</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 17 Jul 2023 04:01:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                17
             ],
             "email_sent": true
         }
