@@ -14079,6 +14079,28 @@
                 18
             ],
             "email_sent": true
+        },
+        "How is ChatGPT's behavior changing over time?": {
+            "url": "https://www.emergentmind.com/posts/2307-09009-how-is-chatgpt-s-behavior-changing-over",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Study evaluates GPT-3.5 and GPT-4 language models in several tasks and finds performance varies greatly over short time periods.</li>\n      <li>Findings underline need for continuous monitoring of language model quality due to substantial changes in behavior.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2307.09009\">How is ChatGPT's behavior changing over time?</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 19 Jul 2023 03:02:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                19
+            ],
+            "email_sent": true
+        },
+        "Marvin Minskys Vision of the Future": {
+            "url": "https://www.emergentmind.com/posts/marvin-minsky-s-vision-of-the-future-the-new-yorker",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>In 1979, a computer program called BKG 9.8, created by Hans Berliner, a professor of computer science at Carnegie-Mellon University, played and won against the world backgammon champion in Monte Carlo. The program was run on a large computer connected by satellite to a robot, named Gammonoid, in Monte Carlo.</li>\n      <li>This marked the first time a machine became a world champion in a board or card game, paving the way for future development in artificial intelligence.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.newyorker.com/magazine/1981/12/14/a-i\">Marvin Minsky\u2019s Vision of the Future</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 19 Jul 2023 02:01:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                19
+            ],
+            "email_sent": true
         }
     }
 }
