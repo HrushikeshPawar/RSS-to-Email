@@ -5239,6 +5239,17 @@
                 17
             ],
             "email_sent": true
+        },
+        "Google's AI Red Team: the ethical hackers making AI safer": {
+            "url": "https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/",
+            "description": "a labyrinth with symbols on it",
+            "pubdate": "Wed, 19 Jul 2023 12:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                19
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -10941,6 +10952,17 @@
                 9
             ],
             "email_sent": true
+        },
+        "Machine Learning Got Itself in a Big Damn Hurry": {
+            "url": "http://www.alexirpan.com/2023/07/19/ml-hurry.html",
+            "description": "<p>Three months ago, I was at an \u201cIntersection of AI and My Little Pony Fandom\u201d panel. It was a panel about the ways the MLP fandom has used AI to generate creative work, starting from finetuned GPT-2 in 2020, through voice synthesis via <a href=\"https://twitter.com/fifteenai?lang=en\">15.ai</a>, and ending with, of course,...",
+            "pubdate": "Wed, 19 Jul 2023 04:41:00 -0700",
+            "pubdate_parsed": [
+                2023,
+                7,
+                19
+            ],
+            "email_sent": true
         }
     },
     "Azure-MLOps": {},
@@ -14095,6 +14117,50 @@
             "url": "https://www.emergentmind.com/posts/marvin-minsky-s-vision-of-the-future-the-new-yorker",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>In 1979, a computer program called BKG 9.8, created by Hans Berliner, a professor of computer science at Carnegie-Mellon University, played and won against the world backgammon champion in Monte Carlo. The program was run on a large computer connected by satellite to a robot, named Gammonoid, in Monte Carlo.</li>\n      <li>This marked the first time a machine became a world champion in a board or card game, paving the way for future development in artificial intelligence.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.newyorker.com/magazine/1981/12/14/a-i\">Marvin Minsky\u2019s Vision of the Future</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
             "pubdate": "Wed, 19 Jul 2023 02:01:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                19
+            ],
+            "email_sent": true
+        },
+        "How AI is bringing film stars back from the dead - BBC Future": {
+            "url": "https://www.emergentmind.com/posts/how-ai-is-bringing-film-stars-back-from-the-dead-bbc",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial Intelligence technology is being used to create digital clones of deceased film stars, such as James Dean, for new films, which is causing concerns about the rights of individuals after their death.</li>\n      <li>The technology allows for the creation of interactive avatars for films and gaming, but it raises questions about who owns the rights to someone's image after they die, and the potential for misuse or exploitation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.bbc.com/future/article/20230718-how-ai-is-bringing-film-stars-back-from-the-dead\">How AI is bringing film stars back from the dead - BBC Future</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 19 Jul 2023 13:03:03 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                19
+            ],
+            "email_sent": true
+        },
+        "Harvard 21 grad says Gen Z just uses A.I. to do their homework, they arent necessarily interested in using ChatGPT for learning": {
+            "url": "https://www.emergentmind.com/posts/harvard-21-grad-says-gen-z-just-uses-a-i-to-do-their",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A recent Fortune's Brainstorm Tech conference revealed contrasting views on the use of A.I. in education, with Gen Z students using it mainly for homework and not for learning, while Chegg's CEO Dan Rosensweig shows enthusiasm for A.I.'s potential to aid students.</li>\n      <li>Chegg is combating competitive threats from A.I. tools like OpenAI\u2019s ChatGPT and Google\u2019s Bard by launching Cheggmate, a tool that tailors to students' learning needs, though skepticism remains about whether such tools will encourage active engagement with course materials.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://finance.yahoo.com/news/harvard-21-grad-says-gen-213109060.html\">Harvard \u201921 grad says Gen Z just uses A.I. to do their homework, they \u2018aren\u2019t necessarily interested in using ChatGPT for learning\u2019</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 19 Jul 2023 13:02:59 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                19
+            ],
+            "email_sent": true
+        },
+        "SHOW-1 and Showrunner Agents in Multi-Agent Simulations": {
+            "url": "https://www.emergentmind.com/posts/show-1-and-showrunner-agents-in-multi-agent-simulations",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers use large language models and multi-agent simulations to generate high-quality episodic content for intellectual properties. The approach leverages data points such as a character's history, emotions, and goals to produce scenes and assets aligned with the existing story world.</li>\n      <li>The process mitigates the 'slot machine effect', where AI-produced content feels random rather than deliberately creative. The user's expectations and intentions are shaped through interactions, reducing frustration and enhancing the user experience.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://fablestudio.github.io/showrunner-agents/\">SHOW-1 and Showrunner Agents in Multi-Agent Simulations</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 19 Jul 2023 09:02:03 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                19
+            ],
+            "email_sent": true
+        },
+        "Mastering ChatGPT: 16 Powerful Commands to Craft Engaging Blog Posts": {
+            "url": "https://www.emergentmind.com/posts/mastering-chatgpt-16-powerful-commands-to-craft",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT is an AI language model that helps bloggers to generate human-like text and create engaging blog posts. It offers 16 powerful commands that can help to captivate readers.</li>\n      <li>By harnessing the capabilities of ChatGPT, bloggers can generate catchy introductions, craft persuasive conclusions, optimize for SEO, generate blog post ideas, and proofread and edit their work, among other things.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://technexio.com/mastering-chatgpt-16-powerful-commands-to-craft-engaging-blog-posts/\">Mastering ChatGPT: 16 Powerful Commands to Craft Engaging Blog Posts</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 19 Jul 2023 04:03:04 +0000",
             "pubdate_parsed": [
                 2023,
                 7,
