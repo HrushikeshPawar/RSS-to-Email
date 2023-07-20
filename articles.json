@@ -14167,6 +14167,39 @@
                 19
             ],
             "email_sent": true
+        },
+        "Rethinking Symbol-Grounding in AGI": {
+            "url": "https://www.emergentmind.com/posts/rethinking-symbol-grounding-in-agi-by-cardboarddreams",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses rethinking the approach towards symbol-grounding in Artificial General Intelligence (AGI), suggesting a shift from a narrow AI model to a more open-ended model. This new model involves using a Reinforcement Learning (RL) agent that builds up concepts based on experiences.</li>\n      <li>The author suggests that the RL agent should focus on collecting information that is useful for making effective plans, rather than trying to model objective 'truth' about the world. The agent's world models should be based on past experiences that proved useful, creating a model which combines the benefits of model-free and model-based RL.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://ykulbashian.medium.com/rethinking-symbol-grounding-in-agi-118d33daee9f\">Rethinking Symbol-Grounding in AGI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 20 Jul 2023 02:02:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                20
+            ],
+            "email_sent": true
+        },
+        "Wikipedias Moment of Truth - The New York Times": {
+            "url": "https://www.emergentmind.com/posts/wikipedia-s-moment-of-truth-the-new-york-times",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Wikipedia, the online encyclopedia, faces a challenge from A.I. chatbots like GPT-3 from OpenAI, which mix factual and fictional elements in their responses. This development has sparked concern among some Wikipedia editors about the future of the platform.</li>\n      <li>Meanwhile, Wikipedia's vast data and text have been used extensively in training A.I. models, making it a significant source of information for these systems. As A.I. chatbots become more sophisticated, there are concerns about whether Wikipedia might suffer from disuse and be replaced by these bots.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nytimes.com/2023/07/18/magazine/wikipedia-ai-chatgpt.html?smid=nytcore-ios-share&amp;referringSource=articleShare\">Wikipedia\u2019s Moment of Truth - The New York Times</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 20 Jul 2023 01:02:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                20
+            ],
+            "email_sent": true
+        },
+        "Researchers Chart Alarming Decline in ChatGPT Response Quality": {
+            "url": "https://www.emergentmind.com/posts/researchers-chart-alarming-decline-in-chatgpt-response",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A research team from Stanford and UC Berkeley found a significant decline in the quality of ChatGPT responses, with the accuracy of GPT-4's prime number identification falling from 97.6% in March 2023 to 2.4% in June 2023.</li>\n      <li>The research team assessed the performance of GPT-4, which was championed by OpenAI as its most advanced model, and found significant differences in its ability to answer queries over a short period, raising concerns about the quality of AI products powered by it.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.tomshardware.com/news/chatgpt-response-quality-decline\">Researchers Chart Alarming Decline in ChatGPT Response Quality</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 20 Jul 2023 01:02:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                20
+            ],
+            "email_sent": true
         }
     }
 }
