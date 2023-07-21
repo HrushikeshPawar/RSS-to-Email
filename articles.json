@@ -494,6 +494,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "Using AI to fight climate change": {
+            "url": "https://www.deepmind.com/blog/using-ai-to-fight-climate-change",
+            "description": "AI is a powerful technology that will transform our future, so how can we best apply it to help combat climate change and find sustainable solutions? The effects of climate change on Earth\u2019s ecosystems are incredibly complex, and as part of our effort to use AI for solving some of the world\u2019s most challenging problems, here are some of the ways we\u2019re working to advance our understanding, optimise existing systems, and accelerate breakthrough science of climate and its effects.",
+            "pubdate": "Fri, 21 Jul 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
+            ],
+            "email_sent": true
         }
     },
     "Nvidia Blog": {
@@ -5459,6 +5470,17 @@
                 2023,
                 7,
                 18
+            ],
+            "email_sent": true
+        },
+        "Moving AI governance forward": {
+            "url": "https://openai.com/blog/moving-ai-governance-forward",
+            "description": "OpenAI and other leading labs reinforce AI safety, security and trustworthiness through voluntary commitments.",
+            "pubdate": "Fri, 21 Jul 2023 07:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
             ],
             "email_sent": true
         }
@@ -14486,6 +14508,83 @@
                 21
             ],
             "email_sent": true
+        },
+        "Weekly Piece of Future #25 - by Zoltan Tapi": {
+            "url": "https://www.emergentmind.com/posts/weekly-piece-of-future-25-by-zoltan-tapi",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The latest edition of Rushing Robotics highlights breakthroughs in age reversal, lab-grown mini brains, AI, space exploration, and sustainable energy, and discusses industry insights from tech giants like Microsoft, Meta, Tesla, and Apple. It also features cutting-edge products and tools that promise to reshape the way we interact with technology.</li>\n      <li>The newsletter discusses potential dangers of AI, the concept of a butterfly-shaped solar power station for future Moon settlements, the first-ever robotic liver transplant, and an ultra-small probe that can record neuron activity without invasive surgery. It also introduces AI-generated personalised avatars and a decentralized network for advancing longevity research.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://rushingrobotics.com/p/weekly-piece-of-future-25\">Weekly Piece of Future #25 - by Zoltan Tapi</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 21 Jul 2023 13:02:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
+            ],
+            "email_sent": true
+        },
+        "How to Use GPT-4 in Bing Chat with Multimodal Feature (Right now)": {
+            "url": "https://www.emergentmind.com/posts/how-to-use-gpt-4-in-bing-chat-with-multimodal-feature",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Microsoft has provided early access to a multimodal feature in Bing Chat that allows interaction with the GPT-4 model, similar to the one OpenAI is yet to release. This feature enables users to upload images and ask related questions.</li>\n      <li>The potential benefits of this feature include enhanced user interactions with the AI and improved decision-making processes across various fields. It's expected to be especially useful for students, professionals, and AI enthusiasts.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://geekermag.com/how-to-use-gpt-4-in-bing-chat-with-multimodal-feature/\">How to Use GPT-4 in Bing Chat with Multimodal Feature (Right now)</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 21 Jul 2023 12:01:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
+            ],
+            "email_sent": true
+        },
+        "EU AI Act: the Regulatory Framework on the Usage of Machine Learning in the European Union": {
+            "url": "https://www.emergentmind.com/posts/eu-ai-act-the-regulatory-framework-on-the-usage-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The EU AI Act is a proposed legislation that seeks to regulate the use of machine learning applications, with a focus on risk-based approach. Negotiations for its realization started in June 2023 and an agreement is expected by the end of the year.</li>\n      <li>The Act categorizes systems into four risk levels - minimal, limited, high, and unacceptable, each with specific regulations and obligations. High-risk systems, for instance, must be registered in the EU Database and ensure that generation of illegal content is prevented.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.infoq.com/news/2023/07/eu-ai-act/\">EU AI Act: the Regulatory Framework on the Usage of Machine Learning in the European Union</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 21 Jul 2023 12:01:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
+            ],
+            "email_sent": true
+        },
+        "Researchers From Stanford And DeepMind Come Up With The Idea of Using Large Language Models LLMs as a Proxy Reward Function - MarkTechPost": {
+            "url": "https://www.emergentmind.com/posts/researchers-from-stanford-and-deepmind-come-up-with-the",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers from Stanford University and DeepMind are using Large Language Models (LLMs) as a proxy reward function for autonomous agents, making it easier for users to share their preferences. Users can specify their preferences through language, rather than providing many examples of desirable behaviors.</li>\n      <li>The use of LLMs increases the proportion of objective-aligned reward signals in response to zero-shot prompting by an average of 48% for a regular ordering of matrix game outcomes and by 36% for a scrambled order. The research shows that RL agents aligned with their objectives can be trained using LLMs that only detect one of two correct outcomes.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.marktechpost.com/2023/07/20/researchers-from-stanford-and-deepmind-come-up-with-the-idea-of-using-large-language-models-llms-as-a-proxy-reward-function/\">Researchers From Stanford And DeepMind Come Up With The Idea of Using Large Language Models LLMs as a Proxy Reward Function - MarkTechPost</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 21 Jul 2023 10:01:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
+            ],
+            "email_sent": true
+        },
+        "EchoSpeech: AI-equipped eyeglasses can read the silent speech": {
+            "url": "https://www.emergentmind.com/posts/echospeech-ai-equipped-eyeglasses-can-read-the-silent",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>EchoSpeech, AI-equipped eyeglasses developed by Cornell\u2019s Smart Computer Interfaces for Future Interactions (SciFi) Lab, can recognize silent speech based on lip and mouth movements. The device uses acoustic detection and artificial intelligence to identify up to 31 unvocalized commands.</li>\n      <li>EchoSpeech works by transmitting inaudible sound waves towards the skin, collecting small skin deformations caused by silent utterances, and analyzing these deformations to infer silent speech. The glasses transform into a wearable AI-powered sonar system that can track lip movements with around 95% accuracy.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.bahrainthisweek.com/echospeech-ai-equipped-eyeglasses-read-silent-speech/\">EchoSpeech: AI-equipped eyeglasses can read the silent speech</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 21 Jul 2023 07:02:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
+            ],
+            "email_sent": true
+        },
+        "The future of AI in transport: BPW - Global Trailer": {
+            "url": "https://www.emergentmind.com/posts/the-future-of-ai-in-transport-bpw-global-trailer",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Germany-based BPW will present its latest AI solutions for transport at the Transport Logistic event in Munich, featuring a new generation of running gear for intelligent trailers and the iGurt load securing system.</li>\n      <li>The company will also introduce two new solutions aimed at reducing carbon emissions in transport, including an electrically driven axle for inner-city transport and an energy-generating axle for refrigeration units.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.globaltrailermag.com/2023/04/24/the-future-of-ai-in-transport-bpw/\">The future of AI in transport: BPW - Global Trailer</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 21 Jul 2023 04:02:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
+            ],
+            "email_sent": true
+        },
+        "An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips - The New York Times": {
+            "url": "https://www.emergentmind.com/posts/an-a-i-supercomputer-whirs-to-life-powered-by-giant",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Cerebras, a Silicon Valley start-up, has unveiled a supercomputer powered by giant chips designed to enhance artificial intelligence. The chips are as big as a dinner plate and pack the computing power of hundreds of traditional chips. The supercomputer was built for G42, an A.I. company planning to create and power A.I. products for the Middle East.</li>\n      <li>The demand for computing power and A.I. chips has surged due to the global A.I. boom, with tech giants and start-ups alike rushing to develop A.I. products. The Cerebras chips can train A.I. systems between 100 and 1,000 times as fast as existing hardware. The company plans to build more supercomputers around the world, forming a network called the Condor Galaxy.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html\">An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips - The New York Times</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 21 Jul 2023 04:02:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -14497,6 +14596,17 @@
                 2023,
                 7,
                 20
+            ],
+            "email_sent": true
+        },
+        "Just released: You can now set Custom Instruction in ChatGPT": {
+            "url": "https://www.superpowerdaily.com/p/132-just-released-you-can-now-set-custom-instruction-in-chatgpt",
+            "description": "I lost my luggage. An AI gent called and tracked it down for me.",
+            "pubdate": "2023-07-21T07:38:30Z",
+            "pubdate_parsed": [
+                2023,
+                7,
+                21
             ],
             "email_sent": true
         }
