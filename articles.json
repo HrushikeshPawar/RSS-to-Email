@@ -14640,6 +14640,39 @@
                 23
             ],
             "email_sent": true
+        },
+        "You're The Change - song and lyrics by Allouche": {
+            "url": "https://www.emergentmind.com/posts/you-re-the-change-song-and-lyrics-by-allouche",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>This is a song titled 'You're The Change'.</li>\n      <li>To view the lyrics and listen to the full track, you need to sign in or sign up.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://open.spotify.com/track/0t6p7QwENCcu7nQXZMqIaa?si=_26cGl2ASPy1o54UmG-R9w&amp;context=spotify%3Aalbum%3A4Uw9PbA3VFQKdmX11b8qT6\">You're The Change - song and lyrics by Allouche</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 23 Jul 2023 09:02:04 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                23
+            ],
+            "email_sent": true
+        },
+        "Data Version Control in R with lakeFS": {
+            "url": "https://www.emergentmind.com/posts/data-version-control-in-r-with-lakefs",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>This article talks about how to use the open-source tool lakeFS for data version control in R. It explains how lakeFS can help R developers to version their data, work with production data in a sandbox environment, and roll back changes to data.</li>\n      <li>The tool provides a Git-like interface on top of your data lake and can be used with S3, MinIO, GCS, or ADLS to provide isolated and versioned branches of your data. The article also includes a step-by-step example of using lakeFS with R for manipulating a dataset, validating changes, and writing it back for others to use.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://lakefs.io/blog/data-version-control-in-r-with-lakefs/\">Data Version Control in R with lakeFS</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 23 Jul 2023 08:02:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                23
+            ],
+            "email_sent": true
+        },
+        "Retentive Network: A Successor to Transformer for Large Language Models": {
+            "url": "https://www.emergentmind.com/posts/2307-08621-retentive-network-a-successor-to",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>RetNet is introduced as a foundational architecture for large language models, offering training parallelism, cost-effective inference, and high performance.</li>\n      <li>It includes a retention mechanism for sequence modeling, improving decoding throughput, latency, GPU memory and long-sequence modeling efficiency.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2307.08621\">Retentive Network: A Successor to Transformer for Large Language Models</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 23 Jul 2023 04:02:03 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                23
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
