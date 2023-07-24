@@ -14728,6 +14728,61 @@
                 24
             ],
             "email_sent": true
+        },
+        "Merlin AI celebrating AI Month- Giving away prizes worth $50000": {
+            "url": "https://www.emergentmind.com/posts/merlin-ai-celebrating-ai-month-giving-away-prizes",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>VYPER is hosting a contest with a $10,000 prize, starting on 2023-04-12 and ending on 2023-04-30.</li>\n      <li>Entries are free, with each contestant allowed one entry, and can gain extra entries via referrals.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://contest.getmerlin.in/444646/18246135\">Merlin AI celebrating AI Month- Giving away prizes worth $50000</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 13:01:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
+            ],
+            "email_sent": true
+        },
+        "Transformers: The \"T\" in ChatGPT": {
+            "url": "https://www.emergentmind.com/posts/transformers-the-t-in-chatgpt",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The 'T' in ChatGPT stands for 'Transformer', an innovative neural network technique invented by a team of 8 scientists at Google, which changed the landscape of AI and improved services like Google Translate.</li>\n      <li>Despite having the resources and expertise, Google did not utilize the Transformer to launch a language model before OpenAI, leading to the departure of the inventing scientists and the rise of competition from their AI startups.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theprompt.io/p/transformers-t-chatgpt\">Transformers: The &quot;T&quot; in ChatGPT</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 13:01:40 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
+            ],
+            "email_sent": true
+        },
+        "Vector storage is coming to Meilisearch to empower search through AI": {
+            "url": "https://www.emergentmind.com/posts/vector-storage-is-coming-to-meilisearch-to-empower",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Meilisearch is introducing vector storage, which will enhance search capabilities in AI-powered applications. The feature will be available in the upcoming 1.3 release.</li>\n      <li>Vector search enables efficient retrieval of objects with similar characteristics, laying the foundation for semantic search and offering numerous use cases such as recommendations for similar products in ecommerce, multi-modal search, and more contextual search experiences.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.meilisearch.com/vector-search-announcement/\">Vector storage is coming to Meilisearch to empower search through AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 13:01:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
+            ],
+            "email_sent": true
+        },
+        "AI Pastor in the Pulpit Undermines Donations and Credibility, Study Finds": {
+            "url": "https://www.emergentmind.com/posts/ai-pastor-in-the-pulpit-undermines-donations-and",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A new study suggests that an AI pastor delivering sermons reduces donations and credibility among followers.</li>\n      <li>Using AI pastors and robot clergy may erode credibility and reduce donations for religious groups.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://startup.ml/ai-pastor-may-undermine-donations-and-credibility/\">AI Pastor in the Pulpit Undermines Donations and Credibility, Study Finds</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 11:01:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
+            ],
+            "email_sent": true
+        },
+        "The NeverEnding Game: How AI Will Create a New Category of Games": {
+            "url": "https://www.emergentmind.com/posts/the-neverending-game-how-ai-will-create-a-new-category",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI is poised to bring about a generative revolution in the gaming industry, not just enhancing how games are created but fundamentally changing the nature of the games themselves. This includes the creation of new AI-first game categories and the expansion of existing genres.</li>\n      <li>AI's role in gaming has evolved over time, from enabling new forms of gameplay to creating dynamic and immersive gaming experiences. Advances in deep learning have given computers the ability to generate new content based on user prompts and large data sets, which could lead to the development of AI-powered gameplay areas such as generative agents, personalization, AI storytelling, dynamic worlds, and AI copilots.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://a16z.com/2023/07/19/the-neverending-game-how-ai-will-create-a-new-category-of-games/\">The NeverEnding Game: How AI Will Create a New Category of Games</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 05:02:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -14750,6 +14805,17 @@
                 2023,
                 7,
                 21
+            ],
+            "email_sent": true
+        },
+        "ChatGPT is coming to Android and no more As a large language model": {
+            "url": "https://www.superpowerdaily.com/p/133-chatgpt-coming-to-android-and-no-more-as-a-large-language-model",
+            "description": "Shopify Employee Breaks NDA To Reveal Firm Quietly Replacing Laid-Off Workers With AI",
+            "pubdate": "2023-07-24T06:51:00Z",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
             ],
             "email_sent": true
         }
