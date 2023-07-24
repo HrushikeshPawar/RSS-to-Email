@@ -2405,6 +2405,17 @@
                 3
             ],
             "email_sent": true
+        },
+        "Building Your mini-ChatGPT at Home": {
+            "url": "https://machinelearningmastery.com/building-your-mini-chatgpt-at-home/",
+            "description": "<p>Last Updated on July 24, 2023 ChatGPT is fun to play with. Chances are, you also want to have your own copy running privately. Realistically, that&#8217;s impossible because ChatGPT is not a software for download, and it needs tremendous computer power to run. But you can build a trimmed-down version that can run on commodity [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/building-your-mini-chatgpt-at-home/\" rel=\"nofollow\">Building Your mini-ChatGPT at Home</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 01:10:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
@@ -14671,6 +14682,50 @@
                 2023,
                 7,
                 23
+            ],
+            "email_sent": true
+        },
+        "Publishers want billions, not millions, from AI": {
+            "url": "https://www.emergentmind.com/posts/publishers-want-billions-not-millions-from-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Major publishers are considering forming a coalition to sue AI companies that have used their data, and are pushing for legislative action.</li>\n      <li>The publishers believe that if AI models rely on their data, they should receive a share of the value that these models generate, which they argue should be in the billions of dollars.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.semafor.com/article/07/23/2023/publishers-want-billions-not-millions-from-ai\">Publishers want billions, not millions, from AI </a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 02:02:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
+            ],
+            "email_sent": true
+        },
+        "LangChain agent usable tool to screen stock data": {
+            "url": "https://www.emergentmind.com/posts/github-jbpayton-langchain-stock-screener-langchain",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Alpaca Stock Screener is a Python tool designed to be used with LangChain agents, enabling stock analysis using various technical indicators. The tool takes a natural language query as input and returns a list of stocks whose technical indicators match the query.</li>\n      <li>The tool uses a variety of technical indicators including current price, 52-week, 26-week, and 13-week high and low, volatility, moving averages, percent change from high and low, 14-day RSI, beta, average daily volume and others. It does not handle queries involving fundamental indicators like earnings growth or debt-to-equity ratio.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/jbpayton/langchain-stock-screener\">LangChain agent usable tool to screen stock data</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 01:02:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
+            ],
+            "email_sent": true
+        },
+        "Teach your LLM to always answer with facts not fiction": {
+            "url": "https://www.emergentmind.com/posts/teach-your-llm-to-always-answer-with-facts-not-fiction",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses a phenomenon called 'hallucination' in Large Language Models (LLMs) where they provide inaccurate information on unfamiliar topics. To improve accuracy, the article suggests adding facts to questions and including supporting documents to guide LLMs towards more informed responses.</li>\n      <li>The article also introduces Vector SQL, a method to teach LLMs how to query databases before answering questions, and 'Vector SQL Database Chain', a feature that helps in querying the database and improving the LLM's process of building correct vector SQL queries.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.myscale.com/2023/07/17/teach-your-llm-vector-sql/\">Teach your LLM to always answer with facts not fiction</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 01:02:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
+            ],
+            "email_sent": true
+        },
+        "How will Language Modelers like ChatGPT Affect Occupations and Industries?": {
+            "url": "https://www.emergentmind.com/posts/2303-01157-how-will-language-modelers-like-chatgpt",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Recent advancements in AI language modeling could influence certain occupations, industries, and geographical areas. The most impacted occupations are telemarketers and post-secondary teachers in areas such as English and foreign languages, and history.</li>\n      <li>The industries most likely to be affected include legal services and securities, commodities, and investments. A positive correlation has been observed between wages and exposure to AI language modeling.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2303.01157\">How will Language Modelers like ChatGPT Affect Occupations and Industries?</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 24 Jul 2023 01:02:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                24
             ],
             "email_sent": true
         }
