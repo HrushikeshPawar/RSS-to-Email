@@ -1761,6 +1761,28 @@
                 20
             ],
             "email_sent": true
+        },
+        "NVIDIA DGX Cloud Now Available to Supercharge Generative AI Training": {
+            "url": "https://blogs.nvidia.com/blog/2023/07/25/dgx-generative-ai/",
+            "description": "NVIDIA DGX Cloud \u2014 which delivers tools that can turn nearly any company into an AI company \u2014\u00a0 is now broadly available, with thousands of NVIDIA GPUs online on Oracle Cloud Infrastructure, as well as NVIDIA infrastructure located in the U.S. and U.K. Unveiled at NVIDIA\u2019s GTC conference in March, DGX Cloud is an AI <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/07/25/dgx-generative-ai/\">Read article &#62;</a>",
+            "pubdate": "Tue, 25 Jul 2023 13:00:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                25
+            ],
+            "email_sent": true
+        },
+        "Fin-tastic: 3D Artist Dives Into AI-Powered Oceanic Work This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/07/25/alessandro-mastronardi-blender-omniverse-broadcast/",
+            "description": "We\u2019re gonna need a bigger boat this week In the NVIDIA Studio as Alessandro Mastronardi, senior artist and programmer at BBC Studios, shares heart-stopping shark videos and renders.",
+            "pubdate": "Tue, 25 Jul 2023 13:00:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                25
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -14794,6 +14816,39 @@
                 25
             ],
             "email_sent": true
+        },
+        "Intel Accelerates AI Development with Reference Kits :: Intel Corporation (INTC)": {
+            "url": "https://www.emergentmind.com/posts/intel-accelerates-ai-development-with-reference-kits",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Intel offers 34 open source AI reference kits that help developers and data scientists deploy artificial intelligence faster and more easily. Each kit includes model code, training data, instructions for the machine learning pipeline, libraries and oneAPI components to optimize AI and make it accessible to organizations in various environments.</li>\n      <li>The AI reference kits are result of a collaboration with Accenture, and built on the oneAPI open, standards-based, heterogeneous programming model and components of Intel\u2019s end-to-end AI software portfolio. They are designed to streamline the process of introducing AI into applications, enhance existing intelligent solutions and accelerate deployment, reducing the time to solution from weeks to days.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.intc.com/news-events/press-releases/detail/1635/intel-accelerates-ai-development-with-reference-kits\">Intel Accelerates AI Development with Reference Kits :: Intel Corporation (INTC)</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 25 Jul 2023 13:02:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                25
+            ],
+            "email_sent": true
+        },
+        "What We Know About LLMs  (Primer)": {
+            "url": "https://www.emergentmind.com/posts/what-we-know-about-llms-primer",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large Language Models (LLMs) are a type of deep learning architecture that are predicted to create significant wealth and potentially compete with knowledge workers. They are being rapidly adopted due to their potential benefits and the hype around AI. LLMs, such as Transformers, can learn the contextual relationship of values within a sequence, allowing for faster training times and larger model parameter sizes. The article also discusses the challenges and ongoing research trends in LLMs.</li>\n      <li>LLMs can be generally categorized into three categories: encoder only, decoder only, and encoder-decoder architecture. They can complete many different tasks without needing to be trained from scratch for each task. However, their ability to follow user instructions can be underwhelming, which is a problem that researchers are trying to solve. The article also discusses the instructGPT paper, which made a major breakthrough in our understanding of LLM behavior.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://willthompson.name/what-we-know-about-llms-primer\">What We Know About LLMs  (Primer)</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 25 Jul 2023 13:02:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                25
+            ],
+            "email_sent": true
+        },
+        "ChatGPT founder plots to scan owner every retina in the world in exchange for cryptocurrency": {
+            "url": "https://www.emergentmind.com/posts/chatgpt-founder-plots-to-scan-owner-every-retina-in-the",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI boss Sam Altman's new venture, Worldcoin, has launched in the UK. The startup uses orb-shaped devices to verify human identity by scanning people's eyes, which Altman suggests is necessary due to the growing threat posed by artificial intelligence.</li>\n      <li>Despite privacy concerns, Worldcoin insists its technology is 'privacy-preserving' and deletes the biometric data it collects by default. The venture aims to cover eight billion people and has already signed up two million.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.telegraph.co.uk/business/2023/07/24/chatgpt-founder-plots-to-scan-owner-every-retina-in-the-wor/\">ChatGPT founder plots to scan owner every retina in the world in exchange for cryptocurrency</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 25 Jul 2023 07:02:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                25
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -14827,6 +14882,28 @@
                 2023,
                 7,
                 24
+            ],
+            "email_sent": true
+        },
+        "A novel Jailbreak technique to get ChatGPT to create Ransomware and Keyloggers": {
+            "url": "https://www.superpowerdaily.com/p/134-a-novel-jailbreak-technique-to-get-chatgpt-to-create-ransomware-keyloggers",
+            "description": "Control robots with prompts",
+            "pubdate": "2023-07-25T07:38:00Z",
+            "pubdate_parsed": [
+                2023,
+                7,
+                25
+            ],
+            "email_sent": true
+        },
+        "AI Cheat Sheets": {
+            "url": "https://www.superpowerdaily.com/p/top-ai-cheat-sheets-that-will-save-you-hours-of-work-for-free",
+            "description": "Top AI cheat sheets that will save you hours of work (for free)",
+            "pubdate": "2023-07-25T06:06:40Z",
+            "pubdate_parsed": [
+                2023,
+                7,
+                25
             ],
             "email_sent": true
         }
