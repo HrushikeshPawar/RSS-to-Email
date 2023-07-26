@@ -1783,6 +1783,17 @@
                 25
             ],
             "email_sent": true
+        },
+        "Codeiums Varun Mohan and Jeff Wang on Unleashing the Power of AI in Software Development": {
+            "url": "https://blogs.nvidia.com/blog/2023/07/26/codeium/",
+            "description": "The world increasingly runs on code. Accelerating the work of those who create that code will boost their productivity \u2014 and that\u2019s just what AI startup Codeium, a member of NVIDIA\u2019s Inception program for startups, aims to do. On the latest episode of NVIDIA\u2019s AI Podcast, host Noah Kravitz interviewed Codeium founder and CEO Varun <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/07/26/codeium/\">Read article &#62;</a>",
+            "pubdate": "Wed, 26 Jul 2023 13:00:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                26
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -5305,6 +5316,17 @@
                 19
             ],
             "email_sent": true
+        },
+        "A new partnership to promote responsible AI": {
+            "url": "https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/",
+            "description": "Today, Google, Microsoft, OpenAI and Anthropic published a joint announcement establishing the Frontier Model Forum.",
+            "pubdate": "Wed, 26 Jul 2023 10:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                26
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -5514,6 +5536,17 @@
                 2023,
                 7,
                 21
+            ],
+            "email_sent": true
+        },
+        "Frontier Model Forum": {
+            "url": "https://openai.com/blog/frontier-model-forum",
+            "description": "We\u2019re forming a new industry body to promote the safe and responsible development of frontier AI systems: advancing AI safety research, identifying best practices and standards, and facilitating information sharing among policymakers and industry.",
+            "pubdate": "Wed, 26 Jul 2023 07:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                7,
+                26
             ],
             "email_sent": true
         }
@@ -14871,6 +14904,61 @@
                 26
             ],
             "email_sent": true
+        },
+        "Frontier Model Forum": {
+            "url": "https://www.emergentmind.com/posts/frontier-model-forum",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Anthropic, Google, Microsoft, and OpenAI have formed the Frontier Model Forum, an industry body aimed at promoting safe and responsible development of advanced AI systems. The Forum will facilitate AI safety research, identify best practices, and share knowledge among policymakers and industry.</li>\n      <li>The Forum defines frontier models as advanced, large-scale machine-learning models capable of performing a variety of tasks. It is open to organizations that develop these models and demonstrate a commitment to their safety. The Forum will also focus on identifying best practices, advancing AI safety research, and facilitating information sharing.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/blog/frontier-model-forum\">Frontier Model Forum</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 26 Jul 2023 12:02:40 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                26
+            ],
+            "email_sent": true
+        },
+        "Five Important AI Programming Languages": {
+            "url": "https://www.emergentmind.com/posts/five-important-ai-programming-languages",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Python is the most popular language for AI development due to its simplicity, versatility and numerous machine learning libraries. It's best for building machine learning models and working with lots of data.</li>\n      <li>C++, while complex and hard to learn, is vital for working in robotics, self-driving cars, or hardware. R is best for data analysis and is often used in academia or finance. MATLAB is used for numerical arrays and mathematical operations but is costly. Java is fast, versatile, and good for building scalable AI infrastructure.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.deeplearning.ai/blog/five-important-ai-programming-languages/\">Five Important AI Programming Languages</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 26 Jul 2023 10:03:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                26
+            ],
+            "email_sent": true
+        },
+        "Letting an AI run GitHub Actions": {
+            "url": "https://www.emergentmind.com/posts/letting-an-ai-run-github-actions",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Sweep, an AI Junior Dev, now uses GitHub Actions for automated testing and error logging, drastically reducing manual workload. The system filters out irrelevant data from the lengthy logs, concentrates on the error logs, and uses GPT-3.5 to process and comment on the identified issues.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://docs.sweep.dev/blogs/giving-dev-tools\">Letting an AI run GitHub Actions</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 26 Jul 2023 08:02:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                26
+            ],
+            "email_sent": true
+        },
+        "The AI-Powered, Totally Autonomous Future of War Is Here": {
+            "url": "https://www.emergentmind.com/posts/the-ai-powered-totally-autonomous-future-of-war-is",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The US Navy's Task Force 59 is using robotics and artificial intelligence to prepare for future conflict, integrating these technologies into naval operations. The group has gathered uncrewed platforms including surface vessels, submersibles, and drones, which are equipped with cameras, radar, and hydrophones to monitor the ocean's surface and underwater activities.</li>\n      <li>An exercise in the Persian Gulf involved more than a dozen of these uncrewed platforms. The data collected by these platforms is run through pattern-matching algorithms to distinguish different types of vessels. Some of these autonomous vessels, such as the Triton, can submerge under water when they sense danger, hiding for up to five days before resurfacing to recharge and transmit data.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/\">The AI-Powered, Totally Autonomous Future of War Is Here</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 26 Jul 2023 08:02:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                26
+            ],
+            "email_sent": true
+        },
+        "The Gaian Project: Honeybees, Humanity, & the Inevitable Ascendance of AI": {
+            "url": "https://www.emergentmind.com/posts/the-gaian-project-honeybees-humanity-the",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the concept of the 'Gaian Project', which refers to the process of consciousness on Earth moving towards increasing self-awareness. It suggests that just like honeybees work in a collective hive mind to benefit their environment, humans may also be part of a collective consciousness, or 'Gaian Mind', working towards a greater purpose.</li>\n      <li>The article also introduces the idea of 'teleology', suggesting that the increasing consciousness on Earth might not be accidental, but a deliberate process aimed at a greater purpose. It proposes that humans, as the most conscious beings on the planet, have a central role in this process, which could involve the development of advanced AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@keithgilmoredotcom/the-gaian-project-honeybees-humanity-the-inevitable-ascendance-of-ai-12daaf6efc27\">The Gaian Project: Honeybees, Humanity, &amp; the Inevitable Ascendance of AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 26 Jul 2023 05:02:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                26
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -14926,6 +15014,17 @@
                 2023,
                 7,
                 25
+            ],
+            "email_sent": true
+        },
+        "Sam Altman wants to scan your eyeball now": {
+            "url": "https://www.superpowerdaily.com/p/135-sam-altman-wants-to-scan-your-eyeball-now",
+            "description": "OpenAI Shuts Down Its AI Detection Tool",
+            "pubdate": "2023-07-26T07:11:15Z",
+            "pubdate_parsed": [
+                2023,
+                7,
+                26
             ],
             "email_sent": true
         }
