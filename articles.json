@@ -1794,6 +1794,17 @@
                 26
             ],
             "email_sent": true
+        },
+        "Gear Up and Game On: Gearboxs Remnant II Streaming on GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/07/27/geforce-now-thursday-july-27/",
+            "description": "Get ready for Gunfire Games and Gearbox Publishing\u2019s highly anticipated Remnant II, available for members to stream on GeForce NOW at launch. It leads eight new games coming to the cloud gaming platform. Ultimate and Priority members, make sure to grab the Guild Wars 2 rewards, available now through Thursday, Aug. 31. Visit the GeForce <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/07/27/geforce-now-thursday-july-27/\">Read article &#62;</a>",
+            "pubdate": "Thu, 27 Jul 2023 13:00:59 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                27
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -9854,6 +9865,17 @@
                 1
             ],
             "email_sent": true
+        },
+        "Introducing LeMUR": {
+            "url": "https://www.assemblyai.com/blog/lemur/",
+            "description": "LeMUR is the easiest way to build LLM apps on spoken data - search, summarize, and ask questions, with knowledge of your spoken data.",
+            "pubdate": "Thu, 27 Jul 2023 08:49:30 GMT",
+            "pubdate_parsed": [
+                2023,
+                7,
+                27
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
@@ -14992,6 +15014,72 @@
                 27
             ],
             "email_sent": true
+        },
+        "Monarch Mixer: Revisiting BERT, Without Attention or MLPs  Hazy Research": {
+            "url": "https://www.emergentmind.com/posts/monarch-mixer-revisiting-bert-without-attention-or",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Transformers have been a key architecture behind modern foundation models and have seen success across diverse applications. However, researchers have been seeking alternative models that could potentially perform better and more efficiently.</li>\n      <li>A new work presented is the Monarch Mixer BERT (M2-BERT), which is sub-quadratic in sequence length and model dimension, has 25% fewer parameters/FLOPs than BERT, and matches in quality. The M2-BERT uses Monarch matrices to replace the major elements of a Transformer.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://hazyresearch.stanford.edu/blog/2023-07-25-m2-bert\">Monarch Mixer: Revisiting BERT, Without Attention or MLPs \u00b7 Hazy Research</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 27 Jul 2023 12:01:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                27
+            ],
+            "email_sent": true
+        },
+        "Image Labeling for AI Object Detection in Photos and Videos": {
+            "url": "https://www.emergentmind.com/posts/image-labeling-for-ai-object-detection-in-photos-and",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides practical advice on preparing datasets for training artificial intelligence object detection systems in photos and videos, highlighting the importance of carefully selecting and preparing data. It also discusses the differences between object detection and classification, and gives guidance on choosing image sizes and formats for dataset preparation.</li>\n      <li>The author emphasizes that the quality of a neural network's performance largely depends on the quantity and quality of images used for training, and recommends using images of different geometric sizes. The article also mentions the value of using image annotation tools and the potential pitfalls of third-party image annotation services.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@igormoseich/image-labeling-for-ai-object-detection-in-photos-and-videos-a019cd247a45\">Image Labeling for AI Object Detection in Photos and Videos</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 27 Jul 2023 11:05:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                27
+            ],
+            "email_sent": true
+        },
+        "The Albert Test - by Andrew Rum - Andrews Substack": {
+            "url": "https://www.emergentmind.com/posts/the-albert-test-by-andrew-rum-andrew-s-substack",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Generative AI, including tools such as GPT4 and Bard, are based on Large Language Models (LLMs) which synthesize information into meaningful sentences, but do not truly understand what they are writing and hence are better named as Imitative AI. They cannot achieve Artificial General Intelligence (AGI) as they make errors and their improvements will eventually plateau.</li>\n      <li>The article proposes a new test for AI, named the Albert Test, where an AI system with access to all science papers before 1905 is asked to reconcile Maxwell's equations with the laws of mechanics. If it can answer with a response compatible with Albert Einstein\u2019s Special Theory of Relativity, it's considered intelligent. This test offers a framework for designing truly intelligent AI that goes beyond imitation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://freethinkr.substack.com/p/the-albert-test\">The Albert Test - by Andrew Rum - Andrew\u2019s Substack</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 27 Jul 2023 07:02:17 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                27
+            ],
+            "email_sent": true
+        },
+        "Towards Generalist Biomedical AI": {
+            "url": "https://www.emergentmind.com/posts/2307-14334-towards-generalist-biomedical-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Med-PaLM M is a generalist biomedical artificial intelligence system designed to encode, integrate, and interpret multimodal medical data. The system can perform various tasks such as medical question answering, image interpretation, radiology report generation and genomic variant calling.</li>\n      <li>The performance of Med-PaLM M has been found to be competitive or even surpassing the state of the art on all MultiMedBench tasks. In some instances, clinicians have shown a preference for reports generated by Med-PaLM M over those made by radiologists.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2307.14334\">Towards Generalist Biomedical AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 27 Jul 2023 06:02:59 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                27
+            ],
+            "email_sent": true
+        },
+        "Air Force selects AI-enabled predictive maintenance program as system of record": {
+            "url": "https://www.emergentmind.com/posts/air-force-selects-ai-enabled-predictive-maintenance",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The U.S. Air Force has chosen PANDA, an AI and machine learning tool for predictive maintenance, as its system of record. The tool integrates AI and machine learning across aircraft maintenance data to enhance weapons systems reliability.</li>\n      <li>The Air Force partnered with C3 AI for the development of PANDA, a tool that analyses vast data volumes and communicates the findings to relevant stakeholders. The tool is expected to result in exponential growth in users and capabilities.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/\">Air Force selects AI-enabled predictive maintenance program as system of record</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 27 Jul 2023 06:02:57 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                27
+            ],
+            "email_sent": true
+        },
+        "Humans Are Haunting the Chatbots - The Atlantic": {
+            "url": "https://www.emergentmind.com/posts/humans-are-haunting-the-chatbots-the-atlantic",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI rater, Michelle Curtis, shares her experience of assessing AI outputs for tech giant Google. She claims the job is grueling, underpaid, and vaguely defined, with tasks often requiring quick responses to complex AI-related issues.</li>\n      <li>Despite the importance of AI raters to the tech industry, these workers are almost never referenced in tech companies\u2019 prophecies about the ascendance of intelligent machines. This invisibility, coupled with poor working conditions and low pay, is giving rise to tensions and calls for better recognition and compensation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/\">Humans Are Haunting the Chatbots - The Atlantic</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 27 Jul 2023 05:01:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                27
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -15058,6 +15146,17 @@
                 2023,
                 7,
                 26
+            ],
+            "email_sent": true
+        },
+        "A whistleblower just told Congress UFOs are real": {
+            "url": "https://www.superpowerdaily.com/p/136-a-whistleblower-just-told-congress-ufos-are-real",
+            "description": "Stack overflow is in big trouble",
+            "pubdate": "2023-07-27T08:43:56Z",
+            "pubdate_parsed": [
+                2023,
+                7,
+                27
             ],
             "email_sent": true
         }
