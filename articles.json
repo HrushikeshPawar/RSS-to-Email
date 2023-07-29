@@ -15168,6 +15168,39 @@
                 29
             ],
             "email_sent": true
+        },
+        "One Big Net For Everything": {
+            "url": "https://www.emergentmind.com/posts/1802-08864-one-big-net-for-everything",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the use of recent work on 'learning to think' and PowerPlay to train an increasingly general problem solver, a recurrent neural network called ONE. ONE learns new tasks without forgetting previous skills, through various learning methods such as black box optimization, reinforcement learning, artificial evolution, and supervised/unsupervised learning.</li>\n      <li>ONE can control a robot through environment-changing actions, predict future inputs and vector-valued reward signals, and learn new skills from previously learned subroutines. However, it may also forget previous skills. To prevent this, ONE is retrained in a PowerPlay style on stored input/output traces of new skills and previous instances of ONE whose skills are still considered worth memorizing.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/1802.08864\">One Big Net For Everything</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 29 Jul 2023 11:04:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                29
+            ],
+            "email_sent": true
+        },
+        "Hugging Face, GitHub and more unite to defend open source in EU AI legislation": {
+            "url": "https://www.emergentmind.com/posts/hugging-face-github-and-more-unite-to-defend-open",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Hugging Face, GitHub, EleutherAI, Creative Commons, LAION and Open Future have formed a coalition to protect open source innovation in the forthcoming EU AI Act. The group released a policy paper offering recommendations to ensure the Act supports open source AI development.</li>\n      <li>The paper argues that 'overbroad obligations' favoring proprietary AI development potentially disadvantage the open AI ecosystem. The coalition emphasizes that regulation shouldn't hinder open-source AI innovation and that openness and transparency are necessary for responsible development.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/\">Hugging Face, GitHub and more unite to defend open source in EU AI legislation</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 29 Jul 2023 08:02:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                29
+            ],
+            "email_sent": true
+        },
+        "Preparing for the era of 32K context: Early learnings and explorations  TOGETHER": {
+            "url": "https://www.emergentmind.com/posts/preparing-for-the-era-of-32k-context-early-learnings",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the extension of LLaMA-2 model to LLaMA-2-7B-32K to improve long-context applications like document understanding, summarization and augmented generation. The model, which is fine-tuned using OpenChatKit, uses a mixture of data including RedPajama Book, RedPajama ArXiv, and UL2 Oscar Data for training and is evaluated based on its normalized perplexity and HELM v1.0 scores.</li>\n      <li>It also provides examples of how the model can be used for long-context question answering and long-context summarization tasks. The article also mentions system optimizations and future plans for building more models with longer context and improving system support for long-context training and inference.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://together.ai/blog/llama-2-7b-32k\">Preparing for the era of 32K context: Early learnings and explorations \u2014 TOGETHER</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 29 Jul 2023 05:02:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                29
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
