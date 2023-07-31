@@ -15267,6 +15267,50 @@
                 31
             ],
             "email_sent": true
+        },
+        "GitHub - jbpayton/robot-writers-room": {
+            "url": "https://www.emergentmind.com/posts/github-jbpayton-robot-writers-room",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A repository named 'robot-writers-room' utilizes AI to aid in the brainstorming and refining of story ideas, acting as a creative partner to a human. It's designed to help overcome writer's block by providing a creative partner to bounce ideas off of.</li>\n      <li>The system uses several AI-powered agents, such as the Brainstormer, Researcher, Refiner, Scribe, Outliner, Worldbuilder, and Character Designer to generate and refine ideas, and create detailed story outlines, character profiles and world descriptions. The process typically runs for two iterations and produces detailed and creatively crafted documents for the author's use.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/jbpayton/robot-writers-room/\">GitHub - jbpayton/robot-writers-room</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 31 Jul 2023 12:02:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                31
+            ],
+            "email_sent": true
+        },
+        "LlamaIndex: Adding Personal Data to LLMs": {
+            "url": "https://www.emergentmind.com/posts/llamaindex-adding-personal-data-to-llms",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>LlamaIndex is a data framework designed to enhance the utility of Large Language Models (LLMs) like GPT-4 by allowing them to access and interpret private data without needing retraining. It works by indexing data from various sources into intermediate representations optimized for LLMs, and then allows natural language querying and conversation with the data.</li>\n      <li>The framework uses Retrieval Augmented Generation (RAG) systems to combine LLMs with a private knowledge base, and consists of two stages: the indexing stage, where private data is indexed into a vector index, and the querying stage, where the RAG pipeline searches for the most relevant information based on a user's query. LlamaIndex can be used to create applications like a resume reader or a chatbot.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.datacamp.com/tutorial/llama-index-adding-personal-data-to-llms\">LlamaIndex: Adding Personal Data to LLMs</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 31 Jul 2023 12:02:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                31
+            ],
+            "email_sent": true
+        },
+        "LearnLingo": {
+            "url": "https://www.emergentmind.com/posts/learnlingo",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>LearnLingo is a language learning service that uses AI to enable practice conversations.</li>\n      <li>The service offers personalized experiences, 24/7 availability, and various pricing options.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.learnlingo.dev/\">LearnLingo</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 31 Jul 2023 07:02:03 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                31
+            ],
+            "email_sent": true
+        },
+        "AI and the Frontier Paradox": {
+            "url": "https://www.emergentmind.com/posts/ai-and-the-frontier-paradox-sequoia-capital",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the evolving nature of artificial intelligence (AI), highlighting how what we perceive as AI constantly changes as technology advances.</li>\n      <li>The author also emphasizes the importance of accurately defining and understanding AI, particularly for entrepreneurs, and introduces the concept of the 'frontier paradox' in relation to AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.sequoiacap.com/article/ai-paradox-perspective/\">AI and the Frontier Paradox</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 31 Jul 2023 05:02:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                7,
+                31
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -15355,6 +15399,17 @@
                 2023,
                 7,
                 28
+            ],
+            "email_sent": true
+        },
+        "Record set for fastest GPT4 audio feedback": {
+            "url": "https://www.superpowerdaily.com/p/138-record-set-for-fastest-gpt4-audio-feedback",
+            "description": "New AI Tool 'FraudGPT' Emerges",
+            "pubdate": "2023-07-31T06:58:04Z",
+            "pubdate_parsed": [
+                2023,
+                7,
+                31
             ],
             "email_sent": true
         }
