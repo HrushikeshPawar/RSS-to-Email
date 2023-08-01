@@ -1816,6 +1816,28 @@
                 27
             ],
             "email_sent": true
+        },
+        "Cuddly 3D Creature Comes to Life in Father-Son Collaboration This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/08/01/johnson-autodesk-maya-adobe-3d-painter-photoshop/",
+            "description": "Principal NVIDIA artist and 3D expert Michael Johnson creates highly detailed art that\u2019s both technically impressive and emotionally resonant.",
+            "pubdate": "Tue, 01 Aug 2023 13:00:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                1
+            ],
+            "email_sent": true
+        },
+        "NVIDIA Helps Forge Forum to Set OpenUSD Standard for 3D Worlds": {
+            "url": "https://blogs.nvidia.com/blog/2023/08/01/openusd-alliance-3d-standard/",
+            "description": "NVIDIA joined Pixar, Adobe, Apple and Autodesk today to found the Alliance for OpenUSD, a major leap toward unlocking the next era of 3D graphics, design and simulation. The group will standardize and extend OpenUSD, the open-source Universal Scene Description framework that\u2019s the foundation of interoperable 3D applications and projects ranging from visual effects to <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/08/01/openusd-alliance-3d-standard/\">Read article &#62;</a>",
+            "pubdate": "Tue, 01 Aug 2023 13:00:06 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                1
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -8169,6 +8191,39 @@
                 2023,
                 7,
                 21
+            ],
+            "email_sent": true
+        },
+        "A Systematic Approach to Choosing the Best Technology/Vendor: MLOps version": {
+            "url": "https://towardsai.net/p/machine-learning/a-systematic-approach-to-choosing-the-best-technology-vendor-mlops-version",
+            "description": "Last Updated on August 1, 2023 by Editorial Team Author(s): Eyal Trabelsi Originally published on Towards AI. The Ultimate Shopping Spree in the ML Shop The emergence of machine learning use cases created a gap in technology which led to too many solutions and buzzwords\ud83d\udc1d. Machine learning is becoming an integral part of every aspect of our lives. A while ago, I wrote about a Systematic Approach to Choosing Technology/Vendor. But choosing an MLOps solution is a bit different due to the long life cycle and the lack of mature tooling. Are you struggling to choose the right MLOps solution for your business? This post is for you. The steps involved in the model lifecycle include developing your sophisticated model, evaluating the models and keeping track of the results, deploying your trained model, serving predictions, monitoring, and iterating. Simple Recipe To simplify the process of choosing the right vendor/technology, I propose a straightforward recipe: Start by mapping your needs, resources, and constraints. Search for potential solutions and eliminate any that don\u2019t meet your requirements. Evaluate the remaining promising solutions. Make a decision \u2014 to go or not to go? To be honest, it&#039;s generic for all technology in general, but in each step, I will give the ML perspective. In the next section, we will drill down to map your needs, resource, and constraints. Step 1: Map your needs, resources, and constraints The first step in choosing the right technology or vendor is to map out your needs, resources, and constraints.: The requirements and the needs depend on the component/functionality you fill in the ml lifecycle and can be seen in the following table. The resources you have can also impact what solution you pick: Total ownership cost and Cost of mistake. Time to market and Maintenance time. Team expertise and Team size. This includes How many DS, MLEs, and Devops you got. In terms of constraints, there are some that are generic, and some depend on the component/functionality you fill in the ml lifecycle. The generic constraints are Existing Integrations, Change of Ownership, Specific Cloud/On-prem, Multi-tenancy, Compliance &#38; licenses, Security, and Availability.The per-component constraints are: In the next section, we will drill down to searching for potential solutions. Step 2: Search for potential solutions The second step in the process of selecting the right vendor/technology is to search for potential solutions. However, before embarking on this search, it\u2019s essential to familiarize yourself with technical terms and buzzwords to ensure that you can effectively evaluate potential options. Once you have this foundational knowledge, you can begin researching potential technologies and vendors and keep a few promising options. Then curate a short list of available options, the best way to focus is to take into consideration the following: curate a short list of the available options. Filter aggressively on your constraints, for example, if you are looking for an on-prem solution or you got an unbalanced dataset, it will filter most of your options. Whether to buy vs build your own solution:&#8211; Build if it&#039;s easy! both to build and to maintain.&#8211; But when it&#039;s ROI positive and the shelf is not empty.&#8211; Skip if it&#039;s not ROI positive. Whether to choose an all-in-one or best-of-breed approach:&#8211; All-in-one is awesome for common and easy cases. Remember it&#039;s okay. Most of us are not Google.&#8211; Best of breed fit better in a more constrained environment (remember the lists from before?&#8211; You can even combine these, in cases most of your components are trivial and only a few are very constrained. Just make sure the integration is feasible within your resources Speak with the communities like MDLI, MLOps.community, MLOps TLV, and many more. In the next section, we will drill down to evaluating promising solutions. Evaluate promising solutions To evaluate the remaining promising solutions, there are a number of steps you should take. Start by speaking with the vendor or users: This will help you gain a deeper understanding of the solution\u2019s capabilities and limitations. Focus on stability and problems people face as most of these solutions are not mature. Do some POCS: Start with \u201cHello World\u201d tutorials this will help you get a sense of how the solution works in practice. Do more through POCs if needed. Make a table for comparison: This can include interactions like releases, support, community, pricing, constraints, requirements, and resources. In the next section, we will drill down to the decision. Decision! Go? no, Go? When you&#039;re deliberating about whether to proceed or not. Bear in mind that the most fitting solution might not necessarily be the perfect one. It needs to suit your requirements, constraints, and resource. Strive to identify the solution that best serves your organization&#039;s needs, making the choice less intimidating. To make a decision about whether or not to go keep your future goals in mind and prioritize flexibility in your decision-making process. It\u2019s important to maintain a professional demeanor and avoid getting caught up in politics or letting your ego drive your decisions. Additionally, it\u2019s important to be aware of human bias and take steps to counteract it. Last words In this article, we\u2019ve provided a recipe for selecting the right ML technology or vendor for your business. By mapping your needs, resources, and constraints and searching for potential solutions, you can make an informed decision that aligns with your goals. Remember that there is no perfect solution, so focus on the fittest solution that fits within your context. I hope I was able to share my enthusiasm for this fascinating topic and that you find it useful. You\u2019re more than welcome to drop me a line via email or LinkedIn. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 01 Aug 2023 04:01:43 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                1
+            ],
+            "email_sent": true
+        },
+        "ParDo and DoFn Implementation in Apache Beam in Details": {
+            "url": "https://towardsai.net/p/machine-learning/pardo-and-dofn-implementation-in-apache-beam-in-details",
+            "description": "Last Updated on August 1, 2023 by Editorial Team Author(s): Rashida Nasrin Sucky Originally published on Towards AI. Conclusion Photo by ODISSEI on Unsplash This member-only story is on us. Upgrade to access all of Medium. Detail Explanation of Code For Beginners I wrote a tutorial on some common transform functions in Apache Beam in a previous tutorial that covered map, filter, and combinePerKey(). This tutorial will be for ParDo transform which is nothing but another way of doing Map. But the difference is ParDo applies the transform in each PCollection and returns zero or more elements to the output PCollection. On the other hand, Map transform outputs exactly one element for each input element. In that way, ParDo provides us with&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 01 Aug 2023 02:02:31 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                1
+            ],
+            "email_sent": true
+        },
+        "What is snowChat?": {
+            "url": "https://towardsai.net/p/machine-learning/what-is-snowchat",
+            "description": "Last Updated on August 1, 2023 by Editorial Team Author(s): Kaarthikandavar Originally published on Towards AI. This member-only story is on us. Upgrade to access all of Medium. snowchat-streamlit-AI-chatbot Do you struggle with complex SQL queries? Are you lost in a sea of tables while trying to locate a single piece of data? Fear not, for I have created snowChat to solve these problems! In this post, I\u2019ll show you: How to embed a Snowflake schema into a vector databaseHow to create a conversational chain using LangChainHow to connect the chain response to SnowflakeHow to design a chat-like interface using StreamlitHow to deploy your solution to the Streamlit Community Cloud \u2744\ufe0f Ready to leap right in? Check out the app and&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 01 Aug 2023 00:01:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                1
             ],
             "email_sent": true
         }
@@ -15333,6 +15388,28 @@
                 1
             ],
             "email_sent": true
+        },
+        "OS toolkit for building AI assistants for SaaS products": {
+            "url": "https://www.emergentmind.com/posts/github-superflows-ai-superflows-os-toolkit-for",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Superflows is an OS toolkit that adds a Copilot to your SaaS product to help users get the most out of it.</li>\n      <li>It offers a cloud version that can be tested for free via its dashboard, and it is ready for use on production systems.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/Superflows-AI/superflows\">OS toolkit for building AI assistants for SaaS products</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 01 Aug 2023 10:01:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                1
+            ],
+            "email_sent": true
+        },
+        "A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.": {
+            "url": "https://www.emergentmind.com/posts/github-ykdojo-kaguya-a-chatgpt-plugin-that-allows",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The project provides several API endpoints to interact with the file system, such as listing files, reading files, updating files, deleting files and executing shell commands.</li>\n      <li>It recommends keeping each file under 100 lines of code and not to read or write more than 500-600 lines of code at once for optimal performance.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/ykdojo/kaguya\">A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 01 Aug 2023 05:02:57 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                1
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -15432,6 +15509,17 @@
                 2023,
                 7,
                 31
+            ],
+            "email_sent": true
+        },
+        "Google is training robots the way it trains AI chatbots": {
+            "url": "https://www.superpowerdaily.com/p/139-google-is-training-robots-the-way-it-trains-ai-chatbots",
+            "description": "OpenAI Files Trademark Application for GPT-5",
+            "pubdate": "2023-08-01T07:30:18Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                1
             ],
             "email_sent": true
         }
