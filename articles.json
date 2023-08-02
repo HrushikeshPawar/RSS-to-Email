@@ -8237,6 +8237,17 @@
                 1
             ],
             "email_sent": true
+        },
+        "Top Computer Vision Papers During Week From 24/7 To 31/7": {
+            "url": "https://towardsai.net/p/machine-learning/top-computer-vision-papers-during-week-from-24-7-to-31-7",
+            "description": "Last Updated on August 2, 2023 by Editorial Team Author(s): Youssef Hosni Originally published on Towards AI. Stay Relevant to Recent Computer Vision Research This member-only story is on us. Upgrade to access all of Medium. Computer vision, a field of artificial intelligence focused on enabling machines to interpret and understand the visual world, is rapidly evolving with groundbreaking research and technological advancements. On a weekly basis, several top-tier academic conferences and journals showcased innovative research in computer vision, presenting exciting breakthroughs in various subfields such as image recognition, vision model optimization, generative adversarial networks (GANs), image segmentation, video analysis, and more. In this article, we will provide a comprehensive overview of the most significant papers published in the last week of July 2023, highlighting the latest&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Wed, 02 Aug 2023 00:01:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                2
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -11377,6 +11388,28 @@
                 2023,
                 7,
                 20
+            ],
+            "email_sent": true
+        },
+        "Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub": {
+            "url": "https://huggingface.co/blog/huggy-lingo",
+            "description": null,
+            "pubdate": "Wed, 02 Aug 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                2
+            ],
+            "email_sent": true
+        },
+        "Towards Encrypted Large Language Models with FHE": {
+            "url": "https://huggingface.co/blog/encrypted-llm",
+            "description": null,
+            "pubdate": "Wed, 02 Aug 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                2
             ],
             "email_sent": true
         }
@@ -15432,6 +15465,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "VAST Data Unveils New AI-focused Data Platform": {
+            "url": "https://www.emergentmind.com/posts/vast-data-unveils-new-ai-focused-data-platform-scoop",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>VAST Data has unveiled its new data platform, which is designed to be the foundation for AI-assisted discovery, unifying storage, database and virtualised compute engine services.</li>\n      <li>The platform is aimed at enabling AI to recreate the process of discovery by capturing, synthesising and learning from data, thus accelerating humanity's quest to solve major challenges such as disease treatment, climate change and new scientific discoveries.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.scoop.co.nz/stories/BU2308/S00035/vast-data-unveils-new-ai-focused-data-platform.htm\">VAST Data Unveils New AI-focused Data Platform</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 02 Aug 2023 06:03:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                2
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -15542,6 +15586,17 @@
                 2023,
                 8,
                 1
+            ],
+            "email_sent": true
+        },
+        "Google Assistant becomes more like ChatGPT": {
+            "url": "https://www.superpowerdaily.com/p/140-google-assistant-becomes-more-like-chatgpt",
+            "description": "Billionaire CEO of Palantir advocates for AI weapons",
+            "pubdate": "2023-08-02T07:42:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                2
             ],
             "email_sent": true
         }
