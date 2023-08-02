@@ -5393,6 +5393,17 @@
                 28
             ],
             "email_sent": true
+        },
+        "A new fund for women creating AI startups in Asia Pacific": {
+            "url": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/",
+            "description": "Eight women startup founders from Asia standing on a stage.",
+            "pubdate": "Wed, 02 Aug 2023 19:47:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                2
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -15408,6 +15419,17 @@
                 2023,
                 8,
                 1
+            ],
+            "email_sent": true
+        },
+        "Patterns for Building LLM-based Systems & Products": {
+            "url": "https://www.emergentmind.com/posts/patterns-for-building-llm-based-systems-products",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>This article discusses practical methods for integrating large language models (LLMs) into systems and products, drawing from academic research, industry resources, and practitioner know-how. It outlines seven key patterns to improve performance and reduce costs, including measuring performance, adding external knowledge, fine-tuning tasks, caching to reduce latency, ensuring output quality, managing errors, and collecting user feedback. The article also delves deep into the concept of 'Evals', which are sets of measurements used to assess a model's performance on a task, and discusses various benchmarks and metrics used in the field of language modeling.</li>\n      <li>The article also highlights the pitfalls of conventional benchmarks and metrics, such as poor correlation with human judgments, poor adaptability to a variety of tasks, and significant score differences based on the evaluation implementation. It also explores the emerging trend of using powerful LLMs as reference-free metrics for evaluations, and presents several case studies where this approach has shown a high correlation with human judgments.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://eugeneyan.com/writing/llm-patterns/\">Patterns for Building LLM-based Systems &amp; Products</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 02 Aug 2023 03:01:31 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                2
             ],
             "email_sent": true
         }
