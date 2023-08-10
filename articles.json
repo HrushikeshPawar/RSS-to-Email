@@ -8259,6 +8259,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "Build A Custom AI Based ChatBot Using Langchain, Weviate, and Streamlit": {
+            "url": "https://towardsai.net/p/machine-learning/build-a-custom-ai-based-chatbot-using-langchain-weviate-and-streamlit",
+            "description": "Last Updated on August 10, 2023 by Editorial Team Author(s): Skanda Vivek Originally published on Towards AI. A comprehensive guide to building a customized chatbot using Generative AI, a popular vector database, prompt chaining, and UI tools This member-only story is on us. Upgrade to access all of Medium. As multiple organizations are racing to build customized LLMs, a common question I have been asked is \u2014 what are the tools out there to streamline this process? In this article, I show you how to build a fully functional application for engaging in conversations through a chatbot built on top of your documents. This application employs the power of ChatGPT/GPT-4 (or any other large language model) to extract information from document data stored as embeddings in a vector database, and Langchain for prompt chaining. Here\u2019s a preview: Docs QA Bot&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Thu, 10 Aug 2023 00:01:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                10
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -15773,6 +15784,50 @@
                 10
             ],
             "email_sent": true
+        },
+        "GPT Unicorn": {
+            "url": "https://www.emergentmind.com/posts/gpt-unicorn",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The text provides a series of GPT-4 token statistics, detailing the time taken and the number of tokens processed on specific dates.</li>\n      <li>The data spans multiple months, indicating consistent processing of GPT-4 tokens over this period.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://gpt-unicorn.adamkdean.co.uk/\">GPT Unicorn</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 10 Aug 2023 10:01:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                10
+            ],
+            "email_sent": true
+        },
+        "Supermarket AI meal planner app suggests recipe that would create chlorine gas": {
+            "url": "https://www.emergentmind.com/posts/supermarket-ai-meal-planner-app-suggests-recipe-that",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The AI app by New Zealand supermarket chain Pak 'n' Save, intended to help users creatively use up leftovers, has suggested recipes that could produce harmful substances like chlorine gas.</li>\n      <li>When customers started entering a wider range of household items, the app's recommendations became increasingly dangerous and unappealing, including 'poison bread sandwiches' and 'mosquito-repellent roast potatoes'.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes\">Supermarket AI meal planner app suggests recipe that would create chlorine gas</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 10 Aug 2023 07:01:30 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                10
+            ],
+            "email_sent": true
+        },
+        "Why did Elon Musk say that Rust is the Language of AGI?": {
+            "url": "https://www.emergentmind.com/posts/why-did-elon-musk-say-that-rust-is-the-language-of-agi",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Elon Musk suggests Rust, a high-performance compiled language, could be the language of the future for AGI as Python is too slow and unwieldy for a new wave of developers.</li>\n      <li>WasmEdge, a secure runtime for Rust applications, provides a high-performance alternative to Python in every layer of the LLM application stack, enhancing performance, reducing footprint, and improving security.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.stackademic.com/why-did-elon-musk-say-that-rust-is-the-language-of-agi-eb36303ce341?gi=8ebe952a3098\">Why did Elon Musk say that Rust is the Language of AGI?</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 10 Aug 2023 05:02:57 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                10
+            ],
+            "email_sent": true
+        },
+        "Lethal Word for Deadly": {
+            "url": "https://www.emergentmind.com/posts/lethal-word-for-deadly",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the potential conflict and compatibility between Transhumanism and Christianity.</li>\n      <li>The author explores the idea of humans participating in God's plan through the advancement of physical and mental abilities.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/ca5e0c33-7a19-41a1-8f8a-b146b68e2d1a\">Lethal Word for Deadly</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 10 Aug 2023 04:02:31 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                10
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -15949,6 +16004,17 @@
                 2023,
                 8,
                 9
+            ],
+            "email_sent": true
+        },
+        "Is human-level AI 2-3 years away?": {
+            "url": "https://www.superpowerdaily.com/p/146-is-human-level-ai-2-3-years-away",
+            "description": "A hackable AI home assistant platform",
+            "pubdate": "2023-08-10T05:58:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                10
             ],
             "email_sent": true
         }
