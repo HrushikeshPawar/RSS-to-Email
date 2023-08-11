@@ -8281,6 +8281,28 @@
                 10
             ],
             "email_sent": true
+        },
+        "The LLM Land Grab: How AWS, Azure, and GCP Are Sparring Over AI": {
+            "url": "https://towardsai.net/p/machine-learning/the-llm-land-grab-how-aws-azure-and-gcp-are-sparring-over-ai",
+            "description": "Last Updated on August 11, 2023 by Editorial Team Author(s): Tabrez Syed Originally published on Towards AI. In the early 2000s, cell phones were still bulky and utilitarian. But in July 2004, Motorola unveiled the Razr, with its sleek, ultra-thin aluminum body that was a stark departure from the basic phones of the day. Positioned as a premium device, the Razr flew off shelves, selling 50 million units in just two years and over 130 million across various models over four years. The Razr single-handedly revived Motorola\u2019s stagnant mobile phone division and changed the company\u2019s fortunes, at least for a time. It was common then for cell phone carriers to use exclusive access to hot new phones like the Razr as a carrot to encourage customers to switch networks. Cingular Wireless scored big by landing exclusive rights to the Razr. The gambit paid off \u2014 Cingular went on to acquire AT&#38;T Wireless in 2004 and became the largest wireless carrier in the US on the back of the wildly popular Razr. Today, a similar dynamic is playing out in the world of large language models (LLMs) and cloud computing. Major players like Amazon, Microsoft, and Google are racing to meet surging demand for LLMs like GPT-3. But much like the Razr, access to the most advanced models is limited to specific cloud platforms. As customers clamor for generative AI capabilities, cloud providers are scrambling to deploy LLMs and drive the adoption of their platforms. Just as the Razr boosted Cingular, exclusive access to coveted LLMs may give certain cloud players an edge and shuffle the cloud infrastructure leaderboard. This article explores how major cloud providers are navigating the AI gold rush and using exclusivity to their advantage. PC Magazine: # 4 Companies Control 67% of the World\u2019s Cloud Infrastructure Amazon Web Services: The Swiss Army Knife Approach With its vast array of cloud infrastructure offerings and unrivaled scale, Amazon Web Services (AWS) has firmly established itself as the dominant player in the space. However, the meteoric rise of large language models (LLMs) like GPT-3 poses a new challenge for the tech titan. Lacking an equally buzzworthy in-house LLM, AWS risks losing ground to rivals rushing their own models to market. So instead of trying to compete model-for-model, AWS has taken a different tack: enable access to as many models as possible via partnerships and collaborations. Enter Amazon Bedrock, launched in April 2023. Bedrock serves as a platform for developers to access and combine capabilities from a diverse roster of LLMs both old and new. This includes well-known names like Anthropic\u2019s conversational Claude 2, AI21 Labs\u2019 code-generating Jurassic-2, Cohere\u2019s multipurpose Command and Embed models, and Stability.ai\u2019s image synthesis tool Stable Diffusion. Rather than betting on any single model, AWS is positioning itself as the Swiss army knife of LLMs \u2014 granting developers the flexibility to mix and match the best features across a wide palette of models. And AWS isn\u2019t sitting idle on the LLM front, either. Though details remain sparse, it\u2019s developing its own homegrown LLM, Titan. But AWS\u2019 strength has always been its platform, not proprietary AI. By reducing friction to access and deploy LLMs, AWS is betting developers will stick with what they know. Google Cloud: The Walled Garden Approach As a heavyweight in AI research, Google was perfectly positioned to capitalize on the explosion of large language models (LLMs). And in 2021, they unveiled LaMDA \u2014 an LLM rivaling the capabilities of GPT-3. Access to Google\u2019s AI models is provided through Model Garden, a managed service on the Google Cloud Platform (GCP). Model Garden provides enterprise-ready foundation models, task-specific models, and APIs to kickstart workflows. These include directly using models, tuning them in the Generative AI Studio, or deploying them to a notebook. As of August 2023, Model Garden includes homegrown models like the conversational LaMDA, text-to-image generator Imagen, and code autocompletion tool Codey. Google also has open-source models like BERT, T5, ViT, and EfficientNet for easy deployment on GCP. But Google isn\u2019t limiting Model Garden exclusively to its own AI. Third-party models are already being added, indicating Google wants to be the one-stop-shop for AI needs. However, competitors are unlikely to offer their most advanced models. The key question is which providers will license their models for availability on GCP. Subscribe now Microsoft Azure: Betting on OpenAI Exclusivity Microsoft placed an early and sizeable bet on large language models (LLMs) that is paying off handsomely. Back in 2019, before most grasped the astounding potential of LLMs, Microsoft invested a cool $1 billion into OpenAI \u2014 the maker of GPT-3. This prescient investment secured Microsoft exclusive access to OpenAI\u2019s rapidly advancing LLMs, including enhanced versions of GPT-4 and image generator DALL-E. With OpenAI dominating AI headlines, Microsoft is now leveraging its exclusive access to lure customers to its Azure cloud platform. And it\u2019s working \u2014 by riding OpenAI\u2019s coattails, Azure is steadily chipping away at AWS\u2019s dominance in cloud market share. Yet Microsoft hasn\u2019t put all its eggs in the OpenAI basket. It recently partnered with Meta to launch LLaMA, an open-source LLM. This allows Microsoft to diversify its LLM portfolio beyond OpenAI, hedging its bets should a new model usurp GPT-3 as king of the hill. The Rest: Diverse Approaches to Gain LLM Traction The major cloud platforms like AWS, Microsoft Azure, and Google Cloud boast eye-catching proprietary AI models to lure enterprise customers. Lacking standout in-house models, smaller cloud providers are taking a flexible \u201cBYOM\u201d (Bring Your Own Model) approach instead. Rather than scramble to develop unique \u201cshow pony\u201d models, they enable customers to integrate third-party or custom models into workflows. IBM\u2019s watsonx service exemplifies this strategy. It offers an MLOps platform to build and train AI models tailored to specific needs. Watson X provides seamless integration with open-source repositories like Hugging Face for those wanting off-the-shelf models. This allows customers to tap into a vast range of pre-built models. Salesforce also combines internal R&#38;D with external flexibility. Its capable AI Research team has [&#8230;]",
+            "pubdate": "Fri, 11 Aug 2023 02:01:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                11
+            ],
+            "email_sent": true
+        },
+        "How to install Hadoop on MacBook M1 or M2 without Homebrew or Virtual Machine": {
+            "url": "https://towardsai.net/p/machine-learning/how-to-install-hadoop-on-macbook-m1-or-m2-without-homebrew-or-virtual-machine",
+            "description": "Last Updated on August 11, 2023 by Editorial Team Author(s): Mala Deep Originally published on Towards AI. Step 1: Check and install the Java JDK (if needed) using the terminal This member-only story is on us. Upgrade to access all of Medium. Hadoop localhost User Interface. Image by the author. In this article, I will walk you through the simple installation of Hadoop on your local MacBook M1 or M2. I will be using a MacBook Air M1 (arm64), 2020, with 8 GB of memory and MacOS Ventura 13.2.1. Let\u2019s get started! Before we get started, I am confident you have a basic awareness of the key terminology in the Hadoop ecosystem. Additionally, Please confirm that your MacBook M1 or M2 fits the following specifications: A MacBook M1 or M2 with MacOS Ventura 13.2.1&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 11 Aug 2023 00:01:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                11
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -16037,6 +16059,17 @@
                 2023,
                 8,
                 10
+            ],
+            "email_sent": true
+        },
+        "Just released: Real-time Text-to-Speech Model for lifelike conversations": {
+            "url": "https://www.superpowerdaily.com/p/147-just-released-real-time-text-to-speech-model-for-lifelike-conversations",
+            "description": "How to implement a paper without crying",
+            "pubdate": "2023-08-11T08:33:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                11
             ],
             "email_sent": true
         }
