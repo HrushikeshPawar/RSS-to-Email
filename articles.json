@@ -5760,6 +5760,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "Interspeech Conference 2023": {
+            "url": "https://machinelearning.apple.com/updates/apple-at-interspeech-2023",
+            "description": "<p>Apple is sponsoring Interspeech conference, which will take place in person from August 20 to 24 in Dublin, Ireland. Interspeech is the world\u2019s largest and most comprehensive conference on the science and technology of spoken language processing. Below is the schedule of Apple-sponsored workshops and events at Interspeech 2023.</p>",
+            "pubdate": "Fri, 11 Aug 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                11
+            ],
+            "email_sent": true
         }
     },
     "Towards AI Blog": {
@@ -8787,6 +8798,17 @@
                 2023,
                 7,
                 12
+            ],
+            "email_sent": true
+        },
+        "Large Language Models Enter the 3D World!": {
+            "url": "https://www.louisbouchard.ai/3d-llm/",
+            "description": "An overview of the first\u00a03D-LLM",
+            "pubdate": "Fri, 11 Aug 2023 00:05:03 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                11
             ],
             "email_sent": true
         }
