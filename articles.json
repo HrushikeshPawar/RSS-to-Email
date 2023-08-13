@@ -15883,6 +15883,50 @@
                 13
             ],
             "email_sent": true
+        },
+        "We're All Wrong About AI - by Arnold Kling - In My Tribe": {
+            "url": "https://www.emergentmind.com/posts/we-re-all-wrong-about-ai-by-arnold-kling-in-my",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the potential uses of AI, comparing it to the early stages of personal computers when people could hardly imagine their future applications. The author also refutes claims that AI cannot be creative, explaining that creativity involves combination of existing ideas, which AI is capable of doing.</li>\n      <li>The author further makes a distinction between AI and Google, explaining that while Google restructures and models data for search, AI learns from data to produce content. The article also introduces the concept of AI as individual companions, which could serve as tutors, personal assistants, or friends.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arnoldkling.substack.com/p/were-all-wrong-about-ai\">We're All Wrong About AI - by Arnold Kling - In My Tribe</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 13 Aug 2023 12:02:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                13
+            ],
+            "email_sent": true
+        },
+        "A curated list of modern Generative Artificial Intelligence projects and services": {
+            "url": "https://www.emergentmind.com/posts/github-steven2358-awesome-generative-ai-a-curated",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides a comprehensive overview of modern projects and services in the field of Generative AI, which creates original content like images, texts, and sounds using machine learning algorithms. The technology is capable of producing unique outputs that can closely resemble human-created works.</li>\n      <li>Generative AI has extensive applications in various fields including art, entertainment, marketing, academia, and computer science. The article also highlights key milestones, notable AI models, various tools, and services in the industry.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/steven2358/awesome-generative-ai\">A curated list of modern Generative Artificial Intelligence projects and services</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 13 Aug 2023 08:02:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                13
+            ],
+            "email_sent": true
+        },
+        "MeMemes app: AI Meme Avatars": {
+            "url": "https://www.emergentmind.com/posts/mememes-app-ai-meme-avatars",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the use of AI technology in the MeMemes app to turn users into famous memes.</li>\n      <li>The MeMemes app, developed in 2023, uses AI magic for this unique, fun feature.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://mememes.app/\">MeMemes app: AI Meme Avatars</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 13 Aug 2023 05:02:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                13
+            ],
+            "email_sent": true
+        },
+        "Numbers every LLM Developer should know": {
+            "url": "https://www.emergentmind.com/posts/numbers-every-llm-developer-should-know-anyscale",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses important numbers that LLM developers should be aware of such as cost ratios for using different versions of GPT, average tokens per word, and GPU memory capacities for different models.</li>\n      <li>The author emphasizes the importance of these numbers for cost-effective operations, optimal use of models, and efficient back-of-the-envelope calculations.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.anyscale.com/blog/num-every-llm-developer-should-know\">Numbers every LLM Developer should know</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 13 Aug 2023 04:02:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                13
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
