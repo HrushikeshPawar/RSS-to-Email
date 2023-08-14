@@ -10052,6 +10052,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "Customer Stories: Conformer-2 in Action": {
+            "url": "https://www.assemblyai.com/blog/customer-stories-conformer-2/",
+            "description": "Leading companies are putting Conformer-2 into production, offering highly accurate transcription to their customers, as well as competitive Generative AI features built on top of this transcription data.",
+            "pubdate": "Mon, 14 Aug 2023 10:56:26 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                14
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
@@ -16125,6 +16136,17 @@
                 2023,
                 8,
                 11
+            ],
+            "email_sent": true
+        },
+        "The first truly disruptive application of AI in tax & accounting": {
+            "url": "https://www.superpowerdaily.com/p/148-the-first-truly-disruptive-application-of-ai-in-tax-accounting",
+            "description": "And now, AI Boyfriend",
+            "pubdate": "2023-08-14T08:37:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                14
             ],
             "email_sent": true
         }
