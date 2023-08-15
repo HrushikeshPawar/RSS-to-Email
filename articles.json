@@ -2504,6 +2504,17 @@
                 24
             ],
             "email_sent": true
+        },
+        "An Introduction to R": {
+            "url": "https://machinelearningmastery.com/an-introduction-to-r/",
+            "description": "<p>Last Updated on August 15, 2023 R is a programming language of its kind. It is a language for statistics, and its ecosystem has a lot of libraries for all kinds of statistical tasks. It is a language targeted the statisticians rather than computer scientists. Hence you will see some unorthodox patterns in the language. [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/an-introduction-to-r/\" rel=\"nofollow\">An Introduction to R</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Tue, 15 Aug 2023 06:03:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                15
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
@@ -8301,6 +8312,17 @@
                 2023,
                 8,
                 11
+            ],
+            "email_sent": true
+        },
+        "Mastering A/B Testing: A Real World Business Example [Part 1]": {
+            "url": "https://towardsai.net/p/machine-learning/mastering-a-b-testing-a-real-world-business-example-part-1",
+            "description": "Last Updated on August 15, 2023 by Editorial Team Author(s): Youssef Hosni Originally published on Towards AI. Step-by-Step Walk-Through Real World A/B Testing Use Case This member-only story is on us. Upgrade to access all of Medium. Imagine a scenario where you are running a website, and you aim to optimize your user experience and boost conversions. In this dynamic landscape, you are facing a critical question: which version of the website will resonate better with users and result in higher engagement? This is where A/B testing comes into play. In this article, we will unravel the intricacies of A/B testing using this real-world example, exploring how a simple division of users into two groups can provide profound insights that lead to enhanced user experiences and business&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 15 Aug 2023 00:01:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                15
             ],
             "email_sent": true
         }
@@ -15949,6 +15971,28 @@
                 15
             ],
             "email_sent": true
+        },
+        "How continuous batching enables 23x throughput in LLM inference while reducing p50 latency": {
+            "url": "https://www.emergentmind.com/posts/how-continuous-batching-enables-23x-throughput-in-llm",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>This article discusses how continuous batching can increase the throughput of large language model (LLM) inference by 23 times while reducing latency. It explains that traditional batching policies have inefficiencies that can be addressed with continuous batching, also known as dynamic batching or batching with iteration-level scheduling.</li>\n      <li>In addition to improving throughput and reducing latency, continuous batching can also optimize memory usage, a significant consideration given the large memory footprint of LLMs. This article also highlights the work of HuggingFace's text-generation-inference and vLLM in implementing continuous batching.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.anyscale.com/blog/continuous-batching-llm-inference\">How continuous batching enables 23x throughput in LLM inference while reducing p50 latency</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 15 Aug 2023 09:01:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                15
+            ],
+            "email_sent": true
+        },
+        "The boundless demand for insight": {
+            "url": "https://www.emergentmind.com/posts/the-boundless-demand-for-insight-hex",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the implications of AI and data in the future of work, comparing it to Jevons\u2019 Paradox that observed an increase in coal consumption as coal engines became more efficient. It suggests that while AI may reduce human hours for certain tasks, the overall demand for data work is likely to increase, leading to a greater need for human involvement.</li>\n      <li>In the author's view, AI will change how we work but it is unlikely to replace all analysts or data scientists. Rather, as AI and data become more efficient, new ways to use them will be discovered, potentially leading to a higher demand for data practitioners.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://hex.tech/blog/jevons-paradox-demand-for-insight/\">The boundless demand for insight</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 15 Aug 2023 07:02:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                15
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -16158,6 +16202,17 @@
                 2023,
                 8,
                 14
+            ],
+            "email_sent": true
+        },
+        "OpenAI Might Go Bankrupt by the End of 2024": {
+            "url": "https://www.superpowerdaily.com/p/149-openai-might-go-bankrupt-by-the-end-of-2024",
+            "description": "Want to create your own WormGPT, SuperEbolaGPT, or ElectionHeistGPT?",
+            "pubdate": "2023-08-15T09:13:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                15
             ],
             "email_sent": true
         }
