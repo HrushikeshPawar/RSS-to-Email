@@ -4784,6 +4784,17 @@
                 12
             ],
             "email_sent": true
+        },
+        "Your phone camera can autofocus. Why can't your specs?": {
+            "url": "https://www.amazon.science/news-and-features/pixieray-ixi-high-tech-glasses-alexa-fund",
+            "description": "Startup Pixieray is working on a breakthrough in vision correction.",
+            "pubdate": "Wed, 16 Aug 2023 13:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                16
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -8323,6 +8334,17 @@
                 2023,
                 8,
                 15
+            ],
+            "email_sent": true
+        },
+        "This AI newsletter is all you need #60": {
+            "url": "https://towardsai.net/p/machine-learning/this-ai-newsletter-is-all-you-need-60",
+            "description": "Last Updated on August 16, 2023 by Editorial Team Author(s): Towards AI Editorial Team Originally published on Towards AI. Hottest News This member-only story is on us. Upgrade to access all of Medium. As the AI race has accelerated this year, AI chip training and inference capacity have become vital resources, and we noted several developments over the past weeks. Both large tech companies and younger AI startups have been scrambling to get access to deliveries of Nvidia H100s, and we are excited to see the emergence of the next generation of models powered by these chips after production ramped up this summer. Many AI startups have been raising large investments to primarily fund AI chip training capacity, which has also led&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Wed, 16 Aug 2023 01:11:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                16
             ],
             "email_sent": true
         }
@@ -16213,6 +16235,17 @@
                 2023,
                 8,
                 15
+            ],
+            "email_sent": true
+        },
+        "The AI Nanny in Your Babys Future": {
+            "url": "https://www.superpowerdaily.com/p/150-the-ai-nanny-in-your-baby-s-future",
+            "description": "How to reduce hallucinations in ChatGPT",
+            "pubdate": "2023-08-16T07:56:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                16
             ],
             "email_sent": true
         }
