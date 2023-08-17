@@ -1849,6 +1849,17 @@
                 3
             ],
             "email_sent": true
+        },
+        "The Proof Is in the Cloud: GeForce NOW Announces Ultimate KovaaKs Challenge Results": {
+            "url": "https://blogs.nvidia.com/blog/2023/08/17/geforce-now-thursday-aug-17/",
+            "description": "The verdict is in: A GeForce NOW Ultimate membership raises the bar on gaming. Members have been tackling the Ultimate KovvaK\u2019s challenge head-on and seeing for themselves how the power of Ultimate improves their gaming with 240 frames per second streaming. The popular training title that helps gamers improve their aim fully launches in the <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/08/17/geforce-now-thursday-aug-17/\">Read article &#62;</a>",
+            "pubdate": "Thu, 17 Aug 2023 13:00:57 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                17
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -8345,6 +8356,39 @@
                 2023,
                 8,
                 16
+            ],
+            "email_sent": true
+        },
+        "What to Learn in Data Science (2023)": {
+            "url": "https://towardsai.net/p/machine-learning/what-to-learn-in-data-science-2023",
+            "description": "Last Updated on August 17, 2023 by Editorial Team Author(s): James Koh Originally published on Towards AI. This member-only story is on us. Upgrade to access all of Medium. Beginners, and even existing ML practitioners and data scientists, get lost in the large sea of endless information. There is information overload, and it might not be possible to know what article is worth reading until we actually read it. As non-experts looking for information, these questions come to mind. Is this article legitimate? Can I trust what\u2019s written here?Is this explanation suitable for a newcomer to the field, or is the writer skipping lots of important details?Is this information even useful and worth investing my time in the year&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Thu, 17 Aug 2023 04:02:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                17
+            ],
+            "email_sent": true
+        },
+        "How are AI Projects Different": {
+            "url": "https://towardsai.net/p/machine-learning/how-are-ai-projects-different-2",
+            "description": "Last Updated on August 17, 2023 by Editorial Team Author(s): Jeff Holmes MS MSCS Originally published on Towards AI. Michael Dziedzic on Unsplash I am often asked by prospective clients to explain the artificial intelligence (AI) software process, and I have recently been asked by managers with extensive software development and data science experience who wanted to implement MLOps. This article is intended as an outline of the key differences rather than a comprehensive discussion on the topic of the AI software process. Background An AI project is experimental in nature, so several or many parts of the software program may be replaced or modified over time. Thus, changes are usually a result of outcomes of various steps in the process rather than customer/system requirements, so it is important to design the system in ways that will not require a total reconstruction if experimental results suggest a different approach. In fact, writing scientific code has two unique properties: mathematical errors and experimental nature. Mistakes in computations are often hard to trace, especially when the code is semantically correct. No bugs are found. No exception is raised. All looks good, but the (numerical) result is clearly incorrect. When implementing probabilistic models, the results may look good depending on some initial conditions or a random factor. No Free Lunch Theorem: Any two algorithms are equivalent when their performance is averaged across all possible problems. There will always be experimental parts that will be constantly changing. Therefore, the key is to design each component so that most of the work can stay and serve as a foundation for the next stage of development. Therefore, many articles, such as [3] focus on design patterns that can help create more robust and reusable code with fewer bugs. The MLOps Process We can see some of the differences with MLOps which is a set of methods and techniques to deploy and maintain machine learning (ML) models in production reliably and efficiently. MLOps is the intersection of Machine Learning, DevOps, and Data Engineering. Figure 1: ML model SDLC [4] In general, the MLOps process involves eight stages: Data preparation Feature engineering Model design Model training and optimization Model evaluation Model deployment Model serving Model monitoring Each step in the MLOps lifecycle is built on its own system but requires interconnection which are the minimum requirements needed to scale ML applications. Without delving into a discussion of MLOps, we can identify some key ideas on the project differences: Need to version code, data, and models Continuous delivery and continuous training Tracking Model Experiments Managing Machine Learning Features Monitoring Models in Production Tracking Model Experiments Unlike the traditional software development cycle, the model development cycle paradigm has two main differences: Managing Features and Monitoring Models. Managing Machine Learning Features Feature stores address some key operational challenges: they provide a consistent set of data between training and inference; they avoid any data skew or inadvertent data leakage; they offer customized capability of writing feature transformations (both on batch and streaming data) during the feature extraction process while training; they allow request augmentation with historical data at inference which is common in large fraud and anomaly detection models as well as recommender systems. Monitoring Models in Production There are several types of problems that Machine Learning applications can encounter over time [4]: Data drift: sudden changes in the features values or changes in data distribution. Model/concept drift: how, why, and when the performance of the model changes. Models fail over time: Models fail for inexplicable reasons (system failure, bad network connection, system overload, bad input or corrupted request), so detecting the root cause early or its frequency is important. Outliers: the need to track the results and performances of a model in case of outliers or unplanned situations. Data quality: ensuring the data received in production is processed in the same way as the training data. System performance: training pipelines failing or taking long time to run, very high latency, etc. Systems degrade overload: Constantly monitoring the health of model servers or service is also important. Conclusion Clearly, the experimental nature of AI projects is a key difference from traditional software development. We can also identify some important differences with AI projects in the context of MLOps: the need to version code, data, and models; tracking model experiments; monitoring models in production. References [1] E. Alpaydin, Introduction to Machine Learning, 3rd ed., MIT Press, ISBN: 978\u20130262028189, 2014. [2] S. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, 4th ed. Upper Saddle River, NJ: Prentice Hall, ISBN: 978\u20130\u201313\u2013604259\u20134, 2021. [3] O. Zero, \u201c How to write better scientific code in Python,\u201d Towards Data Science, Feb. 15, 2022. [4] M. Galarnyk, \u201c Considerations for Deploying Machine Learning Models in Production,\u201d Towards Data Science, Nov. 19, 2021. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Thu, 17 Aug 2023 02:01:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                17
+            ],
+            "email_sent": true
+        },
+        "What is MLOps": {
+            "url": "https://towardsai.net/p/machine-learning/what-is-mlops-2",
+            "description": "Last Updated on August 17, 2023 by Editorial Team Author(s): Jeff Holmes MS MSCS Originally published on Towards AI. Pietro Jeng on Unsplash MLOps is a set of methods and techniques to deploy and maintain machine learning (ML) models in production reliably and efficiently. Thus, MLOps is the intersection of Machine Learning, DevOps, and Data Engineering (Figure 1). Figure 1: Venn diagram showing the relationship among the MLOps-related fields [Wikipedia]. Background Saying that MLOps is in a state of flux would be an understatement [7]. The best advice that I could give on MLOps would be to try to hire someone who is able to see the \u201cbig picture\u201d. Any competent software engineer can learn how to use a particular MLOps platform since it does not require an advanced degree. Therefore, a common mistake when interviewing applicants is to focus on the minutia of a particular platform (AWS, GCP, Databricks, MLflow, etc.). The ideal MLOps engineer would have some experience with several MLOps and/or DevOps platforms. In fact, too much experience with a single platform will most likely be problematic in the future since most companies seldom stay with one cloud platform over time, and there are not currently any standards for MLOps. A major problem with MLOps is the lack of standards which means that each platform tends to use different terminology. Hopefully, SEI or IEEE will soon publish an AI Engineering guide to standardize the terminology similar to SWEBOK. For now, I would recommend learning MLflow since it is open-source and seems to be very popular. Many people use the term \u201cpipeline\u201d in MLOps which can be confusing since pipeline is computer science term that refers to a linear sequence with a single input/output. A better definition would make use of the directed acyclic graph (DAG) since it may not be a linear process. Thus, the term workflow is a better description of the many kinds of processes that could be involved at any stage in the MLOps SDLC. The Machine Learning Model Process In general, the ML model process involves eight stages (Figures 2 and 3) which may include data collection and/or data labeling [1]: Data preparation Feature engineering Model design Model training and optimization Model evaluation Model deployment Model serving Model monitoring Figure 2: Phases of the ML model SDLC [2] Figure 3: ML model SDLC including monitoring [2] In contrast, ModelOps is focused on managing the full software development life cycle (SDLC) of a variety of AI models, including machine learning, knowledge graphs, rules, optimization, natural language, and agent-based models (Figure 4). Figure 4: The ModelOps process [Wikipedia] The Machine Learning Workflow Machine learning requires experimenting with a wide range of datasets, data preparation, and algorithms to build a model that maximizes some target metric(s). Once a model has been built, the next step would be to deploy the final model to a production system, monitor model performance, and continuously retrain the model on new data and compare it with alternative models. Therefore, being productive with machine learning for real-world applications can be challenging for several reasons [3]: It is difficult to keep track of experiments. When working with files on your laptop or with a notebook, how can we tell which data, code, and parameters were used to obtain a particular result? It is difficult to reproduce code. Even if we carefully track the code versions and parameters, we still need to capture the entire environment (such as library dependencies) to reproduce the same results. This is even more challenging when working in a team or if we want to run the same code at scale on another platform (such as the cloud). There is no standard way to package and deploy models. Every data science team develops its own approach for each ML library that is used, so the link between the model and the code and parameters is often lost. There is no central store to manage models (versions and stage transitions). Without a central place to collaborate and manage the model lifecycle, data science teams will encounter challenges managing model stages. Although individual ML libraries provide solutions to some of these problems (such as model serving), you usually want to try multiple ML libraries to get the best results. An MLOps tool allows you to train, reuse, and deploy models with any library and package them into reproducible steps that other data scientists can use as a \u201cblack box\u201d without needing to know which libraries you are using. Keep in mind that trying to retrofit or apply MLOps piece-meal is a common misconception and would actually be considered a software design antipattern [5][6]. Surprisingly, some companies such as Nvidia are currently trying to do just this en masse across all their software development projects which is not feasible and will likely prove to be problematic. Thus, an MLOps platform must provide at least five features to help manage the ML workflow [3]: Tracking: an API for logging parameters, code versions, metrics, and artifacts when running machine learning code and later visualizing the results. Projects: a standard format for packaging reusable ML code. Models: a convention for packaging ML models in multiple flavors and a variety of tools to help in deploying them. Registry: a centralized model store, set of APIs, and UI, to collaboratively manage the full lifecycle of an ML model(s). Scalability: designed to scale to large data sets, large output files, and a large number of experiments. Conclusion MLOps is a set of methods and techniques to deploy and maintain machine learning (ML) models. However, MLOps does not currently have any standards defined, so it is important to keep this in mind. Therefore, it is important to see the \u201cbig picture\u201d which involves understanding the key concepts, stages, features, and challenges with MLOps. References [1] J. S. Damji and M. Galarnyk, \u201c Considerations for Deploying Machine Learning Models in Production,\u201d Towards Data Science, Nov. 19, 2021. [2] B. Rogojan, \u201c What Is MLOps And Why Your Team Should [&#8230;]",
+            "pubdate": "Thu, 17 Aug 2023 00:01:39 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                17
             ],
             "email_sent": true
         }
@@ -16026,6 +16070,28 @@
                 17
             ],
             "email_sent": true
+        },
+        "New York Times considers legal action against OpenAI as copyright tensions swirl": {
+            "url": "https://www.emergentmind.com/posts/new-york-times-considers-legal-action-against-openai-as",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The New York Times is considering suing OpenAI over concerns that the AI company is infringing on the newspaper's intellectual property rights by using its articles in AI tools. This comes after tense negotiations over a licensing deal between the two entities.</li>\n      <li>The potential lawsuit could be a significant legal battle over copyright protection in the age of generative AI, as OpenAI's ChatGPT model is seen as a direct competitor to the newspaper, generating text based on the original reporting of The Times' staff.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://text.npr.org/1194202562\">New York Times considers legal action against OpenAI as copyright tensions swirl</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 17 Aug 2023 07:02:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                17
+            ],
+            "email_sent": true
+        },
+        "PyTest For LLMs": {
+            "url": "https://www.emergentmind.com/posts/github-mr-gpt-deepeval-pytest-for-llms",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>DeepEval provides a Pythonic way to run offline evaluations on your LLM pipelines, making it easier to launch into production.</li>\n      <li>DeepEval aims to make writing tests for LLM applications as easy as writing Python unit tests, providing software-like tooling and abstractions for machine learning engineers.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/mr-gpt/deepeval\">PyTest For LLMs</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 17 Aug 2023 06:03:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                17
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -16257,6 +16323,17 @@
                 2023,
                 8,
                 16
+            ],
+            "email_sent": true
+        },
+        "OpenAI acquires Global Illumination": {
+            "url": "https://www.superpowerdaily.com/p/151-openai-acquires-global-illumination",
+            "description": "Google Search is rolling out new generative AI capabilities",
+            "pubdate": "2023-08-17T08:43:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                17
             ],
             "email_sent": true
         }
