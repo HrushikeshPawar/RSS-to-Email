@@ -2526,6 +2526,17 @@
                 15
             ],
             "email_sent": true
+        },
+        "A Gentle Introduction to Vectors in R": {
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-vectors-in-r/",
+            "description": "<p>Last Updated on August 18, 2023 R is a language for programming with data. Unlike many other languages, the primitive data types in R are not scalars but vectors. Therefore, understanding how to deal with vectors is crucial to programming or reading the R code. In this post, you will learn about various vector operations [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/a-gentle-introduction-to-vectors-in-r/\" rel=\"nofollow\">A Gentle Introduction to Vectors in R</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Fri, 18 Aug 2023 08:24:23 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                18
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
@@ -8391,6 +8402,39 @@
                 17
             ],
             "email_sent": true
+        },
+        "We Train Our Machines, Then They Retrain Us: The Recursive Nature of Building AI": {
+            "url": "https://towardsai.net/p/machine-learning/we-train-our-machines-then-they-retrain-us-the-recursive-nature-of-building-ai",
+            "description": "Last Updated on August 18, 2023 by Editorial Team Author(s): Tabrez Syed Originally published on Towards AI. On May 10, 1941, German bombs reduced the storied British House of Commons to smoldering ruins; the famous Gothic revival complex had stood for over two centuries as the backdrop for vigorous political debate, yet now this architectural symbol lay in ashes. Amidst the smoke, a pressing question emerged \u2014 rebuild identical to the past, or embrace modern redesigns like the sweeping semicircular halls found overseas? To Winston Churchill, the answer was clear. In a 1943 speech, he remarked, \u201cWe shape our buildings, and afterwards our buildings shape us,\u201d believing the old chamber\u2019s confrontational intimacy was woven into British democracy\u2019s raucous soul. Unlike expansive foreign legislative spaces (like the semi-circular layout of the US Capitol building), the old Commons crammed 427 seats tightly together, packing opposing factions face-to-face across a narrow aisle with nowhere to hide. The democratic spirit was fueled by a direct confrontation that led to accountability. While it may have been noisy and messy, it was authentic. Though open to functional improvements, Churchill pushed for the restoration of the arena. Despite the destruction, preserving the shape that had housed centuries of clamorous debate took priority. Churchill\u2019s sentiment \u2014 that constructed spaces shape collective life \u2014 extends beyond building design. This notion, sometimes called \u201carchitectural determinism,\u201d suggests our built environment profoundly influences human behavior. Urban planners apply these principles deliberately, widening sidewalks to foster pedestrian activity along city boulevards. Or consider a quaint one-lane bridge over a winding creek \u2014 its narrowness promotes patience and cooperation as drivers politely wait their turn to cross. In the digital age, architectural determinism manifests through choices made in constructing AI systems, which will shape the very structure of discourse as large language models permeate society. Shaping Our Assistants: Teaching AI Through Human Feedback When OpenAI unveiled GPT-2 in 2019, the natural language model represented a leap forward. Trained on 40 GB of internet text through unsupervised learning, its 1.5 billion parameters could generate remarkably coherent passages. Yet inconsistencies remained. Without human guidance, GPT-2\u2019s impressive but aimless prowess produced verbose meanderings as often as useful information. To refine their creation, OpenAI pioneered a new approach: reinforcement learning from human feedback (RLHF). The technique, detailed in the paper \u201cFine-tuning Language Models from Human Feedback,\u201d blends human intuition with AI to steer models toward more \u201cuseful\u201d behaviors. RLHF by OpenAI Here\u2019s how it works: Starting with a base model like GPT-2, human trainers interact with the system, playing both user and AI. This conversation creates a dataset reflecting human preferences. Trainers then further shape the model by ranking its sample responses, allowing a \u201creward model\u201d to be developed that scores output based on quality. The AI progressively improves by fine-tuning the model to maximize its rewards, generating text more aligned with human values. Through cycles of feedback and refinement, RLHF sculpts once erratic models into more helpful, on-point companions. The fruits of this approach arrived with ChatGPT in 2022. Trained using RLHF, it dazzled users with thoughtful, conversational responses. The High Cost of Human Wisdom After the breakthrough of ChatGPT, other AI labs quickly adopted reinforcement learning from human feedback (RLHF). Companies like DeepMind, Anthropic, and Meta leaned on RLHF to craft assistants like Sparrow, Claude, and LLaMA-2-chat. Yet while effective, RLHF requires immense resources. Each round involves human trainers generating conversations, evaluating responses, and providing guidance at scale. For GPT-3, OpenAI outsourced this laborious process to contractors in Kenya. The \u201cnon-profit\u2019s\u201d financial backing enabled this human-powered approach, but such costs limit accessibility for many. Anthropic\u2019s training system from their paper \u201c[2204.05862] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback\u201d Some organizations are getting creative to overcome the hurdle. The Open Assistant Project invites the public to contribute directly to model training through a crowdsourcing platform. DataBricks gamified the process internally, encouraging its 5,000 employees to judge sample interactions through a fun web interface. This allowed them to build the dataset for their own assistant, Dolly rapidly. Startups like Scale AI also offer services to manage the human annotation required for RLHF. Copying Classmates: Using LLMs to Bootstrap One Another As RLHF\u2019s prohibitive price deters many, some researchers are cutting costs by replacing human feedback with the output of other language models. Stanford\u2019s Human-Centered AI group demonstrated this shortcut. Seeking to retool Meta\u2019s 7 billion parameters LLaMA into a more capable assistant like ChatGPT, they wrote 175 seed tasks and used OpenAI\u2019s DaVinci model to generate a 52,000 example dataset for just $500. Rather than painstaking human annotation, davinci produced labeled data automatically. Fine-tuning LLaMA on this synthetic dataset created Alpaca-7B, an adept assistant, for just $600 total. Researchers at UC Berkeley collaborated to train the 13 billion parameters Vicuna model using 70,000 conversations scraped from ShareGPT (a website where people share their ChatGPT threads). Vicuna reached 90% of ChatGPT\u2019s performance, trained on data at a fraction of the cost. Meanwhile, Microsoft and Peking University developed Evol-Instruct, a novel method to exponentially grow seed data using an LLM. Their resulting WizardLM even surpasses GPT-4 in certain skills, demonstrating the power of synthetic datasets. Open-source datasets like RedPajama\u2019s 1.2 trillion token replicas of LLaMA also aim to democratize model training. We become what we behold. We shape our tools, and then our tools shape us Churchill grasped centuries ago how constructed spaces shape collective norms. His insight rings true once more as LLMs proliferate through synthetic training loops. The architectural choices made in those initial models propagate as their output trains new generations. Early flaws and biases subtly ripple down the line, shaping discourse itself. When LLMs generate text read by millions daily, their idiosyncrasies permeate human expression. As models optimized for engaging chat advise writers, their tendencies infuse published content. Our tools reflect our values, and in time, remake us in their image. But this dance between creator and creation is not abnormal \u2014 it\u2019s the story of human progress. From the [&#8230;]",
+            "pubdate": "Fri, 18 Aug 2023 04:02:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                18
+            ],
+            "email_sent": true
+        },
+        "Solving the Image Promotion Challenge Across Multi-Environment with ArgoCD": {
+            "url": "https://towardsai.net/p/machine-learning/solving-the-image-promotion-challenge-across-multi-environment-with-argocd",
+            "description": "Last Updated on August 18, 2023 by Editorial Team Author(s): Anirudh Mehta Originally published on Towards AI. When designing cloud environments, it is often recommended to set up multiple accounts. While this approach offers resource independence, isolation, better security, access, and billing boundaries, it also comes with its own set of issues. One such challenge is efficiently promoting and tracking applications between different environments. The GitOps approach, along with tools like ArgoCD and Kustomize, simplifies tracking and promotion. However, image promotion is often overlooked. Many enterprises adopt a shared image registry, but it soon becomes bloated with many unused versions. This article explores a recent journey during which we examined the problem of promoting images and the innovative solution that was adopted, all while adhering to the principles of GitOps. Challenge Recently, a scenario was presented where a company utilizing the shared ECR registry was considering migrating to separate ECR registries for cost-effectiveness, better governance, and streamlined lifecycle management. Here is a look at the existing state of infrastructure and pipelines: Source: Image by the author. Each environment has a dedicated AWS account with its own cluster and ArgoCD installation. Kustomize is used for managing configuration differences across environments. \u251c\u2500\u2500 infra \u2502 \u251c\u2500\u2500 charts/ \u2514\u2500\u2500 overlays \u251c\u2500\u2500 dev \u2502 \u251c\u2500\u2500 patch-image.yaml \u2514\u2500\u2500 production \u251c\u2500\u2500 patch-image.yaml \u2514\u2500\u2500 patch-replicas.yaml Jenkins is used to continuously build new images in the development environment. However, none of the tools provided out-of-the-box support for promoting images between ECR registries, leading to the exploration of innovative solutions with some considerations. Considerations: Selective Promotion: The company\u2019s application landscape is composed of multiple modules and teams with different timelines. Therefore, it is necessary to support the promotion of images for only selected modules in each release. Optimized Storage: Environments such as production only need to store promoted image versions, reducing clutter and optimizing resource usage. Image Tag and Digest Replication: Replicating image tags and digests between ECR registries is critical for security, and traceability. Potential Solutions At the outset, two potential solutions were proposed: ECR Cross Account Replication: AWS\u2019s ECR natively supports replicating images between two accounts. However, as of now, there is no way to filter the images being replicated based on any criteria. Alternatively, AWS recommends event-based design to selectively replicate images based on tag naming conventions. However, since we are not aware of which versions will be promoted, it requires an additional step of retagging before promotion. Jenkins Promotion Pipeline: A Jenkins pipeline that parses Kustomize Overlays for image tags and programmatical replicates them. Both options are viable, but they introduce an additional layer of complexity to the promotion process. Additionally, you need to ensure that images are promoted before Kustomize overlays are updated. The Winning Strategy: ArgoCD PreSync Job In this scenario, the client was already using ArgoCD for continuous deployment of the application changes. Therefore, we decided to also assign ArgoCD the responsibility of delivering images to the target environment cluster. ArgoCD supports hooks that allow you to run custom scripts before or after a deployment or synchronization process. Source: Image by the author. 1. ECR Repository Permission: Authorize cross-account pull access for Docker images To enable ArgoCD to pull images from the source ECR, we need to add a resource-based policy to our repository. // cross-account-ecr-read-policy.json{ &#034;Version&#034;: &#034;2012-10-17&#034;, &#034;Statement&#034;: [ { &#034;Sid&#034;: &#034;AllowPull&#034;, &#034;Effect&#034;: &#034;Allow&#034;, &#034;Principal&#034;: { &#034;AWS&#034;: &#034;arn:aws:iam::{DESTINATION_ACCOUNT}:root&#034; // Replace with your destination account }, &#034;Action&#034;: [ &#034;ecr:BatchCheckLayerAvailability&#034;, &#034;ecr:BatchGetImage&#034;, &#034;ecr:GetDownloadUrlForLayer&#034; ] } ]} Apply the policy to ECR repositories: aws ecr set-repository-policy --repository-name example --policy-text &#034;file://cross-account-ecr-read-policy.json&#034;// For multiple repositories:aws ecr describe-repositories --query &#034;repositories[].[repositoryName]&#034; &#124; xargs -I {} aws ecr set-repository-policy --repository-name {} --policy-text &#034;file://cross-account-ecr-read-policy.json&#034; 2. PreSync Hook Job: Copy image between accounts We use Crane to copy images without changing their tag and digest. The PreSync Hook job is stored in git along with other application manifests and monitored by ArgoCD. ArgoCD runs the job before the synchronizing changes. The source account is the Development or DevOps account from which the images will be pulled. The destination account is the Production or target environment where the image needs to be copied. // Helm template exampleapiVersion: batch/v1kind: Jobmetadata: generateName: argo-presync-promote-image- annotations: argocd.argoproj.io/hook: PreSync argocd.argoproj.io/hook-delete-policy: HookSucceededspec: template: spec: volumes: - name: creds emptyDir: {} initContainers: - name: aws-creds image: public.ecr.aws/aws-cli/aws-cli command: - sh - -c - &#124; aws ecr get-login-password &#62; /creds/ecr volumeMounts: - name: creds mountPath: /creds containers: // For brevity, I have assumed that all Helm values are available on the root. - name: promote-image image: gcr.io/go-containerregistry/crane:debug command: - sh - -c - &#124; // Login to both ECR registries cat /creds/ecr &#124; crane auth login {{.Values.sourceAccount}}.dkr.ecr.us-east-1.amazonaws.com -u AWS --password-stdin cat /creds/ecr &#124; crane auth login {{.Values.destinationAccount}}.dkr.ecr.us-east-1.amazonaws.com -u AWS --password-stdin // Copy image from source account to destination account crane copy {{.Values.image &#124; replace .Values.destinationAccount .Values.sourceAccount}} {{.Values.image}} volumeMounts: - name: creds mountPath: /creds restartPolicy: Never backoffLimit: 2 Conclusion In conclusion, the team was able to promote images on demand by using the pre-sync hook. This made production promotion a single step of updating the Kustomize overlays. I would love to hear about other options that you have adopted. For instance, an alternative approach could be to use Kubernetes Dynamic Admission Control to intercept and pull missing images on demand. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 18 Aug 2023 02:01:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                18
+            ],
+            "email_sent": true
+        },
+        "Platypus: Dataset Curation and Adapters for Better Large Language Models": {
+            "url": "https://towardsai.net/p/machine-learning/platypus-dataset-curation-and-adapters-for-better-large-language-models",
+            "description": "Last Updated on August 18, 2023 by Editorial Team Author(s): Benjamin Marie Originally published on Towards AI. Achieve low-cost state-of-the-art on your target tasks This member-only story is on us. Upgrade to access all of Medium. Image by the Author \u2014 Made from Pixabay illustrations (1 and 2) Meta\u2019s Llama 2 was released one month ago and many are working on fine-tuning it for specific tasks. In the same trend, Boston University proposes Platypus (Lee et al., 2023), Llama 2 fine-tuned with adapters and curated datasets. Platypus is now (August 16th) at the first rank on the OpenLLM leaderboard. The method proposed in this work is nothing really new. It relies on LoRa adapters and careful dataset curation. It\u2019s nonetheless impressive in its demonstration that a new state-of-the-art&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 18 Aug 2023 00:01:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                18
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -10151,6 +10195,17 @@
                 14
             ],
             "email_sent": true
+        },
+        "Why Language Models Became Large Language Models And The Hurdles In Developing LLM-based Applications": {
+            "url": "https://www.assemblyai.com/blog/why-language-models-became-large-language-models/",
+            "description": "What\u2019s the difference between Language Models and Large Language Models? Let\u2019s understand AI development trends and the difficulties of integrating LLMs into real-world applications.",
+            "pubdate": "Fri, 18 Aug 2023 11:06:53 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                18
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
@@ -11632,6 +11687,17 @@
                 2023,
                 7,
                 19
+            ],
+            "email_sent": true
+        },
+        "Eight Years Later": {
+            "url": "http://www.alexirpan.com/2023/08/18/eight-years.html",
+            "description": "<p><em>Sorta Insightful</em> turns eight years old today!</p>",
+            "pubdate": "Fri, 18 Aug 2023 00:00:01 -0700",
+            "pubdate_parsed": [
+                2023,
+                8,
+                18
             ],
             "email_sent": true
         }
@@ -16092,6 +16158,28 @@
                 17
             ],
             "email_sent": true
+        },
+        "In the UK, TUI adds ChatGPT to its mobile phone app": {
+            "url": "https://www.emergentmind.com/posts/in-the-uk-tui-adds-chatgpt-to-its-mobile-phone-app",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Travel company TUI is testing the use of generative artificial intelligence (AI), integrating ChatGPT into its smartphone app for UK users.</li>\n      <li>The new feature provides tailored vacation suggestions and allows customers to book experiences directly through the app.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://travelinyourownway.com/2023/08/18/in-the-uk-tui-adds-chatgpt-to-its-mobile-phone-app/\">In the UK, TUI adds ChatGPT to its mobile phone app</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 18 Aug 2023 09:01:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                18
+            ],
+            "email_sent": true
+        },
+        "Microsoft AI suggests food bank as a cannot miss tourist spot in Canada": {
+            "url": "https://www.emergentmind.com/posts/microsoft-ai-suggests-food-bank-as-a-cannot-miss",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Microsoft AI, in an article about Ottawa's must-see attractions, listed the Ottawa Food Bank as a tourist spot, suggesting visitors 'go in on an empty stomach'.</li>\n      <li>The article, likely generated by a large language model (LLM), demonstrates the contextual misunderstanding common in AI-generated content and highlights the need for human oversight and accountability in AI content production.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/\">Microsoft AI suggests food bank as a \u201ccannot miss\u201d tourist spot in Canada</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 18 Aug 2023 07:02:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                18
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -16334,6 +16422,17 @@
                 2023,
                 8,
                 17
+            ],
+            "email_sent": true
+        },
+        "How to Create kickass AI Writing Prompts": {
+            "url": "https://www.superpowerdaily.com/p/152-how-to-create-kickass-ai-writing-prompts",
+            "description": "Character AI is apparently the greatest thing since Pornhub",
+            "pubdate": "2023-08-18T08:17:07Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                18
             ],
             "email_sent": true
         }
