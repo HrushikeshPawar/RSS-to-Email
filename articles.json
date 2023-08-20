@@ -2537,6 +2537,17 @@
                 18
             ],
             "email_sent": true
+        },
+        "A Gentle Introduction to Lists and Data Frames in R": {
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-lists-and-data-frames-in-r/",
+            "description": "<p>Vectors in R are supposed to be of homogeneous data type. You can use a list as the container if there are mixed data types, such as numbers and strings. The list and data frame are closely related in R. The data frame is probably more useful because it reflects how we usually collect statistics. [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/a-gentle-introduction-to-lists-and-data-frames-in-r/\" rel=\"nofollow\">A Gentle Introduction to Lists and Data Frames in R</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Sun, 20 Aug 2023 07:00:12 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                20
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
@@ -8433,6 +8444,39 @@
                 2023,
                 8,
                 18
+            ],
+            "email_sent": true
+        },
+        "How to Perform Feature Selection with Scikit-Learn": {
+            "url": "https://towardsai.net/p/machine-learning/how-to-perform-feature-selection-with-scikit-learn",
+            "description": "Last Updated on August 20, 2023 by Editorial Team Author(s): Cornellius Yudha Wijaya Originally published on Towards AI. How to select important features for your machine learning model This member-only story is on us. Upgrade to access all of Medium. Photo by Timothy Muza on Unsplash Feature selection is choosing the most relevant features to the underlying problems. In predictive machine learning, we choose features suitable to improve the model prediction capability. There are many methods to perform feature selection, including statistical analysis, such as the Chi-Square method, or a more advance one, such as model feature importance. Having good domain knowledge is also the best way to do feature selection. In Scikit-Learn, we can use various functions to perform feature selection. What are these functions? Let\u2019s get into it. The simplest feature&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Sun, 20 Aug 2023 04:02:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                20
+            ],
+            "email_sent": true
+        },
+        "How Would You Learn Anything with ChatGPT Easily?": {
+            "url": "https://towardsai.net/p/machine-learning/how-would-you-learn-anything-with-chatgpt-easily",
+            "description": "Last Updated on August 20, 2023 by Editorial Team Author(s): Gencay I. Originally published on Towards AI. Start Learning Faster with ChatGPT: Explore How This AI Tool Can Help You. This member-only story is on us. Upgrade to access all of Medium. Created with leonardo.ai Learning is the key to evolution. You should learn and then test the things you\u2019ve learned to build a neural path in your mind. After a few repetitions, you may not even be aware of it sometimes, like riding a bicycle. And due to the power of LLMs, like ChatGPT, there is another shortcut to learning things, not just coding. I love shortcuts because if there\u2019s a simpler version, why should I follow the hard way, right? In this article, I will show you how I learned the things&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Sun, 20 Aug 2023 02:02:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                20
+            ],
+            "email_sent": true
+        },
+        "A Framework For Efficiently Serving Your Large Language Models": {
+            "url": "https://towardsai.net/p/machine-learning/a-framework-for-efficiently-serving-your-large-language-models",
+            "description": "Last Updated on August 20, 2023 by Editorial Team Author(s): Zoumana Keita Originally published on Towards AI. Serve your large language models just like you would using OpenAI API but at no cost This member-only story is on us. Upgrade to access all of Medium. Photo by Austrian National Library on Unsplash There has been a lot of enthusiasm in the last couple of months around using Large Language Models. Well, this is not surprising due to their ability to help tackle most of the use cases we would think of as unsolvable, and thanks to the vibrant research community for such great work. Like any AI and Machine Learning models, no matter how powerful they are, only moving them into production can help stakeholders make better-informed decisions. Deploying these large language models is undoubtedly one of&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Sun, 20 Aug 2023 00:02:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                20
             ],
             "email_sent": true
         }
@@ -16240,6 +16284,17 @@
             "url": "https://www.emergentmind.com/posts/revealed-the-authors-whose-pirated-books-are-powering",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>Thousands of writers including Stephen King and Zadie Smith allege that their copyrighted works are being used to train large language models without their permission. A lawsuit filed in California alleges that Meta has violated copyright laws by using their books to train LLaMA, a large language model.</li>\n      <li>The future promised by AI is written with stolen words, with upwards of 170,000 books, mostly published in the past 20 years, being in LLaMA's training data. This includes fiction and nonfiction works of various authors, which according to the allegations, are being used unlawfully.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/\">Revealed: The Authors Whose Pirated Books Are Powering Generative AI - The Atlantic</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
             "pubdate": "Sun, 20 Aug 2023 00:03:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                20
+            ],
+            "email_sent": true
+        },
+        "Large Language Models as General Pattern Machines": {
+            "url": "https://www.emergentmind.com/posts/2307-04721-large-language-models-as-general-pattern",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large pre-trained language models can complete complex token sequences, including those generated by probabilistic context-free grammars and spatial patterns in the Abstract Reasoning Corpus. This proficiency is retained even with randomly sampled tokens from the vocabulary.</li>\n      <li>These models, without additional training, can serve as general sequence modelers. The findings can be used in robotics, from extrapolating sequences of numbers that represent states over time to complete simple motions, to prompting of reward-conditioned trajectories that can discover and represent closed-loop policies.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2307.04721\">Large Language Models as General Pattern Machines</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 20 Aug 2023 13:02:39 +0000",
             "pubdate_parsed": [
                 2023,
                 8,
