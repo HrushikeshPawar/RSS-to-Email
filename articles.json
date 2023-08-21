@@ -16323,6 +16323,28 @@
                 21
             ],
             "email_sent": true
+        },
+        "Google AI predicts floods four days early in South America and Africa": {
+            "url": "https://www.emergentmind.com/posts/google-ai-predicts-floods-four-days-early-in-south",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Google has developed an Artificial Intelligence (AI) that can predict floods four days in advance, even in regions with little data on water flow. The predictions are as accurate as conventional systems for the same day.</li>\n      <li>The AI has been tested on data from around the world, and can predict floods in data-poor regions, such as South America and Africa, as well as data-rich areas like Europe and the US. The system has been operational and sending out flood alerts in 80 countries since October 2022.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.shiningscience.com/2023/08/google-ai-predicts-floods-four-days.html\">Google AI predicts floods four days early in South America and Africa</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 21 Aug 2023 09:02:11 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                21
+            ],
+            "email_sent": true
+        },
+        "Fine Tuning LLMs - learnings from the DeepLearning SF Meetup": {
+            "url": "https://www.emergentmind.com/posts/fine-tuning-llms-learnings-from-the-deeplearning-sf",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large Language Models (LLMs) are prevalent today, but to make them useful to a specific domain, they must be specialized, which requires knowledge and computational costs. Fine-tuning methods can be used to specialize these models, with LoRA (Low-Rank Adaptation) being highlighted as a cost-efficient and elegant method.</li>\n      <li>Fine tuning is becoming more accessible, and it's found that big models can get a good start without fine tuning by using prompt engineering. However, reaching top-tier performance, especially in applications with concrete tasks where a lot of data can be collected, fine tuning is necessary. For small models, more benefits are derived from fine-tuning.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.anti-vc.com/p/fine-tuning-llms-learnings-from-the?utm_campaign=post&amp;utm_medium=web\">Fine Tuning LLMs - learnings from the DeepLearning SF Meetup</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 21 Aug 2023 04:02:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                21
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -16576,6 +16598,17 @@
                 2023,
                 8,
                 18
+            ],
+            "email_sent": true
+        },
+        "This AI makes reservations and waits on hold for you": {
+            "url": "https://www.superpowerdaily.com/p/153-this-ai-waits-on-hold-for-you",
+            "description": "Tutorial - How to design logos using generative AI",
+            "pubdate": "2023-08-21T07:56:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                21
             ],
             "email_sent": true
         }
