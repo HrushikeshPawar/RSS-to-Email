@@ -16455,6 +16455,39 @@
                 23
             ],
             "email_sent": true
+        },
+        "Hugging Face Introduces IDEFICS: Pioneering Open Multimodal Conversational AI with Visual Language Models - MarkTechPost": {
+            "url": "https://www.emergentmind.com/posts/hugging-face-introduces-idefics-pioneering-open",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Hugging Face introduces IDEFICS, an open multimodal conversational AI that can handle both textual and image inputs, aiming to foster openness, accessibility, and innovation in AI.</li>\n      <li>The model comes in two variants, a 80 billion parameter and a 9 billion parameter version, capable of answering queries about images, describing visual narratives, and creating stories based on multiple images.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.marktechpost.com/2023/08/23/hugging-face-introduces-idefics-pioneering-open-multimodal-conversational-ai-with-visual-language-models/\">Hugging Face Introduces IDEFICS: Pioneering Open Multimodal Conversational AI with Visual Language Models - MarkTechPost</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 24 Aug 2023 01:03:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                24
+            ],
+            "email_sent": true
+        },
+        "Princeton University's 'AI Snake Oil' authors say generative AI hype has 'spiraled out of control'": {
+            "url": "https://www.emergentmind.com/posts/princeton-university-s-ai-snake-oil-authors-say",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Narayanan and Kapoor, authors of 'AI Snake Oil', discuss their views on the rapidly evolving AI landscape, focusing particularly on predictive and generative AI. They argue that while gen AI is a powerful technology, it is also surrounded by considerable hype and potential risks.</li>\n      <li>They also emphasize on the need for usage transparency and better enforcement of existing laws in the AI sector. The authors believe that individual abstinence is not a solution to exploitative practices, but rather policy changes at the company level.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/\">Princeton University's 'AI Snake Oil' authors say generative AI hype has 'spiraled out of control'</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 24 Aug 2023 01:02:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                24
+            ],
+            "email_sent": true
+        },
+        "Clint LLM GitHub Pages": {
+            "url": "https://www.emergentmind.com/posts/github-clint-llm-clint-llm-github-io-clint-llm",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Clint is an open-sourced tool that uses colloquial language to provide users with complex medical information in an easy-to-understand manner.</li>\n      <li>The tool, served through GitHub pages, uses the user's OpenAI API key for processing, but it is not always accurate and shouldn't replace professional medical help.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/clint-llm/clint-llm.github.io\">Clint LLM GitHub Pages</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 24 Aug 2023 01:02:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                24
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
