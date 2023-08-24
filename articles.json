@@ -1882,6 +1882,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "Xbox PC Game Pass Comes to GeForce NOW, Along With 25 New Games": {
+            "url": "https://blogs.nvidia.com/blog/2023/08/24/geforce-now-thursday-aug-24/",
+            "description": "As part of NVIDIA and Microsoft\u2019s collaboration to bring more choice to gamers, new Microsoft Store integration has been added to GeForce NOW that lets gamers stream select titles from the Xbox PC Game Pass catalog on GeForce NOW, starting today. With the Microsoft Store integration, members will see a brand-new Xbox button on supported <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/08/24/geforce-now-thursday-aug-24/\">Read article &#62;</a>",
+            "pubdate": "Thu, 24 Aug 2023 13:00:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                24
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -16488,6 +16499,50 @@
                 24
             ],
             "email_sent": true
+        },
+        "Unfetch": {
+            "url": "https://www.emergentmind.com/posts/unfetch-create-ai-workflows-powered-by-your-data",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article details how to create agents and API connectors in just a few clicks by filling out a few fields.</li>\n      <li>It also explains how to interact with APIs in plain English, sync APIs together using tasks, and run workflows autonomously.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://unfetch.com/\">Unfetch</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 24 Aug 2023 13:01:52 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                24
+            ],
+            "email_sent": true
+        },
+        "Towards an astronomical foundation model for stars with a Transformer-based model": {
+            "url": "https://www.emergentmind.com/posts/2308-10944-towards-an-astronomical-foundation-model",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers are using Transformer-based models similar to Large Language Models (LLMs) to propose a framework for data-driven astronomy.</li>\n      <li>A single model is built and trained to perform a variety of inference tasks using cross-survey data sets, demonstrating its ability to predict unmeasured observations and parameters.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2308.10944\">Towards an astronomical foundation model for stars with a Transformer-based model</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 24 Aug 2023 09:04:03 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                24
+            ],
+            "email_sent": true
+        },
+        "Giraffe - Long Context LLMs - The Abacus.AI Blog": {
+            "url": "https://www.emergentmind.com/posts/giraffe-long-context-llms-the-abacus-ai-blog",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Giraffe is a new model developed to explore the concept of context length extrapolation in Large Language Models (LLMs), which involves the use of a model trained on a short context length for evaluation on longer lengths without further training. This is crucial for tasks that necessitate larger context capacity for better performance.</li>\n      <li>The paper also presents new evaluation tasks for assessing LLM performance, namely LongChat-Lines, FreeFormQA and AlteredQA. Despite the progress, the paper acknowledges the existence of challenges in fully achieving context length extrapolation without performance degradation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/\">Giraffe - Long Context LLMs - The Abacus.AI Blog</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 24 Aug 2023 07:03:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                24
+            ],
+            "email_sent": true
+        },
+        "Subscribe": {
+            "url": "https://www.emergentmind.com/posts/subscribe-marktechpost-ai-newsletter",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>null uses cookies to enhance user experience, analyze web traffic, and display relevant ads.</li>\n      <li>Users consent to the storage of first- and third-party cookies on their devices by clicking 'Accept Cookies'.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://pxl.to/2rijat\">Subscribe</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 24 Aug 2023 04:02:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                24
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -16774,6 +16829,17 @@
                 2023,
                 8,
                 23
+            ],
+            "email_sent": true
+        },
+        "Meta unveils breakthrough language AI": {
+            "url": "https://www.superpowerdaily.com/p/156-meta-unveils-breakthrough-language-ai",
+            "description": "ALSO: An AI that predicts your upcoming exam questions",
+            "pubdate": "2023-08-24T07:07:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                24
             ],
             "email_sent": true
         }
