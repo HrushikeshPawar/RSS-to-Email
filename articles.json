@@ -11764,6 +11764,17 @@
                 23
             ],
             "email_sent": true
+        },
+        "Deprecation of Git Authentication using password": {
+            "url": "https://huggingface.co/blog/password-git-deprecation",
+            "description": null,
+            "pubdate": "Fri, 25 Aug 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -16620,6 +16631,61 @@
                 25
             ],
             "email_sent": true
+        },
+        "Weekly Piece of Future #30 - by Zoltan Tapi": {
+            "url": "https://www.emergentmind.com/posts/weekly-piece-of-future-30-by-zoltan-tapi",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Rushing Robotics brings news of the latest technological and scientific advancements, including efficient wireless energy transmission, early diagnosis of Parkinson's disease through AI, and the development of flying cars and driverless buses. This issue also covers significant medical breakthroughs such as a successful womb transplant in the UK, a method to heal cornea damage using stem cells, and a solution against antibiotic resistance.</li>\n      <li>The convergence of brain implants and AI has helped restore voice to paralyzed individuals, while the deciphering of the Y chromosome sequence promises to transform our understanding of genetics. Industry insights mention an AI tool that simplifies contract supervision and an AI-driven tool that enhances personal networking.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://rushingrobotics.com/p/weekly-piece-of-future-30\">Weekly Piece of Future #30 - by Zoltan Tapi</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 13:01:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "Explore the Dragon Realm: Build a C++ adventure game with a little help from AI | GitLab": {
+            "url": "https://www.emergentmind.com/posts/explore-the-dragon-realm-build-a-c-adventure-game",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides a tutorial on how to build a text-based adventure game in C++, using AI through GitLab Duo Code Suggestions. The AI provides an interactive guide, assisting in the learning of the programming language.</li>\n      <li>The tutorial covers setting up VS Code and Clang for building a C++ project, creating the game narrative, defining variables, and incorporating decision-making with conditionals.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://about.gitlab.com/blog/2023/08/24/building-a-text-adventure-using-cplusplus-and-code-suggestions/\">Explore the Dragon Realm: Build a C++ adventure game with a little help from AI | GitLab</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 12:01:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "Finetuning of Falcon-7B LLM using QLoRA on Mental Health Conversational Dataset": {
+            "url": "https://www.emergentmind.com/posts/github",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the finetuning of Falcon-7B Large Language Model (LLM) using QLoRA technique on a mental health conversational dataset, with the aim to improve mental health chatbots. These chatbots are accessible platforms providing immediate assistance and emotional support, supplementing but not replacing professional mental health care.</li>\n      <li>The dataset was curated from FAQs, healthcare blogs, and wiki articles related to mental health, pre-processed in a conversational format. The finetuning process took less than an hour using Nvidia A100 from Google Colab Pro, achieving a training loss of 0.031 after 320 steps.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical\">Finetuning of Falcon-7B LLM using QLoRA on Mental Health Conversational Dataset</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 10:02:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "lAibyrinth: A collection of prompts that allow you to play Interactive Fiction games within ChatGPT": {
+            "url": "https://www.emergentmind.com/posts/laibyrinth-a-collection-of-prompts-that-allow-you-to",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT allows you to play interactive text-based adventure games without requiring any external software.</li>\n      <li>The prompts for the games cover a range of themes from hardcore techno DJ stories to cyberpunk adventures and even scenarios based on popular culture like Twin Peaks.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://laibyrinth.blogspot.com/2023/08/a-collection-of-prompts-that-allow-you.html\">lAibyrinth: A collection of prompts that allow you to play Interactive Fiction games within ChatGPT</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 08:03:06 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "VeChain and SingularityNET team up on AI to fight climate change": {
+            "url": "https://www.emergentmind.com/posts/vechain-and-singularitynet-team-up-on-ai-to-fight",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial intelligence firm SingularityNET and blockchain firm VeChain have partnered to integrate blockchain with AI in an effort to reduce carbon emissions.</li>\n      <li>The collaboration aims to enhance automation of manual processes and provide real-time data through merging VeChain\u2019s enterprise data with SingularityNET's advanced AI algorithms.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://cointelegraph.com/news/vechain-and-singularitynet-team-up-on-ai-to-fight-climate-change\">VeChain and SingularityNET team up on AI to fight climate change</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 05:03:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -16917,6 +16983,17 @@
                 2023,
                 8,
                 24
+            ],
+            "email_sent": true
+        },
+        "Code Llama, a state-of-the-art large language model for coding": {
+            "url": "https://www.superpowerdaily.com/p/157-code-llama-a-state-of-the-art-large-language-model-for-coding",
+            "description": "AI Gave a Paralyzed Woman Her Voice Back",
+            "pubdate": "2023-08-25T07:39:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
             ],
             "email_sent": true
         }
