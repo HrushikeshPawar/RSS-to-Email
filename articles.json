@@ -16543,6 +16543,83 @@
                 24
             ],
             "email_sent": true
+        },
+        "AI Isnt Good Enough  - by SK Ventures": {
+            "url": "https://www.emergentmind.com/posts/ai-isn-t-good-enough-by-sk-ventures",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses how the current scarcity in the U.S. workforce has led to an increase in signing bonuses and a surge in automation technologies like AI. However, it argues that current AI is limited and often results in 'so-so automation'\u2014high worker displacement without matching productivity gains.</li>\n      <li>The authors predict that we are nearing the end of the first wave of AI, characterized by limitations and high costs due to scarcity. They suggest that the next wave of AI will require better tools, more refined models and a shift from massive, intermittently-updated models to more lightweight, specific ones.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://skventures.substack.com/p/ai-isnt-good-enough\">AI Isn\u2019t Good Enough  - by SK Ventures</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 03:02:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "IBMS AI Chip May Find Use in Generative AI - IEEE Spectrum": {
+            "url": "https://www.emergentmind.com/posts/ibm-s-ai-chip-may-find-use-in-generative-ai-ieee",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>IBM has developed an AI chip that is more energy efficient than conventional chips at speech recognition, potentially benefiting AI systems like ChatGPT and generative AI used for creating videos and images. The chip uses phase-change memory and can perform computations directly within memory, making it significantly more energy efficient.</li>\n      <li>The new chip has been tested on two speech-recognition neural-network programs and was found to perform as accurately as neural networks run on conventional hardware, but seven times faster and 14 times more energy efficiently. Despite its potential, the chip still lacks certain components needed to process data and the development of analog AI is considered to be in its early stages.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://spectrum.ieee.org/analog-ai-ibm\">IBM\u2019S AI Chip May Find Use in Generative AI - IEEE Spectrum</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 02:02:11 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "OpenAI's Latest ChatGPT Version Tries to Hide Training on Copyrighted Material": {
+            "url": "https://www.emergentmind.com/posts/openai-s-latest-chatgpt-version-tries-to-hide-training",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI's ChatGPT, along with other AI models from Google, Meta, and Microsoft, now attempts to avoid using exact phrasing from copyrighted works in its responses, a new research by ByteDance suggests.</li>\n      <li>Despite these efforts, the AI models still exhibit 'leakage' of copyrighted material, given that they have been trained on large volumes of copyrighted material. The study highlights the need for AI tools to protect copyrighted content and detect maliciously designed prompts.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8\">OpenAI's Latest ChatGPT Version Tries to Hide Training on Copyrighted Material</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 02:02:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "Toward AGI  What is Missing?. Artificial General Intelligence (AGI)": {
+            "url": "https://www.emergentmind.com/posts/toward-agi-what-is-missing-artificial-general",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial General Intelligence (AGI) refers to AI systems that can meet or surpass human performance in a wide array of tasks, potentially leading to a society where no human wants are unfulfilled. However, it also poses risks such as socio-economic imbalance and potential misuse by super-intelligent AGI.</li>\n      <li>The current state of AGI development is still lacking in several key areas such as online non-greedy planning technologies, world model technology, and the utilization of Large Language Models (LLMs). These missing aspects are interconnected, with each one posing its own set of challenges.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://mark-riedl.medium.com/toward-agi-what-is-missing-c2f0d878471a\">Toward AGI \u2014 What is Missing?. Artificial General Intelligence (AGI)\u2026</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 00:04:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "Google Introduces MediaPipe for Raspberry Pi with an Easy-to-Use Python SDK for On-Device Machine Learning - MarkTechPost": {
+            "url": "https://www.emergentmind.com/posts/google-introduces-mediapipe-for-raspberry-pi-with-an",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Google has introduced a new framework called MediaPipe for Raspberry Pi, providing an easy-to-use Python SDK to facilitate various machine learning tasks on embedded systems.</li>\n      <li>The new SDK simplifies the development process, offers pre-built components for machine learning implementation, and caters specifically to Raspberry Pi devices, promoting more efficient and user-friendly on-device machine learning.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.marktechpost.com/2023/08/24/google-introduces-mediapipe-for-raspberry-pi-with-an-easy-to-use-python-sdk-for-on-device-machine-learning/\">Google Introduces MediaPipe for Raspberry Pi with an Easy-to-Use Python SDK for On-Device Machine Learning - MarkTechPost</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 00:04:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "The Major Companies and Media Outlets Blocking OpenAI's Crawler GPTBot": {
+            "url": "https://www.emergentmind.com/posts/the-major-companies-and-media-outlets-blocking-openai-s",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI's web crawler GPTBot has been blocked by numerous large companies, such as Amazon and The New York Times. GPTBot, revealed two weeks ago, is used to collect data from the internet to train OpenAI's chatbot, ChatGPT.</li>\n      <li>The six largest websites now blocking GPTBot are amazon.com, nytimes.com, cnn.com, wikihow.com, shutterstock.com, and quora.com. Websites block GPTBot by adding it to the 'disallow' list in a file called robots.txt.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.businessinsider.com/chatgpt-openai-gptbot-crawler-major-companies-media-outlets-blocking-2023-8?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=insider-artificial-sub-post\">The Major Companies and Media Outlets Blocking OpenAI's Crawler GPTBot</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 00:04:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
+        },
+        "U.S. Judge Says AI-Generated Work Can't Be Copyrighted Because It's Not Made by Humans": {
+            "url": "https://www.emergentmind.com/posts/u-s-judge-says-ai-generated-work-can-t-be-copyrighted",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A U.S. judge has ruled that content created by Artificial Intelligence (AI) cannot be protected by copyright laws as it is not created by humans.</li>\n      <li>This ruling has implications for companies that create AI art, like OpenAI's DALL-E, and complicates the rules about owning AI-created content.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://theswedishtimes.se/articles/u-s-judge-says-ai-generated-work-cant-be-copyrighted-because-its-not-made-by\">U.S. Judge Says AI-Generated Work Can't Be Copyrighted Because It's Not Made by Humans</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 25 Aug 2023 00:04:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                25
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
