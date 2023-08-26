@@ -8534,6 +8534,17 @@
                 20
             ],
             "email_sent": true
+        },
+        "How to Define an AI Problem": {
+            "url": "https://towardsai.net/p/machine-learning/how-to-define-an-ai-problem",
+            "description": "Last Updated on August 26, 2023 by Editorial Team Author(s): Jeff Holmes MS MSCS Originally published on Towards AI. A better way to ask an AI/ML question Towfiqu barbhuiya on Unsplash With more than 25 years of software engineering experience, I have answered a lot of questions from software developers who are getting started with artificial intelligence (AI) and machine learning (ML), so I thought I would share some tips on posting AI/ML questions on chat forums such as Slack and Discord. Background A common misconception by some users is that they can just \u201cpost\u201d a question. However, chat forums are different in principle from online forums such as stackoverflow. A chat forum tends to be more one-on-one in nature, so it tends to require more time and effort to answer a question. Thus, it is best to take a little time upfront to properly describe the problem, especially when sending a direct message (DM). Otherwise, it is likely that you will be given the wrong answer (which is quite common). Be mindful of the background and experience of the users giving you advice. Many Discord users are high school and undergraduate college students with no AI/ML or software engineering experience. I list my credentials on my profile (full disclosure). The first step in solving an AI/ML problem is to be able to describe and understand the problem in detail. Overview Here is an overview of my tips for describing an AI/ML problem [1]: Give some description of your background and experience. Describe the problem, including the category of ML problem. Describe the dataset in detail and be willing to share your dataset(s). Describe any data preparation and feature engineering steps that you have done. Describe any models that you have tried. Favor text and tables over plots and graphs. Avoid asking users to help debug your code. Since some users access Discord using mobile devices, it is best to share your problem description and/or code snippets via GitHub Gist, Pastebin, etc., and share the link on the forum. It is usually best to share files via DM or create a thread so that other users do not have to search the channels for your files and posts. Keep in mind that Discord channel content is unstructured, so it can be difficult to search channels to find your original post(s). If someone volunteers to help you, it can be helpful to copy/paste your original post if you send them a DM. If you are having coding issues, it is best to share a link to the code/algorithm source and say that you are having problems with the implementation rather than posting code snippets and asking \u201cwhat is wrong with my code?\u201d Details You should briefly provide the following (1\u20132 sentences per item) in your forum post: 1. Give some description of your background and experience. It is best to let users know upfront if you are in high school, university, graduate school, researcher, experienced professional, etc. Many Discord users do not realize that many questions take a lot of time to research in order to provide an answer. Therefore, it is only fair that you give a short description of your background. I learned this lesson after spending considerable time trying to help beginners (unknown to me) who proceeded to solve the wrong problem using the wrong algorithm. 2. Describe the problem. In a few sentences, describe the problem, including the type of ML problem if known (Numeric: classification, regression: Image: object classification, object detection, object recognition: Text: sentiment analysis, topic modeling, text generation, etc.). This step may include a literature review. However, if you are able to find some articles solving the same problem, then that should work for now. Part of problem formulation is deciding whether you are dealing with supervised, unsupervised, reinforcement learning, etc. [1]. What is the goal of the model? Classify, predict, detect, translate, etc. What is the goal of the project? Research, engineering, commercial application, hobby, etc. 3. Describe the dataset in detail and be willing to share your dataset. Describe the dataset, including the input features and target feature(s). It is best to share summary statistics of the data, including counts of any discrete or categorical features, including the target feature. It is best to share the entire dataset (if you want someone to help you then you must be open and honest). If, for some reason, you are unable to share the dataset, you need to clearly state this and why you cannot share the dataset. Please note that Discord users are more than willing to donate their time to give free consulting advice, but it is unethical to try to ask vague questions in an effort to get free advice on a commercial or research project that you are getting paid to do. If this is the case, you should be diligent in stating this fact up front repeatedly (do not expect other Discord users to go data mining for your original post). 4. Describe any data preparation and feature engineering steps that you have done. The steps and techniques for data preparation and cleaning will vary by dataset. The most common steps are: fixing structural errors, handling missing or duplicate data, and filtering outliers. Feature engineering can be used to help an algorithm and improve model performance, which includes creating new features, combining sparse classes, removing unused features, and adding dummy variables. Some machine learning algorithms perform much better if all of the variables are scaled to the same range using normalization or standardization techniques. 5. Describe the models that you have tried (you should have tried at least one). After performing data preparation and feature engineering, the first step should be to evaluate several baseline models to be used later for comparison. The final model(s) that you select should perform better on your dataset than the baseline models. 6. Favor text and tables over plots and graphs. It is best not to plot more than one metric on [&#8230;]",
+            "pubdate": "Sat, 26 Aug 2023 00:02:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                26
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -16684,6 +16695,50 @@
                 2023,
                 8,
                 25
+            ],
+            "email_sent": true
+        },
+        "Ahead of AI #11: New Foundation Models": {
+            "url": "https://www.emergentmind.com/posts/ahead-of-ai-11-new-foundation-models",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the release of the Llama 2 base and chat models along with CodeLlama, the latest in the open-source AI large language model (LLM) landscape. It also explores the leaked details of the GPT-4 model, emerging alternatives to prevalent transformer-based LLMs and OpenAI's new finetuning API.</li>\n      <li>Significant contributions from the open-source community in the development of finetuning technologies such as Llama-Adapters, LoRA, QLoRA and more are noted. The author also mentions his anticipation for the innovations that will emerge from the NeurIPS LLM Efficiency Challenge.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models\">Ahead of AI #11: New Foundation Models</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 26 Aug 2023 12:02:36 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                26
+            ],
+            "email_sent": true
+        },
+        "Celestial Convergence: Triumph in the Intergalactic War Against Alien Invasion": {
+            "url": "https://www.emergentmind.com/posts/celestial-convergence-triumph-in-the-intergalactic-war",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>In the story, humans establish a colony on a distant planet Eldoria in 2187, but encounter an alien species, the Var'Nok, leading to tensions and a potential war. However, the humans and aliens eventually establish a cooperative relationship, leading to unity and shared survival.</li>\n      <li>The story concludes with the legacy of Eldoria inspiring other civilizations across the galaxy and becomes a beacon of hope, showing that unity and empathy can overcome even the direst situations.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.beyondhuman.net/post/descent-into-darkness-the-battle-for-eldoria\">Celestial Convergence: Triumph in the Intergalactic War Against Alien Invasion</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 26 Aug 2023 09:01:52 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                26
+            ],
+            "email_sent": true
+        },
+        "trholding/llama2.c": {
+            "url": "https://www.emergentmind.com/posts/release-l2e-0-1-build-trholding-llama2-c-github",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides information about signing in and out of different tabs or windows.</li>\n      <li>It also explains how to switch accounts and refresh the session in another tab or window.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1\">trholding/llama2.c</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 26 Aug 2023 07:02:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                26
+            ],
+            "email_sent": true
+        },
+        "Generate \"scrumptious\" 500 times": {
+            "url": "https://www.emergentmind.com/posts/generate-scrumptious-500-times",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article details a process to generate the word 'scrumptious' 500 times for a project.</li>\n      <li>After several attempts and calculations, it is determined the word needed to be output approximately 6000 times due to the system's limitations.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/4683453a-6197-41b8-bdb9-0451b6024a14\">Generate &quot;scrumptious&quot; 500 times</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 26 Aug 2023 04:03:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                26
             ],
             "email_sent": true
         }
