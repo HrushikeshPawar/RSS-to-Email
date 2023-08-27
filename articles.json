@@ -2592,6 +2592,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "Built-in Datasets in R": {
+            "url": "https://machinelearningmastery.com/built-in-datasets-in-r/",
+            "description": "<p>Last Updated on August 27, 2023 The ecosystem in R contains not only the function libraries to help you perform statistical analysis but also the data library that gives you some famous datasets to test out your program. There are a lot of built-in datasets in R. In this post, you will: Learn some of [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/built-in-datasets-in-r/\" rel=\"nofollow\">Built-in Datasets in R</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Sun, 27 Aug 2023 09:25:17 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                27
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
@@ -16757,6 +16768,61 @@
             "url": "https://www.emergentmind.com/posts/boost-your-site-s-ranking-with-chatgpt-micah-levason",
             "description": "<p>Summary:</p>\n  <ul>\n      <li>The SEO Analysis Tool allows users to make their website rank higher in search engines like Google and Bing by following SEO best practices. It is capable of analyzing a wide range of SEO factors such as keyword comparison, broken link count, sitemap availability, favicon, word count, page title, meta description, H1 and H2 tags, and more.</li>\n      <li>It also checks other factors like canonical URL, viewport settings, language attribute, images without alt text, links without title, HTTPS usage, Facebook and Twitter integration, image sizes, inbound and outbound links, mobile friendliness, page speed score, load time, social media presence, and SSL certificate.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.micahlevason.com/seo\">Boost Your Site's Ranking with ChatGPT</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
             "pubdate": "Sun, 27 Aug 2023 00:03:18 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                27
+            ],
+            "email_sent": true
+        },
+        "Eileen Isagon Skyers: In the age of AI art, what can originality look like?": {
+            "url": "https://www.emergentmind.com/posts/eileen-isagon-skyers-in-the-age-of-ai-art-what-can",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI models are being trained on classic works to generate endless streams of portraits.</li>\n      <li>Media art curator, Eileen Isagon Skyers, presents art that combines AI with human imagination to create unique, otherworldly forms.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.ted.com/talks/eileen_isagon_skyers_in_the_age_of_ai_art_what_can_originality_look_like\">Eileen Isagon Skyers: In the age of AI art, what can originality look like?</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 27 Aug 2023 13:03:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                27
+            ],
+            "email_sent": true
+        },
+        "Nvidia, beware! IBM has a new analog AI chip that could give the H100 a run for its money": {
+            "url": "https://www.emergentmind.com/posts/nvidia-beware-ibm-has-a-new-analog-ai-chip-that-could",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>IBM has created a new analog AI chip that is 14 times more energy efficient than current leading components, potentially changing the future of AI development.</li>\n      <li>It mimics the human brain, can encode 35 million phase-change memory devices per component, and is superior in transcribing audio accurately compared to digital hardware setups.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.techradar.com/pro/nvidia-beware-ibm-has-a-new-analog-ai-chip-that-could-give-the-h100-a-run-for-its-money\">Nvidia, beware! IBM has a new analog AI chip that could give the H100 a run for its money</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 27 Aug 2023 13:03:11 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                27
+            ],
+            "email_sent": true
+        },
+        "Normcore LLM Reads  GitHub": {
+            "url": "https://www.emergentmind.com/posts/normcore-llm-reads-github",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the need for resources on how to debug and monitor Large Language Models (LLM) in production. It questions if traditional system KPIs like throughput and latency can apply to LLM.</li>\n      <li>It also mentions the importance of understanding the effects of prompts on the performance of the model and how to select the right batch size. Additionally, the article touches on the inaccuracies found in the gzip approach for text classification.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e\">Normcore LLM Reads \u00b7 GitHub</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 27 Aug 2023 13:03:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                27
+            ],
+            "email_sent": true
+        },
+        "New chat": {
+            "url": "https://www.emergentmind.com/posts/new-chat",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article explores the concept of equating the Big Bang theory with God's creation from a Judeo-Christian perspective, and the potential for science and religion to coexist harmoniously. It discusses the increasing complexity in both scientific and theological descriptions, from fundamental particles to complex organisms.</li>\n      <li>The article also examines the social and cognitive evolution that led to the emergence of religious practices and STEM disciplines. It highlights the limitations of human perception and understanding in fully grasping the physical, chemical, and spiritual aspects of reality.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/2331816c-b06c-48ae-be0e-5e4ad6d64bc7\">New chat</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 27 Aug 2023 09:02:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                27
+            ],
+            "email_sent": true
+        },
+        "Generative Adversarial Networks (GANs): Understanding Their Function And Applications - The Vaisheshika Times": {
+            "url": "https://www.emergentmind.com/posts/generative-adversarial-networks-gans-understanding",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Generative Adversarial Networks (GANs) are advanced deep-learning models used for generating realistic, previously unseen data samples. They consist of two main components: a generator, which creates new data, and a discriminator, which tries to differentiate between real and generated data. GANs are used in diverse fields like art, gaming, and research.</li>\n      <li>Despite their popularity, GANs have some limitations. They can sometimes suffer from 'mode collapse', where they produce limited variations of the same output, and they can be difficult to train. There are also ethical concerns with the misuse of GANs, especially in the creation of deep fakes.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://thevaisheshikatimes.com/generative-adversarial-networks/\">Generative Adversarial Networks (GANs): Understanding Their Function And Applications - The Vaisheshika Times</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 27 Aug 2023 08:02:55 +0000",
             "pubdate_parsed": [
                 2023,
                 8,
