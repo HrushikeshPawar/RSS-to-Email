@@ -8556,6 +8556,39 @@
                 26
             ],
             "email_sent": true
+        },
+        "Overview of Object Detection Evaluation Metrics": {
+            "url": "https://towardsai.net/p/machine-learning/overview-of-object-detection-evaluation-metrics",
+            "description": "Last Updated on August 28, 2023 by Editorial Team Author(s): Youssef Hosni Originally published on Towards AI. How to Measure the Accuracy of Object Detection Models? This member-only story is on us. Upgrade to access all of Medium. When evaluating the performance of an object detector, we use two main evaluation metrics: FPS (frame-per-second) to measure the network detection speed and mAP (mean Average Precision) to measure the network precision. In this article, we will go through each of them, discussing what they mean and how to calculate each of them. FPS to Measure the Detection SpeedmAP to Measure the Network Precision2.1. Intersection Over Union (IoU)2.2. Precision-Recall Curve (PR Curve) When it comes to object detection algorithms, processing speed is of paramount importance. The most common metric that is&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 28 Aug 2023 04:02:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                28
+            ],
+            "email_sent": true
+        },
+        "Log-normal Distribution Simply Explained": {
+            "url": "https://towardsai.net/p/machine-learning/log-normal-distribution-simply-explained",
+            "description": "Last Updated on August 28, 2023 by Editorial Team Author(s): Egor Howell Originally published on Towards AI. A slight modification of the famous normal distribution This member-only story is on us. Upgrade to access all of Medium. Photo by James Yarema on Unsplash The normal distribution is a household name, particularly in the fields of data science and machine learning. However, have you heard of the log-normal distribution? It has applications in a wide range of industries, from Biology to Finance, therefore, it\u2019s a very useful concept for Data Scientists to understand. In this article, we will delve into the theory and applications of this distribution. The log-normal distribution is relatively easy to understand. A random variable X is part of the log-normal distribution if its logarithm is&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 28 Aug 2023 02:02:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                28
+            ],
+            "email_sent": true
+        },
+        "Build Robust ML Backends with Pydantic and Langchain": {
+            "url": "https://towardsai.net/p/machine-learning/build-robust-ml-backends-with-pydantic-and-langchain",
+            "description": "Last Updated on August 28, 2023 by Editorial Team Author(s): Marcello Politi Originally published on Towards AI. Learn how to prevent users and LLMs mistakes in your code Photo by Bradley Ziffer on Unsplash This member-only story is on us. Upgrade to access all of Medium. It is well known that data scientists are not usually among the best programmers. quite often, they have advanced theoretical skills, and they can do well with mathematics and statistics, but they are not able to independently develop a full-stack application, even a simple one. I am the first to write these types of articles as an excuse to improve my programming skills myself. Today I am going to tell you about Pydantic a library that is now a standard in Python programming used mostly&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 28 Aug 2023 00:02:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                28
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -16840,6 +16873,39 @@
                 28
             ],
             "email_sent": true
+        },
+        "Refik Anadol: How AI art could enhance humanity's collective memory": {
+            "url": "https://www.emergentmind.com/posts/refik-anadol-how-ai-art-could-enhance-humanity-s",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Media artist Refik Anadol uses AI algorithms to visualize the disappearing wonders of nature such as coral reefs, flowers, and rainforests.</li>\n      <li>Anadol questions whether we can use AI to preserve our memories of the fading natural world and supports Re:wild, a nonprofit protecting and restoring the wild.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.ted.com/talks/refik_anadol_how_ai_art_could_enhance_humanity_s_collective_memory\">Refik Anadol: How AI art could enhance humanity's collective memory</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 28 Aug 2023 12:02:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                28
+            ],
+            "email_sent": true
+        },
+        "Generative AI and intellectual property  Benedict Evans": {
+            "url": "https://www.emergentmind.com/posts/generative-ai-and-intellectual-property-benedict",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Generative AI is pushing the boundaries of intellectual property (IP) laws, raising questions about ownership and compensation. For instance, if an AI can create a song in the style of a particular artist or mimic a famous voice, should the original artists be compensated?</li>\n      <li>There are also concerns about AI's impact on news and other content mediums. As AI technology like ChatGPT can summarize news from multiple sources, it raises questions about copyright and fair use. While these AI tools provide many possibilities, they also present new challenges in terms of their usage and the law.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property\">Generative AI and intellectual property \u2014 Benedict Evans</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 28 Aug 2023 10:03:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                28
+            ],
+            "email_sent": true
+        },
+        "Google Gemini Eats The World  Gemini Smashes GPT-4 By 5X, The GPU-Poors": {
+            "url": "https://www.emergentmind.com/posts/google-gemini-eats-the-world-gemini-smashes-gpt-4-by",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Google's new Gemini model outperforms GPT-4 by five times, potentially transforming the AI landscape. Gemini's rapid iteration, supported by Google's impressive training systems, gives it a competitive edge in the AI industry.</li>\n      <li>Despite the dominance of GPU-rich firms, Google's Gemini is set to redefine the AI frontier, posing a significant challenge for the 'GPU-poors'. The implications of Gemini's success and its impact on AI firms like OpenAI, Anthropic, and Google Deepmind are profound.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini\">Google Gemini Eats The World \u2013 Gemini Smashes GPT-4 By 5X, The GPU-Poors</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 28 Aug 2023 08:03:11 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                28
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -17148,6 +17214,17 @@
                 2023,
                 8,
                 25
+            ],
+            "email_sent": true
+        },
+        "AI Girlfriends: Addressing the Loneliness Epidemic?": {
+            "url": "https://www.superpowerdaily.com/p/158-ai-girlfriends-addressing-the-loneliness-epidemic",
+            "description": "Stephen King Isn't Afraid of AI",
+            "pubdate": "2023-08-28T06:58:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                28
             ],
             "email_sent": true
         }
