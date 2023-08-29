@@ -516,6 +516,17 @@
                 28
             ],
             "email_sent": true
+        },
+        "Identifying AI-generated images with SynthID": {
+            "url": "https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid",
+            "description": "Today, in partnership with Google Cloud, we\u2019re beta launching SynthID, a new tool for watermarking and identifying AI-generated images. It\u2019s being released to a limited number of Vertex AI customers using Imagen, one of our latest text-to-image models that uses input text to create photorealistic images. This technology embeds a digital watermark directly into the pixels of an image, making it imperceptible to the human eye, but detectable for identification. While generative AI can unlock huge creative potential, it also presents new risks, like creators spreading false information \u2014 both intentionally or unintentionally. Being able to identify AI-generated content is critical to empowering people with knowledge of when they\u2019re interacting with generated media, and for helping prevent the spread of misinformation.",
+            "pubdate": "Tue, 29 Aug 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
+            ],
+            "email_sent": true
         }
     },
     "Nvidia Blog": {
@@ -1893,6 +1904,17 @@
                 24
             ],
             "email_sent": true
+        },
+        "Advantage AI: Elevated Creative Workflows in NVIDIA Canvas, Blender, TikTok and CapCut": {
+            "url": "https://blogs.nvidia.com/blog/2023/08/29/janice-journal-canvas-blender-tiktok-capcut/",
+            "description": "Janice K. Lee, a.k.a Janice.Journal \u2014 the subject of this week\u2019s In the NVIDIA Studio installment \u2014 is a TikTok sensation using AI to accelerate her creative process, find inspiration and automate repetitive tasks.",
+            "pubdate": "Tue, 29 Aug 2023 13:00:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -2601,6 +2623,17 @@
                 2023,
                 8,
                 27
+            ],
+            "email_sent": true
+        },
+        "Logic, Flow Control, and Functions in R": {
+            "url": "https://machinelearningmastery.com/logic-flow-control-and-functions-in-r/",
+            "description": "<p>R is a procedural programming language. Therefore, it has the full set of flow control syntax like many other languages. Indeed, the flow control syntax in R is similar to Java and C. In this post, you will see some examples of using the flow control syntax in R. Let&#8217;s get started. Overview This post [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/logic-flow-control-and-functions-in-r/\" rel=\"nofollow\">Logic, Flow Control, and Functions in R</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Tue, 29 Aug 2023 08:17:53 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
             ],
             "email_sent": true
         }
@@ -5534,6 +5567,17 @@
                 2023,
                 8,
                 2
+            ],
+            "email_sent": true
+        },
+        "How 3 healthcare organizations are using generative AI": {
+            "url": "https://blog.google/technology/health/cloud-next-generative-ai-health/",
+            "description": "Medical themed graphic",
+            "pubdate": "Tue, 29 Aug 2023 12:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
             ],
             "email_sent": true
         }
@@ -8589,6 +8633,39 @@
                 28
             ],
             "email_sent": true
+        },
+        "Advanced Tutorial: How to Master Matplotlib Like an Absolute Boss": {
+            "url": "https://towardsai.net/p/machine-learning/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss",
+            "description": "Last Updated on August 29, 2023 by Editorial Team Author(s): Bex T. Originally published on Towards AI. Use Matplotlib like never before This member-only story is on us. Upgrade to access all of Medium. Image by me with Midjourney When I was a beginner learning data visualization, I used to have a rule \u2014 never, ever visit the Matplotlib documentation. Nothing good ever came out of there. When I was on its pages, my eyes would process English words but, somehow, they were interpreted into my brain like I was deciphering a foreign language. Then I would stumble upon some masterpieces like these, and I would think, do I even use the same library? Even if you are a seasoned programmer, I am sure you\u2019ve faced&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 29 Aug 2023 04:02:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
+            ],
+            "email_sent": true
+        },
+        "Discrete-Time Markov Chains  Identifying Winning Customer Journeys in a Cashback Campaign": {
+            "url": "https://towardsai.net/p/machine-learning/discrete-time-markov-chains-identifying-winning-customer-journeys-in-a-cashback-campaign",
+            "description": "Last Updated on August 29, 2023 by Editorial Team Author(s): Abhijeet Talaulikar Originally published on Towards AI. Modeling customer interactions in a digital campaign as discrete-time Markov Chains This member-only story is on us. Upgrade to access all of Medium. AI Generated Measurement and attribution are a widely discussed topic within the data science community. And just as we were making scientific progress in the practice, there were disruptions from policies that threatened to discontinue cookies and tracking. In recent times, a forgotten modeling technique called Marketing Mix Modeling (MMM) has regained traction. It works across all digital and offline channels with reasonable accuracy. However, when it comes to digital-only campaigns where cookies aren\u2019t used, there is a superior technique you can apply. We will discuss that in this article&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 29 Aug 2023 02:02:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
+            ],
+            "email_sent": true
+        },
+        "What is MetaGPT? LLM Agents Collaborating to Solve Complex Tasks": {
+            "url": "https://towardsai.net/p/machine-learning/what-is-metagpt-llm-agents-collaborating-to-solve-complex-tasks",
+            "description": "Last Updated on August 29, 2023 by Editorial Team Author(s): Louis Bouchard Originally published on Towards AI. Watch the video! This member-only story is on us. Upgrade to access all of Medium. Originally published on louisbouchard.ai, read it 2 days before on my blog! https://www.youtube.com/embed/YtxMderNrzU Thanks to GPT and the recent large language models, we\u2019ve seen the popularization of a new type of AI-based system\u2026 agents. An agent is basically an AI model like ChatGPT that can access and interact with one or more applications. Imagine asking ChatGPT to create a PowerPoint for you. But the whole thing, not just the text on each slide. The layout and images too. It is kind of trying to imitate a human being for a specific&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 29 Aug 2023 00:02:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -10358,6 +10435,17 @@
                 2023,
                 8,
                 18
+            ],
+            "email_sent": true
+        },
+        "Conversation AI: What it is and top use cases": {
+            "url": "https://www.assemblyai.com/blog/conversation-ai-what-it-is-top-use-cases/",
+            "description": "This article examines what Conversation AI is, how it works, and some of its top use cases.",
+            "pubdate": "Tue, 29 Aug 2023 12:57:53 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
             ],
             "email_sent": true
         }
@@ -16928,6 +17016,28 @@
                 29
             ],
             "email_sent": true
+        },
+        "AI crap": {
+            "url": "https://www.emergentmind.com/posts/ai-crap",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Machine learning and AI are likely to cause significant shifts in society, including reducing the labor force for creative work, eliminating humans from customer-support roles, and increasing the presence of convincing spam and phishing content.</li>\n      <li>The AI revolution is not expected to bring about the so-called 'singularity', but rather, is likely to make the world worse through its pervasive influence on various aspects of life, such as media, politics, and the economy.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html\">AI crap</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 29 Aug 2023 10:02:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
+            ],
+            "email_sent": true
+        },
+        "25 Best Movies exploring concept of AI (1968 -2023 ) I bet you havent watched all": {
+            "url": "https://www.emergentmind.com/posts/25-best-movies-exploring-concept-of-ai-1968-2023-i",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>This article lists and reviews the top 25 movies that explore the concept of artificial intelligence (AI) from 1968 to 2023, including famous movies like 'The Terminator', 'Her', and 'A.I. Artificial Intelligence'.</li>\n      <li>The movies reviewed not only showcase how AI has been portrayed in cinema over the years, but also highlight the varying perspectives of AI, from sentient beings to potential threats.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@aiuniverse/25-best-movies-exploring-concept-of-ai-1968-2023-i-bet-you-havent-watched-all-e1fc9df67048\">25 Best Movies exploring concept of AI (1968 -2023 ) I bet you haven\u2019t watched all</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 29 Aug 2023 07:03:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -17247,6 +17357,17 @@
                 2023,
                 8,
                 28
+            ],
+            "email_sent": true
+        },
+        "OpenAI Released the Most Powerful Version of ChatGPT": {
+            "url": "https://www.superpowerdaily.com/p/159-openai-released-the-most-powerful-version-of-chatgpt",
+            "description": "You can now generate text in your AI images",
+            "pubdate": "2023-08-29T06:23:00Z",
+            "pubdate_parsed": [
+                2023,
+                8,
+                29
             ],
             "email_sent": true
         }
