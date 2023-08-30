@@ -9196,6 +9196,17 @@
                 11
             ],
             "email_sent": true
+        },
+        "Fixing AI Hallucinations: The Importance of Explainability in AI (XAI)": {
+            "url": "https://www.louisbouchard.ai/xai-2/",
+            "description": "An introduction to explainable AI",
+            "pubdate": "Wed, 30 Aug 2023 00:48:57 GMT",
+            "pubdate_parsed": [
+                2023,
+                8,
+                30
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
@@ -17036,6 +17047,28 @@
                 2023,
                 8,
                 29
+            ],
+            "email_sent": true
+        },
+        "Beijing City Bans AI-Generated Prescription; What Big Tech Earnings Say About AI; Rise of AI in China's Small Cities": {
+            "url": "https://www.emergentmind.com/posts/beijing-city-bans-ai-generated-prescription-what",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Beijing city has issued a new regulation banning AI-generated prescriptions in telemedicine, reflecting a trend of balancing technology adoption with patient safety. In other news, Chinese tech giants including Alibaba, Tencent, and Baidu have reported on the role of AI in their latest earnings, with developments in cloud infrastructure, foundational models, and search capabilities.</li>\n      <li>The use of large language models (LLMs) like ChatGPT and ERNIE Bot is on the rise in China's lower-tier cities, with young people using these tools to improve productivity and generate income. However, limitations of LLMs, such as disjointed AI art and imaginary academic citations, remain.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://recodechinaai.substack.com/p/beijing-city-bans-ai-generated-prescription\">\ud83d\ude45\ud83c\udffb\u200d\u2642\ufe0fBeijing City Bans AI-Generated Prescription; What Big Tech Earnings Say About AI; Rise of AI in China's Small Cities</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 30 Aug 2023 03:03:36 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                30
+            ],
+            "email_sent": true
+        },
+        "CoTracker: It is Better to Track Together": {
+            "url": "https://www.emergentmind.com/posts/cotracker-it-is-better-to-track-together",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>CoTracker is a proposed architecture in this paper for video motion prediction that tracks multiple points in a video simultaneously. It utilizes a transformer network to model the correlation of different points in time, providing a more accurate and efficient method for point tracking.</li>\n      <li>The new method surpasses existing deep learning methods that track points individually, as it takes into account the strong correlation that can exist between points, especially when they arise from the same physical object.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://co-tracker.github.io/\">CoTracker: It is Better to Track Together</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 30 Aug 2023 02:01:32 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                30
             ],
             "email_sent": true
         }
