@@ -5591,6 +5591,17 @@
                 29
             ],
             "email_sent": true
+        },
+        "Bringing generative AI in Search to more people around the world": {
+            "url": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
+            "description": "The Search bar superimposed against an abstract blue and white background.",
+            "pubdate": "Thu, 31 Aug 2023 00:30:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                8,
+                31
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
