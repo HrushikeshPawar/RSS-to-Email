@@ -8721,6 +8721,28 @@
                 30
             ],
             "email_sent": true
+        },
+        "Reinforcement Learning: Dynamic Programming and Monte Carlo  Part 2": {
+            "url": "https://towardsai.net/p/machine-learning/reinforcement-learning-dynamic-programming-and-monte-carlo-part-2",
+            "description": "Last Updated on September 1, 2023 by Editorial Team Author(s): Tan Pengshi Alvin Originally published on Towards AI. Introducing two simple iterative techniques to solve the Markov Decision Process This member-only story is on us. Upgrade to access all of Medium. Image by Wil Stewart on Unsplash In the previous article \u2014 Part 1 \u2014 we have formulated the Markov Decision Process (MDP) as a paradigm to solve any Reinforcement Learning (RL) problem. However, the overarching framework discussed did not mention a systematic solution to the MDP. We have ruled out using linear techniques \u2014 like matrix inversion \u2014 and briefly raised the possibility of using iterative techniques to solve the MDP. To revisit the idea of MDP, check out the Part I below: Introducing the backbone of Reinforcement Learning \u2014 The&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 01 Sep 2023 04:02:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                1
+            ],
+            "email_sent": true
+        },
+        "FuncReAct: ReAct Agent Using OpenAI Function Calling": {
+            "url": "https://towardsai.net/p/machine-learning/funcreact-react-agent-using-openai-function-calling",
+            "description": "Last Updated on September 1, 2023 by Editorial Team Author(s): Vatsal Saglani Originally published on Towards AI. Part 1 \u2014 Understanding Prompt Engineering Techniques This member-only story is on us. Upgrade to access all of Medium. Prompting techniques. If you still don\u2019t know what prompting is, then you are probably living under a rock or probably just woke up from a comma. Prompting, with respect to LLMs and Generative AI, refers to the act of formatting the commands you need to provide the model to receive the desired output. A good prompt can generate great results whereas a bad prompt can spoil the experience. The responses from the LLM or any other Generative AI model are as good as the prompts (commands) provided to it. The output&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 01 Sep 2023 02:02:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                1
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -17214,6 +17236,61 @@
                 1
             ],
             "email_sent": true
+        },
+        "Midjourney AI can now inpaint": {
+            "url": "https://www.emergentmind.com/posts/midjourney-ai-can-now-inpaint",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Midjourney AI has introduced a new feature called 'Inpainting', which allows users to customize their AI generated images more effectively and fix any parts that weren't right in the initial generation.</li>\n      <li>The Inpainting feature allows users to create variations of the same image, swap accessories, change larger parts of the image and even put different characters in the same environment.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/seeds-for-the-future/midjourney-ai-can-finally-inpaint-1f8a01c7bd15?sk=0794ed25d1afe0b00a9c1c25574ca4c1\">Midjourney AI can now inpaint</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 01 Sep 2023 10:22:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                1
+            ],
+            "email_sent": true
+        },
+        "ChatGPT Custom Plugin For API Gateway": {
+            "url": "https://www.emergentmind.com/posts/github-boburmirzo-apisix-api-gateway-chatgpt-plugin",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A custom ChatGPT plugin for API Gateway has been developed, which allows users to add API Gateway features such as authentication, security, and traffic management to their backend APIs.</li>\n      <li>The plugin works by receiving user commands in the chat, which are then forwarded to the Apache APISIX Admin API. This creates a route with the user-specified input configuration, allowing for an innovative method of configuring API Gateway features via a chatbot.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/Boburmirzo/apisix-api-gateway-chatgpt-plugin\">ChatGPT Custom Plugin For API Gateway</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 01 Sep 2023 09:03:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                1
+            ],
+            "email_sent": true
+        },
+        "Mozilla Foundation - Ask Microsoft: Are you using our personal data to train AI?": {
+            "url": "https://www.emergentmind.com/posts/mozilla",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Mozilla Foundation has asked Microsoft whether it plans to use personal data to train its AI systems.</li>\n      <li>The new Microsoft Service Agreement is unclear, even to privacy experts, about the use of personal data from 130 products.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://foundation.mozilla.org/en/campaigns/microsoft-ai/\">Mozilla Foundation - Ask Microsoft: Are you using our personal data to train AI?</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 01 Sep 2023 08:02:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                1
+            ],
+            "email_sent": true
+        },
+        "Animoca subsidiary builds AI and NFT tools for educators": {
+            "url": "https://www.emergentmind.com/posts/animoca-subsidiary-builds-ai-and-nft-tools-for",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>TinyTap, a subsidiary of Animoca Brands, has introduced new AI and NFT features for educators and parents to create educational games and images based on prompts.</li>\n      <li>The new features can generate games within minutes and create dynamic educational images to enhance games and graphics, based on over a decade of TinyTap's extensive teaching data.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://cointelegraph.com/news/animoca-subsidiary-builds-ai-and-nft-tools-for-educators\">Animoca subsidiary builds AI and NFT tools for educators</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 01 Sep 2023 06:03:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                1
+            ],
+            "email_sent": true
+        },
+        "Codebuddy: Not just an AI coding assistant": {
+            "url": "https://www.emergentmind.com/posts/codebuddy-not-just-an-ai-coding-assistant",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Codebuddy is an AI tool that allows effortless sweeping changes in applications, from UI to database, without writing a line of code. It enables multi-file editing, code review and full-featured mobile experience.</li>\n      <li>Users can interact with Codebuddy through a dynamic UI and optional voice input, and can also review AI-suggested changes. Despite its extensive access requirements on GitHub, users find the experience fabulous and hope for competitive pricing.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://codebuddy.ca/\">Codebuddy: Not just an AI coding assistant</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 01 Sep 2023 05:02:55 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                1
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -17566,6 +17643,17 @@
                 2023,
                 8,
                 31
+            ],
+            "email_sent": true
+        },
+        "\"Project Sunshine\" - ChatGPT with special capabilities": {
+            "url": "https://www.superpowerdaily.com/p/162-project-sunshine-chatgpt-with-special-capabilities",
+            "description": "Plus: A Pixar Quality Animation Made with AI for $195",
+            "pubdate": "2023-09-01T06:43:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                1
             ],
             "email_sent": true
         }
