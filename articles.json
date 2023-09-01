@@ -17203,6 +17203,17 @@
                 31
             ],
             "email_sent": true
+        },
+        "Federal Register :: Request Access": {
+            "url": "https://www.emergentmind.com/posts/federal-register-request-access",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Daily Journal of the US Government has limited programmatic access to FederalRegister.gov and eCFR.gov because of aggressive automated scraping. Human users can request access by completing a CAPTCHA and having their IP address added to a list of approved IPs.</li>\n      <li>This access is valid for about three months, after which the process may need to be repeated. Wider IP range requests can be made after initial access is granted.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://unblock.federalregister.gov/\">Federal Register :: Request Access</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 01 Sep 2023 01:02:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                1
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
