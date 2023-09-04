@@ -8776,6 +8776,39 @@
                 2
             ],
             "email_sent": true
+        },
+        "Building Correlation Matrix With P-Values In Python": {
+            "url": "https://towardsai.net/p/machine-learning/building-correlation-matrix-with-p-values-in-python",
+            "description": "Last Updated on September 4, 2023 by Editorial Team Author(s): Adam Ross Nelson Originally published on Towards AI. Producing correlation output beyond the defaults in Python This member-only story is on us. Upgrade to access all of Medium. If you&#039;re a fan of the correlation Matrix, like I am, this article is for you. This article is especially for folks who use Python to generate, display, and analyze correlation matrices. Moreover, this article is for folks who, like me, perhaps came from other statistical analysis tools and who were spoiled by more extensive and informative output than you typically find in Python. Below is what I imagine I look like when I&#039;m angry and frustrated that the default tools in Python do not treat me quite as well&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 04 Sep 2023 04:02:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                4
+            ],
+            "email_sent": true
+        },
+        "The First General-Purpose Visual and Language AI: LLaVA": {
+            "url": "https://towardsai.net/p/machine-learning/the-first-general-purpose-visual-and-language-ai-llava",
+            "description": "Last Updated on September 4, 2023 by Editorial Team Author(s): Louis Bouchard Originally published on Towards AI. LLaVA: Bridging the Gap Between Visual and Language AI with GPT-4 This member-only story is on us. Upgrade to access all of Medium. Originally published on louisbouchard.ai, read it 2 days before on my blog! https://www.youtube.com/embed/Pn1B_L_zAwI GPT-4 is powerful, but did you know that some AIs are built entirely thanks to it? Yes, GPT-4 is so good that it can be used to generate good enough data to train other AI models. And not any model but better models than itself! Liu et al. just used GPT-4 to create a general-purpose language vision model called LLaVA, the first general-purpose model that understands and follows visual and language-based instructions. Basically, a model that has an&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 04 Sep 2023 02:02:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                4
+            ],
+            "email_sent": true
+        },
+        "Build Your First Autocorrection without Machine Learning": {
+            "url": "https://towardsai.net/p/machine-learning/build-your-first-autocorrection-without-machine-learning",
+            "description": "Last Updated on September 4, 2023 by Editorial Team Author(s): Thao Vu Originally published on Towards AI. A step-by-step guide to building your own spell checker. This member-only story is on us. Upgrade to access all of Medium. Photo by Markus Spiske on Unsplash Spell correction is everywhere. When I was writing this article, Grammarly is quietly helping me with the typos. When you input a query to an e-commerce website, it will first go to the correct phase to better match the desired items\u2019 title. Spell correction is no doubt essential for any written communication. It enhances our communication, maintains our professionalism and boosts our productivity. When considering building one, we may quickly come to the one-sizes-fit-all solution: deep learning. However, deep learning is only sometimes the optimal&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Mon, 04 Sep 2023 00:02:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                4
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -10567,6 +10600,17 @@
                 2023,
                 8,
                 29
+            ],
+            "email_sent": true
+        },
+        "What is Residual Vector Quantization?": {
+            "url": "https://www.assemblyai.com/blog/what-is-residual-vector-quantization/",
+            "description": "Neural Audio Compression methods based on Residual Vector Quantization are reshaping the landscape of modern audio codecs. In this guide, learn the basic ideas behind RVQ and how it enhances Neural Compression.",
+            "pubdate": "Mon, 04 Sep 2023 12:05:53 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                4
             ],
             "email_sent": true
         }
@@ -17388,6 +17432,17 @@
                 2023,
                 9,
                 3
+            ],
+            "email_sent": true
+        },
+        "PDF Chat with Node.js, OpenAI and ModelFusion": {
+            "url": "https://www.emergentmind.com/posts/pdf-chat-with-node-js-openai-and-modelfusion",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>This article explains how to build a chatbot that can search and understand PDF content to answer questions using Node.js, OpenAI, and ModelFusion. The chatbot is capable of reading and indexing PDFs for efficient search and delivering precise responses by retrieving relevant content.</li>\n      <li>It explains the processes of loading and parsing PDFs, extracting page numbers and text, indexing pages, and setting up a chat loop. The complete code for the chatbot can be found on GitHub.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://modelfusion.dev/blog/pdf-chat-nodejs\">PDF Chat with Node.js, OpenAI and ModelFusion</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 04 Sep 2023 10:02:03 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                4
             ],
             "email_sent": true
         }
