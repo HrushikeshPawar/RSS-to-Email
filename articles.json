@@ -1937,6 +1937,17 @@
                 31
             ],
             "email_sent": true
+        },
+        "A Perfect Pair: adidas and Covision Media Use AI, NVIDIA RTX to Create Photorealistic 3D Content": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/05/covision-adidas-rtx-ai/",
+            "description": "Creating 3D scans of physical products can be time consuming. Businesses often use traditional methods, like photogrammetry-based apps and scanners, but these can take hours or even days. They also don\u2019t always provide the 3D quality and level of detail needed to make models look realistic in all its applications. Italy-based startup Covision Media is <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/09/05/covision-adidas-rtx-ai/\">Read article &#62;</a>",
+            "pubdate": "Tue, 05 Sep 2023 13:00:44 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                5
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -2656,6 +2667,17 @@
                 2023,
                 8,
                 29
+            ],
+            "email_sent": true
+        },
+        "Generating Random Numbers in R": {
+            "url": "https://machinelearningmastery.com/generating-random-numbers-in-r/",
+            "description": "<p>Last Updated on September 5, 2023 Whether working on a machine learning project, a simulation, or other models, you need to generate random numbers in your code. R as a programming language, has several functions for random number generation. In this post, you will learn about them and see how they can be used in [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/generating-random-numbers-in-r/\" rel=\"nofollow\">Generating Random Numbers in R</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Tue, 05 Sep 2023 08:59:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                5
             ],
             "email_sent": true
         }
@@ -8809,6 +8831,28 @@
                 4
             ],
             "email_sent": true
+        },
+        "From Oppenheimer to Generative AI: Valuable Takeaways for Enterprises Today": {
+            "url": "https://towardsai.net/p/machine-learning/from-oppenheimer-to-generative-ai-valuable-takeaways-for-enterprises-today",
+            "description": "Last Updated on September 5, 2023 by Editorial Team Author(s): Emil Novakov Originally published on Towards AI. From Oppenheimer to Generative AI: Valuable Takeaways for Enterprises Today Explore the evolution of AI for enterprises as we draw parallels to Oppenheimer I spent 3 hours last weekend in the theaters watching the latest blockbuster \u2014 Oppenheimer. Even though I knew the entire storyline and how it ended, I was still at the edge of my seat, watching scene by scene, marveling at Christopher Nolan\u2019s reinterpretation. As I left the cinema, I began to wonder how AI today is akin to the Manhattan Project in Los Alamos. The landscape of innovation has evolved dramatically ever since the days of J. Robert Oppenheimer, the brilliant scientist behind it all. While this historical context may seem distant, the lessons drawn from Oppenheimer\u2019s approach to problem-solving and innovation are relevant for enterprises navigating this new era of Generative AI. As we traverse the realms of artificial intelligence in hopes of keeping up or leveraging them, Oppenheimer\u2019s principles can be a valuable guiding light to shape the strategies and practices of modern businesses. Image by Freepik AI Generator Embrace Curiosity and Interdisciplinary Collaboration, not Compartmentalization As Oppenheimer traveled from state to state to seek the best scientists in each field, you can see how his work was not confined to a single discipline. He needed physicists, mathematicians, engineers, and more. Oppenheimer saw the limits of compartmentalization, as repeated in the movie by Colonel Leslie Richard Groves, as a security strategy to isolate all departments early on and had to advocate for weekly discussions. Similarly, in today\u2019s enterprises, embracing interdisciplinary collaboration is crucial for AI\u2019s potential to unfold \u2014 data scientists, designers, domain experts, engineers, product developers, sales, marketing, and legal teams. All these different departments with diverse backgrounds must unite to unravel complex challenges. Developers who work on the product won\u2019t know exactly what clients think they need. Still, sales professionals who interact with clients daily will have that intel. This knowledge needs to be shared across teams, and this fusion of different perspectives drives creativity, innovation, and the development of cutting-edge AI solutions. Adopt AI earlier, not later Being 18 months ahead of competing projects gave Oppenheimer and his team a massive advantage in experimenting with and resolving complex challenges, which ultimately contributed significantly to their triumph. Businesses could also use the early adopter advantage in generative AI by integrating it across their value chain to develop unique products, boost efficiency significantly, and gain a competitive advantage in the market while establishing a solid brand. Not all your employees will be open to trying out these new skills. But suppose there is a group of them. In that case, enterprises should encourage that, set up a cross-team task force, and even take them off a few projects so that they can devote their time to discovering how generative AI can boost productivity. Sitting back and letting it play out won\u2019t get you anywhere. Seeing how AI is advancing now \u2014 1 month later could mean 1 year slower in company-wide adoption. Emulate a Growth Mindset What\u2019s a growth mindset? Oppenheimer\u2019s unwavering commitment to learning and growth led to his transformative contributions. Similarly, large corporations must foster a growth mindset that encourages continuous learning and adaptation. With the digital world moving so fast, the old tried, and tested ways no longer work today. Generative AI is an ever-evolving field, and organizations that prioritize upskilling, knowledge sharing, and staying updated on AI advancements are better positioned to leverage its potential effectively. Experimentation and Iteration as Catalysts for Breakthroughs Oppenheimer\u2019s scientific breakthroughs were born out of relentless experimentation and iteration. The Manhattan Project required significant resources and costs (USD 2 billion!) Although the return on investment took a long time, his grit and continuous trial and error resulted in a breakthrough. Enterprises can draw a parallel by adopting an office culture encouraging experimentation with Generative AI. Instead of banning ChatGPT and forcing curious employees to grind through time-consuming tasks, enterprises can foster a safe space for trial and error. Technology and AI companies also need such safe spaces so employees can feel comfortable failing fast, finding solutions, and refining their AI models. Of course, these iterations must be guided by data-driven insights, leading to refined solutions that drive operational efficiency and customer value. Safeguard intellectual property Despite being allies, the Manhattan Project didn\u2019t thoroughly discuss its discoveries with the Soviets to avoid any possible post-war fallout. Similarly, working with partners, suppliers, and the startup ecosystem in generative AI is crucial to finding the best solutions. Yet, enterprises must take care to safeguard their intellectual property. Strive for Ethical and Responsive AI Oppenheimer\u2019s legacy is a stark reminder of the dual nature of scientific discoveries \u2014 they can be harnessed both for progress and harm. In the realm of Generative AI, responsible development is paramount. Enterprises must prioritize ethical considerations, ensuring that AI technologies are designed and deployed in ways that align to help society and human well-being. Just as Oppenheimer grappled with the ethical implications of nuclear science, businesses today must tread carefully when navigating the moral complexities of AI. Key Takeaways Since I\u2019m not a movie critic, I can\u2019t pen down all the different cinematic techniques and more profound meanings within the movie. Yet, by reflecting on Oppenheimer\u2019s legacy, I found many interesting parallels to the use of Generative AI and its applications in enterprises. Just as Oppenheimer\u2019s pursuit of knowledge altered the course of history, corporations can shape their futures through AI innovation. By embracing curiosity, collaboration, ethics, growth, and creativity, enterprises can navigate the AI frontier with a greater purpose to drive transformative change. What are your thoughts? Connect and share them with me. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, [&#8230;]",
+            "pubdate": "Tue, 05 Sep 2023 02:02:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                5
+            ],
+            "email_sent": true
+        },
+        "Throwing In The Data Science Job Search Towel": {
+            "url": "https://towardsai.net/p/machine-learning/throwing-in-the-data-science-job-search-towel",
+            "description": "Last Updated on September 5, 2023 by Editorial Team Author(s): Adam Ross Nelson Originally published on Towards AI. Here is how to know if it is too early to give up on the data science job search This member-only story is on us. Upgrade to access all of Medium. Job searching is hard. Not news. Going from one field to another is even harder. You\u2019ll never hear me say it\u2019ll be easy to take your career into data science. A core belief of mine is that it is hard to make that transition. If you updated your LinkedIn and didn\u2019t add 10\u201320 new connections, and also make an effort to initiate a conversation with those folks, did you really update your LinkedIn? To make the transition, you need the skills to be a data scientist, or the ability and willingness&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Tue, 05 Sep 2023 00:02:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                5
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -12127,6 +12171,17 @@
                 2023,
                 8,
                 18
+            ],
+            "email_sent": true
+        },
+        "Everfree Northwest 2023": {
+            "url": "http://www.alexirpan.com/2023/09/05/efnw-2023.html",
+            "description": "<p><a href=\"https://everfreenw.com\">Everfree Northwest</a> is a My Little Pony convention in the Seattle area. It\u2019s been running for\n11 years and counting.</p>",
+            "pubdate": "Tue, 05 Sep 2023 00:02:16 -0700",
+            "pubdate_parsed": [
+                2023,
+                9,
+                5
             ],
             "email_sent": true
         }
@@ -17467,6 +17522,17 @@
                 5
             ],
             "email_sent": true
+        },
+        "Transform any document, web page, or ebook into a research paper (ChatGPT not required)": {
+            "url": "https://www.emergentmind.com/posts/github-jstrieb-paperify-transform-any-document-web",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Paperify is a tool that can download figures and equations from the latest computer science papers on arXiv.org and intersperse them into a novel such as Jack London's Call of the Wild. The tool can also use ChatGPT to generate a title, author, abstract, and metadata for an imaginary paper on a specified topic.</li>\n      <li>The user can use various options to customize the process, including the number of papers to download, the frequency of equations, and the paper topic for ChatGPT. The tool has some known issues and the code can be challenging to read. Despite this, the creator considers the project complete and plans to address issues but not add new features.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/jstrieb/paperify\">Transform any document, web page, or ebook into a research paper (ChatGPT not required)</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 05 Sep 2023 07:02:44 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                5
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -17830,6 +17896,17 @@
                 2023,
                 9,
                 1
+            ],
+            "email_sent": true
+        },
+        "A tiny island in the Caribbean is now sitting on a digital treasure.": {
+            "url": "https://www.superpowerdaily.com/p/163-a-tiny-island-in-the-caribbean-is-now-sitting-on-a-digital-treasure",
+            "description": "PLUS: Sell to new audiences by changing models with AI instantly",
+            "pubdate": "2023-09-05T06:08:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                5
             ],
             "email_sent": true
         }
