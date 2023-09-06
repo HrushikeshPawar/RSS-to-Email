@@ -1948,6 +1948,17 @@
                 5
             ],
             "email_sent": true
+        },
+        "Arteanas Art Squad Assembles  Indie Showrunner Rafi Nizam Creates High-End Childrens Show on a Budget": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/06/asus-proart-studio-laptop-omniverse-openusd/",
+            "description": "Rafi Nizam is an award-winning independent animator, director, character designer and more. He\u2019s developed feature films at Sony Pictures, children\u2019s series and comedies at BBC and global transmedia content at NBCUniversal.",
+            "pubdate": "Wed, 06 Sep 2023 13:00:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                6
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -8853,6 +8864,28 @@
                 5
             ],
             "email_sent": true
+        },
+        "Exploring Large Language Models -Part 3": {
+            "url": "https://towardsai.net/p/machine-learning/exploring-large-language-models-part-3",
+            "description": "Last Updated on September 6, 2023 by Editorial Team Author(s): Alex Punnen Originally published on Towards AI. Fine-tuning, Model Quantisation, Low Ranked Adapters, Instruct Tuning and using LLMs to generate training data This article is written primarily for self-study. So it goes broadly and also deep. Feel free to skip certain sections based on your interests or to seek the area that interests you. Below are some of the questions that intrigued me or came up while trying to fine-tune LLMs. The article is an attempt to answer these and share this information with other curious. Since LLMs are based on NeuralNet with Loss function, is not all training of LLMs supervised training? Why is it termed usually as unsupervised training?Can you train an LLM in a very short sentence to illustrate how LLM training works in practice?What is Masked and Causal LM?Can you explain the intuition behind Transformer Architecture in a single picture?What exactly is it meant by unsupervised training in LLM?Why does the main architect of ChatGPT \u2014 Ilya Suverskar think of unsupervised training as the Holy Grail of machine learning?What is meant by the Emergence/ Understanding of LLMs? What are the use cases of LLMs?Why are LLMs best suited as productivity assistants?What is the Vector DB/Embedding pattern of information retrieval?Can LLMs be used for things other than textual tasks? What is Causal reasoning?What is the problem with LLMs?Why do minds like Yan LeCun think current LLMs are hopeless?Are LLMs Explainable, how can they be effectively used if they are not? What is the need to fine-tune/re-train LLMs?Why is it difficult to train LLMs?How do Quanitsation and LoRA help in training large LLMs?How does Quantisation and LoRA work?What is an effective way to fine-tune pre-trained LLMs?What is Instruct Tuning?What is Self Instruct? How can we generate a high-quality training dataset for Instruct Tuning? Yet to answerCan you show how LLMs of varying capability can be hierarchically structured to create a complex automation with causal reasoning?Why are we aiming to create human-like intelligence from LLMs or neural nets? Why does this seem eerily similar to creating bird-like flight back in time before the invention of the fixed-wing plane? Since the article is quite long, I have structured this into three parts for better readability. Part 1 will discuss the evolution of LLM training. The intention is to set the context for us to understand the magic, or more technically &#8211;emergence, that starts to happen when the model size increases above a threshold and when trained with huge data. The deep-dive sections illustrate these concepts in greater detail and depth, though they are also easy to follow by most programmers. Part 2 will briefly discuss the popular use cases of LLMs, personal assistants, and chatbots with custom data via information retrieval patterns (vector space search with LLM augmentation). We will also explore seeds on how the mental model and NLU of models could become more powerful use cases. In this context, we will explore one main limitation of the LLM model by contrasting the strengths of supervised training with a weakness of the LLM models \u2014 the lack of Explainability or difficulty in determining facts vs. hallucinations. We will explore how such systems have been very effectively used in computer systems by a hierarchy of controls, unreliable systems made reliable by a higher level control -our daily use of ChatGPT for example and how it can be extended to other use cases. Part 3 will discuss some concepts related to training the LLMs on custom domains. We are targeting the domain understanding part in this, and how that is much more powerful than simpler vector space information retrieval patterns. This is easy in toy examples but practically not very easy with real data. We will explore how Quantisation techniques have opened up very large LLMs to the world, and how this, coupled with the concepts of reducing training parameters, has democratized LLM fine-tuning. We will explore the main technique of effective fine-tuning \u2014 Instruct tuning, and how to solve the biggest practical problem of Instruct tuning \u2014 the unavailability of quality Instruction training dataset with all the concepts we have gone through this far. Future sections will discuss the concept of leveraging the understanding part of LLMs and using the hierarchy of controls in leveraging these powerful systems for augmenting AI/ML systems. Fine Tuning on Custom Domain Data All the popular models like GPT3/3.4/4 and LLAMA2 are trained primarily on the data scraped from the internet. Common Crawl, WebText, GitHub, StackOverflow etc: These are massive datasets of text and code that are crawled from the public web and a few curated like the QA dataset SQAD. The worldview and information the model has learned are also based on this data. However, this means that if we have some domain-specific data that the model has not seen, then it won\u2019t be able on its own to answer questions related to such data in case of Closed Book QA use-case or any other use case that depends on the specific domain data. For example, most online portals are adding virtual assistants for their customers, banks, e-commerce, customer support etc. And a huge if not the majority of data in the world still lives outside of the internet in enterprises. We have seen in Part 2 how LLMs can help address information retrieval use cases based on Vector space embeddings. But what if our use case is more high level? It needs domain \u201cunderstanding\u201d, maybe some higher level reasoning tasks. This is where fine-tuning with custom data comes into play. I am not able to provide a use case where higher-level reasoning can be used. There are a few simpler ones, like training on custom issues and then asking it to reason on similar issues and possible solutions, but these are as of now not tested. So let\u2019s stick with a simpler use-case Closed-Book QA &#8211; the model answers questions based on the knowledge it internally has for now. source Can Generative [&#8230;]",
+            "pubdate": "Wed, 06 Sep 2023 02:02:23 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                6
+            ],
+            "email_sent": true
+        },
+        "Exploring Large Language Models -Part 2": {
+            "url": "https://towardsai.net/p/machine-learning/exploring-large-language-models-part-2",
+            "description": "Last Updated on September 6, 2023 by Editorial Team Author(s): Alex Punnen Originally published on Towards AI. Using LLMs effectively: Information retrieval, Personal assistants, Causal Reasoning Agents, Explainability, and hierarchical control-based deployment. This article is written primarily for self-study. So it goes broadly and also deep. Feel free to skip certain sections based on your interests or to seek the area that interests you. Below are some of the questions that intrigued me or came up while trying to fine-tune LLMs. The article is an attempt to answer these and share this information with other curious. Since LLMs are based on NeuralNet with Loss function, is not all training of LLMs supervised training? Why is it termed usually as unsupervised training?Can you train an LLM in a very short sentence to illustrate how LLM training works in practice?What is Masked and Causal LM?Can you explain the intuition behind Transformer Architecture in a single picture?What exactly is it meant by unsupervised training in LLM?Why does the main architect of ChatGPT \u2014 Ilya Suverskar think of unsupervised training as the Holy Grail of machine learning?What is meant by the Emergence/ Understanding of LLMs? What are the use cases of LLMs?Why are LLMs best suited as productivity assistants?What is the Vector DB/Embedding pattern of information retrieval?Can LLMs be used for things other than textual tasks? What is Causal reasoning?What is the problem with LLMs?Why do minds like Yan LeCun think current LLMs are hopeless?Are LLMs Explainable, how can they be effectively used if they are not? What is the need to fine-tune/re-train LLMs?Why is it difficult to train LLMs?How do Quanitsation and LoRA help in training large LLMs?How does Quantisation and LoRA work?What is an effective way to fine-tune pre-trained LLMs?What is Instruct Tuning?What is Self Instruct? How can we generate a high-quality training dataset for Instruct Tuning? Yet to answerCan you show how LLMs of varying capability can be hierarchically structured to create a complex automation with causal reasoning?Why are we aiming to create human-like intelligence from LLMs or neural nets? Why does this seem eerily similar to creating bird-like flight back in time before the invention of the fixed-wing plane? Since the article is quite long, I have structured this into three parts for better readability. Part 1 will discuss the evolution of LLM training. The intention is to set the context for us to understand the magic, or more technically &#8211;emergence, that starts to happen when the model size increases above a threshold and when trained with huge data. The deep-dive sections illustrate these concepts in greater detail and depth, though they are also easy to follow by most programmers. Part 2 will briefly discuss the popular use cases of LLMs, personal assistants, and chatbots with custom data via information retrieval patterns (vector space search with LLM augmentation). We will also explore seeds on how the mental model and NLU of models could become more powerful use cases. In this context, we will explore one main limitation of the LLM model by contrasting the strengths of supervised training with a weakness of the LLM models \u2014 the lack of Explainability or difficulty in determining facts vs. hallucinations. We will explore how such systems have been very effectively used in computer systems by a hierarchy of controls, unreliable systems made reliable by a higher level control -our daily use of ChatGPT for example and how it can be extended to other use cases. Part 3 will discuss some concepts related to training the LLMs on custom domains. We are targeting the domain understanding part in this, and how that is much more powerful than simpler vector space information retrieval patterns. This is easy in toy examples but practically not very easy with real data. We will explore how Quantisation techniques have opened up very large LLMs to the world, and how this, coupled with the concepts of reducing training parameters has democratized LLM fine-tuning. We will explore the main technique of effective fine-tuning \u2014 Instruct tuning, and how to solve the biggest practical problem of Instruct tuning \u2014 the unavailability of quality Instruction training dataset with all the concepts we have gone through this far. Future sections will discuss the concept of leveraging the understanding part of LLMs and using the hierarchy of controls in leveraging these powerful systems for augmenting AI/ML systems. One primary use case is Productivity enhancement \u2014 Smart Assistant. This is an important and widely usable pattern for LLMs.This paper The Economic Potential of Generative AI -The Next Productivity Frontier (June 2023) by McKinsey&#38; Company has projections on how this aspect of LLMs, applied in various formats can alter current work in different sectors would add trillions to the world economy. Before we go over the specifics, there was a recent talk in which the author talks about how more reliable systems can be built from less reliable systems \u2014 quoting from the famous TCP/IP stack design. There is a layered design where the un-reliable/lossy IP layers are made reliable by the transmission control and retransmission logic (in case it detects packet loss) of the TCP layer. The Assistant type of use-cases is also layered, where the weaknesses of LLMs like hallucinations are overcome by a higher and better control (usually a human) It could also be a more cognitive model over lesser models. This is what makes this use case so widespread and robust. Software Engineers using Github Co-pilot is a classic example. The model inference is paired with better control who can effectively use the output, take the positives and fine-tune or discard the negatives (errors, hallucinations). The more skilled the human is, the more efficiently he/she can use these models. The high-efficiency gains of this approach as programming or a domain assistant are well known in the very short time since its introduction. The same is true when these assistants are developed for other fields, a recent example being Med-Palm2 by Google and its uncanny ability to help doctors in the medical field. [&#8230;]",
+            "pubdate": "Wed, 06 Sep 2023 00:01:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -9392,6 +9425,17 @@
                 2023,
                 8,
                 30
+            ],
+            "email_sent": true
+        },
+        "AI Deep Learning Explained": {
+            "url": "https://www.louisbouchard.ai/ai-deep-learning-explained/",
+            "description": "Deep learning with a simple analogy",
+            "pubdate": "Wed, 06 Sep 2023 11:07:49 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                6
             ],
             "email_sent": true
         }
@@ -12125,6 +12169,17 @@
                 2023,
                 8,
                 25
+            ],
+            "email_sent": true
+        },
+        "Spread Your Wings: Falcon 180B is here": {
+            "url": "https://huggingface.co/blog/falcon-180b",
+            "description": null,
+            "pubdate": "Wed, 06 Sep 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                6
             ],
             "email_sent": true
         }
@@ -17555,6 +17610,28 @@
                 6
             ],
             "email_sent": true
+        },
+        "GPT-4 wins chatbot lawyer contest  but is still not as good as humans": {
+            "url": "https://www.emergentmind.com/posts/gpt-4-wins-chatbot-lawyer-contest-but-is-still-not-as",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>GPT-4, an AI chatbot, outperformed others in a test of legal reasoning, but still fell short of the knowledge required by human lawyers. LegalBench, a tool designed to evaluate AI chatbots, revealed GPT-4's limitations particularly in recalling specifics of legal rules.</li>\n      <li>OpenAI\u2019s GPT-4 showed potential in legal tasks, but issues such as costs, risk management, and information security, as well as complexities in legal reasoning, pose challenges in adopting AI in law practice. AI chatbots also raised ethical concerns such as unauthorized law practice and legal malpractice.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.shiningscience.com/2023/09/gpt-4-wins-chatbot-lawyer-contest-but.html\">GPT-4 wins chatbot lawyer contest \u2013 but is still not as good as humans</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 06 Sep 2023 12:02:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                6
+            ],
+            "email_sent": true
+        },
+        "PdfPal AI": {
+            "url": "https://www.emergentmind.com/posts/pdfpal-ai-chat-with-any-pdf-document",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>PdfPal AI allows users to interact with PDF documents using artificial intelligence, enabling dynamic conversations, gaining insights, and receiving summaries. It works by analyzing the content of uploaded PDF documents and generating intelligent responses based on the context.</li>\n      <li>The AI technology can handle a wide range of document lengths and complexities, and it can be used with any type of PDF document. It ensures data security by encrypting and securely storing the uploaded PDFs.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://pdfpal.ai/\">PdfPal AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 06 Sep 2023 04:03:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -17929,6 +18006,17 @@
                 2023,
                 9,
                 5
+            ],
+            "email_sent": true
+        },
+        "GPT Author V2 - Now with cover art and ebook export options": {
+            "url": "https://www.superpowerdaily.com/p/164-gpt-author-v2-now-with-cover-art-and-ebook-export-options",
+            "description": "PLUS: LangChain Hub - A place to publish, discover, and try out prompts",
+            "pubdate": "2023-09-06T05:52:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                6
             ],
             "email_sent": true
         }
