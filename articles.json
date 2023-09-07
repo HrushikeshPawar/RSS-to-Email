@@ -1959,6 +1959,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "Attention, Please: Focus Entertainment Brings Game Pass Titles to GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/07/geforce-now-thursday-sep-07/",
+            "description": "GeForce NOW brings expanded support for PC Game Pass to members this week. Members can stream eight more games from Microsoft\u2019s subscription service, including four titles from hit publisher Focus Entertainment. Play A Plague Tale: Requiem, Atomic Heart and more from the GeForce NOW library at up to 4K resolution and 120 frames per second <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/09/07/geforce-now-thursday-sep-07/\">Read article &#62;</a>",
+            "pubdate": "Thu, 07 Sep 2023 13:00:18 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                7
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -8884,6 +8895,39 @@
                 2023,
                 9,
                 6
+            ],
+            "email_sent": true
+        },
+        "Prompt Engineering to Leverage In-Context Learning in Large Language Models": {
+            "url": "https://towardsai.net/p/machine-learning/prompt-engineering-to-leverage-in-context-learning-in-large-language-models",
+            "description": "Last Updated on September 7, 2023 by Editorial Team Author(s): Salvatore Raieli Originally published on Towards AI. How to modify your text prompt to obtain the best from an LLM without training This member-only story is on us. Upgrade to access all of Medium. Photo by Steven Lelham on Unsplash Large Language Models are more and more used and their skills are surprising. Part of their success is their ability to learn from a few examples, a phenomenon known as in-context learning; in the previous article, we discussed in detail what is it and from where it originates, now we will learn how to harness the true power. What is and how does it work what makes Large Language Models so powerful towardsdatascience.com This article is divided into different sections, for each section we will answer these&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Thu, 07 Sep 2023 04:02:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                7
+            ],
+            "email_sent": true
+        },
+        "Ways to Iterate JavaScript Arrays": {
+            "url": "https://towardsai.net/p/machine-learning/ways-to-iterate-javascript-arrays",
+            "description": "Last Updated on September 7, 2023 by Editorial Team Author(s): Vivek Chaudhary Originally published on Towards AI. The objective of this article is to understand different possible ways to loop through JavaScript Arrays. Declare array const arr=[\u2018kiwi\u2019,\u2019dragon\u2019,\u2019orange\u2019,\u2019apple\u2019,\u2019pomegranate\u2019];const sal=[2200,5000,2100,1500,3700,4300];let sal_incr=[] for() loop for loop is an iterative statement, it checks for some conditions and then executes a block of code repeatedly as long as those conditions are met. console.log(\u201cArrays for loop\u201d)for (let i=0;i&#60;arr.length;i++){ console.log(arr[i])} Output: for..in loop for\u2026in loop is an easier way to loop through arrays as it gives us the key which we can now use to get the values from our array. console.log(\u201cArrays for..in loop\u201d)for (let i in arr){ console.log(arr[i])} Output: for..of loop for\u2026of Loop iterates over iterables, but unlike for..in which gets keys, for..of gets the element itself. console.log(\u201cArrays for..of loop\u201d)for (let item of arr){ console.log(item)} Output: forEach() loop forEach() method calls a function (a callback function) once for each array element. console.log(\u201cArrays forEach() loop\u201d)arr.forEach((i)=&#62;{ console.log(i)}) Output: Another example. const sal=[2200,5000,2100,1500,3700,4300];let sal_incr=[]//write a function to implement salary incrementsal.forEach(function(sal){ sal_incr.push(sal+sal*.05)})//print the incremented salarysal_incr.forEach((inc)=&#62;{ console.log(`incremented salary ${inc}`)}) Output: while() loop while loop is used to evaluate a condition that is enclosed in parenthesis (). If the condition is true, the code inside the while loop is executed.If it is false, the loop is terminated. console.log(\u201cArrays while loop\u201d)let i=0; //loop variablewhile (i&#60;arr.length){ console.log(arr[i]) i++;} Output: do\u2026while() loop do\u2026while loop is nearly identical to the while loop, except that it executes the body first before evaluating the condition for subsequent executions. This means that the loop\u2019s body is always executed at least once. console.log(\u201cArrays do while loop\u201d)let j=0;do { console.log(arr[j]); j++;}while (j&#60;arr.length); Output: map() map() allows us to iterate over array and modify its elements. The map() method creates a new array by performing a function on each array element. console.log(\u201cArrays map()\u201d);arr.map((item) =&#62;{ console.log(item)}) Output: Same salary increment example using map() let incr= sal.map(function(sal) { return sal+sal*.05;});//iterate over incremented salincr.forEach((incr) =&#62;{ let msg=`incremented salary ${incr}` console.log(msg)}); Output: Summary: define an empty array and non-empty array. 7 ways to loop over arrays. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Thu, 07 Sep 2023 02:02:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                7
+            ],
+            "email_sent": true
+        },
+        "AI Image Fusion and DGX GH200": {
+            "url": "https://towardsai.net/p/machine-learning/ai-image-fusion-and-dgx-gh200",
+            "description": "Last Updated on September 7, 2023 by Editorial Team Author(s): Luhui Hu Originally published on Towards AI. From pixels to panoramas: Inside AI measuring &#38; stitching and data-center AI powerhouse DGX GH200 AI Supercomputer (1 GPU, heavy as 4 elephants) In the realm of Computer Vision (CV), the ability to stitch together partial images and measure dimensions isn\u2019t just an advanced trick \u2014 it\u2019s a vital skill. Whether you\u2019re creating a panoramic view from your smartphone, measuring the distance between objects in a surveillance video, or analyzing scientific images, both image stitching and measuring play a crucial role. This article aims to demystify these two fascinating aspects of CV. Then I\u2019ll share about cloud AI infra, data-center AI powerhouse. The Art of Stitching Image stitching isn\u2019t just an algorithmic challenge; it\u2019s an art form. Stitching algorithms strive to seamlessly combine multiple images into one, expansive output, free from seams, distortion, and color inconsistency. Open-source methods vary in complexity from traditional feature-matching algorithms like SIFT and SURF to deep learning models like DeepStitch. Traditional vs. Deep Learning Traditional Methods: Algorithms like SIFT (Scale-Invariant Feature Transform) and SURF (Speeded-Up Robust Features) use key points and descriptors to find overlapping regions between images. These methods are fast and work well for simple use cases but can struggle in more complex scenes. Deep Learning Models: Solutions like DeepStitch go beyond by using neural networks to find optimal stitching points, providing higher accuracy, especially in complex scenes. Below are available open-source algorithms or libraries for image stitching and panoramas. Open-source algorithms and AI models for image stitching (collected by the author and regenerated by GPT-4) Measuring in a 2D World Image stitching allows us to expand our visual horizon, but what about understanding the world within that field of vision? That\u2019s where image measuring comes in. From using simple Euclidean distance calculations in a calibrated setup to leveraging deep learning models that can identify and measure objects, the techniques are diverse. Simple to Complex Calibration Methods: Techniques like camera calibration provide a way to relate pixel dimensions to real-world dimensions. Once calibrated, even simple geometric formulas can yield accurate measurements. Object Detection and Tracking: Deep learning models like YOLO or SSD are proficient at identifying objects in both images and real-time videos, paving the way for automated measuring. Below are available open-source methods for measuring and photogrammetry. Open-source methods for photogrammetry (collected by the author and regenerated by GPT-4) Stitching and Measuring: Two Sides of the Same Coin You might wonder why we\u2019re discussing both stitching and measuring together. The reason is they often go hand-in-hand. For example, in surveillance applications, a stitched panoramic view of a location can be used to track and measure the distance between multiple targets accurately. In medical imaging, stitched images from different angles can provide a more comprehensive view, facilitating more precise measurements. TL;DR for CV Pixels Whether you\u2019re a hobbyist, a researcher, or someone intrigued by the applications of CV, both stitching and measuring are integral techniques to understand. While traditional algorithms offer a quick and straightforward approach, the advent of deep learning has opened the door to unprecedented levels of accuracy and complexity. It\u2019s a thrilling time to delve into the world of CV, where the boundary between the pixel and the panorama continues to blur, offering us a clearer view of the bigger picture. The field is advancing at a rapid pace, and it\u2019s crucial to stay updated with the latest algorithms and methodologies. So go ahead, stitch your way through panoramas, and measure your world, one pixel at a time! AI Giant Foundation: DGX GH200 After leveraging AI/CV for advanced stitching and measuring capabilities, we also recognize the foundational role of GPUs in powering our AI-driven solutions. In this transformative age of AI, Nvidia\u2019s DGX GH200 AI Supercomputer stands as a monumental advancement. This computational behemoth, with a single GPU as heavy as four elephants, redefines what\u2019s possible. Far from being just a large machine, its unparalleled capability offers a stunning 144TB of shared memory across 256 NVIDIA Grace Hopper Superchips (GH200). This empowers developers with nearly 500x more memory, enabling the creation of complex, large-scale models to tackle today\u2019s most challenging problems. Truly, it\u2019s not just a machine, but the future of AI materialized. Towards GH200 NVIDIA GH200 Grace Hopper Superchip integrates NVIDIA\u2019s Grace and Hopper architectures through NVLink-C2C, offering a coherent CPU+GPU (H100) memory model optimized for AI and HPC applications. As the ninth-generation data center GPU, H100 Tensor Core introduces a new Transformer Engine, boasting up to 9X faster AI training and 30X faster AI inference compared to its predecessor, A100. In a strategic rebranding move in May 2020, Nvidia transitioned its Tesla GPGPU line to Nvidia Data Center GPUs to sidestep brand confusion with Tesla automobiles. Originally competing with AMD\u2019s Radeon Instinct and Intel\u2019s Xeon Phi, these GPUs supported CUDA or OpenCL programming and were pivotal in deep learning and computational tasks. Spanning ten generations, each with distinct micro-architectures \u2014 Tesla, Fermi, Kepler, Maxwell, Pascal (P100), Volta (V100), Turing (T4), Ampere (A100, A40), Hopper (H100), and Ada Lovelace (L40) \u2014 Nvidia\u2019s data center GPUs have consistently pushed the envelope in deep learning and scientific computing. DGX GH200 vs GH200 vs H100 What&#039;s the difference between a DGX GH200, a GH200, and an H100? gpus.llm-utils.org NVIDIA Announces DGX GH200 AI Supercomputer NVIDIA today announced a new class of large-memory AI supercomputer &#8211; an NVIDIA DGX\u2122 supercomputer powered by NVIDIA\u00ae\u2026 nvidianews.nvidia.com NVIDIA Grace Hopper Superchip A breakthrough accelerated CPU designed from the ground up for giant-scale AI and HPC applications. www.nvidia.com NVIDIA Grace Hopper Superchip Data Sheet The NVIDIA Grace\u2122 Hopper\u2122 architecture brings together the groundbreaking performance of the NVIDIA Hopper GPU with the\u2026 resources.nvidia.com Nvidia Tesla &#8211; Wikipedia Toggle the table of contents From Wikipedia, the free encyclopedia Manufacturer Nvidia Introduced May 2, 2007;16 years\u2026 en.wikipedia.org NVIDIA Supercomputing Solutions Learn how NVIDIA Data Center GPUs- for training, inference, high performance computing, and artificial intelligence \u2026 www.nvidia.com Join thousands of data leaders [&#8230;]",
+            "pubdate": "Thu, 07 Sep 2023 00:02:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                7
             ],
             "email_sent": true
         }
@@ -17643,6 +17687,28 @@
                 7
             ],
             "email_sent": true
+        },
+        "Tune As You Scale: Hyperparameter Optimization For Compute Efficient Training": {
+            "url": "https://www.emergentmind.com/posts/2306-08055-tune-as-you-scale-hyperparameter",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>CARBS is a Bayesian optimization algorithm for tuning large deep learning models, which often have many hyperparameters and are expensive to evaluate.</li>\n      <li>The method can tune models as they are scaled up, automates much of the tuning process, and has been shown to be effective in solving the entire ProcGen benchmark and reproducing results from the Chinchilla project.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2306.08055\">Tune As You Scale: Hyperparameter Optimization For Compute Efficient Training</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 07 Sep 2023 13:02:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                7
+            ],
+            "email_sent": true
+        },
+        "Intuit cut hundreds of jobs and spent at least $20 billion in a massive bet on A.I. Today the company is revealing its new virtual assistant": {
+            "url": "https://www.emergentmind.com/posts/intuit-cut-hundreds-of-jobs-and-spent-at-least-20",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Intuit, the company behind TurboTax and QuickBooks, has made a massive $20 billion investment in artificial intelligence (AI), including major acquisitions and job cuts. The company has now debuted its first standalone AI product for consumers, Intuit Assist, which is integrated into its existing products.</li>\n      <li>CEO Sasan Goodarzi has staked the company's future on AI and data, using Intuit's extensive customer data to inform and personalize the AI's recommendations. Despite initial skepticism, the shift to AI has seen the company's stock outperform the S&amp;P and Nasdaq since Goodarzi took over.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://finance.yahoo.com/news/intuit-cut-hundreds-jobs-spent-120000980.html\">Intuit cut hundreds of jobs and spent at least $20 billion in a massive bet on A.I. Today the company is revealing its new virtual assistant</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 07 Sep 2023 10:02:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                7
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -18028,6 +18094,17 @@
                 2023,
                 9,
                 6
+            ],
+            "email_sent": true
+        },
+        "Harvard Medical School Creating AI in Medicine Ph.D. Track": {
+            "url": "https://www.superpowerdaily.com/p/165-harvard-medical-school-creating-ai-in-medicine-phd-track",
+            "description": "PLUS: Teaching AI to make people happy",
+            "pubdate": "2023-09-07T06:54:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                7
             ],
             "email_sent": true
         }
