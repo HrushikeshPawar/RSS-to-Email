@@ -17709,6 +17709,50 @@
                 7
             ],
             "email_sent": true
+        },
+        "How We Built an AI-Powered Magic the Gathering Card Generator": {
+            "url": "https://www.emergentmind.com/posts/how-we-built-an-ai-powered-magic-the-gathering-card",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A group of developers created Urza's AI, a website that uses artificial intelligence to generate playable Magic the Gathering cards. The process involves using large language models (LLM) for text generation and text-to-image AI for image creation.</li>\n      <li>The project has gained significant popularity, with over 38,000 visitors within the first four days of launch. The developers believe this approach using hosted APIs represents the future of AI development, making advanced technologies accessible to a wider range of creators.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://txt.cohere.com/urzas-ai/\">How We Built an AI-Powered Magic the Gathering Card Generator</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 03:03:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "LLMs, RAG, & the missing storage layer for AI": {
+            "url": "https://www.emergentmind.com/posts/llms-rag-the-missing-storage-layer-for-ai-by",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Generative AI, specifically Language Model Machines (LLMs), are revolutionizing many industries and areas of research, but they lack an effective storage layer. LLMs can create engaging user interfaces, new educational tools, improve machine translation, generate new ideas, and even create art and literature. However, they also have the potential to 'lie' convincingly, generating false information that can mislead users. The most powerful LLMs are often closed-source and inaccessible, making them a 'black box' that is difficult to interpret or modify. The article suggests that Retrieval Augmented Generation (RAG), a system that retrieves relevant representations and uses LLM to form the response, can reduce reliance on LLMs and provide more control over the system.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984?gi=75876a053666\">LLMs, RAG, &amp; the missing storage layer for AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 02:02:43 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "Thought Experiment: The Reverse Deep Learning Paradigm": {
+            "url": "https://www.emergentmind.com/posts/thought-experiment-the-reverse-deep-learning",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>In this thought experiment, deep learning models start off with complete knowledge about the universe and then undergo a 'forgetting' process to become more efficient and specialized.</li>\n      <li>The experiment raises questions about optimization, ethical considerations, generalization vs specialization, resource management, knowledge preservation, and transfer of knowledge.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@nicdunz/thought-experiment-the-reverse-deep-learning-paradigm-64e79ad34ad7\">Thought Experiment: \u201cThe Reverse Deep Learning Paradigm\u201d</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 00:04:12 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "HackYourNews": {
+            "url": "https://www.emergentmind.com/posts/hackyournews",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>An actively exploited zero-click vulnerability, known as BLASTPASS, was discovered being used to deliver the NSO Group's Pegasus spyware on iPhones. The discovery was made by Citizen Lab, who immediately disclosed the findings to Apple.</li>\n      <li>Apple has issued two CVEs related to the exploit chain and released an update for its devices, urging users to update immediately. The discovery emphasizes the targeting of civil society organizations by sophisticated exploits and spyware.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://hackyournews.com/\">HackYourNews</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 00:03:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
