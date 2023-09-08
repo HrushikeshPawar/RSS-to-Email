@@ -8930,6 +8930,39 @@
                 7
             ],
             "email_sent": true
+        },
+        "Simplifying Your Exploratory Data Analysis With These Four (4) Packages": {
+            "url": "https://towardsai.net/p/machine-learning/simplifying-your-exploratory-data-analysis-with-these-four-4-packages",
+            "description": "Last Updated on September 8, 2023 by Editorial Team Author(s): Francis Adrian Viernes Originally published on Towards AI. Four Essential Tools Every Data Scientist Should Have in Their Toolbox This member-only story is on us. Upgrade to access all of Medium. Photo by Adam \u015amigielski on Unsplash It\u2019s a great time to be a data scientist! What takes a lot of time to put together can be automated now, leaving much room to improve insights-creation and the machine learning model design. A lot has been written about these tools already out there, and I wanted to add more value by first limiting my choice of tools, and also, to incorporate my unique take and experience into using these libraries. As we have to be methodical about it, we\u2019ll quickly see that we&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 08 Sep 2023 04:02:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "How does Stable Diffusion Really Work? An Intuitive Explanation": {
+            "url": "https://towardsai.net/p/machine-learning/how-does-stable-diffusion-really-work-an-intuitive-explanation",
+            "description": "Last Updated on September 8, 2023 by Editorial Team Author(s): Oleks Gorpynich Originally published on Towards AI. \u201cStable Diffusion\u201d models, as they are commonly known, or Latent Diffusion Models as they are known in the scientific world, have taken the world by storm, with tools like Midjourney capturing the attention of millions. In this article, I will attempt to dispel some mysteries regarding these models and hopefully paint a conceptual picture in your mind of how they work. As always, this article won\u2019t reach into the pit of details, but I will provide some links at the end that do. The paper, which lies as the main information source behind this article, will be the first link included. Figure 1 (A Midjourney generated image) Motivation There are a few approaches to image synthesis (creating new images from scratch), and they include GANs, which perform poorly on diverse data; Autoregressive Transformers, which are slow to train and execute (similar to LLM transformers generating text token by token, they generate images patch by patch), and diffusion models which by themselves counter some of these issues, but yet remain computationally expensive. It still takes hundreds of CPU days to train these, and actually utilizing the model involves running it step by step to produce a final image, which also takes considerable time and compute. Quick Overview of Diffusion Models To understand how Diffusion models work, let\u2019s first look at how they are trained, which is done in a slightly nonintuitive way. We begin by applying noise to an image repeatedly, which creates a \u201cMarkov chain\u201d of images. In such a way, we are able to get some number T of repeatedly more noisy images from a singular original image. Our model then learns to predict the exact noise that was applied at a certain time step, and we can use its output to \u201cdenoise\u201d the image at that time step. This effectively allows us to go from image T to image T-1. To reiterate, the model is trained by giving it the image with noise applied at some time T, and the time T itself, and the output is what noise was applied to bring it from time T-1 to T! Figure 2 (source) Once we have such a model trained, we can repeatedly apply it to random noise to produce a new, novel image. The great article by the wonderful Steins where the above image is from explains this in more depth. UNet Model The model that is commonly used to predict the noise at each time step is a \u201cUNet\u201d architecture model. This is a type of architecture that repeatedly applies Convolutional layers, pooling layers, and skip connections to first downscale an image but increase depth (feature maps), and then transposed convolutions are used to up-sample the feature maps back to the original image dimensions. Here is a great article by Maur\u00edcio Cordeiro that explains this model in greater depth. Issues This is where the issues of traditional diffusion models come out. The first issue is training time. Assuming we have N images, and we apply noise to an image T times, that is N*T possible inputs to our model. And often times, these are high-resolution images, and each input would incorporate the large image dimensions. After all, we don\u2019t want Midjourney to produce pixel art\u2026 And then, assuming we do have our model trained, to get back from random noise to an image, we must apply the weights T times repeatedly! Remember, our model is only able to give us the image from the previous time step, and we must get from time step T to time step 0. The other issue lies in the utility of such a model. If you noticed, input text wasn\u2019t mentioned once yet; however, we are all used to implementations converting text to images, not random noise to images. So, how and where exactly does this feature come in? Latent Diffusion Models A key idea that would fix these issues is splitting our model into two separate ones. The first model is trained to encode and decode images into a \u201clatent space\u201d which retains a lot of the \u201cperceptual\u201d details behind the image, but reduces the data dimensions. As a way to intuitively understand this, one can think of some noise in images that we really don\u2019t have to learn (a blue sky with pixels slightly changing their hue). The second model is the actual Diffuser, which can convert this latent space representation into an image. However, this Diffuser has a special modification that allows it to \u201cunderstand\u201d and be directed by inputs from other domains, such as text. Perceptual Image Compression Let\u2019s begin with the first model \u2014 the image encoder/decoder. Remember, the idea is to prepare images for the actual Diffuser in such a way that important information is preserved while dimensions are decreased. This compression model is actually called an \u201cautoencoder\u201d, and again this model learns to encode data into a compressed latent space and then decode it back to its original form. The goal of such a model is to minimize the difference between the input and the reconstructed output. For our loss function, we use two components. Perceptual Loss \u2014 Our goal is to minimize the differences in image features (such as edges or textures), as opposed to pixel differences between the original and decoded versions. There are existing tools that can extrapolate these from images, and we can use these. Patch-based Adversarial Objective\u200a\u2014\u200aA GAN (check out my previous article on different types of models) whose goal is to enforce local realism, analyzing the image patch by patch and classifying whether a certain patch is real or fake. This has the additional benefit of avoiding blurring, as what we are optimizing for isn\u2019t pixel difference but feature difference. This means that if our model produced an image that is slightly different in pixel coloring but still retains the same \u201cfeatures\u201d, it won\u2019t be penalized much and this is [&#8230;]",
+            "pubdate": "Fri, 08 Sep 2023 02:02:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "Explaining Attention in Transformers [From The Encoder Point of View]": {
+            "url": "https://towardsai.net/p/machine-learning/explaining-attention-in-transformers-from-the-encoder-point-of-view",
+            "description": "Last Updated on September 8, 2023 by Editorial Team Author(s): Nieves Crasto Originally published on Towards AI. Photo by Devin Avery on Unsplash In this article, we will take a deep dive into the concept of attention in Transformer networks, particularly from the encoder\u2019s perspective. We will cover the following topics: What is machine translation? Need for attention. How is attention computed using Recurrent Neural Networks (RNNs)? What is self-attention, and how is it computed using the Transformer\u2019s encoder? Multi-headed attention in the Encoder. Machine Translation We will look at Neural machine translation (NMT) as a running example in this article. NMT aims to build and train a single, large neural network that reads a sentence and outputs a correct translation. This is achieved using sequence-to-sequence models, like Recurrent Neural Networks (RNNs), where you have a sequence as an input to the model and it produces another sequence as the output. Figure 1: Image courtesy https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ Figure 1 shows an example of French to English-translation. The model contains two parts: the encoder and the decoder. The encoder will process the sentence word by word (technically token by token as per Natural Language Processing (NLP) terminology). The encoder produces a context that is fed into the decoder. The decoder will then produce the output one word at a time. Figure 2: Image courtesy https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ To further illustrate in Figure 2, the encoder produces a hidden state at each time instance, and the last hidden state (hidden state #3) is fed as the decoder input. Processing a sentence word-by-word can have detrimental effects, especially as the sentence gets long. The last hidden state of the sentence might not be able to encode all the necessary information, which can result in forgetting the beginning of the sentence. This a well-known issue that RNNs have faced. There have been various ways proposed to overcome this; Long Short Term Memory (LSTM) being one of them. However, each of these methods has its share of pros and cons. Attention was proposed as a way to address this problem (Bahdanau et al). What is attention? Figure 3: Image courtesy https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ In Figure 3, let\u2019s consider all three hidden states produced by the encoder. Instead of just relying on the last hidden state, the decoder now has access to all the hidden states produced by the encoder. The decoder generates output one word at a time, hence, we need a mechanism that informs the decoder which hidden state to prioritize to produce the output at each time step. For instance, to generate the first word \u201cJe\u201d, hidden state #1 will be most important, for second word \u201csuis\u201d, hidden state #2 is more important, and so on. Basically, at each time step, we need a different weighting scheme for the hidden states. This will tell the decoder which part of the input sentence it needs to focus on, in order to produce the output. In short, attention can be formulated as a weighted sum of the hidden states. The above sentence \u201cJe suis etudiant\u201d is pretty straightforward with a one-to-one mapping between the words for the input and output sentences. In the sentence below (Figure 4), we observe for the words \u201cEuropean Economic Area\u201d, the mapping of the words from France to English is reversed. In such cases, attention proves important in order to learn the correct mapping of words from one language to another. Figure 4: Image courtesy https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ To summarize, the encoder processes the sentence word-by-word and stores the corresponding hidden states. These hidden states are then fed to the decoder where the attention mechanism is applied. Note: The attention weights are changed per time-step. Figure 5: Image courtesy https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ Self-Attention Attention is a weighing scheme to learn the mapping between input and output sequence, i.e. which part of the input is going to be important to produce the output at the current time step. Now, let\u2019s look at the sentences below. Figure 6: Image courtesy https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html We need to know what does \u201cit\u201d refer to. Is it street or animal? This is crucial, especially in translating English into a gendered language, like French. Self-attention is a means to encode the relationship between words in the input sentence. In the first sentence in the example above, we look at all the words in the sentence and encode \u201cit\u201d in such a way that gives more weight to either animal or street than the other words. Now, let\u2019s look at the Transformer Architecture to understand how self-attention is implemented. Transformer Architecture The first transformer was introduced in a paper in 2017. As it was developed for machine translation, it has an encoder and a decoder architecture. The encoder and decoder are made up of stacks of encoders and decoders, respectively. Figure 7: Transformer Architecture (https://arxiv.org/abs/1706.03762) We are going to focus on the Multi-Head Attention block of the Encoder. To begin with, we generate vectors for each word (token) in a sentence using the word2vec model. The model takes a word as input and produces a vector that represents the meaning of the word. The vectors generated by the word2vec model tend to put words that are similar in meaning to be closer in the vector space, i.e. the words \u201cchair\u201d and \u201ctable\u201d would be closer together compared to, let\u2019s say \u201cchair\u201d and \u201ctiger\u201d. These vectors are then fed into the attention module. How is self-attention computed? (Query, Key, Value) Previously, we calculated attention as a simple weighted summation of the hidden states in the RNN. Here, we are going to compute self-attention in a different way, using Query, Key, and Value. This is based on the concept of databases, where you have a lookup table, consisting of a key and a corresponding value. When someone queries the database, you match the query to the key and get some value based on the match. Let\u2019s consider a small database (see Table 1 below) with three keys: Apple, banana, chair, and a value associated with each key (10, 5, [&#8230;]",
+            "pubdate": "Fri, 08 Sep 2023 00:02:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -12224,6 +12257,17 @@
                 2023,
                 9,
                 6
+            ],
+            "email_sent": true
+        },
+        "Efficient Controllable Generation for SDXL with T2I-Adapters": {
+            "url": "https://huggingface.co/blog/t2i-sdxl-adapters",
+            "description": null,
+            "pubdate": "Fri, 08 Sep 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
             ],
             "email_sent": true
         }
@@ -17753,6 +17797,72 @@
                 8
             ],
             "email_sent": true
+        },
+        "Weekly Piece of Future #32 - by Zoltan Tapi": {
+            "url": "https://www.emergentmind.com/posts/weekly-piece-of-future-32-by-zoltan-tapi",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Weekly Piece of Future #32 from Rushing Robotics discusses recent advances in science, technology, and biotech such as microrobots that can stimulate individual cells, a model of a human embryo created without the use of sperm, eggs, or a womb, and human kidneys grown inside pigs.</li>\n      <li>The report also mentions industry updates including solar-powered hybrid trucks, a seven-minute cancer treatment injection in England, and a $15.5 billion funding package by the U.S. Department of Energy for the transition to electric vehicles.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://rushingrobotics.com/p/weekly-piece-of-future-32\">Weekly Piece of Future #32 - by Zoltan Tapi</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 13:02:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "Scientific sleuths spot dishonest ChatGPT use in papers": {
+            "url": "https://www.emergentmind.com/posts/scientific-sleuths-spot-dishonest-chatgpt-use-in-papers",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT, an AI chatbot, was used without disclosure in drafting research papers, which is a breach of ethical policies according to the publishers.</li>\n      <li>The detection of such undisclosed AI assistance is challenging due to the sophisticated text generation capabilities of ChatGPT, potentially leading to an influx of such papers in academic publishing.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nature.com/articles/d41586-023-02477-w\">Scientific sleuths spot dishonest ChatGPT use in papers</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 13:02:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "ChatGPT Traffic Declines for Third Consecutive Month": {
+            "url": "https://www.emergentmind.com/posts/chatgpt-traffic-declines-for-third-consecutive-month",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI's AI chatbot, ChatGPT, experienced its third consecutive monthly decline in website visits in August, according to analytics firm Similarweb. However, there was a slight increase in unique visitors worldwide.</li>\n      <li>ChatGPT, which gained popularity for its human-like text generation and wide range of applications, may see a boost in traffic and usage with the return of schools in September, as some educational institutions have begun incorporating it into their curriculum.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.solarisnews.com/post/chatgpt-traffic-declines-for-third-consecutive-month\">ChatGPT Traffic Declines for Third Consecutive Month</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 10:02:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "Slack AI": {
+            "url": "https://www.emergentmind.com/posts/slack-ai-sign-up-slack",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>By registering, users agree to Salesforce's data processing and privacy statement.</li>\n      <li>Users can opt to receive marketing communications and have the option to unsubscribe at any time.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://slack.com/ai?nojsmode=1\">Slack AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 10:02:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "FLM-101B: An Open LLM and How to Train It with $100K Budget": {
+            "url": "https://www.emergentmind.com/posts/2309-03852-flm-101b-an-open-llm-and-how-to-train-it",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large language models are successful in various tasks but face challenges including high computational costs and difficulty in fair evaluations. Only a few major players can afford their training, limiting research and application opportunities.</li>\n      <li>This study presents a growth strategy to reduce training costs and a systematic evaluation paradigm for fair evaluations. A model with 101B parameters and 0.31TB tokens can be trained on a $100K budget, providing comparable performance to well-known models like GPT-3 and GLM-130B.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2309.03852\">FLM-101B: An Open LLM and How to Train It with $100K Budget</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 05:02:23 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
+        },
+        "Federated benchmarking of medical artificial intelligence with MedPerf": {
+            "url": "https://www.emergentmind.com/posts/federated-benchmarking-of-medical-artificial",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>MedPerf is an open platform that allows for the systematic, quantitative evaluation of medical AI models on large-scale, diverse data. It enables federated evaluation of AI models by securely distributing them to different facilities, allowing each to assess and verify the models' performance while prioritizing privacy. MedPerf is designed to overcome the challenges faced by the healthcare and AI communities and has already been used in various settings including the first federated learning challenge.</li>\n      <li>The platform was created by a consortium of experts from over 20 companies, academic institutions, and hospitals across 13 countries and five continents. It aims to provide consistent methodologies for evaluating AI models, enable quantification of model generalizability across institutions while protecting data privacy and model intellectual property, and encourage further model development, data annotation, and curation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nature.com/articles/s42256-023-00652-2\">Federated benchmarking of medical artificial intelligence with MedPerf</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 08 Sep 2023 04:03:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -18149,6 +18259,17 @@
                 2023,
                 9,
                 7
+            ],
+            "email_sent": true
+        },
+        "TIME 100 Most Influential People in AI": {
+            "url": "https://www.superpowerdaily.com/p/166-templates-coming-to-chatgpt-enterprise",
+            "description": "PLUS: Templates coming to ChatGPT Enterprise!",
+            "pubdate": "2023-09-08T07:06:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                8
             ],
             "email_sent": true
         }
