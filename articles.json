@@ -17896,6 +17896,50 @@
                 10
             ],
             "email_sent": true
+        },
+        "LLM Training: RLHF and Its Alternatives": {
+            "url": "https://www.emergentmind.com/posts/llm-training-rlhf-and-its-alternatives",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article explains the process of Reinforcement Learning with Human Feedback (RLHF) and its significance in the training of modern Language Learning Models (LLMs). It also discusses the comparison between the RLHF approach implemented by ChatGPT and Llama 2, and highlights the most recent alternatives to RLHF.</li>\n      <li>The RLHF process incorporates human preferences into the model training, improving its helpfulness and safety. The training pipeline includes pretraining, supervised finetuning, and alignment stages. The article also delves into the RLHF steps in detail and discusses how Meta AI's Llama 2 model variation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives\">LLM Training: RLHF and Its Alternatives</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 10 Sep 2023 12:02:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                10
+            ],
+            "email_sent": true
+        },
+        "PAPERSNAP - Poe": {
+            "url": "https://www.emergentmind.com/posts/papersnap-poe",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>PAPERSNAP is a tool that simplifies the extraction of important information from research papers using a powerful language model called Claude 2.</li>\n      <li>It processes long documents and transforms them into organized, interactive mind maps, providing an intuitive approach to understanding complex research.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://poe.com/universal_link_page?handle=PAPERSNAP\">PAPERSNAP - Poe</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 10 Sep 2023 10:03:04 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                10
+            ],
+            "email_sent": true
+        },
+        "New physics-based self-learning machines could replace current artificial neural networks and save energy": {
+            "url": "https://www.emergentmind.com/posts/new-physics-based-self-learning-machines-could-replace",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Scientists at the Max Planck Institute have developed a new method that could make the training of artificial intelligence (AI) more efficient and energy-saving. The method uses physical processes instead of the digital artificial neural networks currently in use.</li>\n      <li>The researchers are now working on implementing their concept in an optical neuromorphic computer, a machine that processes information in the form of superimposed light waves. They hope to present the first self-learning physical machine within three years.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://techxplore.com/news/2023-09-physics-based-self-learning-machines-current-artificial.html\">New physics-based self-learning machines could replace current artificial neural networks and save energy</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 10 Sep 2023 08:03:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                10
+            ],
+            "email_sent": true
+        },
+        "Top 8 Courses & Certifications on AI EthicsThe Monk Tribune": {
+            "url": "https://www.emergentmind.com/posts/top-8-courses-certifications-on-ai-ethics-the-monk",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>While AI has the potential to solve complex global issues, it is crucial to use it responsibly and consider its potential negative consequences. Companies embracing AI must also consider the broader social, economic, cultural, and political environments to avoid jeopardizing privacy, security, and exacerbating existing inequalities. Several top courses and certification programs teach about ethics in AI, including offerings from Oxford University, the University of Helsinki, MIT, the London School of Economics, and LearnQuest.</li>\n      <li>Ethics in AI courses cover a range of topics including the creation and governance of AI, philosophical considerations, potential threats posed by AI, the ethics of specific AI applications, and ethical dilemmas in AI development and usage. They also explore the ethical dimensions of AI, machine bias, ethical risks, and how to align AI goals with humanity's objectives. The aim is to equip individuals with the knowledge and skills to use and develop AI in an ethical and responsible way.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://monktribune.online/top-8-courses-certifications-on-ai-ethics/\">Top 8 Courses &amp; Certifications on AI Ethics\u00a0The Monk Tribune</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 10 Sep 2023 06:02:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                10
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
