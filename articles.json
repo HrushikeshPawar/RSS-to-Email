@@ -17940,6 +17940,39 @@
                 10
             ],
             "email_sent": true
+        },
+        "An LLM-based autonomous agent controlling real-world applications via RESTful APIs": {
+            "url": "https://www.emergentmind.com/posts/github-yifan-song793-restgpt-an-llm-based-autonomous",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Planner, API selector, executor, caller, and parser are tools used to generate natural language sub-tasks, map tasks to API calling plans, execute these plans, organize API parameters based on documentation, and generate Python code to parse API responses. An example provided uses the TMDB movie database to search for movies directed by Sofia Coppola.</li>\n      <li>RestBench is introduced as a tool to evaluate the performance of RestGPT. It consists of the TMDB movie database and Spotify music player scenarios, collecting realistic user instructions with human-annotated solution paths.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/Yifan-Song793/RestGPT\">An LLM-based autonomous agent controlling real-world applications via RESTful APIs</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 11 Sep 2023 03:02:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                11
+            ],
+            "email_sent": true
+        },
+        "Therapy for Bobby Hill": {
+            "url": "https://www.emergentmind.com/posts/therapy-for-bobby-hill",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A student studying to become a counseling therapist conducts a choose-your-own-adventure style conversational interaction with the character Bobby Hill from the show 'King of the Hill'.</li>\n      <li>The student therapist guides Bobby, now 27, through a session discussing his upbringing, relationships, and struggles with self-perception and emotional openness.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/78e568e8-ee21-44eb-8711-3475406cfeae\">Therapy for Bobby Hill</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 11 Sep 2023 02:02:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                11
+            ],
+            "email_sent": true
+        },
+        "Meta Is Developing a New, More Powerful AI System as Technology Race Escalates - WSJ": {
+            "url": "https://www.emergentmind.com/posts/meta-is-developing-a-new-more-powerful-ai-system-as",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Meta Platforms is working on a new, more advanced artificial intelligence system.</li>\n      <li>The company aims for this AI to be as capable as OpenAI\u2019s most advanced model, with training set to begin in early 2024.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451\">Meta Is Developing a New, More Powerful AI System as Technology Race Escalates - WSJ</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 11 Sep 2023 00:03:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                11
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
