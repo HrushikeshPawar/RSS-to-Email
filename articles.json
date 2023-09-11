@@ -8963,6 +8963,17 @@
                 8
             ],
             "email_sent": true
+        },
+        "Satellite Data, Bushfires and AI: Safeguarding Wine Industry Amidst Climate Challenges": {
+            "url": "https://towardsai.net/p/machine-learning/satellite-data-bushfires-and-ai-safeguarding-wine-industry-amidst-climate-challenges",
+            "description": "Last Updated on September 11, 2023 by Editorial Team Author(s): Magdalena Kortas Originally published on Towards AI. Bushfires, smoke, droughts\u2026 As you prepare to enjoy a delightful sip from your glass of Australian S\u00e9millon this afternoon, take a moment to reflect on the remarkable journey of resilience it has undertaken before gracing your table. You can also read this article on Kablamo Engineering Blog. THE CLIMATE CHALLENGE: THE INTERSECTION OF CLIMATE CHANGE AND WINE PRODUCTION Ranked as the 5th largest global wine exporter, Australia holds a prominent place in the world of wine. The Hunter Valley, Australia\u2019s oldest wine-producing region situated just a couple of hours north of Sydney, is facing a substantial challenge. According to Wine Australia\u2019s Climate Atlas, this region is anticipated to experience an average temperature rise of 2.3 degrees Celsius over the next 50 years. This brings unpredictable weather patterns and an escalated risk of bushfires driven by the intensifying heat. The Hunter Valley is already confronted with an increasing vulnerability to bushfires, a threat that magnifies in the face of climate change. The risk doesn\u2019t solely arise from direct fire impact. Beyond the vineyards that are directly impacted by flames, the danger comes as well from smoke emanating from nearby blazes. \u201cSmoke taint,\u201d a phenomenon arising when smoke particles adhere to grape skins, compromises the quality of wine produced from these grapes, leading to substantial harvest losses. As the El Ni\u00f1o phenomenon approaches in the summer of 2023, there is a dual concern of record-breaking warmth and extreme aridity. Elevated fuel accumulation, dryness, fire-conducive weather, and lightning activity collectively heighten the probability of frequent bushfires. Consequently, the convergence of drought, parched vegetation, and unprecedented heat could imperil the wine industry. Mitigating such risks necessitates effective fire prevention strategies, precise risk assessment, and strategic hazard reduction efforts. NATURE\u2019S WATCHFUL EYE: HARNESSING SATELLITE DATA FOR LAND HEALTH ASSESSMENT Satellites play a pivotal role in the toolkit of scientists, enabling them to monitor Earth\u2019s atmosphere, terrain, and oceans. The Sentinel-2, a component of the European Copernicus Programme named in honor of Polish astronomer Nicolaus Copernicus, is an Earth observation mission that captures optical images with a high spatial resolution (ranging from 10 meters to 60 meters) over both land and coastal waters. With a constellation of two polar-orbiting satellites, Sentinel-2 provides data every 5 days. Sentinel-2 leverages visible, near-infrared, and shortwave infrared sensors across 13 spectral bands. Here, a color composite combines a few of the spectral bands \u2014 visible red, green and blue bands \u2014 with the corresponding red, green and blue channels, resembling what you would see with the human eye. Observed region in Hunter Valley in July 2019 These 13 bands facilitate the computation of indices that estimate vegetation health, detect changes in the landscape, and even estimate the risk of bushfires. One of the invaluable indices derived from Sentinel-2\u2019s spectral bands is the Enhanced Vegetation Index (EVI). Tailored to enhance the visibility of vegetation while minimizing atmospheric interference, EVI offers insights into vegetation health. Healthy, green, and hydrated vegetation corresponds to higher EVI values, while drier, less healthy vegetation, indicative of bushfire risk, corresponds to lower EVI values. An illustrative divergence is visible in the comparison between unhealthy and dry vegetation during the 2019\u201320 Australian bushfire season (Black Summer)and flourishing vegetation in December 2021. Detecting drought in January 2020 (on the left) using the EVI vegetation index Yellow means very healthy vegetation while dark green means unhealthy. EVI provides a quantitative measure of vegetation health, allowing wineries to track the overall condition of their entire vineyards, as opposed to individual vines. This can help identify early signs that might not be immediately obvious to the naked eye. By tracking EVI trends over time and comparing them to historical data, we can identify drought conditions early and alert vineyard managers to take appropriate actions. By analyzing EVI alongside soil moisture data, we can develop irrigation strategies that ensure efficient water use and prevent over- or under-irrigation. EVI data can also detect early signs of potential diseases affecting vineyards \u2014 unhealthy vegetation might indicate the presence of pests or diseases. PIXELS TO PRECISION: REFINING ANALYSIS: AI-POWERED EXAMINATION OF INDIVIDUAL FIELDS Moving beyond regional assessments, a finer-grained evaluation of individual fields is achievable. Given the scarcity of labeled data, an unsupervised approach is adopted to categorize similar agricultural fields based on their EVI and basic spectral bands. This approach rests on the assumption that similar plant types exhibit analogous responses to environmental changes. Since we lack knowledge of the exact field boundaries, we can use the unsupervised machine learning algorithm, K-means clustering, to partition unlabelled data points into K clusters predicated on their similarity. In the context of Sentinel-2 data, K-means facilitates the grouping of similar pixels according to their spectral characteristics and EVI values. Clustering similar fields using unsupervised K-means clustering The outcome of K-means clustering is cluster labels that assign each data point to one of the K clusters. K-means is basically like sorting colored balls into groups by finding their average colors. In the realm of Sentinel-2 data, these labels serve to identify areas characterized by similar spectral attributes. These areas can then be subjected to further examination for valuable insights, such as land use classification and environmental monitoring, and as input to the segmentation algorithm. In order to extract individual fields for an even higher resolution to facilitate analysis of individual fields, we can use Felzenszwalb\u2019s algorithm, a segmentation technique widely employed in image processing and computer vision. Individual field retrieval (yellow) using Felzenszwalb\u2019s algorithm This algorithm functions as a bottom-up segmentation tool, aggregating pixels with similar characteristics and spatial proximity into segments or regions. It\u2019s like drawing lines around squares of similar colours in a picture to make shapes. This method facilitates the extraction and analysis of individual fields for future investigations, such as precision agriculture management, crop yield prediction or individual field risk assessment. ESTIMATING BUSHFIRE RISK: AN ADVANCED APPLICATION OF SATELLITE DATA There is the potential for satellite data [&#8230;]",
+            "pubdate": "Mon, 11 Sep 2023 00:01:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                11
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -12268,6 +12279,17 @@
                 2023,
                 9,
                 8
+            ],
+            "email_sent": true
+        },
+        "SafeCoder vs. Closed-source Code Assistants": {
+            "url": "https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants",
+            "description": null,
+            "pubdate": "Mon, 11 Sep 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                11
             ],
             "email_sent": true
         }
@@ -17973,6 +17995,28 @@
                 11
             ],
             "email_sent": true
+        },
+        "LLM-Powered OLAP: the Tencent Experience with Apache Doris - Apache Doris": {
+            "url": "https://www.emergentmind.com/posts/llm-powered-olap-the-tencent-experience-with-apache",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Tencent has implemented Large Language Models (LLM) to enhance their Apache Doris-based OLAP services by transforming natural language queries into SQL statements. However, the LLM has limitations in understanding data jargon and niche knowledge, and has slow inference times.</li>\n      <li>To address these issues, Tencent has introduced a semantic layer, created parsing rules for cost-effectiveness, added a Schema Mapper for niche knowledge and incorporated plugins to connect the LLM to wider information sources. This has resulted in the SuperSonic framework, which optimizes query response time and reduces API expenses.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://doris.apache.org/zh-CN/blog/Tencent-LLM/\">LLM-Powered OLAP: the Tencent Experience with Apache Doris - Apache Doris</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 11 Sep 2023 13:02:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                11
+            ],
+            "email_sent": true
+        },
+        "Frontiers": {
+            "url": "https://www.emergentmind.com/posts/frontiers-the-computational-power-of-the-human-brain",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The human brain's computational power is explored in this study, questioning whether the brain operates in a digital or analog fashion. The study posits that the brain's methods of computation are not simply digital or analog, but a combination of the two, operating in parallel and with higher orders of complexity.</li>\n      <li>The research further suggests that the brain's computational processes are more sophisticated than those currently used in artificial intelligence, such as artificial neural networks, due to the brain's ability to process information in a parallel, unsupervised manner.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.frontiersin.org/articles/10.3389/fncel.2023.1220030/full\">Frontiers</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 11 Sep 2023 05:03:36 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                11
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -18380,6 +18424,17 @@
                 2023,
                 9,
                 8
+            ],
+            "email_sent": true
+        },
+        "A new Uncensored AI with no limit": {
+            "url": "https://www.superpowerdaily.com/p/167-a-new-uncensored-ai-with-no-limit",
+            "description": "MBA Students lost miserably to ChatGPT in generating ideas",
+            "pubdate": "2023-09-11T07:36:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                11
             ],
             "email_sent": true
         }
