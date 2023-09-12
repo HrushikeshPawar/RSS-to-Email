@@ -1970,6 +1970,17 @@
                 7
             ],
             "email_sent": true
+        },
+        "One Small Step for Artists, One Giant Leap for Creative-Kind": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/12/aendom-blender-adobe-substance-3d-painter/",
+            "description": "Editor\u2019s note: This post is part of our weekly In the NVIDIA Studio series, which celebrates featured artists, offers creative tips and tricks and demonstrates how NVIDIA Studio technology improves creative workflows.\u00a0 When it comes to converting 2D concepts into 3D masterpieces, self-taught visual development artist Alex Trevi\u00f1o has confidence in the potential of all <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/09/12/aendom-blender-adobe-substance-3d-painter/\">Read article &#62;</a>",
+            "pubdate": "Tue, 12 Sep 2023 13:00:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                12
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -5655,6 +5666,17 @@
                 2023,
                 8,
                 31
+            ],
+            "email_sent": true
+        },
+        "15 projects using AI to reach the UNs Global Goals": {
+            "url": "https://blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/",
+            "description": "A collage of photos that show people around the world using technology to help people: pregnant women, dementia patients, young children walking to school.",
+            "pubdate": "Tue, 12 Sep 2023 10:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                12
             ],
             "email_sent": true
         }
@@ -12292,6 +12314,17 @@
                 11
             ],
             "email_sent": true
+        },
+        "Overview of natively supported quantization schemes in  Transformers": {
+            "url": "https://huggingface.co/blog/overview-quantization-transformers",
+            "description": null,
+            "pubdate": "Tue, 12 Sep 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                12
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -18039,6 +18072,28 @@
                 12
             ],
             "email_sent": true
+        },
+        "NVIDIA, Apple Have Got a Real Competitor NowThe Monk Tribune": {
+            "url": "https://www.emergentmind.com/posts/nvidia-apple-have-got-a-real-competitor-nowthe-monk",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>iFlytek, a Chinese AI company, has released its Spark AI model with the help of Huawei's advanced GPU capabilities, which are now comparable to NVIDIA\u2019s A100 GPUs.</li>\n      <li>Huawei is not only helping to advance AI capabilities in China, but is also making strides in the phone market, with the release of the Mate 60 Pro, and is significantly contributing to China's goal of technological self-reliance.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://monktribune.online/nvidia-apple-have-got-a-real-competitor-now/\">NVIDIA, Apple Have Got a Real Competitor NowThe Monk Tribune</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 12 Sep 2023 07:03:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                12
+            ],
+            "email_sent": true
+        },
+        "Pulitzer Prize Winner And Other Writers Sue OpenAI For Copyright Infringement": {
+            "url": "https://www.emergentmind.com/posts/pulitzer-prize-winner-and-other-writers-sue-openai-for",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Michael Chabon, along with other famous American authors, have sued OpenAI for using their works without permission to train its chatbot, ChatGPT.</li>\n      <li>This is not the first instance of such a lawsuit, as other companies like Microsoft, Meta Platforms, and Stability AI have also faced legal action for using copyrighted materials in training AI systems.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theinsaneapp.com/2023/09/another-group-of-writers-sue-openai-for-copyright-infringement.html\">Pulitzer Prize Winner And Other Writers Sue OpenAI For Copyright Infringement</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 12 Sep 2023 06:02:52 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                12
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -18457,6 +18512,17 @@
                 2023,
                 9,
                 11
+            ],
+            "email_sent": true
+        },
+        "ChatGPT found the right diagnosis after 17 doctors couldnt": {
+            "url": "https://www.superpowerdaily.com/p/168-chatgpt-found-the-right-diagnosis-after-17-doctors-couldnt",
+            "description": "Americans believe AI will hurt elections",
+            "pubdate": "2023-09-12T06:24:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                12
             ],
             "email_sent": true
         }
