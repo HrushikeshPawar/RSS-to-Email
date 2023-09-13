@@ -1981,6 +1981,17 @@
                 12
             ],
             "email_sent": true
+        },
+        "Unlocking the Language of Genomes and Climates: Anima Anandkumar on Using Generative AI to Tackle Global Challenges": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/13/anima-anandkumar-generative-ai/",
+            "description": "Generative AI-based models can not only learn and understand natural languages \u2014 they can learn the very language of nature itself, presenting new possibilities for scientific research. Anima Anandkumar, Bren Professor at Caltech and senior director of AI research at NVIDIA, was recently invited to speak at the President\u2019s Council of Advisors on Science and <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/09/13/anima-anandkumar-generative-ai/\">Read article &#62;</a>",
+            "pubdate": "Wed, 13 Sep 2023 13:00:11 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                13
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -12336,6 +12347,17 @@
                 12
             ],
             "email_sent": true
+        },
+        "Fine-tuning Llama 2 70B using PyTorch FSDP": {
+            "url": "https://huggingface.co/blog/ram-efficient-pytorch-fsdp",
+            "description": null,
+            "pubdate": "Wed, 13 Sep 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                13
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -18127,6 +18149,72 @@
                 13
             ],
             "email_sent": true
+        },
+        "Why We Built ChatDLP: Because Banning Productivity Tools Isn't the Answer": {
+            "url": "https://www.emergentmind.com/posts/why-we-built-chatdlp-because-banning-productivity",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatDLP is a tool developed as a response to security concerns surrounding the use of ChatGPT in the workplace. This data anonymizer plugin prevents sensitive data from being leaked into AI models by anonymizing it before submission.</li>\n      <li>It was developed in response to the growing concerns of CISOs and security professionals who wanted to allow their employees to continue using ChatGPT safely. ChatDLP uses Sentra's AI-based classification engine to detect and redact sensitive data while allowing organizations to remain compliant with privacy regulations.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.sentra.io/blog/why-we-built-chatdlp-because-banning-productivity-tools-isnt-the-answer\">Why We Built ChatDLP: Because Banning Productivity Tools Isn't the Answer</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 13 Sep 2023 09:02:43 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                13
+            ],
+            "email_sent": true
+        },
+        "AI image generators have a moderation problem - Rest of World": {
+            "url": "https://www.emergentmind.com/posts/ai-image-generators-have-a-moderation-problem-rest-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Logically, a company that uses AI and fact-checking methods to combat online harm, found that AI image generators accept more than 85% of prompts tailored for election manipulation.</li>\n      <li>The study also revealed significant gaps in platform moderation, with some platforms failing to reject violent or inappropriate content.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://restofworld.org/2023/3-minutes-with-kyle-walters-logically/?utm_source=Schaake+Newsletter&amp;utm_campaign=d18937cf84-EMAIL_CAMPAIGN_2022_04_12_06_47_COPY_01&amp;utm_medium=email&amp;utm_term=0_3beb31fac3-d18937cf84-600884810\">AI image generators have a moderation problem - Rest of World</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 13 Sep 2023 06:03:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                13
+            ],
+            "email_sent": true
+        },
+        "Top cybersecurity news: Prompt injection attacks threaten AI chatbots": {
+            "url": "https://www.emergentmind.com/posts/top-cybersecurity-news-prompt-injection-attacks",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The UK's National Cyber Security Centre warns of growing risk of AI chatbots being manipulated by hackers through 'prompt injection' attacks, which cause the model to behave in unexpectedly harmful ways.</li>\n      <li>The number of data breaches worldwide saw a 156% increase between Q1 and Q2 in 2023, with nearly half of the breaches originating from the US.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.weforum.org/agenda/2023/09/prompt-injection-attacks-threaten-ai-chatbots-and-other-cybersecurity-news-to-know-this-month/\">Top cybersecurity news: Prompt injection attacks threaten AI chatbots</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 13 Sep 2023 06:02:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                13
+            ],
+            "email_sent": true
+        },
+        "Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc": {
+            "url": "https://www.emergentmind.com/posts/2308-04445-getting-from-generative-ai-to-trustworthy",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Generative AI, primarily large language models (LLMs), produces plausible but not always correct outputs, and often lacks reasoning abilities, making their results unpredictable and hard to interpret.</li>\n      <li>An alternative AI approach could solve these limitations by using curated knowledge and rules, enabling an inference engine to deduce logical conclusions. However, this approach can be slow, so AI systems usually opt for faster but less expressive logic. A system named Cyc has found a way to balance this trade-off, and the article suggests that future AI will need to combine the LLM approach with more formal approaches.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2308.04445\">Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 13 Sep 2023 05:02:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                13
+            ],
+            "email_sent": true
+        },
+        "How Business Thinkers Can Start Building AI Plugins With Semantic Kernel - DeepLearning.AI": {
+            "url": "https://www.emergentmind.com/posts/how-business-thinkers-can-start-building-ai-plugins",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Microsoft's open-source orchestrator, Semantic Kernel, is offering a free course to help business thinkers develop their analysis skills while leveraging AI tools. The course aims to enable coders and non-coders to build sophisticated business applications using Large Language Models (LLMs).</li>\n      <li>The course will cover how to utilize the Semantic Kernel in applications, how to avoid having to learn APIs for every AI service, and how to keep integrations up to date with the latest advances in AI research. Recommended skills are basic Python and an understanding of an Application Programming Interface (API).</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/\">How Business Thinkers Can Start Building AI Plugins With Semantic Kernel - DeepLearning.AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 13 Sep 2023 04:02:40 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                13
+            ],
+            "email_sent": true
+        },
+        "EU leads the way in regulating AI": {
+            "url": "https://www.emergentmind.com/posts/eu-leads-the-way-in-regulating-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The European Union (EU) is creating international guidelines to regulate artificial intelligence (AI) to ensure its safe and beneficial use.</li>\n      <li>The proposed AI Act aims to protect the public, promote innovation, and implement a mandatory incident reporting procedure as part of the quality control framework for AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://independentaustralia.net/business/business-display/eu-leads-the-way-in-regulating-ai,17894?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=IA_Feed\">EU leads the way in regulating AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 13 Sep 2023 04:02:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                13
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -18556,6 +18644,17 @@
                 2023,
                 9,
                 12
+            ],
+            "email_sent": true
+        },
+        "OpenAI Now Owns ChatGPT.com": {
+            "url": "https://www.superpowerdaily.com/p/169-openai-now-owns-chatgpt-com",
+            "description": "Simulating History with ChatGPT",
+            "pubdate": "2023-09-13T06:05:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                13
             ],
             "email_sent": true
         }
