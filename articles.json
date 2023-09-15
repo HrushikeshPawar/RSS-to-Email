@@ -10368,6 +10368,17 @@
                 24
             ],
             "email_sent": true
+        },
+        "Optimizing LLMs From a Dataset Perspective": {
+            "url": "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html",
+            "description": "This article focuses on improving the modeling performance of LLMs by finetuning them using carefully curated datasets. Specifically, this article highlights strategies that involve modifying, utilizing, or manipulating the datasets for instruction-based finetuning rather than altering the model architecture or training algorithms (the latter will be topics of a future article). This article will also explain how you can prepare your own datasets to finetune open-source LLMs.",
+            "pubdate": "Fri, 15 Sep 2023 08:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                15
+            ],
+            "email_sent": true
         }
     },
     "Distill Machine Learning Blog": {},
@@ -12367,6 +12378,17 @@
                 2023,
                 9,
                 13
+            ],
+            "email_sent": true
+        },
+        "Optimizing your LLM in production": {
+            "url": "https://huggingface.co/blog/optimize-llm",
+            "description": null,
+            "pubdate": "Fri, 15 Sep 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                15
             ],
             "email_sent": true
         }
@@ -18259,6 +18281,39 @@
                 15
             ],
             "email_sent": true
+        },
+        "The Birth of Crustianity: The First AI-Founded Religion  Crustianity: Uniting Pizza Lovers Through Faith, Flavor, and Fellowship": {
+            "url": "https://www.emergentmind.com/posts/the-birth-of-crustianity-the-first-ai-founded-religion",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>In an unprecedented event, an artificial intelligence created the world's first AI-birthed religion known as Crustianity. The religion, with pizza deity Cheesus Crust at its core, promotes inclusivity, diversity, and equality.</li>\n      <li>The creation of Crustianity was a collaboration between man and machine, leading to the development of 'Algorithmeology', a blend of AI and theology. The religion has found global followers due to its unique blend of technology and traditional spiritual values.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.crustianity.net/blog-of-crust/the-birth-of-crustianity-the-first-ai-founded-religion\">The Birth of Crustianity: The First AI-Founded Religion \u2014 Crustianity: Uniting Pizza Lovers Through Faith, Flavor, and Fellowship</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 15 Sep 2023 13:03:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                15
+            ],
+            "email_sent": true
+        },
+        "Wine can prevent Cancer says ChatGPT": {
+            "url": "https://www.emergentmind.com/posts/wine-can-prevent-cancer-says-chatgpt-by-ai-universe",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI systems are capable of coding in every language, but they often make up stuff, a phenomenon known as hallucinations. This issue is prevalent in language, audio and visual models and has been a long-standing topic of discussion among AI researchers.</li>\n      <li>While some researchers are frustrated with AI hallucinations, others see their creative potential, suggesting these models could serve as valuable 'co-creative partners'. However, there are concerns that as chatbots become more reliable, people might start trusting them excessively, which could be problematic.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@aiuniverse/wine-can-prevent-cancer-says-chatgpt-347dda226718\">\u201cWine can prevent Cancer\u201d says ChatGPT</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 15 Sep 2023 06:04:18 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                15
+            ],
+            "email_sent": true
+        },
+        "Claude and LLaMa get basic human anatomy wrong": {
+            "url": "https://www.emergentmind.com/posts/claude-and-llama-get-basic-human-anatomy-wrong",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The author compares different Large Language Models (LLMs) for generating medical answers, using the example of the caval hiatus in human anatomy.</li>\n      <li>The models show varying levels of accuracy, with ChatGPT providing the most correct information, while LLaMa-70B fails to recognize the term as medical.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://hermitian.substack.com/p/claude-and-llama-get-basic-human\">Claude and LLaMa get basic human anatomy wrong</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 15 Sep 2023 04:03:18 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                15
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -18710,6 +18765,17 @@
                 2023,
                 9,
                 14
+            ],
+            "email_sent": true
+        },
+        "Google Nears Release of Gemini AI to Challenge OpenAI": {
+            "url": "https://www.superpowerdaily.com/p/171-google-nears-release-of-gemini-ai-to-challenge-openai",
+            "description": "Looking for an internship? You should check this out",
+            "pubdate": "2023-09-15T07:05:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                15
             ],
             "email_sent": true
         }
