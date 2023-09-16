@@ -18314,6 +18314,50 @@
                 15
             ],
             "email_sent": true
+        },
+        "AI Survey Maker": {
+            "url": "https://www.emergentmind.com/posts/ai-survey-maker",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Fillout allows users to create and customize surveys using artificial intelligence.</li>\n      <li>Fillout also provides the ability to turn surveys into polls or quizzes, import existing surveys, and share AI-generated surveys.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.fillout.com/ai-survey-maker\">AI Survey Maker</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 16 Sep 2023 03:03:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                16
+            ],
+            "email_sent": true
+        },
+        "This AI Research Introduces AstroLLaMA: A 7B Parameter Model Fine-Tuned from LLaMA-2 Using Over 300K Astronomy Abstracts From ArXiv - MarkTechPost": {
+            "url": "https://www.emergentmind.com/posts/this-ai-research-introduces-astrollama-a-7b-parameter",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AstroLLaMA is a 7B parameter AI model fine-tuned from LLaMA-2 using over 300K astronomy abstracts, outperforming other models like GPT-4 and PaLM in astronomy-specific tasks.</li>\n      <li>Despite its impressive performance, AstroLLaMA has limitations such as lack of knowledge in specific areas of astronomy, and researchers are working on enhancing its training dataset.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.marktechpost.com/2023/09/15/this-ai-research-introduces-astrollama-a-7b-parameter-model-fine-tuned-from-llama-2-using-over-300k-astronomy-abstracts-from-arxiv/\">This AI Research Introduces AstroLLaMA: A 7B Parameter Model Fine-Tuned from LLaMA-2 Using Over 300K Astronomy Abstracts From ArXiv - MarkTechPost</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 16 Sep 2023 02:03:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                16
+            ],
+            "email_sent": true
+        },
+        "15 times Faster than Llama 2: Introducing DeciLM - NAS-Generated LLM with Variable GQA": {
+            "url": "https://www.emergentmind.com/posts/15-times-faster-than-llama-2-introducing-decilm",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Deci introduces DeciLM 6B and DeciLM 6B-Instruct, new Large Language Models (LLMs) that offer high performance and computational efficiency. With 5.7 billion parameters, these models establish a new benchmark for inference efficiency and speed, and can be used in a wide range of generative AI applications.</li>\n      <li>DeciLM's unique architecture was generated using AutoNAC, Deci's Neural Architecture Search engine. Coupled with Deci's inference SDK, these models offer substantial throughput enhancement, resulting in improved user experience, reduction in inference cost, and a smaller carbon footprint.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/\">15 times Faster than Llama 2: Introducing DeciLM - NAS-Generated LLM with Variable GQA</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 16 Sep 2023 02:03:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                16
+            ],
+            "email_sent": true
+        },
+        "Three Ways to Generate AI Art Using Intel Arc GPUs": {
+            "url": "https://www.emergentmind.com/posts/three-ways-to-generate-ai-art-using-intel-arc-gpus",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Intel Arc GPUs support three emerging solutions for creating Generative AI art, offering artists and creators high control, iteration, and custom data sets.</li>\n      <li>The AI art space is highly experimental and constantly evolving, with software often requiring users to install Python and GIT.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://game.intel.com/story/intel-arc-graphics-generative-ai-art/\">Three Ways to Generate AI Art Using Intel\u00ae Arc\u2122 GPUs</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 16 Sep 2023 01:02:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                16
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
