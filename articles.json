@@ -18435,6 +18435,50 @@
                 18
             ],
             "email_sent": true
+        },
+        "Chat GPT-5: The Next Step in the Evolution of AI": {
+            "url": "https://www.emergentmind.com/posts/chat-gpt-5-the-next-step-in-the-evolution-of-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI is preparing for the launch of GPT-5, the latest update in their series of AI models, promising significant advancements in natural language processing. It is expected to enhance human-AI interaction by providing more contextually aware responses, understanding sarcasm and irony, and reducing biases and errors.</li>\n      <li>The capabilities of GPT-5 extend beyond interaction, with potential applications in various sectors including education, healthcare and customer service. It is anticipated to revolutionize these fields by providing more natural, accurate, and creative responses, thus redefining the way we interact with AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.godofprompt.ai/blog/gpt-5-the-next-step-in-the-evolution-of-ai\">Chat GPT-5: The Next Step in the Evolution of AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 19 Sep 2023 12:02:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                19
+            ],
+            "email_sent": true
+        },
+        " Edition 12: Select the Right GPU Instance on AWS?": {
+            "url": "https://www.emergentmind.com/posts/edition-12-select-the-right-gpu-instance-on-aws",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Musings on AI provides insights on the optimal GPU instance selection on AWS for machine learning engineers. If you are performing High Performance jobs like Drug Discovery or High Precision jobs, the P Instance Family is suggested, while the G Instance Family is recommended for other tasks.</li>\n      <li>The article also emphasizes not to select the GPU based solely on price. Results of a conducted experiment showed that using a g5.xlarge machine could save 20% of the budget compared to a g4dn.2xlarge machine. Moreover, the g5 family offers benefits such as supporting all precision formats due to the modern NVIDIA Ampere Architecture.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://musingsonai.substack.com/p/edition-12-select-the-right-gpu-instance?utm_campaign=post&amp;utm_medium=web\">\ud83e\udd9a Edition 12: Select the Right GPU Instance on AWS?</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 19 Sep 2023 12:02:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                19
+            ],
+            "email_sent": true
+        },
+        "AI-Generated People in Slack by Aida Enache on Dribbble": {
+            "url": "https://www.emergentmind.com/posts/ai-generated-people-in-slack-by-aida-enache-on-dribbble",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The concept involves integrating AI habits like asking ChatGPT to act as coworkers, users, or consultants into the Slack workspace.</li>\n      <li>This idea could potentially change the way we interact and work within our workspaces.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://dribbble.com/shots/22584723-AI-Generated-People-in-Slack\">AI-Generated People in Slack by Aida Enache on Dribbble</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 19 Sep 2023 08:02:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                19
+            ],
+            "email_sent": true
+        },
+        "How DAR Ditched MySQL for 1000X Faster Performance and 50% Lower Costs": {
+            "url": "https://www.emergentmind.com/posts/how-dar-ditched-mysql-for-1000x-faster-performance-and",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Digital Asset Research (DAR) successfully increased their performance by 1000x and reduced costs by 50% by switching from MySQL to a unified data platform, SingleStoreDB.</li>\n      <li>DAR managed to scale from 20 million to 140 million daily orders while improving user experience and reducing costs.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.singlestore.com/resources/webinar-real-time-analytics-ai-in-fintech-the-dar-journey/?utm_source=asif-razzaq&amp;utm_medium=influencer&amp;utm_campaign=How-DAR-Ditched-MySQL-for-1000X-Faster-Performance-and-50-Percent-Lower-Costs&amp;campaignid=7014X0000029YWgQAM\">How DAR Ditched MySQL for 1000X Faster Performance and 50% Lower Costs</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 19 Sep 2023 04:02:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                19
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -18908,6 +18952,17 @@
                 2023,
                 9,
                 18
+            ],
+            "email_sent": true
+        },
+        "38TB of data accidentally exposed by Microsoft AI researchers": {
+            "url": "https://www.superpowerdaily.com/p/173-38tb-of-data-accidentally-exposed-by-microsoft-ai-researchers",
+            "description": "GPT-3.5-turbo-instruct has arrived",
+            "pubdate": "2023-09-19T06:35:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                19
             ],
             "email_sent": true
         }
