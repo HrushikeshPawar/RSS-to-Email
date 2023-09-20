@@ -5712,6 +5712,17 @@
                 12
             ],
             "email_sent": true
+        },
+        "How AI is generating change in newsrooms worldwide": {
+            "url": "https://blog.google/technology/ai/how-ai-is-generating-change-in-newsrooms-worldwide/",
+            "description": "A marble table top with a pencil holder and four books piled up with the title 'Generating Change: A global survey of what news organisations are doing with AI' by Charlie Beckett and Mia Yaseen.",
+            "pubdate": "Wed, 20 Sep 2023 14:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                20
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -18523,6 +18534,50 @@
                 20
             ],
             "email_sent": true
+        },
+        "local-first semantic code search engine": {
+            "url": "https://www.emergentmind.com/posts/github-kantord-seagoat-local-first-semantic-code",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>SeaGOAT is a local development tool that executes all its functionality locally using a server you can run on your machine.</li>\n      <li>It uses a vector database, ripgrep for code searching, and doesn't send your data to remote servers.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/kantord/SeaGOAT\">local-first semantic code search engine</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 20 Sep 2023 13:01:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                20
+            ],
+            "email_sent": true
+        },
+        "Bard's Integration with Google Apps: A Game-Changer in AI": {
+            "url": "https://www.emergentmind.com/posts/bard-s-integration-with-google-apps-a-game-changer-in",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Google's AI language model, Bard, has been integrated with Google Apps including Gmail, Drive, and Docs, to allow for deeper collaboration and streamline tasks like job application processes.</li>\n      <li>Bard's information accuracy is ensured through a feature that compares its responses against web content, while its expansion of multimodality allows images and prompts to be included in responses in over 40 languages.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://coderj001.hashnode.dev/bards-big-update-google-integrates-ai-with-google-apps\">Bard's Integration with Google Apps: A Game-Changer in AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 20 Sep 2023 07:02:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                20
+            ],
+            "email_sent": true
+        },
+        "Language Model UXes in 2027": {
+            "url": "https://www.emergentmind.com/posts/language-model-uxes-in-2027",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The author discusses the future of Language Model (LLM) user experiences, predicting that by 2027, LLMs will significantly change how we interact with computers, with more sophisticated and consolidated chat interfaces, improved memory persistence, and access to a wider range of user data.</li>\n      <li>The author also anticipates the development of dynamically generated user interfaces and the ability for LLMs to proactively interact with users based on their history and preferences.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html\">Language Model UXes in 2027</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 20 Sep 2023 07:02:40 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                20
+            ],
+            "email_sent": true
+        },
+        "Telling AI model to take a deep breath causes math scores to soar in study": {
+            "url": "https://www.emergentmind.com/posts/telling-ai-model-to-take-a-deep-breath-causes-math",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>DeepMind researchers have developed a technique to enhance the math skills of AI models, using other AI models to improve prompting. The method, called Optimization by PROmpting (OPRO), uses human-like encouragement and natural language to guide large language models (LLMs) in problem-solving, bypassing the limitations of traditional math-based optimizers.</li>\n      <li>In an intriguing twist, the study found that certain phrases, like 'Take a deep breath and work on this problem step by step', significantly improved the models' accuracy in solving math problems. This method of using 'meta-prompts' could potentially allow for more useful and accurate results from LLMs in the future.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/\">Telling AI model to \u201ctake a deep breath\u201d causes math scores to soar in study</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 20 Sep 2023 06:02:36 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                20
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -19007,6 +19062,17 @@
                 2023,
                 9,
                 19
+            ],
+            "email_sent": true
+        },
+        "Get Paid to Red Team OpenAI Models": {
+            "url": "https://www.superpowerdaily.com/p/174-get-paid-to-red-team-openai-models",
+            "description": "Google\u2019s Bard Now Has Extensions",
+            "pubdate": "2023-09-20T06:14:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                20
             ],
             "email_sent": true
         }
