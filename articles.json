@@ -2014,6 +2014,39 @@
                 18
             ],
             "email_sent": true
+        },
+        "Into the Omniverse: Blender 4.0 Alpha Release Sets Stage for New Era of OpenUSD Artistry": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/21/omniverse-blender-release-openusd/",
+            "description": "For seasoned 3D artists and budding digital creation enthusiasts alike, an alpha version of the popular 3D software Blender is elevating creative journeys.",
+            "pubdate": "Thu, 21 Sep 2023 13:00:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
+        },
+        "NVIDIA CEO Jensen Huang to Headline AI Summit in Tel Aviv": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/21/ai-summit/",
+            "description": "NVIDIA founder and CEO Jensen Huang will highlight the newest in generative AI and cloud computing at the NVIDIA AI Summit in Tel Aviv from Oct. 15-16. The two-day summit is set to attract more than 2,500 developers, researchers and decision-makers from across one of the world\u2019s most vibrant technology hubs. With over 6,000 startups, <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/09/21/ai-summit/\">Read article &#62;</a>",
+            "pubdate": "Thu, 21 Sep 2023 13:00:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
+        },
+        "Cash In: PAYDAY 3 Streams on GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/21/geforce-now-thursday-sep-21/",
+            "description": "Time to get the gang back together \u2014 PAYDAY 3 streams on GeForce NOW this week. It\u2019s one of 11 titles joining the cloud this week, including Party Animals. The Perfect Heist PAYDAY 3 is the highly anticipated sequel to one of the world\u2019s most popular co-op shooters. Step out of retirement and back into <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/09/21/geforce-now-thursday-sep-21/\">Read article &#62;</a>",
+            "pubdate": "Thu, 21 Sep 2023 13:00:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -18578,6 +18611,83 @@
                 20
             ],
             "email_sent": true
+        },
+        "Intel Xeon MAX 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator": {
+            "url": "https://www.emergentmind.com/posts/intel-xeon-max-9480-deep-dive-64gb-hbm2e-onboard-like-a",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Intel Xeon MAX 9480 is a powerful CPU with 56 cores and 64GB of HBM2e memory, similar to what is found on many GPUs and AI accelerators. It differs from the Intel Xeon Platinum 8480+ not only in cache, but also in clock speeds and the addition of four 16GB HBM2e packages.</li>\n      <li>The Xeon MAX 9480 allows for booting a system without DDR5 memory, and the 'winglets' on the package provide extra space for components displaced by the HBM2e.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/\">Intel Xeon MAX 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 21 Sep 2023 12:02:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
+        },
+        "How to use ChatGPT to increase your website conversions": {
+            "url": "https://www.emergentmind.com/posts/how-to-use-chatgpt-to-increase-your-website-conversions",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses how to use ChatGPT to improve website conversions by creating A/B test variations of web pages. It highlights the time-saving benefits of using ChatGPT's AI technology for generating new versions for testing.</li>\n      <li>The article also introduces 'Rapid Revisions Ronnie', an AI tool that generates varied website copies tailored for A/B tests, suggests design modifications based on AI insights, and provides rapid iterations for maximum conversion optimization.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.godofprompt.ai/blog/how-to-use-chatgpt-to-increase-your-website-conversions\">How to use ChatGPT to increase your website conversions</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 21 Sep 2023 11:03:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
+        },
+        "I letters spaced": {
+            "url": "https://www.emergentmind.com/posts/i-letters-spaced",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article describes how to create a string of 'I' letters with a space between each one</li>\n      <li>An extended version of the string with more 'I' letters is also shared</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/c14a7a4f-8c61-4fa6-bd18-df46bad69c8f\">I letters spaced</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 21 Sep 2023 11:03:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
+        },
+        "ChatGPTs Knowledge Expanded to January 2022 - Practical AI: ChatGPT & Others - Medium": {
+            "url": "https://www.emergentmind.com/posts/chatgpt-s-knowledge-expanded-to-january-2022",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT's training data now extends up to January 2022, allowing it to confirm facts beyond its initial September 2021 cutoff.</li>\n      <li>While it doesn't have real-time or post-January 2022 updates, it can generate information, make predictions, or provide general knowledge based on the data it was trained on.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@Practical.AI/chatgpts-knowledge-expanded-to-january-2022-5e168d0a13d8\">ChatGPT\u2019s Knowledge Expanded to January 2022 - Practical AI: ChatGPT &amp; Others - Medium</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 21 Sep 2023 09:02:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
+        },
+        "AI-focused tech firms locked in race to the bottom, warns MIT professor": {
+            "url": "https://www.emergentmind.com/posts/ai-focused-tech-firms-locked-in-race-to-the-bottom",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Max Tegmark, an MIT professor and co-founder of the Future of Life Institute, warns that AI-focused tech firms are in a competitive 'race to the bottom', preventing them from considering AI risks.</li>\n      <li>Despite support from tech leaders like Elon Musk and Steve Wozniak, a pause in developing powerful AI systems was not achieved, with Tegmark attributing this to intense competition among companies.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.theguardian.com/technology/2023/sep/21/ai-focused-tech-firms-locked-race-bottom-warns-mit-professor-max-tegmark\">AI-focused tech firms locked in \u2018race to the bottom\u2019, warns MIT professor</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 21 Sep 2023 08:02:06 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
+        },
+        "From Imperative to Declarative: Developing Efficient Algorithms for a Post-Moore Era": {
+            "url": "https://www.emergentmind.com/posts/from-imperative-to-declarative-developing-efficient",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Two Stanford grads use AI to convert their casual Facebook Messenger chats into an essay, discussing the transition from imperative to functional programming (FP) in a post-Moore era.</li>\n      <li>The essay highlights the advantages of FP for parallelization and scalability, the adoption of FP concepts in Python libraries like NumPy and PyTorch, and the potential future of code optimization using AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://eatingentropy.substack.com/p/from-imperative-to-declarative-developing\">From Imperative to Declarative: Developing Efficient Algorithms for a Post-Moore Era</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 21 Sep 2023 07:02:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
+        },
+        "John Grisham, other top US authors sue OpenAI over copyrights": {
+            "url": "https://www.emergentmind.com/posts/john-grisham-other-top-us-authors-sue-openai-over",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A US authors trade group, including prominent writers like John Grisham and George R.R. Martin, has sued OpenAI, accusing the company of unlawfully using their work to train its AI-based chatbot, ChatGPT.</li>\n      <li>The Authors Guild claims that OpenAI's training data may have been illegally sourced from 'pirate' book repositories, and raises concerns that authors could be replaced by AI systems generating low-quality ebooks.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.reuters.com/legal/john-grisham-other-top-us-authors-sue-openai-over-copyrights-2023-09-20/\">John Grisham, other top US authors sue OpenAI over copyrights</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 21 Sep 2023 05:02:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -19073,6 +19183,17 @@
                 2023,
                 9,
                 20
+            ],
+            "email_sent": true
+        },
+        "Major New Update Coming to ChatGPT: DALLE 3": {
+            "url": "https://www.superpowerdaily.com/p/175-major-new-update-coming-to-chatgpt-dall-e-3",
+            "description": "Apple legit just made a gaming console",
+            "pubdate": "2023-09-21T07:05:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                21
             ],
             "email_sent": true
         }
