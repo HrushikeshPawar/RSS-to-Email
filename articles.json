@@ -5756,6 +5756,17 @@
                 20
             ],
             "email_sent": true
+        },
+        "3 ways AI can help communities adapt to climate change in Africa": {
+            "url": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
+            "description": "An image of the conference stage with musicians on the stage in front of a large screen with the conference logo",
+            "pubdate": "Fri, 22 Sep 2023 12:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                22
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -10908,6 +10919,17 @@
                 2023,
                 9,
                 4
+            ],
+            "email_sent": true
+        },
+        "What AI Music Generators Can Do (And How They Do It)": {
+            "url": "https://www.assemblyai.com/blog/what-ai-music-generators-can-do-and-how-they-do-it/",
+            "description": "Text-to-Music Models are advancing rapidly with the recent release of new platforms for AI-generated music. This guide focuses on MusicLM, MusicGen, and Stable Audio, exploring the technical breakthroughs and challenges in creating music with AI.",
+            "pubdate": "Fri, 22 Sep 2023 10:04:11 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                22
             ],
             "email_sent": true
         }
@@ -18710,6 +18732,39 @@
                 22
             ],
             "email_sent": true
+        },
+        "Weekly Piece of Future #34 - by Zoltan Tapi": {
+            "url": "https://www.emergentmind.com/posts/weekly-piece-of-future-34-by-zoltan-tapi",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Rushing Robotics is a weekly newsletter covering AI, Robotics, and future technology. It discusses cutting-edge advancements like artificial womb, humanoid robot factory, AI-powered microscopes, and more.</li>\n      <li>The newsletter also covers AI-powered tools and products of the week, industry updates, and biotech innovations. It aims to keep its readers updated and future-proof.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://rushingrobotics.com/p/weekly-piece-of-future-34\">Weekly Piece of Future #34 - by Zoltan Tapi</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 22 Sep 2023 13:05:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                22
+            ],
+            "email_sent": true
+        },
+        "Fast, scalable building blocks for production LLM apps": {
+            "url": "https://www.emergentmind.com/posts/github-getzep-zep-zep-fast-scalable-building",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article explains how to manage users, sessions, chat messages, roles, and other features using Zep Memory and VectorStore. It also discusses building autopilots, chatbots, Q&amp;A apps, and others.</li>\n      <li>Python &amp; TypeScript/JS SDKs are provided for seamless integration with the LLM app, with support for edge deployment. The article also covers storing data in Zep for stateless deployment and enriching chat histories with summaries and other metadata.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/getzep/zep\">Fast, scalable building blocks for production LLM apps</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 22 Sep 2023 13:01:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                22
+            ],
+            "email_sent": true
+        },
+        "Why ChatGPT isnt conscious  but future AI systems might be": {
+            "url": "https://www.emergentmind.com/posts/why-chatgpt-isn-t-conscious-but-future-ai-systems",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>In June 2022, Google engineer Blake Lemoine claimed that the LaMDA chatbot, later released as Bard, had achieved sentience, likening its conversational ability to that of a seven-year-old child. However, most people do not believe that these chatbots, powered by large language models, are conscious.</li>\n      <li>A team of philosophers, neuroscientists, and computer scientists have examined current theories of human consciousness to compile a list of properties that a conscious AI system would need to possess. They found that no current AI system meets these criteria, but there is no specific reason why future systems won't become truly aware.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://theconversation.com/why-chatgpt-isnt-conscious-but-future-ai-systems-might-be-212860\">Why ChatGPT isn\u2019t conscious \u2013 but future AI systems might be</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 22 Sep 2023 10:02:07 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                22
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -19216,6 +19271,17 @@
                 2023,
                 9,
                 21
+            ],
+            "email_sent": true
+        },
+        "BREAKING: Microsoft announced Copilot": {
+            "url": "https://www.superpowerdaily.com/p/176-breaking-microsoft-announced-copilot",
+            "description": "Deepfakes of Chinese influencers are live streaming 24/7",
+            "pubdate": "2023-09-22T07:58:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                22
             ],
             "email_sent": true
         }
