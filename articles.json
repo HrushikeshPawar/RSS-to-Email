@@ -18688,6 +18688,28 @@
                 21
             ],
             "email_sent": true
+        },
+        "Distilling step-by-step: Outperforming larger language models with less training data and smaller model sizes  Google Research Blog": {
+            "url": "https://www.emergentmind.com/posts/distilling-step-by-step-outperforming-larger-language",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers have developed a new method, 'distilling step-by-step', that allows for the training of smaller language models with less data. It achieves this by extracting informative reasoning steps from larger language models and using these steps to train smaller models in a more data-efficient way.</li>\n      <li>The distilling step-by-step method has demonstrated that a smaller model can outperform a larger one by using only 80% of examples in a benchmark dataset. This leads to a more than 700x model size reduction, and the new paradigm reduces both the deployed model size and the amount of data required for training.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html\">Distilling step-by-step: Outperforming larger language models with less training data and smaller model sizes \u2013 Google Research Blog</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 22 Sep 2023 01:02:41 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                22
+            ],
+            "email_sent": true
+        },
+        "Why Open Source AI Will Win - by Varun - Public Experiments": {
+            "url": "https://www.emergentmind.com/posts/why-open-source-ai-will-win-by-varun-public",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Open source AI models will have a significant impact on the future of Large Language Models (LLMs) and image models, contrary to the common belief that AI will become an oligopoly of few model providers like OpenAI. The author argues that LLMs are business critical and AI-native businesses will need to own their core product, which is a model trained on proprietary data.</li>\n      <li>Open source AI models are improving rapidly with the help of community contributions and can cater to 99% of use-cases. The author also mentions that the ability to run these models on consumer hardware is a major advantage for cost and security. Open source AI provides privacy and security guarantees as data can be self-hosted and open source models can be fine-tuned to meet specific needs.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://varunshenoy.substack.com/p/why-open-source-ai-will-win\">Why Open Source AI Will Win - by Varun - Public Experiments</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 22 Sep 2023 00:04:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                22
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
