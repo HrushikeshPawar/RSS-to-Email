@@ -18765,6 +18765,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "Generative AI in Mafia-like Game Simulation": {
+            "url": "https://www.emergentmind.com/posts/2309-11672-generative-ai-in-mafia-like-game",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The study explores the use of Generative AI, specifically GPT-4, in role-playing games, using the game Spyfall as an example. GPT-4 shows improved understanding, decision-making, and interaction in game scenarios compared to its predecessor, GPT-3.5-turbo.</li>\n      <li>Despite improvements, challenges like the AI's limitations in bluffing and predicting opponent's moves persist. The research suggests further development is needed to instill more human-like attributes in AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2309.11672\">Generative AI in Mafia-like Game Simulation</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 23 Sep 2023 03:02:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                23
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
