@@ -18776,6 +18776,72 @@
                 23
             ],
             "email_sent": true
+        },
+        "Research Highlights in Three Sentences or Less (August-September 2023)": {
+            "url": "https://www.emergentmind.com/posts/research-highlights-in-three-sentences-or-less",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses recent advancements in Machine Learning and AI research, with a focus on the refinement of Large Language Models (LLMs).</li>\n      <li>Techniques such as the introduction of Platypus and the Reinforced Self-Training method are being used to align these models with human preferences, and efforts are being made to increase their efficiency and accessibility.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://magazine.sebastianraschka.com/p/research-highlights-in-three-sentences-3d5\">Research Highlights in Three Sentences or Less (August-September 2023)</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 23 Sep 2023 13:01:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                23
+            ],
+            "email_sent": true
+        },
+        "Create Penguin SVG Image": {
+            "url": "https://www.emergentmind.com/posts/create-penguin-svg-image",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides SVG and ASCII art codes for creating images of a penguin, dog, cat, and rabbit. These codes can be used to display the images on any website or application that supports SVG and ASCII formats.</li>\n      <li>In addition to SVG images, ASCII art representations, though less detailed, are provided for a basic visual representation of these animals using text characters.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/fbe3545c-e0cc-4abb-81c4-0c42f7faed17\">Create Penguin SVG Image</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 23 Sep 2023 13:01:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                23
+            ],
+            "email_sent": true
+        },
+        "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"": {
+            "url": "https://www.emergentmind.com/posts/the-reversal-curse-llms-trained-on-a-is-b-fail-to",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large Language Models (LLMs) fail to generalize the reverse of a statement they are trained on, a phenomenon referred to as the 'Reversal Curse'. For example, if a model is trained on the statement 'A is B', it would not automatically understand 'B is A'.</li>\n      <li>This failure of logical deduction is observed across different model sizes and families, and cannot be fixed by data augmentation. The study evaluated models like GPT-3 and Llama-1 using fictitious and real-world examples, and observed the same issue.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b\">The Reversal Curse: LLMs trained on &quot;A is B&quot; fail to learn &quot;B is A&quot;</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 23 Sep 2023 12:02:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                23
+            ],
+            "email_sent": true
+        },
+        "6.5940": {
+            "url": "https://www.emergentmind.com/posts/6-5940",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The course focuses on efficient AI computing techniques to make large generative models, like language and diffusion models, more accessible and efficient.</li>\n      <li>Students will learn about model compression, pruning, quantization, neural architecture search, distributed training, data/model parallelism, gradient compression, and on-device fine-tuning, including application-specific acceleration techniques and quantum machine learning.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://efficientml.ai/\">6.5940</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 23 Sep 2023 10:02:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                23
+            ],
+            "email_sent": true
+        },
+        "Build LLM applications safely and reliably": {
+            "url": "https://www.emergentmind.com/posts/github-kw2828-guardrail-ml-build-llm-applications",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides insights into building LLM applications using kw2828/guardrail-ml safely and reliably.</li>\n      <li>It also addresses potential issues with tag and branch names in the repository, warning about unexpected behavior.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/kw2828/guardrail-ml\">\ud83d\udee1\ufe0fBuild LLM applications safely and reliably\ud83d\udee1\ufe0f</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 23 Sep 2023 10:02:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                23
+            ],
+            "email_sent": true
+        },
+        "Hierarchical correlation reconstruction: between statistics and machine learning - Online Technical Discussion GroupsWolfram Community": {
+            "url": "https://www.emergentmind.com/posts/hierarchical-correlation-reconstruction-between",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the intersection between statistics and machine learning through a concept called 'hierarchical correlation reconstruction'.</li>\n      <li>The author has been recognized as a Featured Contributor due to the exceptional quality of the post.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://community.wolfram.com/groups/-/m/t/3017754\">Hierarchical correlation reconstruction: between statistics and machine learning - Online Technical Discussion Groups\u2014Wolfram Community</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 23 Sep 2023 06:02:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                23
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
