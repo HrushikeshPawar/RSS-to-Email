@@ -18886,6 +18886,39 @@
                 24
             ],
             "email_sent": true
+        },
+        "Falcon 180B: Can It Run on Your Computer?": {
+            "url": "https://www.emergentmind.com/posts/falcon-180b-can-it-run-on-your-computer",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the feasibility of running Falcon 180B, a large language model by The Technology Innovation Institute (TII), on consumer hardware. It highlights the need for computer upgrades and model quantization for efficient operation.</li>\n      <li>The author suggests strategies such as using multiple GPUs, extending CPU RAM, and using a quantized version of the model to manage the high memory requirements of Falcon 180B.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://kaitchup.substack.com/p/falcon-180b-can-it-run-on-your-computer\">Falcon 180B: Can It Run on Your Computer?</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 24 Sep 2023 13:02:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                24
+            ],
+            "email_sent": true
+        },
+        "How to Build a GenAI App with Llama Index": {
+            "url": "https://www.emergentmind.com/posts/how-to-build-a-genai-app-with-llama-index",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>LlamaIndex is a revolutionary data framework for Large Language Models (LLMs) developed by Jerry Liu, which addresses challenges of integrating specific data into LLM applications.</li>\n      <li>The article discusses a webinar that provides insights into LlamaIndex and its role in LLMs, including a hands-on demonstration and access to a shared GitHub repository containing all code discussed.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.singlestore.com/resources/webinar-how-to-build-a-genai-app-with-llama-index/?utm_source=asif-razzaq&amp;utm_medium=influencer&amp;utm_campaign=How-to-Build-a-GenAI-App-with-LlamaIndex&amp;campaignid=7014X0000029YtwQAE\">How to Build a GenAI App with Llama Index</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 24 Sep 2023 10:02:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                24
+            ],
+            "email_sent": true
+        },
+        "GPT Excel - AI Powered Excel formula Generator": {
+            "url": "https://www.emergentmind.com/posts/gpt-excel-ai-powered-excel-formula-generator",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>An Artificial Intelligence that can understand over 50 languages including English, Spanish, Chinese, French, Russian and Hindi is available. GPTExcel, a service related to this AI, can be used without a credit card and offers four free requests per day.</li>\n      <li>Invoices for GPTExcel are sent via email after purchase and monthly during a subscription. Subscriptions can be cancelled at any time, with the account reverting to a free plan after the end of the billing cycle.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://gptexcel.uk/\">GPT Excel - AI Powered Excel formula Generator</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 24 Sep 2023 09:02:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                24
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
