@@ -5989,6 +5989,28 @@
                 26
             ],
             "email_sent": true
+        },
+        "ChatGPT can now see, hear, and speak": {
+            "url": "https://openai.com/blog/chatgpt-can-now-see-hear-and-speak",
+            "description": "We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you\u2019re talking about.",
+            "pubdate": "Mon, 25 Sep 2023 07:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                25
+            ],
+            "email_sent": true
+        },
+        "GPT-4V(ision) system card": {
+            "url": "https://openai.com/research/gpt-4v-system-card",
+            "description": null,
+            "pubdate": "Mon, 25 Sep 2023 07:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                25
+            ],
+            "email_sent": true
         }
     },
     "Apple Machine Learning Blog": {
@@ -18930,6 +18952,50 @@
                 25
             ],
             "email_sent": true
+        },
+        "ChatGPT can now see, hear, and speak": {
+            "url": "https://www.emergentmind.com/posts/chatgpt-can-now-see-hear-and-speak",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT is introducing new voice and image capabilities, allowing users to engage in voice conversations and show images to the AI for more interactive discussions.</li>\n      <li>The new features will be available to Plus and Enterprise users over the next two weeks, with voice capabilities coming to iOS and Android and image capabilities available on all platforms.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openai.com/blog/chatgpt-can-now-see-hear-and-speak\">ChatGPT can now see, hear, and speak</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 25 Sep 2023 13:01:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                25
+            ],
+            "email_sent": true
+        },
+        "Here's How Google's AI Tool Can Help You Plan Your Next Vacation": {
+            "url": "https://www.emergentmind.com/posts/here-s-how-google-s-ai-tool-can-help-you-plan-your-next",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Google's AI tool, Bard, has been upgraded with several new features designed to aid vacation planning. Bard acts as a personal concierge, integrating with Google applications such as Gmail, Google Flights, and Google Maps to provide information like real-time flight and hotel details, directions to the airport, and more.</li>\n      <li>The recent updates to Google Flights, in collaboration with Bard, help forecast when a traveler can get the cheapest airline deals. Travelers can explore the Bard service free of cost at bard.google.com.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://travelinyourownway.com/2023/09/25/heres-how-googles-ai-tool-can-help-you-plan-your-next-vacation/\">Here's How Google's AI Tool Can Help You Plan Your Next Vacation</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 25 Sep 2023 07:02:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                25
+            ],
+            "email_sent": true
+        },
+        "Duolicious": {
+            "url": "https://www.emergentmind.com/posts/duolicious-meet-people-who-get-you-date-make",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Duolicious app uses a matching algorithm based on data science and psychology to find people similar to users. The algorithm measures 47 different traits related to personality and lifestyle through quick, yes-or-no questions.</li>\n      <li>The algorithm utilizes a statistical model to understand user responses, which are then converted into numerical values representing traits. These numbers are used calculate match percentages using cosine similarity, which determines how similar or different two users' personalities are.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://duolicious.app/blog/psychoanalysing-chatgpt-using-statistics-to-make-a-decent-dating-app/\">Duolicious</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 25 Sep 2023 06:02:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                25
+            ],
+            "email_sent": true
+        },
+        "ChatGPT's logic is terrible": {
+            "url": "https://www.emergentmind.com/posts/chatgpt-s-logic-is-terrible",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT makes multiple attempts to prove the congruence of opposite angles in geometry, making several errors along the way. Despite corrections and reiterations, the AI continues to make mistakes in the proof.</li>\n      <li>The correct proof involves the concept that the sum of all angles around a point is 360 degrees, and adjacent angles form a linear pair and sum to 180 degrees. However, ChatGPT struggles to correctly implement these principles in the proof.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/f48ac10c-153f-4957-83de-0ba561265541\">ChatGPT's logic is terrible</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 25 Sep 2023 04:02:17 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                25
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -19447,6 +19513,17 @@
                 2023,
                 9,
                 22
+            ],
+            "email_sent": true
+        },
+        "Has OpenAI achieved AGI?": {
+            "url": "https://www.superpowerdaily.com/p/177-has-openai-achieved-agi",
+            "description": "Confessions of a Viral AI Writer",
+            "pubdate": "2023-09-25T07:59:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                25
             ],
             "email_sent": true
         }
