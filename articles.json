@@ -2779,6 +2779,17 @@
                 5
             ],
             "email_sent": true
+        },
+        "Using ggplot2 for Visualization in R": {
+            "url": "https://machinelearningmastery.com/using-ggplot2-for-visualization-in-r/",
+            "description": "<p>Last Updated on September 26, 2023 One of the most popular plotting libraries in R is not the plotting function in R base, but the ggplot2 library. People use that because it is flexible. This library also works using the philosophy of &#8220;grammar of graphics&#8221;, which is not to generate a visualization upon a function [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/using-ggplot2-for-visualization-in-r/\" rel=\"nofollow\">Using ggplot2 for Visualization in R</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Tue, 26 Sep 2023 03:13:02 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                26
+            ],
+            "email_sent": true
         }
     },
     "Colah's Blog": {},
