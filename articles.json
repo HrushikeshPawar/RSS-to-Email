@@ -2047,6 +2047,17 @@
                 21
             ],
             "email_sent": true
+        },
+        "AI Power Players: GeForce and NVIDIA RTX GPUs Supercharge Creativity, Gaming, Development, Productivity and More": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/26/itns-rtx-ai-windows/",
+            "description": "From gaming to creating to everyday productivity, NVIDIA RTX graphics cards feature specialized Tensor Cores that deliver cutting-edge performance and transformative capabilities for AI.",
+            "pubdate": "Tue, 26 Sep 2023 13:00:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                26
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -19007,6 +19018,61 @@
                 25
             ],
             "email_sent": true
+        },
+        "Why These Google Bard AI Prompts Are Game-Changers for Businesses (Ultimate Guide for 2023)": {
+            "url": "https://www.emergentmind.com/posts/why-these-google-bard-ai-prompts-are-game-changers-for",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Google's Bard AI has received an update that enhances its abilities to be more intuitive, imaginative, and responsive. It has improved adaptability across different languages and compatibility with Google's ecosystem.</li>\n      <li>This article provides a comprehensive guide on how to make the most of Bard's new features, with examples of prompts that can streamline workflows, boost efficiency, and provide creative insights.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.godofprompt.ai/blog/why-these-google-bard-ai-prompts-are-game-changers-for-businesses-ultimate-guide-for-2023\">Why These Google Bard AI Prompts Are Game-Changers for Businesses (Ultimate Guide for 2023)</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 26 Sep 2023 09:02:12 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                26
+            ],
+            "email_sent": true
+        },
+        "Signal's Meredith Whittaker: AI is fundamentally 'a surveillance technology'": {
+            "url": "https://www.emergentmind.com/posts/signal-s-meredith-whittaker-ai-is-fundamentally-a",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Signal president Meredith Whittaker discusses her perspective that AI is mostly inseparable from the big data and targeting industry, and that it serves to expand the surveillance business model. She also points out that the data used in these systems is often organized and annotated by the very workers it can be used against.</li>\n      <li>She mentions that not all AI and machine learning systems are exploitative, as evidenced by the small on-device model used by Signal to blur faces in crowd photos before sharing them on social media, thus protecting people's intimate biometric data.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/\">Signal's Meredith Whittaker: AI is fundamentally 'a surveillance technology'</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 26 Sep 2023 09:02:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                26
+            ],
+            "email_sent": true
+        },
+        "A.I. in the Newsroom - Mindplex": {
+            "url": "https://www.emergentmind.com/posts/a-i-in-the-newsroom-mindplex",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial Intelligence (A.I.) is transforming the news industry, making significant strides in helping journalists produce articles and raising questions about how A.I. contributions should be credited.</li>\n      <li>Despite the benefits, concerns have been raised about the quality, accuracy and potential bias of A.I. generated content, leading to changes in policies and greater transparency in the use of A.I. in newsrooms.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://magazine.mindplex.ai/a-i-in-the-newsroom/\">A.I. in the Newsroom - Mindplex</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 26 Sep 2023 08:02:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                26
+            ],
+            "email_sent": true
+        },
+        "John Carmack and Rich Sutton partner to accelerate development of Artificial General Intelligence - Alberta Machine Intelligence Institute": {
+            "url": "https://www.emergentmind.com/posts/john-carmack-and-rich-sutton-partner-to-accelerate",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>John Carmack, founder of Keen Technologies, and Dr. Richard Sutton, Chief Scientific Advisor at the Alberta Machine Intelligence Institute (Amii), announce a partnership to accelerate the development of artificial general intelligence (AGI).</li>\n      <li>Their goal is to develop a genuine AI prototype by 2030. Sutton will continue his roles at Amii while working with Keen Technologies.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.amii.ca/latest-from-amii/john-carmack-and-rich-sutton-agi/\">John Carmack and Rich Sutton partner to accelerate development of Artificial General Intelligence - Alberta Machine Intelligence Institute</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 26 Sep 2023 07:02:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                26
+            ],
+            "email_sent": true
+        },
+        "Current State of Vector Databases with Sanjeev Mohan": {
+            "url": "https://www.emergentmind.com/posts/current-state-of-vector-databases-with-sanjeev-mohan",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Sanjeev Mohan, former VP at Gartner, discusses the rapidly changing landscape of vector databases and its impact on AI and data pipelines.</li>\n      <li>He also provides technical insights on optimizing architecture for generative AI and understanding the nuances of vector databases.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.singlestore.com/resources/webinar-state-of-vector-databases-with-sanjeev-mohan/?utm_source=asif-razzaq&amp;utm_medium=influencer&amp;utm_campaign=Current-State-of-Vector-Databases&amp;campaignid=7014X0000029YmbQAE\">Current State of Vector Databases with Sanjeev Mohan</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 26 Sep 2023 06:02:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                26
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -19535,6 +19601,17 @@
                 2023,
                 9,
                 25
+            ],
+            "email_sent": true
+        },
+        "ChatGPT Can Now See, Hear, and Speak": {
+            "url": "https://www.superpowerdaily.com/p/178-chatgpt-can-now-see-hear-and-speak",
+            "description": "Spotify is going to clone podcasters\u2019 voices \u2014\u00a0and translate them to other languages",
+            "pubdate": "2023-09-26T06:43:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                26
             ],
             "email_sent": true
         }
