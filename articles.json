@@ -2069,6 +2069,17 @@
                 27
             ],
             "email_sent": true
+        },
+        "The Fastest Path: Healthcare Startup Uses AI to Analyze Cancer Cells in the Operating Room": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/27/healthcare-ai-startup-analyzes-cancer-cells-in-the-operating-room/",
+            "description": "Medical-device company Invenio Imaging is developing technology that enables surgeons to evaluate tissue biopsies in the operating room, immediately after samples are collected \u2014 providing in just three minutes AI-accelerated insights that would otherwise take weeks to obtain from a pathology lab. In a surgical biopsy, a medical professional removes samples of cells or tissue <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/09/27/healthcare-ai-startup-analyzes-cancer-cells-in-the-operating-room/\">Read article &#62;</a>",
+            "pubdate": "Wed, 27 Sep 2023 13:00:40 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -5800,6 +5811,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "New Google.org grants to introduce 300,000 students to robotics and AI": {
+            "url": "https://blog.google/outreach-initiatives/google-org/google-grants-robotics-ai-education/",
+            "description": "Young woman being cheered on by her teammates while she works on a small robot made of Legos",
+            "pubdate": "Wed, 27 Sep 2023 10:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -9148,6 +9170,39 @@
                 2023,
                 9,
                 13
+            ],
+            "email_sent": true
+        },
+        "WizardCoder: Why Its the Best Coding Model Out There": {
+            "url": "https://towardsai.net/p/machine-learning/wizardcoder-why-its-the-best-coding-model-out-there",
+            "description": "Last Updated on September 27, 2023 by Editorial Team Author(s): Luv Bansal Originally published on Towards AI. In this blog, we will dive into what WizardCoder is and why it stands out as the best coding model in the field. We\u2019ll also explore why its performance on the HumanEval benchmark is exceptional. Additionally, we\u2019ll take an in-depth look at how the dataset preparation and fine-tuning processes contribute to WizardCoder\u2019s success. Starting with some introduction about WizardCoder, WizardCoder is a Code Large Language Model (LLM) that has been fine-tuned on Llama2 and has demonstrated superior performance compared to other open-source and closed LLMs on prominent code generation benchmarks. Source: WizardCoder paper What Sets WizardCoder Apart One might wonder what makes WizardCoder\u2019s performance on HumanEval so exceptional, especially considering its relatively compact size. To put it into perspective, let\u2019s compare WizardCoder-python-34B with CoderLlama-Python-34B: HumanEval Pass@1 WizardCoder-python-34B = 73.2% CoderLlama-Python-34B = 53.7% The unique and most important factor of such large difference in HumanEval benchmark performance is the dataset the model trained on. The Power of Data: WizardCoder\u2019s Unique Dataset One of the key factors contributing to WizardCoder\u2019s remarkable performance is its training dataset. Most models rely on a dataset structure that typically includes: Solid base with a lot of simple instructions Reduced amount of complex instructions And minimal amount of really complex instructions Source: https://www.youtube.com/watch?v=0R_2layS6Ho To train a model for peak performance on evaluation benchmarks, training dataset should have a balance between simple instructions, complex instructions and really complex instructions. Source: https://www.youtube.com/watch?v=0R_2layS6Ho This is where WizardCoder\u2019s dataset shines. It boasts: Good amount of really complex instructions Good amount of complex instructions Solid base with a lot of simple instructions But there\u2019s a challenge: creating a dataset with complex instructions is inherently difficult, while simple instructions are readily available. Evol Instruct Evol-Instruct is an evolutionary algorithm for generating diverse and complex instruction datasets using LLMs(GPT-4). It is designed to enhance the performance of LLMs by providing them with high-quality instructions that are difficult to create manually. Source: https://www.youtube.com/watch?v=0R_2layS6Ho In simple teams, Evol-Instruct is a complexity cascade of synthetically genearted (GPT-4) instruction dataset. Instruction Evolution LLMs can make given instructions more complex and difficult using specific prompts. Additionally, they can generate entirely new instructions that are equally complex but completely different. Using this, we can iteratively evolve an initial instruction dataset, improving the difficulty level and expanding its richness and diversity. A. Instruction Evolver The Instruction Evolver is an LLM that uses prompts to evolve (develop) instructions, with two types: In-depth evolving. In-breadth evolving A base dataset is given (e.g., Alpaca: generated using self-instruct, or 70k ShareGPT (shared by real users)) and using this base dataset, we can create a more complex and diverse dataset. a) In-depth Evolving In-Depth Evolving enhances instructions by making them more complex and difficult through five types of prompts: Prompt of In-depth Evolving In-depth Evolving aims to: (i) Add constraints (ii) Deepening (iii) Concretizing (more specific) (iv) Increased Reasoning Steps (v) Complicating Inputs The core part of In-Depth Evolving\u2019s prompt is \u201cYour objective is to rewrite a given prompt into a more complex version to make those famous Al systems (e.g., ChatGPT and GPT4 [3 ]) a bit harder to handle. But the rewritten prompt must be reasonable, understood, and responded to by humans\u201d. The example prompt of add constraints is: I want you act as a Prompt Rewriter. Your objective is to rewrite a given prompt into a more complex version to make those famous Al systems (e.g., ChatGPT and GPT4) a bit harder to handle. But the rewritten prompt must be reasonable and must be understood and responded by humans. Your rewriting cannot omit the non-text parts such as the table and code in #Given Prompt#:. Also, please do not omit the input in #Given Prompt#. You SHOULD complicate the given prompt using the following method: Please add one more constraints/requirements into #Given Prompt# You should try your best not to make the #Rewritten Prompt# become verbose, #Rewritten Prompt# can only add 10 to 20 words into #Given Prompt#. #Given Prompt#, #Rewritten Prompt#, \u2018given prompt and \u2018rewritten prompt are not allowed to appear in #Rewritten Prompt# #Given Prompt# &#60;Here is instruction.&#62; #Rewritten Prompt#: These prompts help generate a complex instruction dataset, with similar templates for the other types of In-depth Evolving. b) In-breadth Evolving In-breadth Evolving addresses the limitation of open-domain instruction finetune datasets (e.g., Alpaca, ShareGPT, etc.), which are often small in scale, and lacking topic and skill diversity. In-breadth Evolving solves this problem by designing a prompt to generate a completely new instruction based on the given instruction, requiring the new instruction to be more long-tailed. Prompt of In-breadth Evolving In-breadth Evolving aims to 1. Enhance topic coverage 2. skill coverage 3. Overall dataset diversity The in-breadth prompt is as follows: I want you act as a Prompt Creator. Your goal is to draw inspiration from the #Given Prompt# to create a brand new prompt. This new prompt should belong to the same domain as the #Given Prompt# but be even more rare. The LENGTH and difficulty level of the #Created Prompt# should be similar to that of the #Given Prompt#. The #Created Prompt# must be reasonable and must be understood and responded by humans. #Given Prompt#, #Created Prompt#\u2019, \u2018given prompt and \u2018created prompt are not allowed to appear in #Created Prompt#. #Given Prompt#: \u00abHere is instruction.&#62; #Created Prompt#: B. Response Generation The same LLM used to generate the corresponding responses for the evolved instructions using the prompt: &#60;Here is instruction&#62; C. Elimination Evolving(Instruction Eliminator) The evolved instruction may challenge the LLM to generate a response. Sometimes, when the generated response contains \u201csorry\u2019 and is relatively short in length (i.e., less than 80 words), it often indicates that the LLM struggles to respond to the evolved instruction. So, we can use this rule to make a judgment. The response generated by the LLM only contains punctuation and stop words. D. Finetuning the LLM on the Evolved Instructions Once all evolutions are done, the initial [&#8230;]",
+            "pubdate": "Wed, 27 Sep 2023 04:01:38 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
+        },
+        "So, You Want To Improve Your RAG Pipeline": {
+            "url": "https://towardsai.net/p/machine-learning/so-you-want-to-improve-your-rag-pipeline",
+            "description": "Last Updated on September 27, 2023 by Editorial Team Author(s): Ryan Nguyen Originally published on Towards AI. Ways to go from prototype to production with LlamaIndex This member-only story is on us. Upgrade to access all of Medium. LLMs are a fantastic innovation, but they have one major flaw. They have cut-off knowledge and a tendency to make up facts and create stuff out of thin air. The danger is LLMs always sound confident with the response and we only need to tweak the prompt a little bit to fool LLMs.The RAG is here to resolve this issue. RAG makes LLMs significantly more useful by providing factual context for them to use when answering queries. Image by Author With roughly a few lines of code and a quick-start guide&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Wed, 27 Sep 2023 02:02:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
+        },
+        "LangChain 101: Part 2ab. All You Need to Know About (Large Language) Models": {
+            "url": "https://towardsai.net/p/machine-learning/langchain-101-part-2ab-all-you-need-to-know-about-large-language-models",
+            "description": "Last Updated on September 27, 2023 by Editorial Team Author(s): Ivan Reznikov Originally published on Towards AI. This is part 2ab of the LangChain 101 course. It is strongly recommended to check the first part to understand the context of this article better (follow the author in order not to miss the next part) : LangChain 101: Part 1. Building Simple Q&#38;A App In this article, I will introduce you to the basics of LangChain, a framework for building applications with large\u2026 pub.towardsai.net The Models component is the backbone of Langchain. It is the core that is responsible for token generation that makes the tech feel magical. The Models component allows the usage of different language models, including ChatGPT, GPT-4, LLAMA, etc. These models can be used for multiple tasks, most popular: answering questions and generating text. The Models component is easy to use. To generate text, one can pass the model a prompt, and it will create a response. The same goes for translating a sentence or answering a question. The Models component is also very versatile. You can combine it with other LangChain components to create more complex systems. For example, you could combine the Models component with the Prompts component to create a chatbot that can generate different kinds of creative text formats of text content like code or scripts, poems or musical pieces, letters or emails, etc. Combine the Models and Indexes components to create a search engine that can answer questions using information from various sources. All the code (including colab notebooks) and extra materials are available on GitHub. Overview LangChain supports a variety of different models, so you can choose the one that suits your needs best: LLMs utilize APIs that take input text and generate text outputs Chat Models employ models that process chat messages and produce responses Text Embedding Models convert text into numerical representations Tokenization Tokenization breaks down human language into smaller units like words or subwords to convert text into machine-readable numerical representations. Further on, when we talk about text- or code- generation, we\u2019ll understand it as different kinds of token generation. Text generation Say we want to generate the continuation of the phrase: \u201cParis is the city \u2026\u201d. The Encoder sends logits for all the tokens we have (if you don\u2019t know what logits are \u2014 consider them as scores) that can be converted, using the softmax function, to probabilities of the token being selected for generation. Read more about text generation: How Does an LLM Generate Text? This article won\u2019t discuss transformers or how large language models are trained. Instead, we will concentrate on using\u2026 pub.towardsai.net .from_pretrained(&#60;model&#62;) In many pre-trained language models, the tokenizer and the model architecture are designed and trained together. The reason for this coupling is that the tokenizer and the model architecture must be compatible to ensure consistent tokenization and decoding. If the tokenizer and the model architecture were different or not synchronized, it could lead to tokenization errors, mismatched embeddings, and incorrect predictions. API keys You will first need an API key for the LLM provider you want to use. We must choose between proprietary or open-source foundation models based on a trade-off between performance and cost. Many open-source models are organized and hosted on Hugging Face as a community hub. Open-source models are usually smaller with lower capabilities than proprietary ones, but they are more cost-effective. Examples: BLOOM (BigScience), LLaMA (Meta), Flan-T5 (Google), etc. Proprietary models are closed-source foundation models owned by companies. They usually are larger than open-source models and thus have better performance, but they may have expensive APIs. Examples: OpenAI, co:here, AI21 Labs, Anthropic, etc. Embeddings Embeddings are compact numerical representations of words or entities that help computers understand and process language more effectively. These representations encode the meaning and context of words, allowing machines to work with language more meaningfully and efficiently. OpenAIEmbeddings HuggingFaceEmbeddings GPT4AllEmbeddings SpacyEmbeddings FakeEmbeddings Below, you can see the embeddings for the nine sentences of several topics. The heatmap values were presorted for better visualization. Best travel neck pillow for long flights Lightweight backpack for hiking and travel Waterproof duffel bag for outdoor adventures Stainless steel cookware set for induction cooktops High-quality chef\u2019s knife set High-performance stand mixer for baking New releases in fiction literature Inspirational biographies and memoirs Top self-help books for personal growth As one can notice, the similarity of sentence 1 is close to 2 and 3, with relatively low similarity with other sentences. One can see that all the sentences can be aggregated into three groups. Large Language and Chat Models A language model is a probabilistic model of a natural language that can generate probabilities of a series of words based on text corpora in one or multiple languages it was trained on. A large language model is an advanced language model trained using deep learning techniques on massive amounts of text data. A language model usually backs chat models, but their APIs are more structured. These models take a list of Chat Messages as input and return a Chat Message. Asking GPT a question There is no need to connect LangChain to ask the model a question. In the example below, we\u2019re preparing a prompt, connecting to openai package, and returning the extracted response. import openaidef get_completion(prompt, model=&#034;gpt-3.5-turbo&#034;): &#034;&#034;&#034; Generates a completion for a given prompt using the specified model. Args: prompt (str): The input prompt for generating the completion. model (str): The name of the model to use for generating the completion. Returns: str: The generated completion text. &#034;&#034;&#034; # Create a list of message dictionaries with the user&#039;s prompt messages = [{&#034;role&#034;: &#034;user&#034;, &#034;content&#034;: prompt}] # Generate a chat completion using OpenAI API response = openai.ChatCompletion.create( model=model, messages=messages, temperature=0, # Set temperature to 0 for deterministic output ) # Extract and return the generated completion content return response.choices[0].message[&#034;content&#034;] As one can see, simple questions can be answered by the model correctly. But for complicated requests, LangChain may be the way to go. How Much RAM? To [&#8230;]",
+            "pubdate": "Wed, 27 Sep 2023 00:02:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
             ],
             "email_sent": true
         }
@@ -19095,6 +19150,94 @@
                 26
             ],
             "email_sent": true
+        },
+        "First Impressions with GPT-4V(ision)": {
+            "url": "https://www.emergentmind.com/posts/first-impressions-with-gpt-4v-ision",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI has introduced two new features to its advanced model, GPT-4V, allowing users to ask questions about images and use speech as input. This makes GPT-4V a multimodal model that can process text and images and return results based on these inputs. Tests have shown the model's capabilities in identifying context and relationships in images, reading text within images, and answering questions based on visual input. However, the model has also exhibited limitations in specific tasks like object detection.</li>\n      <li>The GPT-4V model also demonstrated its capabilities in tasks like Optical Character Recognition (OCR), even with lower contrast and angled text, and Math OCR, providing step-by-step solutions to math problems presented visually. Despite its capabilities, the model has limitations, such as missing text or characters in an image, inability to recognize spatial locations and colors, and some safety concerns. OpenAI is continuing to refine and mitigate risks associated with the model.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.roboflow.com/gpt-4-vision/\">First Impressions with GPT-4V(ision)</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 27 Sep 2023 13:01:56 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
+        },
+        "Announcing Be My AI, Soon Available for Hundreds of Thousands of Be My Eyes Users": {
+            "url": "https://www.emergentmind.com/posts/announcing-be-my-ai-soon-available-for-hundreds-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>'Be My Eyes', an app aimed at assisting blind and low-vision individuals, is launching an AI assistant feature 'Be My AI' for iOS users. Powered by GPT-4, this feature will roll out to hundreds of thousands of users in the upcoming weeks, allowing them to get detailed descriptions of captured images and ask further questions for more information.</li>\n      <li>The AI assistant is designed to provide quick visual assistance without the need for human intervention. However, it does not replace other mobility aids. The company is also working on a version for Android users, which is currently in closed beta testing.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.bemyeyes.com/blog/announcing-be-my-ai\">Announcing \u2018Be My AI,\u2019 Soon Available for Hundreds of Thousands of Be My Eyes Users</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 27 Sep 2023 13:01:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
+        },
+        "This Article Was Written Half By A Human... And Half By AI.": {
+            "url": "https://www.emergentmind.com/posts/this-article-was-written-half-by-a-human-and-half-by",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the significance of prompt engineering and problem formulation in the evolving landscape of AI. It involves a unique experiment where parts of the article are written by both a human and AI, and readers are challenged to guess which is which.</li>\n      <li>The article also delves into the symbiotic relationship between prompt engineering and problem formulation, arguing that both are integral and interconnected components in AI and human collaboration, contrary to views suggesting one might overshadow the other.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.godofprompt.ai/blog/this-article-was-written-half-by-a-human-and-half-by-ai\">This Article Was Written Half By A Human... And Half By AI.</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 27 Sep 2023 11:02:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
+        },
+        "Summary of the 2023 WGA MBA": {
+            "url": "https://www.emergentmind.com/posts/summary-of-the-2023-wga-mba",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The 2023 WGA MBA deal terms include an agreement term from September 25, 2023 to May 1, 2026, with most MBA minimums increasing by 5% upon contract ratification, 4% on 5/2/2024, and 3.5% on 5/2/2025. Certain exceptions will increase less or not at all due to industry patterns.</li>\n      <li>Health and Pension contribution rates will increase, regulations for the use of artificial intelligence in MBA-covered projects will be established, and terms for screenwriter employment, high-budget subscription video on demand, and advertising-supported streaming will be improved. Increased compensation for series employment, staffing and duration provisions for episodic series, and improved options, exclusivity, and span protections will also be implemented.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba\">Summary of the 2023 WGA MBA</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 27 Sep 2023 07:02:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
+        },
+        "The Power of AI for Market Research": {
+            "url": "https://www.emergentmind.com/posts/the-power-of-ai-for-market-research-free-ai-for",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Hotjar AI and ChatGPT are AI tools designed to assist with market research tasks. Hotjar AI facilitates survey creation and analysis, while ChatGPT aids in tasks like text generation and language translation.</li>\n      <li>Both tools offer free options, with Hotjar AI allowing for the creation of three surveys with up to 100 respondents each, and ChatGPT offering a free trial to test-drive its various features.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@TheAndrewLab/the-power-of-ai-for-market-research-free-ai-for-market-research-e61000e1776f\">The Power of AI for Market Research</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 27 Sep 2023 06:02:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
+        },
+        "Which industries will Benefit Most from AI": {
+            "url": "https://www.emergentmind.com/posts/which-industries-will-benefit-most-from-ai-by-andrew",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial Intelligence (AI) is expected to greatly benefit certain industries, including office and administrative support, legal, healthcare, manufacturing, and finance. These sectors have between a 38% to 46% likelihood of being influenced by AI, with potential benefits such as increased efficiency, reduced error margins, and improved decision making.</li>\n      <li>AI is already present in many areas, such as virtual assistants like Siri and Alexa, AI-powered legal research tools, and AI in healthcare like IBM's Watson for Oncology. As AI continues to develop and become more integrated, professionals in these industries should embrace it as a valuable tool.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@TheAndrewLab/which-industries-will-benefit-most-from-ai-53ce0dd30db1\">Which industries will Benefit Most from AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 27 Sep 2023 06:02:08 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
+        },
+        "Boomerang - Vectaras New and Improved Retrieval Model - Vectara": {
+            "url": "https://www.emergentmind.com/posts/introducing-boomerang-vectara-s-new-and-improved",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Vectara has released a new multilingual retrieval model called Boomerang, which is designed to improve search and generative AI use-cases. This model outperforms several other embedding APIs and models and demonstrates high quality retrieval and generalization capabilities.</li>\n      <li>Boomerang allows content to be found based on meaning, rather than traditional keyword systems, and provides a promising solution to ground the output in data, improving the final output for the user.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://vectara.com/introducing-boomerang-vectaras-new-and-improved-retrieval-model/\">Introducing Boomerang - Vectara\u2019s New and Improved Retrieval Model - Vectara</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 27 Sep 2023 04:02:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
+        },
+        "Custom Instructions Generator for ChatGPT   Ready to Send": {
+            "url": "https://www.emergentmind.com/posts/custom-instructions-generator-for-chatgpt",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Custom Instructions is a feature in Ready to Send and ChatGPT that allows users to tailor responses to their specific needs and preferences. They can be used to direct the system to follow a certain writing style, use specific terminology, or consider certain facts when generating responses.</li>\n      <li>Users can modify or remove Custom Instructions for future conversations. The character limit for these instructions depends on the subscription plan for Ready to Send, and is 1500 characters for ChatGPT.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://getreadytosend.com/pages/custom-instructions-generator\">Custom Instructions Generator for ChatGPT  \u2013 Ready to Send</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 27 Sep 2023 04:02:25 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -19634,6 +19777,17 @@
                 2023,
                 9,
                 26
+            ],
+            "email_sent": true
+        },
+        "Google caught publicly indexing users conversations with Bard": {
+            "url": "https://www.superpowerdaily.com/p/179-google-caught-publicly-indexing-users-conversations-with-bard",
+            "description": "The Internet is dying",
+            "pubdate": "2023-09-27T07:01:00Z",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
             ],
             "email_sent": true
         }
