@@ -2058,6 +2058,17 @@
                 26
             ],
             "email_sent": true
+        },
+        "NVIDIA Works With NTT DOCOMO to Launch Worlds First GPU-Accelerated 5G Network": {
+            "url": "https://blogs.nvidia.com/blog/2023/09/26/ntt-docomo-gpu-accelerated-5g-network/",
+            "description": "As generative AI sweeps across corporate boardrooms around the world, global telecommunications companies are exploring how to cost-effectively deliver many of these new AI applications to the edge over 5G and upcoming 6G networks. Telcos plan to deploy over 17 million 5G microcells and towers worldwide by 2025. Building, managing and optimizing this new infrastructure <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/09/26/ntt-docomo-gpu-accelerated-5g-network/\">Read article &#62;</a>",
+            "pubdate": "Wed, 27 Sep 2023 00:00:03 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -9689,6 +9700,17 @@
                 2023,
                 9,
                 6
+            ],
+            "email_sent": true
+        },
+        "Generate music with AI: Stable Audio Explained": {
+            "url": "https://www.louisbouchard.ai/stableaudio/",
+            "description": "New AI That Generates Amazing Music !",
+            "pubdate": "Wed, 27 Sep 2023 01:11:43 GMT",
+            "pubdate_parsed": [
+                2023,
+                9,
+                27
             ],
             "email_sent": true
         }
