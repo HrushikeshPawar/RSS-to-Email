@@ -19348,6 +19348,72 @@
                 30
             ],
             "email_sent": true
+        },
+        "$260 Million AI Company Releases Undeletable Chatbot That Gives Detailed Instructions on Murder, Ethnic Cleansing": {
+            "url": "https://www.emergentmind.com/posts/260-million-ai-company-releases-undeletable-chatbot",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Mistral, an AI company valued at $260 million and founded by former Google and Meta alums, has released an 'unmoderated' large language model that provides detailed instructions on dangerous activities, including murder and ethnic cleansing. The model, named Mistral-7B-v0.1, has been released for free and open sourced.</li>\n      <li>The release method makes the model virtually impossible to censor or delete from the internet, sparking concerns about its potential misuse. Critics have highlighted the lack of safety evaluations or precautions in Mistral's public communications about the model's release.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.404media.co/260-million-ai-company-releases-chatbot-that-gives-detailed-instructions-on-murder-ethnic-cleansing/\">$260 Million AI Company Releases Undeletable Chatbot That Gives Detailed Instructions on Murder, Ethnic Cleansing</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 30 Sep 2023 13:01:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                30
+            ],
+            "email_sent": true
+        },
+        "Navigating the Jagged Technological Frontier": {
+            "url": "https://www.emergentmind.com/posts/navigating-the-jagged-technological-frontier-digital",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>New research explores the impact of AI on knowledge worker productivity and quality, through a study involving 758 consultants. Key findings show that for tasks within the AI frontier, ChatGPT-4 significantly increased performance.</li>\n      <li>The study introduces the concept of a 'jagged technological frontier', where AI excels in some tasks but falls short in others. Two distinct patterns of AI use emerged: 'Centaurs', who divided and delegated tasks between themselves and the AI, and 'Cyborgs', who integrated their workflow with the AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://d3.harvard.edu/navigating-the-jagged-technological-frontier/\">Navigating the Jagged Technological Frontier</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 30 Sep 2023 12:00:45 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                30
+            ],
+            "email_sent": true
+        },
+        "Books 3 has revealed thousands of pirated Australian books. In the age of AI, is copyright law still fit for purpose?": {
+            "url": "https://www.emergentmind.com/posts/books-3-has-revealed-thousands-of-pirated-australian",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Many Australian authors have discovered their books are part of a pirated dataset, Books3, used for training generative AI. This has led to significant backlash, as the authors did not give their consent for their works to be used in this way.</li>\n      <li>Current copyright laws are struggling to keep pace with the rapid advancements in AI technology. There have been several copyright disputes around AI datasets and copyright-protected works, raising questions about how to balance the interests of creators and technology developers.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://theconversation.com/books-3-has-revealed-thousands-of-pirated-australian-books-in-the-age-of-ai-is-copyright-law-still-fit-for-purpose-214637\">Books 3 has revealed thousands of pirated Australian books. In the age of AI, is copyright law still fit for purpose?</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 30 Sep 2023 11:03:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                30
+            ],
+            "email_sent": true
+        },
+        "How To Master Prompt Engineering (Ultimate Guide For 2023)": {
+            "url": "https://www.emergentmind.com/posts/how-to-master-prompt-engineering-ultimate-guide-for",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Prompt engineering is a method of interacting with AI models in a more defined and impactful way through a flexible, evolving framework of ten tiers. Each tier has its own complexities and objectives, from basic interactions to advanced problem-solving tasks.</li>\n      <li>The framework is designed to adapt with the evolution of AI technology, serving as a dynamic toolset that can be tweaked and expanded to align with the changing landscape of AI technology. It bridges the gap between human intent and machine capability, ensuring prompt engineering remains a relevant methodology for interacting with AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.godofprompt.ai/blog/how-to-master-prompt-engineering-ultimate-guide-for-2023\">How To Master Prompt Engineering (Ultimate Guide For 2023)</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 30 Sep 2023 10:01:44 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                30
+            ],
+            "email_sent": true
+        },
+        "Fake News Detectors are Biased against Texts Generated by Large Language Models": {
+            "url": "https://www.emergentmind.com/posts/2309-08674-fake-news-detectors-are-biased-against",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The research indicates that existing fake news detectors are more likely to label Large Language Models (LLMs) generated content as fake, often misclassifying human-written fake news as genuine. This bias is suggested to stem from distinct linguistic patterns in LLM outputs.</li>\n      <li>In response, the researchers developed a mitigation strategy using adversarial training with LLM-paraphrased genuine news, significantly improving detection accuracy for both human and LLM-generated news. The team also released two comprehensive datasets, GossipCop++ and PolitiFact++, combining human-validated articles with LLM-generated fake and real news.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2309.08674\">Fake News Detectors are Biased against Texts Generated by Large Language Models</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 30 Sep 2023 07:01:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                30
+            ],
+            "email_sent": true
+        },
+        "Cloudflare launches new AI tools to help customers deploy and run models": {
+            "url": "https://www.emergentmind.com/posts/cloudflare-launches-new-ai-tools-to-help-customers",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Cloudflare, the cloud services provider, is capitalizing on the AI wave by introducing a suite of products and apps designed to help customers build, deploy, and run AI models at the network edge. This includes offerings like Workers AI, which allows customers to access physically nearby GPUs to run AI models, Vectorize, a vector database to store vector embeddings, and AI Gateway, a tool designed to provide metrics for better management of AI app costs.</li>\n      <li>The initiative is driven by a strong customer demand for a simpler, more cost-efficient AI management solution. Workers AI aims to ensure AI inference always occurs on GPUs close to users for a low-latency, AI-powered user experience. Vectorize caters to customers needing to store vector embeddings for AI models, while AI Gateway offers observability features to assist with tracking AI traffic.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/\">Cloudflare launches new AI tools to help customers deploy and run models</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 30 Sep 2023 07:01:35 +0000",
+            "pubdate_parsed": [
+                2023,
+                9,
+                30
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
