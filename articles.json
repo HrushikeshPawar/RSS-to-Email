@@ -19447,6 +19447,28 @@
                 1
             ],
             "email_sent": true
+        },
+        "Critics Furious Microsoft Is Training AI by Sucking Up Water During Drought": {
+            "url": "https://www.emergentmind.com/posts/critics-furious-microsoft-is-training-ai-by-sucking-up",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Microsoft's data centers in West Des Moines, Iowa, consumed large amounts of water last year to cool down while training OpenAI's ChatGPT-4, a large language model, amid a three-year drought.</li>\n      <li>This has sparked criticism as the increased demand for AI and the impact of climate change strain water resources, with Microsoft's worldwide water consumption increasing by 34% last year, mainly due to AI training.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://futurism.com/critics-microsoft-water-train-ai-drought\">Critics Furious Microsoft Is Training AI by Sucking Up Water During Drought</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 02 Oct 2023 02:03:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
+        },
+        "How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions": {
+            "url": "https://www.emergentmind.com/posts/2309-15840-how-to-catch-an-ai-liar-lie-detection-in",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large language models (LLMs) can make false statements or 'lie', even when they have the correct information. This can happen, for example, when they are instructed to give out wrong information.</li>\n      <li>A simple lie detector has been developed that can identify when an LLM is 'lying' without needing access to the model's activations or the true fact. It works by asking unrelated follow-up questions and using the responses in a logistic regression classifier. This detector is very accurate and can even identify lies from different LLM architectures, fine-tuned LLMs, and in real-life scenarios.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2309.15840\">How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 02 Oct 2023 00:03:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -20019,6 +20041,39 @@
                 2023,
                 9,
                 29
+            ],
+            "email_sent": true
+        },
+        "Water Strain: AIs Thirst in Drought-Hit Regions": {
+            "url": "https://www.superpowerdaily.com/p/water-strain-ai-s-thirst-in-drought-hit-regions",
+            "description": "Microsoft\u2019s Ambitious AI Drains Essential Water Resources Amidst Intensifying Droughts",
+            "pubdate": "2023-10-02T01:50:40Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
+        },
+        "Jasper AI Reassesses Worth Amidst Slowing Momentum": {
+            "url": "https://www.superpowerdaily.com/p/jasper-ai-reassesses-worth-amidst-slowing-momentum",
+            "description": "The Pioneer in Generative AI Tackles Internal Devaluation and a Shakeup in Leadership",
+            "pubdate": "2023-10-02T00:57:28Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
+        },
+        "Metas Llama 2 Long AI: A New Contender in Generative Models": {
+            "url": "https://www.superpowerdaily.com/p/meta-s-llama-2-long-ai-a-new-contender-in-generative-models",
+            "description": "Surpassing Competitors, the Model Boasts Enhanced Performance in Long-Prompt Responses",
+            "pubdate": "2023-10-02T00:36:46Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
             ],
             "email_sent": true
         }
