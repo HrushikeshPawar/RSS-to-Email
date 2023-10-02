@@ -5125,6 +5125,17 @@
                 23
             ],
             "email_sent": true
+        },
+        "Amazon & Virginia Tech announce fellowships, faculty research awards": {
+            "url": "https://www.amazon.science/news-and-features/amazon-and-virginia-tech-announce-2023-2024-fellowship-faculty-research-award-recipients",
+            "description": "Two PhD students and five professors will receive funding to conduct research toward improving the robustness and efficiency of AI systems.",
+            "pubdate": "Mon, 02 Oct 2023 13:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
@@ -19469,6 +19480,61 @@
                 2
             ],
             "email_sent": true
+        },
+        "OpenAI CEO says hiring AGI as a co-worker is a possibility": {
+            "url": "https://www.emergentmind.com/posts/openai-ceo-says-hiring-agi-as-a-co-worker-is-a",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI CEO, Sam Altman, has sparked controversy by suggesting that artificial general intelligence (AGI) could serve as a co-worker equivalent to a 'median human'.</li>\n      <li>Altman's comments have been criticized for implying that those with average skills and intelligence could be replaced by AGI, a technology that is yet to be fully realized.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://interestingengineering.com/science/openai-ceo-says-hiring-agi-as-a-co-worker-is-a-possibility?utm_source=Reddit&amp;utm_medium=content&amp;utm_campaign=organic&amp;utm_content=Oct02\">OpenAI CEO says hiring AGI as a co-worker is a possibility</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 02 Oct 2023 13:01:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
+        },
+        "10 Best Books On Artificial Intelligence": {
+            "url": "https://www.emergentmind.com/posts/10-best-books-on-artificial-intelligence-curious",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides a comprehensive guide to the top 10 books on Artificial Intelligence (AI). The books range from introductory texts to in-depth explorations of AI's impact on society and its future potential.</li>\n      <li>The list includes books that discuss AI's historical origins, its applications, ethical considerations, and the race for AI supremacy between global superpowers. These books are recommended for students, professionals, and anyone interested in AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://curiousmatrix.com/10-best-books-on-artificial-intelligence/\">10 Best Books On Artificial Intelligence</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 02 Oct 2023 12:02:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
+        },
+        "ChatGPT Can Now See? Mind-Blowing Ways People Can Use Image Recognition!": {
+            "url": "https://www.emergentmind.com/posts/chatgpt-can-now-see-mind-blowing-ways-people-can-use",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI's ChatGPT has now developed the ability to 'see' images, revolutionizing its applications in various sectors. Its new feature can understand and break down complex diagrams, translating intricate designs into easily digestible information.</li>\n      <li>These advancements have significant implications for education, enabling personalized real-time tutoring, and for the business sector, simplifying complex presentations and providing a tool for enhanced clarity in communication. The technology also provides applications in architecture, software development, humor explanation through memes, movie scene identification, urban complexities navigation, and potential business leverage.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.godofprompt.ai/blog/chatgpt-unleashes-image-recognition-mind-blowing-ways-people-can-use-it?fbclid=IwAR3Kq7_2neLmYGMDftY6L5-eBnj5E2Ha0PTKwURC-wFwDMNtK7iU_VyGdy0\">ChatGPT Can Now See? Mind-Blowing Ways People Can Use Image Recognition!</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 02 Oct 2023 10:02:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
+        },
+        "PiCA Avatars From Meta  A Glimpse Into The Future of Communication!": {
+            "url": "https://www.emergentmind.com/posts/pica-avatars-from-meta-a-glimpse-into-the-future-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Meta, formerly Facebook, showcased photorealistic 3D avatars called Pixel Codec Avatars (PiCA) during a podcast, offering a glimpse into the future of communication in the Metaverse.</li>\n      <li>The deep generative model of 3D human faces allows high-fidelity rendering from various angles and distances, providing an immersive experience even from a 2D perspective, and could change the way we communicate.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/seeds-for-the-future/pica-avatars-from-meta-a-glimpse-into-the-future-of-communication-a105a9c838e5?sk=344007ae815a3f848adb0fdee9245365\">PiCA Avatars From Meta \u2014 A Glimpse Into The Future of Communication!</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 02 Oct 2023 09:12:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
+        },
+        "SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs  : Software Engineering Radio": {
+            "url": "https://www.emergentmind.com/posts/se-radio-582-leo-porter-and-daniel-zingaro-on",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Dr. Leo Porter and Dr. Daniel Zingaro talk about their book, Learn AI-Assisted Python Programming, and how large language models can aid in teaching programming.</li>\n      <li>They discuss the benefits of GitHub Copilot, the ethical concerns of using commercial tools in education, and their views on students cheating with large language models.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/\">SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs  : Software Engineering Radio</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 02 Oct 2023 06:02:12 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -20070,6 +20136,17 @@
             "url": "https://www.superpowerdaily.com/p/meta-s-llama-2-long-ai-a-new-contender-in-generative-models",
             "description": "Surpassing Competitors, the Model Boasts Enhanced Performance in Long-Prompt Responses",
             "pubdate": "2023-10-02T00:36:46Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                2
+            ],
+            "email_sent": true
+        },
+        "Humane's AI Pin Steps Onto the Fashion Stage in Paris": {
+            "url": "https://www.superpowerdaily.com/p/182-humane-s-ai-pin-steps-onto-the-fashion-stage-in-paris",
+            "description": "Man Fakes an Entire Month of His Life Using AI-Generated Photos",
+            "pubdate": "2023-10-02T06:30:00Z",
             "pubdate_parsed": [
                 2023,
                 10,
