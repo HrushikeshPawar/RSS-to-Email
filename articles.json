@@ -5136,6 +5136,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "Alexa Prize TaskBot Challenge 2 winner announced": {
+            "url": "https://www.amazon.science/alexa-prize/taskbot-challenge/2022",
+            "description": "Team TWIZ from NOVA School of Science and Technology awarded $500,000 prize for first-place overall performance.",
+            "pubdate": "Tue, 03 Oct 2023 13:00:34 GMT",
+            "pubdate_parsed": [
+                2023,
+                10,
+                3
+            ],
+            "email_sent": true
         }
     },
     "The Berkeley Artificial Intelligence Research Blog": {
