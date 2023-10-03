@@ -2091,6 +2091,17 @@
                 28
             ],
             "email_sent": true
+        },
+        "CG Geek Makes VFX Look Easy This Week In the NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/03/cg-geek-blender/",
+            "description": "Releasing a 3D tutorial dubbed The Easiest VFX Tutorial Ever takes supreme confidence and the skills to back it up. Steve Lund a.k.a. CG Geek \u2014 the featured artist of this week\u2019s In the NVIDIA Studio installment \u2014 has both in spades.",
+            "pubdate": "Tue, 03 Oct 2023 13:00:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                3
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -19546,6 +19557,17 @@
                 2
             ],
             "email_sent": true
+        },
+        "How to Use Kafka & Vectors for Real-Time Anomaly Detection": {
+            "url": "https://www.emergentmind.com/posts/how-to-use-kafka-vectors-for-real-time-anomaly",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses using Kafka and vectors for real-time anomaly detection in the context of the Internet of Things (IoT).</li>\n      <li>Vishwajeet Dabholkar and Siddharth Gupta demonstrate SingleStore's latest features, including high-velocity data ingestion pipelines, hybrid transaction-analytical processing, and enhanced vector support.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.singlestore.com/resources/webinar-how-to-use-kafka-vectors-for-real-time-anomaly-detection/?utm_source=asif-razzaq&amp;utm_medium=influencer&amp;utm_campaign=How-to-Use-Kafka-and-Vectors-for-Real-Time-Anomaly-Detection&amp;campaignid=7014X0000029Zi6QAE\">How to Use Kafka &amp; Vectors for Real-Time Anomaly Detection</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 03 Oct 2023 04:01:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                3
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -20162,6 +20184,39 @@
                 2023,
                 10,
                 2
+            ],
+            "email_sent": true
+        },
+        "AI Pendant, Another AI wearable, now from Rewind": {
+            "url": "https://www.superpowerdaily.com/p/183-ai-pendant-another-ai-wearable-now-from-rewind",
+            "description": "Building an AI That Builds Itself",
+            "pubdate": "2023-10-03T06:52:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                3
+            ],
+            "email_sent": true
+        },
+        "Pixel 8 Leaks Reveal Enhanced AI & Chic Cases": {
+            "url": "https://www.superpowerdaily.com/p/pixel-8-leaks-reveal-enhanced-ai-chic-cases",
+            "description": "Google's upcoming Pixel 8 shines in AI, while updated cases add flair",
+            "pubdate": "2023-10-03T06:40:08Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                3
+            ],
+            "email_sent": true
+        },
+        "Google Accused of Stifling Bing's Growth": {
+            "url": "https://www.superpowerdaily.com/p/google-accused-of-stifling-bing-s-growth",
+            "description": "Microsoft's Nadella Criticizes Tech Giant's Dominance in Search Market",
+            "pubdate": "2023-10-03T06:34:03Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                3
             ],
             "email_sent": true
         }
