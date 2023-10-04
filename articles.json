@@ -19568,6 +19568,17 @@
                 3
             ],
             "email_sent": true
+        },
+        "Towards Self-Assembling Artificial Neural Networks through Neural Developmental Programs": {
+            "url": "https://www.emergentmind.com/posts/2307-08197-towards-self-assembling-artificial-neural",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Biological nervous systems grow through a dynamic self-organizing process, unlike current artificial neural networks that require significant engineering effort. Researchers are taking initial steps towards neural networks that grow through a similar process, guided by a Neural Developmental Program (NDP), which operates through local communication alone.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2307.08197\">Towards Self-Assembling Artificial Neural Networks through Neural Developmental Programs</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 04 Oct 2023 02:02:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                4
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
