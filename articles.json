@@ -19645,6 +19645,39 @@
                 4
             ],
             "email_sent": true
+        },
+        "LLMs confabulate not hallucinate": {
+            "url": "https://www.emergentmind.com/posts/llms-confabulate-not-hallucinate",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>LLMs, or language models, are often inaccurately described as 'hallucinating' information when they invent seemingly fitting information that is actually false. The accurate term for this behavior is confabulation, a term used in psychology for when individuals with certain brain damages invent plausible sounding justifications which have no basis in fact.</li>\n      <li>We can gain more insights by recognizing that LLMs actually confabulate, just as humans do in a variety of circumstances, especially with neural pathologies such as memory impairments and in split-brain patients. LLMs can be compared to humans with extreme amnesia and no central coherence.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/\">LLMs confabulate not hallucinate</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 05 Oct 2023 03:01:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                5
+            ],
+            "email_sent": true
+        },
+        "GitHub - d3wF1nk/py-openai": {
+            "url": "https://www.emergentmind.com/posts/github-d3wf1nk-py-openai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A commit in the d3wF1nk/py-openai repository does not belong to any branch and may be part of a fork outside the main repository.</li>\n      <li>There is a conflict with a pre-existing tag bearing the same name as the intended new branch, which may cause unexpected issues with Git commands.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/d3wF1nk/py-openai\">GitHub - d3wF1nk/py-openai</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 05 Oct 2023 01:02:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                5
+            ],
+            "email_sent": true
+        },
+        "ChatGPT generated my algorithmic trading strategy. It beat the market.": {
+            "url": "https://www.emergentmind.com/posts/chatgpt-generated-my-algorithmic-trading-strategy-it",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT, powered by OpenAI's APIs, was used to generate an algorithmic trading strategy based on Bollinger Bands, a widely used technical indicator in financial market analysis. The strategy outperformed the market, beating the basic Buy-and-Hold approach over a three-year span.</li>\n      <li>The process involved crafting and testing initial portfolio strategies, identifying the top-performing one, refining it using genetic optimization, and then testing it in real-time market conditions. The study demonstrates the effectiveness of AI in creating efficient and effective trading strategies.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@austin-starks/chatgpt-generated-my-algorithmic-trading-strategy-it-beat-the-market-ba00e9059f3c\">ChatGPT generated my algorithmic trading strategy. It beat the market.</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 05 Oct 2023 00:02:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                5
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
