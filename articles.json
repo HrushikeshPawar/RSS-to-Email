@@ -9304,6 +9304,28 @@
                 29
             ],
             "email_sent": true
+        },
+        "GPT-4 Advanced Data Analysis: A Beginners Guide to Charts and Maps": {
+            "url": "https://towardsai.net/p/machine-learning/gpt-4-advanced-data-analysis-a-beginners-guide-to-charts-and-maps",
+            "description": "Last Updated on October 6, 2023 by Editorial Team Author(s): John Loewen, PhD Originally published on Towards AI. Removing the \u201cadvanced\u201d for simple and useful data analysis This member-only story is on us. Upgrade to access all of Medium. Dall-e created image \u2014 impressionist painting in vivid thick oil colors of a map of Earth With data science, turning raw numbers into meaningful data visuals can be a monumental task, particularly for novice programmers. With the GPT-4 Advanced Data Analysis tool (don\u2019t be fooled by the name), novice programmers are able to generate meaningful representations in the form of charts and maps, without writing any code. Even better, the working code is presented to you as part of the generated solution \u2014 to be massaged and tweaked as needed. So not only&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 06 Oct 2023 02:02:48 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                6
+            ],
+            "email_sent": true
+        },
+        "ChatGPT is Amazing But Overhyped": {
+            "url": "https://towardsai.net/p/machine-learning/chatgpt-is-amazing-but-overhyped",
+            "description": "Last Updated on October 6, 2023 by Editorial Team Author(s): thisisagencypromax Originally published on Towards AI. ChatGPT is Amazing But Overhyped \u2014 What It Can and Can\u2019t Do Yet Photo by Mariia Shalabaieva on Unsplash Without a doubt, ChatGPT has been one of the biggest AI stories of the year. The conversational AI from Anthropic has captured the public imagination like few other tech releases in recent memory. ChatGPT went viral seemingly overnight. Its human-like responses to natural language prompts fascinated millions. Suddenly, AI could passably imitate casual conversation, share clever jokes, and respond to complex prompts with eerily coherent essays. Like moths to a flame, people flocked to test ChatGPT\u2019s limits. Could it offer thoughtful poetry critiques? Analyze Shakespeare? Debug code? Debate ethics? Discuss quantum physics. Yes, it did remarkably well on many of these tests. But in the rush to crown ChatGPT the next artificial general intelligence (AGI), many have overlooked its very real limitations. The hype train may have left the station a bit prematurely. While ChatGPT previews a promising future, in many ways, it remains an impressive but narrowly focused AI assistant. Let\u2019s take a clear-eyed look at what today\u2019s ChatGPT can and can\u2019t do. ChatGPT\u2019s Strengths: Where It Shines There\u2019s no denying that ChatGPT shows a mastery of language and reasoning that sometimes eerily emulates human intelligence. Backed by massive training datasets, ChatGPT delivers compelling performance in several areas: Conversational Ability ChatGPT excels at conversational tasks. Its true breakthrough is the natural way it handles back-and-forth chitchat. The AI follows conversation threads accurately. It answers follow-up questions sensibly. ChatGPT even politely asks for clarification when confused. This conversational flow comes across as far more human than previous chatbots. We\u2019ve been conditioned by generations of stilted AI conversations. ChatGPT\u2019s eloquence and versatility feel like a huge leap forward. Text Generation Give ChatGPT a writing prompt, and it can produce long, coherent passages that credibly emulate human writing. For instance, ask it to write a poem, and you may be impressed by the metaphors and structure it generates. Tell it to compose a short story, and it spins a narrative arc with believable characters. This ability to generate high-quality text based on short prompts provides tremendous utility. Businesses are using ChatGPT to craft marketing copy, emails, and blog posts. Students employ it to expand on essay ideas. Creators use it to brainstorm original fiction plots. Knowledge Synthesis Feed ChatGPT some key facts or background context, and it can synthesize the information into an overview remarkably well. Pose questions about history, literature, science, or current events, and more often than not, ChatGPT Serves up a sensible summary sprinkled with relevant details. For instance, ask \u201cCan you explain Einstein\u2019s theory of relativity in simple terms?\u201d and you may be pleasantly surprised by the coherent explanation it provides. Logical Reasoning ChatGPT exhibits solid logical reasoning capabilities. Given a set of premises or constraints, it can draw sensible conclusions. Ask it to recommend recipes based on ingredients you have on hand, and its suggestions typically consider compatible flavors and cooking methods. Tell ChatGPT you\u2019re planning a vacation for a family of four with certain interests and budgets, and it proposes thoughtful destination ideas and activities. These examples demonstrate how, within defined domains, ChatGPT makes connections and provides recommendations rooted in rational thinking. Where ChatGPT Falters As remarkable as ChatGPT seems, in many situations, it stumbles. Its skills remain narrow and brittle. Under scrutiny, the illusion of human-level intelligence strains. Here are key areas where ChatGPT falls short: Limited Knowledge The sheer breadth of human knowledge quickly exposes ChatGPT\u2019s limitations. Its training data ended in 2021. So it lacks up-to-date knowledge about current events, new books, or the latest scientific discoveries. Pose an obscure trivia question or ask about a niche topic, and ChatGPT often defaults to vague responses or admissions of ignorance. Even in broader domains, the gaps in its knowledge become apparent with advanced questions. Brittle Reasoning Give ChatGPT an unusual prompt or complex reasoning task, and its logic readily breaks down. While it handles straightforward reasoning well, more advanced logical challenges trip it up. For example, ChatGPT struggles with mathematical word problems and deductive reasoning puzzles. It doesn\u2019t recognize its own contradictions or faulty conclusions. Incapable of Learning ChatGPT cannot learn or expand its skills like humans can. It cannot incorporate new knowledge or learn from its mistakes through experience. Attempting to teach ChatGPT a new skill or correct its factual errors yields no long-term improvements. Each conversation session starts afresh. This limitation makes it unreliable for tasks requiring adaptability. No Common Sense Common sense proves to be uncommon for ChatGPT. Despite eloquent responses, it lacks the basic real-world judgment humans develop from living life. ChatGPT may confidently provide dangerous advice if users don\u2019t explicitly state safety concerns. It responds literally to absurd hypotheticals that any person would recognize as silly. Without common sense to filter context appropriately, ChatGPT\u2019s judgment cannot be trusted unconditionally. Weak Verification of Facts Don\u2019t expect rigorous fact-checking from ChatGPT. It often presents fabricated or inaccurate information with conviction if such falsehoods existed in its training data. When responding to questions, ChatGPT does not systematically verify facts from multiple reliable sources. So interspersed between sensible responses may be subtle fiction presented as truth. Lack of Context Carrying on extended conversations highlights ChatGPT\u2019s lack of memory and context. It cannot learn over a multi-exchange dialog by recalling earlier statements. Each input is handled as an isolated prompt. So, while ChatGPT appears intelligent in answering individual questions, its inability to retain context limits its reasoning in broader dialogs. No Understanding of Itself Perhaps the clearest sign of ChatGPT\u2019s limitations is its lack of understanding about itself. It cannot explain how its algorithms work, discuss its own capabilities, or self-reflect accurately. Press ChatGPT about how it generates answers so convincingly, and it dissolves into vagueness and misdirection. Unlike a human, it cannot gauge and articulate the strengths and limits of its intelligence. Responsible Ways to Use ChatGPT [&#8230;]",
+            "pubdate": "Fri, 06 Oct 2023 00:01:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -9865,6 +9887,17 @@
                 2023,
                 9,
                 27
+            ],
+            "email_sent": true
+        },
+        "Responsible AI: Insights from an Ethics Expert": {
+            "url": "https://www.louisbouchard.ai/responsible-ai/",
+            "description": "The What's AI Podcast Episode 20 with Auxane Boch: Ethics\u00a0Expert",
+            "pubdate": "Fri, 06 Oct 2023 07:37:43 GMT",
+            "pubdate_parsed": [
+                2023,
+                10,
+                6
             ],
             "email_sent": true
         }
@@ -19799,6 +19832,28 @@
                 5
             ],
             "email_sent": true
+        },
+        "Hummingbird - Lightweight, native personal assistant for macOS": {
+            "url": "https://www.emergentmind.com/posts/hummingbird-lightweight-native-personal-assistant",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Hummingbird is an assistant for macOS that provides quick answers to any question.</li>\n      <li>It is customizable, has a built-in web browsing feature, real-time search, and rich content.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://thegums.co/hummingbird\">Hummingbird - Lightweight, native personal assistant for macOS</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 06 Oct 2023 13:01:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                6
+            ],
+            "email_sent": true
+        },
+        "Ollama is now available as an official Docker image  Ollama Blog": {
+            "url": "https://www.emergentmind.com/posts/ollama-is-now-available-as-an-official-docker-image",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Ollama has been released as an official Docker open-source image, simplifying the usage of large language models with Docker containers.</li>\n      <li>It operates locally, ensuring private data does not need to be sent to third-party services, and supports GPU acceleration on Mac.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image\">Ollama is now available as an official Docker image \u00b7 Ollama Blog</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 06 Oct 2023 04:01:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                6
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -20525,6 +20580,39 @@
                 2023,
                 10,
                 5
+            ],
+            "email_sent": true
+        },
+        "OpenAI is exploring making its own AI chips": {
+            "url": "https://www.superpowerdaily.com/p/186-openai-is-exploring-making-its-own-ai-chips",
+            "description": "OpenAI's justification for why training data is fair use, not infringement",
+            "pubdate": "2023-10-06T07:43:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                6
+            ],
+            "email_sent": true
+        },
+        "4chan Exploits Bing to Spread Controversial Images Online": {
+            "url": "https://www.superpowerdaily.com/p/4chan-exploits-bing-to-spread-controversial-images-online",
+            "description": "Online communities exploit Bing's AI Image Generator for controversial content.",
+            "pubdate": "2023-10-06T07:31:34Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                6
+            ],
+            "email_sent": true
+        },
+        "OpenAI Eyes In-House Chip Development": {
+            "url": "https://www.superpowerdaily.com/p/openai-eyes-in-house-chip-development",
+            "description": "Amidst GPU scarcity, OpenAI contemplates custom chip solutions",
+            "pubdate": "2023-10-06T07:22:55Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                6
             ],
             "email_sent": true
         }
