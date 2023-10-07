@@ -19865,6 +19865,28 @@
                 7
             ],
             "email_sent": true
+        },
+        "The Alberta Plan for AI Research": {
+            "url": "https://www.emergentmind.com/posts/2208-11173-the-alberta-plan-for-ai-research",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>arXivLabs is a platform that lets collaborators develop and share new features on the arXiv website</li>\n      <li>It works with individuals and organizations that embrace their values of openness, community, excellence, and user data privacy</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2208.11173\">The Alberta Plan for AI Research</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 07 Oct 2023 07:02:43 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                7
+            ],
+            "email_sent": true
+        },
+        "GPT-4 powered audiobooks with unique character voices.": {
+            "url": "https://www.emergentmind.com/posts/github-drewthomasson-voxnovel-voxnovel-gpt-4",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>GPT-4 is used in a program that identifies the speaker of quotes, inputs an OpenAI API key, and manages requests while observing API limits.</li>\n      <li>A second program merges data and creates a unified book.csv file, while a third program displays book content and generates voice-overs with a GUI interface.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/DrewThomasson/VoxNovel\">GPT-4 powered audiobooks with unique character voices.</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 07 Oct 2023 06:01:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                7
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
