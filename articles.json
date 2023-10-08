@@ -19898,6 +19898,39 @@
                 8
             ],
             "email_sent": true
+        },
+        "Understanding Generative AI: Part One - Tokenizer  Scorpil": {
+            "url": "https://www.emergentmind.com/posts/understanding-generative-ai-part-one-tokenizer",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article is an introductory guide to understanding how modern AI models function, focusing primarily on model training and input tokenization.</li>\n      <li>It also discusses how AI development patterns have changed in recent years, the use of language models, and the concept of 'tokens' in the text.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://scorpil.com/post/understanding-generative-ai-part-one-tokenizer/\">Understanding Generative AI: Part One - Tokenizer \u00b7 Scorpil</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 08 Oct 2023 13:00:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                8
+            ],
+            "email_sent": true
+        },
+        "GAIA-1: A Generative World Model for Autonomous Driving": {
+            "url": "https://www.emergentmind.com/posts/2309-17080-gaia-1-a-generative-world-model-for",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>GAIA-1 is a generative world model that uses video, text, and action inputs to create realistic driving scenarios, while allowing control over vehicle behavior and scene features.</li>\n      <li>This model aids in predicting the potential outcomes of the vehicle's actions, learning high-level structures and scene dynamics, and understanding geometry, enabling better training of autonomous driving technology.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2309.17080\">GAIA-1: A Generative World Model for Autonomous Driving</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 08 Oct 2023 11:03:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                8
+            ],
+            "email_sent": true
+        },
+        "AI offers improved civility for polarizing online conversations": {
+            "url": "https://www.emergentmind.com/posts/ai-offers-improved-civility-for-polarizing-online",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers from Brigham Young University and Duke University have developed an AI system that suggests more polite rephrasings of users' comments in online discussions, without changing the content of the message.</li>\n      <li>The study found that participants who used the AI suggestions reported higher conversation quality and were more willing to listen to opposing viewpoints.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://newatlas.com/health-wellbeing/ai-offers-improved-civility-for-polarizing-online-conversations/\">AI offers improved civility for polarizing online conversations</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 08 Oct 2023 09:02:57 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                8
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
