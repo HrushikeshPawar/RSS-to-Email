@@ -5888,6 +5888,28 @@
                 27
             ],
             "email_sent": true
+        },
+        "New ways were helping reduce transportation and energy emissions": {
+            "url": "https://blog.google/outreach-initiatives/sustainability/google-transportation-energy-emissions-reduction/",
+            "description": "Image of cars and people moving through a city intersection",
+            "pubdate": "Tue, 10 Oct 2023 11:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "Demand more from social with AI-powered ads": {
+            "url": "https://blog.google/products/ads-commerce/demand-more-from-social-with-ai-powered-ads/",
+            "description": "A graphic illustrating the multi-format nature of creator content in today\u2019s media landscape.",
+            "pubdate": "Tue, 10 Oct 2023 10:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -20041,6 +20063,61 @@
                 10
             ],
             "email_sent": true
+        },
+        "AI hype is built on high test scores. Those tests are flawed.": {
+            "url": "https://www.emergentmind.com/posts/ai-hype-is-built-on-high-test-scores-those-tests-are",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Artificial Intelligence (AI) hype is built on high test scores, but these tests are flawed and fail to fully understand the capabilities of AI. Researchers are calling for more rigorous and comprehensive evaluation methods to dispel illusions of AI's capabilities.</li>\n      <li>Despite AI's ability to pass complex tests, such as the bar exam, it often fails at tasks involving understanding of the actual world, like basic physics or social interactions. Therefore, it's important to develop new types of tests for a more accurate assessment of AI's abilities.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.technologyreview.com/2023/08/30/1078670/large-language-models-arent-people-lets-stop-testing-them-like-they-were/\">AI hype is built on high test scores. Those tests are flawed.</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 10 Oct 2023 11:01:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "Ultimate Guide: 200+ Free Datasets for Data Science, Machine learning, AI, NLP - Big Data Analytics News": {
+            "url": "https://www.emergentmind.com/posts/ultimate-guide-200-free-datasets-for-data-science",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides an extensive list of over 200 free datasets for various domains like Data Science, Machine Learning, AI, NLP, Data Analysis, and more. These datasets can be used to create and train predictive models, conduct statistical analyses, and derive meaningful insights.</li>\n      <li>The datasets span a wide range of applications from Classification, Pricing Optimization, Education, Computer Vision to Pre-Trained Models. They include data repositories like Anacode Chinese Web Datastore, Appen Open Source Datasets, Awesome Public Datasets, AWS Public Data Sets, BigML Public Data Sources, and many others.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://bigdataanalyticsnews.com/datasets/\">Ultimate Guide: 200+ Free Datasets for Data Science, Machine learning, AI, NLP - Big Data Analytics News</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 10 Oct 2023 10:01:30 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "Why AutoGPT engineers ditched vector databases": {
+            "url": "https://www.emergentmind.com/posts/why-autogpt-engineers-ditched-vector-databases",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AutoGPT, an AI project known for its role in the development of autonomous agents, has stopped using vector databases for memory management, opting for a JSON file instead. The change was driven by criticisms that vector databases were an overkill solution and the realization that simpler solutions could be more effective.</li>\n      <li>There is also a shift towards developing multiple highly specialized agents each with their own memories and responsibilities, instead of one general-purpose agent. This change and the abandonment of vector databases could potentially make AI solutions more efficient and user-friendly.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://dariuszsemba.com/blog/why-autogpt-engineers-ditched-vector-databases/\">Why AutoGPT engineers ditched vector databases</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 10 Oct 2023 07:01:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "As drone traffic increases, researchers turn to AI to help avoid collisions": {
+            "url": "https://www.emergentmind.com/posts/as-drone-traffic-increases-researchers-turn-to-ai-to",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers at Johns Hopkins University are using artificial intelligence to create a system that can manage increasing drone traffic and prevent collisions.</li>\n      <li>The system uses autonomous decision-making to replace some human processes, and has shown promising results in simulations, including scenarios with 'rogue drones' that deviate from planned routes.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://techxplore.com/news/2023-10-drone-traffic-ai-collisions.html\">As drone traffic increases, researchers turn to AI to help avoid collisions</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 10 Oct 2023 05:02:23 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "Canada Plans to Regulate Search and Social Media Use of Artificial Intelligence for Content Moderation and Discoverability - Michael Geist": {
+            "url": "https://www.emergentmind.com/posts/canada-plans-to-regulate-search-and-social-media-use-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Canadian government plans to regulate the use of artificial intelligence (AI) in search results and content prioritization on search engines and social media services. This includes Google's use of AI to generate search results and TikTok's use of AI to identify user interests.</li>\n      <li>The regulation plans were revealed in a letter regarding privacy reform and AI regulation bill, Bill C-27. The government plans to identify high impact systems within the bill, including AI use for hiring, biometric information, health care, administrative decisions, and law enforcement. The inclusion of content moderation and prioritization is a key exception not found in EU regulations.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.michaelgeist.ca/2023/10/canada-plans-to-regulate-search-and-social-media-use-of-artificial-intelligence-for-content-moderation-and-discoverability/\">Canada Plans to Regulate Search and Social Media Use of Artificial Intelligence for Content Moderation and Discoverability - Michael Geist</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 10 Oct 2023 04:01:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -20866,6 +20943,61 @@
                 2023,
                 10,
                 9
+            ],
+            "email_sent": true
+        },
+        "ChatGPT as a Radiologist": {
+            "url": "https://www.superpowerdaily.com/p/188-chatgpt-as-a-radiologist",
+            "description": "Google announces new generative AI search capabilities for doctors",
+            "pubdate": "2023-10-10T07:14:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "The AI Dilemma: High Costs Vs. High Hopes": {
+            "url": "https://www.superpowerdaily.com/p/the-ai-dilemma-high-costs-vs-high-hopes",
+            "description": "Tech Giants Grapple with the Pricey Reality of Advanced AI Offerings",
+            "pubdate": "2023-10-10T07:09:01Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "The Future of AI Learning: A New Dawn or a Black Hole?": {
+            "url": "https://www.superpowerdaily.com/p/the-future-of-ai-learning-a-new-dawn-or-a-black-hole",
+            "description": "From Web 2.0 to AI-driven Chatbots: The Evolution of Knowledge Gathering",
+            "pubdate": "2023-10-10T07:03:28Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "Getty Images' Innovative AI Tool: Protecting Artists' Rights and Rewriting the AI Copyright Narrative": {
+            "url": "https://www.superpowerdaily.com/p/getty-images-innovative-ai-tool-protecting-artists-rights-and-rewriting-the-ai-copyright-narrative",
+            "description": "Getty Images CEO Craig Peters unveils a groundbreaking AI tool that respects artists' intellectual property and rewards creators.",
+            "pubdate": "2023-10-10T06:58:34Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "The Challenge of Watermarking AI Images: Can We Find a Reliable Solution?": {
+            "url": "https://www.superpowerdaily.com/p/challenge-watermarking-ai-images-can-find-reliable-solution",
+            "description": "Exploring the Feasibility and Limitations of Watermarking in Detecting AI-Generated Content",
+            "pubdate": "2023-10-10T06:55:18Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
             ],
             "email_sent": true
         }
