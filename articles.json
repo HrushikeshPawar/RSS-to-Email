@@ -20019,6 +20019,28 @@
                 9
             ],
             "email_sent": true
+        },
+        "Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models": {
+            "url": "https://www.emergentmind.com/posts/2310-04406-language-agent-tree-search-unifies",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>LATS (Language Agent Tree Search) is a new framework that enhances the decision-making capabilities of large language models (LLMs) in planning, acting, and reasoning. It draws from Monte Carlo tree search in model-based reinforcement learning.</li>\n      <li>The method uses an environment for external feedback, improving problem-solving mechanisms and overcoming the limitations of existing techniques. Experiments showed LATS achieving 94.4% for programming with GPT-4 and 75.9% for web browsing with GPT-3.5.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2310.04406\">Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 10 Oct 2023 01:01:37 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
+        },
+        "Replit - Announcing Replit AI for All": {
+            "url": "https://www.emergentmind.com/posts/replit-announcing-replit-ai-for-all",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Replit AI is now available to all users, offering AI-enabled code completion and assistance to 23 million developers. Pro users will have exclusive access to more advanced features.</li>\n      <li>The company is also releasing a new version of its AI model, replit-code-v1.5-3b, trained on 1T tokens and covering 30 programming languages. They plan for AI to redefine every Replit feature in the near future.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.replit.com/ai4all\">Replit - Announcing Replit AI for All</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 10 Oct 2023 00:02:18 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                10
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
