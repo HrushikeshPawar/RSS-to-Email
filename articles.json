@@ -20140,6 +20140,39 @@
                 11
             ],
             "email_sent": true
+        },
+        "| A case for the capacity to reason of GPT-4": {
+            "url": "https://www.emergentmind.com/posts/a-case-for-the-capacity-to-reason-of-gpt-4",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses the capabilities of Language Learning Models (LLMs), such as GPT-4, in terms of intelligence, reasoning, and logic. The author argues that while these models are capable of representing concepts and solving problems, they do not yet possess consciousness. The author also addresses common arguments against LLMs, such as their inability to solve riddles or logic puzzles and their biases.</li>\n      <li>The author further discusses the potential for these models to improve, the differences between human and machine reasoning, and the implications of these advancements. The writer also highlights his work on a project called ChartMyLife.ai, which utilizes GPT-4 to convert life events into chartable and query-able data.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://lajili.com/posts/post-3/\">| A case for the capacity to reason of GPT-4</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 11 Oct 2023 11:01:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                11
+            ],
+            "email_sent": true
+        },
+        "How ChatGPT and other AI tools could disrupt scientific publishing": {
+            "url": "https://www.emergentmind.com/posts/how-chatgpt-and-other-ai-tools-could-disrupt-scientific",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT and other AI tools are being used by researchers to expedite the writing and reviewing process in scientific publishing. These tools could transform the nature of scientific papers and may be particularly helpful for non-native English speakers.</li>\n      <li>However, there are concerns about the potential for misuse of these tools, including the creation of poor-quality or fake manuscripts. The use of generative AI in scientific publishing also raises ethical and legal issues, such as the need for disclosure of AI usage and potential copyright infringement.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.nature.com/articles/d41586-023-03144-w\">How ChatGPT and other AI tools could disrupt scientific publishing</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 11 Oct 2023 10:01:54 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                11
+            ],
+            "email_sent": true
+        },
+        "Generative AI will get a 'cold shower' in 2024, analysts predict": {
+            "url": "https://www.emergentmind.com/posts/generative-ai-will-get-a-cold-shower-in-2024",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Generative AI, despite its potential, is overhyped and can be too expensive for many organizations, according to a chief analyst at CCS Insight. This type of AI requires a huge amount of computing power and high-powered chips to function.</li>\n      <li>AI regulation in the European Union is predicted to face challenges due to the rapid advancement of AI. There are concerns that generative AI has become too advanced and may put people out of jobs, prompting calls for regulation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.cnbc.com/2023/10/10/generative-ai-will-get-a-cold-shower-in-2024-analysts-predict.html\">Generative AI will get a 'cold shower' in 2024, analysts predict</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 11 Oct 2023 04:01:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                11
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -21020,6 +21053,72 @@
                 2023,
                 10,
                 10
+            ],
+            "email_sent": true
+        },
+        "Sam Altman: Superintelligent AIs are coming soon": {
+            "url": "https://www.superpowerdaily.com/p/189-sam-altman-superintelligent-ais-are-coming-soon",
+            "description": "New major releases from Adobe and ElevenLabs",
+            "pubdate": "2023-10-11T06:47:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                11
+            ],
+            "email_sent": true
+        },
+        "Adobe Boosts AI Game with Firefly Enhancements": {
+            "url": "https://www.superpowerdaily.com/p/adobe-boosts-ai-game-with-firefly-enhancements",
+            "description": "Innovative AI-powered upgrades promise enhanced visuals and seamless design workflows.",
+            "pubdate": "2023-10-11T06:33:31Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                11
+            ],
+            "email_sent": true
+        },
+        "Facebook's AI-Powered Bug Fixer: A Deep Dive": {
+            "url": "https://www.superpowerdaily.com/p/facebook-s-ai-powered-bug-fixer-a-deep-dive",
+            "description": "From Detection to Developer Review: SAPFIX's Journey",
+            "pubdate": "2023-10-11T06:27:25Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                11
+            ],
+            "email_sent": true
+        },
+        "Revolutionizing Health Care: Microsoft's AI-Powered Endeavors": {
+            "url": "https://www.superpowerdaily.com/p/revolutionizing-health-care-microsoft-s-ai-powered-endeavors",
+            "description": "Streamlined patient data and enhanced decision-making tools are here!",
+            "pubdate": "2023-10-11T06:16:22Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                11
+            ],
+            "email_sent": true
+        },
+        "AI's Growing Thirst for Energy": {
+            "url": "https://www.superpowerdaily.com/p/ai-s-growing-thirst-for-energy",
+            "description": "The unseen energy appetite of Artificial Intelligence.",
+            "pubdate": "2023-10-11T06:11:53Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                11
+            ],
+            "email_sent": true
+        },
+        "AI Tech in the Spotlight: Saudi-China Partnerships": {
+            "url": "https://www.superpowerdaily.com/p/ai-tech-in-the-spotlight-saudi-china-partnerships",
+            "description": "The intricate balance of power, tech, and partnerships in the Gulf region",
+            "pubdate": "2023-10-11T06:03:32Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                11
             ],
             "email_sent": true
         }
