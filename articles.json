@@ -2124,6 +2124,17 @@
                 5
             ],
             "email_sent": true
+        },
+        "Get in Gear: Forza Motorsport Races Onto GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/12/geforce-now-thursday-oct-12/",
+            "description": "Put the pedal to the metal this GFN Thursday as Forza Motorsport leads 23 new games in the cloud. Plus, Acer\u2019s Predator Connect 6E is the newest addition to the GeForce NOW Recommended program, with easy cloud gaming quality-of-service (QoS) settings built in to give Ultimate members the best streaming experience. No Breaks, No Limits, <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/10/12/geforce-now-thursday-oct-12/\">Read article &#62;</a>",
+            "pubdate": "Thu, 12 Oct 2023 13:00:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -20184,6 +20195,72 @@
                 12
             ],
             "email_sent": true
+        },
+        "Laketool - Your AI Playground": {
+            "url": "https://www.emergentmind.com/posts/laketool-your-ai-playground",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Laketool is a tool that helps businesses extract AI-driven insights from their growing volumes of data</li>\n      <li>It is a user-friendly AI experimentation platform that prevents valuable data from going to waste</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://laketool.ai/\">Laketool - Your AI Playground</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 12 Oct 2023 13:02:06 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
+        },
+        "A method to assess trustworthiness of machine coding at scale": {
+            "url": "https://www.emergentmind.com/posts/2310-02335-a-method-to-assess-trustworthiness-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Education researchers are exploring the use of machine learning and natural language processing for quantitative analysis of textual data like open-ended survey responses.</li>\n      <li>They propose a four-part method to make reliable quantitative claims without needing human coding, thereby increasing efficiency.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2310.02335\">A method to assess trustworthiness of machine coding at scale</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 12 Oct 2023 09:02:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
+        },
+        "Exclusive: OpenAI plans major updates to lure developers with lower costs, sources say": {
+            "url": "https://www.emergentmind.com/posts/exclusive-openai-plans-major-updates-to-lure",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>OpenAI is planning to introduce significant updates next month that will make it cheaper and quicker for developers to build software applications based on its AI models. This includes adding memory storage to its developer tools, which could potentially reduce costs for application makers by up to 20 times.</li>\n      <li>The company also plans to introduce new tools such as vision capabilities for building applications capable of analyzing and describing images, with potential applications in various fields including entertainment and medicine. These new features indicate OpenAI's ambition to expand beyond just being a consumer sensation to also providing a successful developer platform.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.reuters.com/technology/openai-plans-major-updates-lure-developers-with-lower-costs-sources-2023-10-11/\">Exclusive: OpenAI plans major updates to lure developers with lower costs, sources say</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 12 Oct 2023 09:02:16 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
+        },
+        "Building Flask APIs for Retrieval Augmented Generation (RAG) and GPT-4": {
+            "url": "https://www.emergentmind.com/posts/building-flask-apis-for-retrieval-augmented-generation",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides a guide on how to build a Retrieval Augmented Generation (RAG) app using Python and Flask, with two API endpoints for uploading source files and performing chat operations.</li>\n      <li>It includes steps on setting up OpenAI and Pinecone DB, creating a Flask project, defining constants, and creating endpoints, with comprehensive example codes provided.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://discovergen.ai/article/building-flask-apis-for-retrieval-augmented-genera/\">Building Flask APIs for Retrieval Augmented Generation (RAG) and GPT-4</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 12 Oct 2023 09:02:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
+        },
+        "Cypher 2023: The Future of Simulation and Design is AIThe Monk Tribune": {
+            "url": "https://www.emergentmind.com/posts/cypher-2023-the-future-of-simulation-and-design-is",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI has significantly improved animation and visual effects, with advancements such as deepfakes and AR/VR technologies enhancing immersive experiences. Biren Ghose, country head for Technicolor Studios, highlighted the evolution of film technology and shared projects that combine AI with creative elements like beatboxing.</li>\n      <li>Technicolor Studios, now rebranded as Vantiva, creates VFX, animations, and visualisations for various media. Ghose discussed the impact of AI on animation, explaining how AI is an enabler rather than a competitor in the industry, and stressed the need for governance and self-regulation in the use of AI.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://monktribune.online/cypher-2023-the-future-of-simulation-and-design-is-ai/\">Cypher 2023: The Future of Simulation and Design is AIThe Monk Tribune</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 12 Oct 2023 05:01:27 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
+        },
+        "Conceptual Framework for Autonomous Cognitive Entities": {
+            "url": "https://www.emergentmind.com/posts/2310-06775-conceptual-framework-for-autonomous",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Autonomous Cognitive Entity (ACE) model is a new framework designed to enable machines and software agents to operate more autonomously by leveraging generative AI technologies.</li>\n      <li>The ACE model presents a layered approach to artificial cognitive architectures, with each layer playing a unique role in tasks ranging from setting a moral compass and strategic thinking to task selection and execution.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2310.06775\">Conceptual Framework for Autonomous Cognitive Entities</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 12 Oct 2023 04:00:46 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -21130,6 +21207,61 @@
                 2023,
                 10,
                 11
+            ],
+            "email_sent": true
+        },
+        "OpenAI Aims for Affordability: New Tools on the Horizon": {
+            "url": "https://www.superpowerdaily.com/p/openai-aims-for-affordability-new-tools-on-the-horizon",
+            "description": "Stepping up the game with cost-effective developer features.",
+            "pubdate": "2023-10-12T06:10:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
+        },
+        "AI Startup's Controversial Move": {
+            "url": "https://www.superpowerdaily.com/p/ai-startup-s-controversial-move",
+            "description": "Deepfakes Created Without Permission Raise Ethical Concerns",
+            "pubdate": "2023-10-12T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
+        },
+        "Dropbox: Embracing a Virtual Future": {
+            "url": "https://www.superpowerdaily.com/p/dropbox-embracing-a-virtual-future",
+            "description": "Where AI meets the new-age workforce",
+            "pubdate": "2023-10-12T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
+        },
+        "Google Maps Tackles Traffic Jams with AI": {
+            "url": "https://www.superpowerdaily.com/p/google-maps-tackles-traffic-jams-with-ai",
+            "description": "Google's latest AI-driven project, \"Green Light\", aims to minimize traffic delays and reduce carbon footprints.",
+            "pubdate": "2023-10-12T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
+            ],
+            "email_sent": true
+        },
+        "Character AI introduces group chats": {
+            "url": "https://www.superpowerdaily.com/p/190-character-ai-introduces-group-chats",
+            "description": "Google\u2019s AI Is Making Traffic Lights More Efficient and Less Annoying",
+            "pubdate": "2023-10-12T07:12:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                12
             ],
             "email_sent": true
         }
