@@ -9392,6 +9392,17 @@
                 9
             ],
             "email_sent": true
+        },
+        "If You Are A Data Scientist, You Need To Know About Ethical AI Guidelines": {
+            "url": "https://towardsai.net/p/machine-learning/if-you-are-a-data-scientist-you-need-to-know-about-ethical-ai-guidelines",
+            "description": "Author(s): Don Kaluarachchi Originally published on Towards AI. Navigating the landscape Image by Don Kaluarachchi (author) If you are heavily involved in the data world, chances are you have heard about Ethical AI. It is not just another corporate catchphrase \u2014 it is much more important. Let us break it down and see why, as a data scientist, you should be aware of it. Imagine you are crafting algorithms that can predict the next big thing or analyze large amounts of data. That is great, but you need to ask yourself about the ethical side of this. We are not talking about machines with a moral compass but the decisions you make while crunching those numbers. You might&#8230; Read the full blog for free on Medium. Join thousands of data leaders on the AI newsletter. Join over 80,000 subscribers and keep up to date with the latest developments in AI. From research to projects and ideas. If you are building an AI startup, an AI-related product, or a service, we invite you to consider becoming a\u00a0sponsor. Published via Towards AI",
+            "pubdate": "Fri, 13 Oct 2023 00:02:11 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                13
+            ],
+            "email_sent": true
         }
     },
     "Louis Bouchard Blog": {
@@ -20259,6 +20270,50 @@
                 2023,
                 10,
                 12
+            ],
+            "email_sent": true
+        },
+        "AMD acquires Nod.ai to bolsters its AI software ecosystem": {
+            "url": "https://www.emergentmind.com/posts/amd-acquires-nod-ai-to-bolsters-its-ai-software",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AMD has acquired Nod.ai, an open source AI software provider, aiming to enhance its AI development tools, libraries, and models. The terms of the transaction were not disclosed.</li>\n      <li>The move will enable AMD to provide customers with software that makes it easier to deploy high-performance AI models. Nod.ai, co-founded by Google and Cisco veterans, initially focused on gaming-focused devices but later pivoted to AI model tooling.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://techcrunch.com/2023/10/11/amd-acquires-nod-ai-to-bolsters-its-ai-software-ecosystem/\">AMD acquires Nod.ai to bolsters its AI software ecosystem</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 13 Oct 2023 03:00:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                13
+            ],
+            "email_sent": true
+        },
+        "(DOC) Aerial Object Detection": {
+            "url": "https://www.emergentmind.com/posts/doc-aerial-object-detection-anthony-moore-anthony",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Anthony Moore has developed an app that detects aerial objects and alerts users through a beeping noise. The app is designed for both military and civilian use, with the ability to operate offline in combat zones but also provide remote viewing of aerial scenes through internet connectivity in civilian environments.</li>\n      <li>The app is designed for soldiers to use on their cell phones and attach to their vehicles or bodies, and can also be used in civilian contexts when connected to the internet, potentially placed on rooftops for wide area coverage.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.academia.edu/107715932/Aerial_Object_Detection\">(DOC) Aerial Object Detection</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 13 Oct 2023 02:02:33 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                13
+            ],
+            "email_sent": true
+        },
+        "E33 - The Future of A.I.? (w/ Leo Allen Jr.) - Epik Fails of History": {
+            "url": "https://www.emergentmind.com/posts/e33-the-future-of-a-i-w-leo-allen-jr-epik",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Erik Slader and Justin Ache discuss the history, ethics, potential dangers, and future of Artificial Intelligence with guest Leo Allen Jr.</li>\n      <li>They explore questions like 'Will A.I. destroy the world?' and showcase listener-submitted A.I. History Artwork.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://open.spotify.com/episode/6Nyp3jiO9eNjXfYydghHg6?si=OThVpXkvS0yNitwgqtf8Bw\">E33 - The Future of A.I.? (w/ Leo Allen Jr.) - Epik Fails of History</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 13 Oct 2023 01:02:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                13
+            ],
+            "email_sent": true
+        },
+        "Paint app update introducing Paint Cocreator begins rolling out to Windows Insiders": {
+            "url": "https://www.emergentmind.com/posts/paint-app-update-introducing-paint-cocreator-begins",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The Paint app for Windows 11 is introducing an update with a new feature called Paint Cocreator.</li>\n      <li>This AI-powered tool generates artwork based on brief descriptions, and the user can select an art style for it to follow.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/\">Paint app update introducing Paint Cocreator begins rolling out to Windows Insiders</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 13 Oct 2023 00:02:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                13
             ],
             "email_sent": true
         }
