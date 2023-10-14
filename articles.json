@@ -20393,6 +20393,72 @@
                 14
             ],
             "email_sent": true
+        },
+        "AI's Quirky Invention: AI-Designed Walking Robot Defies Expectations": {
+            "url": "https://www.emergentmind.com/posts/ai-s-quirky-invention-ai-designed-walking-robot-defies",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers from Northwestern University, MIT, and the University of Vermont have developed a unique walking robot designed by AI, which operates by spasming when filled with air.</li>\n      <li>The AI began with a small rubber block and modeled different shapes before arriving at the final design that could walk, challenging traditional human designs of robots.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.futurology.site/2023/10/ais-quirky-invention-ai-designed.html?m=1\">AI's Quirky Invention: AI-Designed Walking Robot Defies Expectations</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 14 Oct 2023 10:01:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                14
+            ],
+            "email_sent": true
+        },
+        "Multi-modal prompt injection image attacks against GPT-4V": {
+            "url": "https://www.emergentmind.com/posts/multi-modal-prompt-injection-image-attacks-against",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>GPT-4V is a new mode of OpenAI's GPT-4 that allows images to be uploaded as part of a conversation, opening up new vectors for prompt injection attacks.</li>\n      <li>These attacks can potentially lead to private data leakage and create misleading responses by hiding malicious instructions in images.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/\">Multi-modal prompt injection image attacks against GPT-4V</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 14 Oct 2023 08:01:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                14
+            ],
+            "email_sent": true
+        },
+        "Cellular Map of Entire Brain Reveals What Makes Us Human - Neuroscience News": {
+            "url": "https://www.emergentmind.com/posts/cellular-map-of-entire-brain-reveals-what-makes-us",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A groundbreaking suite of 21 papers has unveiled a momentous leap in our understanding of the brain, spotlighting the intricate cellular composition of human and primate brains through a consortium led by the BRAIN Initiative.</li>\n      <li>Utilizing innovative single-cell transcriptomics, researchers illuminated a stunning array of over 3,000 different brain cells and their distinctive functionalities, also undertaking a comparative study between human brains and those of our closest ape relatives.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://neurosciencenews.com/cellular-human-brain-map-24940/\">Cellular Map of Entire Brain Reveals What Makes Us Human - Neuroscience News</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 14 Oct 2023 07:01:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                14
+            ],
+            "email_sent": true
+        },
+        "Grokking as Compression: A Nonlinear Complexity Perspective": {
+            "url": "https://www.emergentmind.com/posts/2310-05918-grokking-as-compression-a-nonlinear",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Grokking, where generalization occurs much later than memorization, is attributed to compression in neural networks. The linear mapping number (LMN) is introduced as a measure of network complexity, and it effectively characterizes the compression before generalization.</li>\n      <li>LMN is considered a better metric than the commonly used $L_2$ norm for various reasons, including its natural interpretation as information or computation, and its linear relationship with test losses during the compression phase. It also reveals a unique phenomenon in XOR networks. LMN is suggested as a neural network version of Kolmogorov complexity.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2310.05918\">Grokking as Compression: A Nonlinear Complexity Perspective</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 14 Oct 2023 06:01:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                14
+            ],
+            "email_sent": true
+        },
+        "Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution": {
+            "url": "https://www.emergentmind.com/posts/2309-16797-promptbreeder-self-referential",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Promptbreeder is a self-referential self-improvement mechanism that evolves and adapts prompts for various domains, driven by Large Language Models (LLMs).</li>\n      <li>It not only improves task-prompts but also enhances mutation-prompts that aid in the improvement of these task-prompts, outperforming existing strategies like Chain-of-Thought and Plan-and-Solve Prompting.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2309.16797\">Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 14 Oct 2023 04:01:31 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                14
+            ],
+            "email_sent": true
+        },
+        "Large Language Models Are Zero-Shot Time Series Forecasters": {
+            "url": "https://www.emergentmind.com/posts/2310-07820-large-language-models-are-zero-shot-time",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Large language models (LLMs) like GPT-3 and LLaMA-2 can predict time series data effectively, comparable to or exceeding dedicated time series models. This is achieved by encoding time series as a string of numerical digits, treating the prediction task as next-token prediction in text.</li>\n      <li>The success of LLMs for time series stems from their ability to represent multimodal distributions, handle missing data, accommodate textual side information and answer questions to explain predictions. However, issues with tokenization of numbers and poor uncertainty calibration can sometimes lead to decreased performance in larger models like GPT-4.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2310.07820\">Large Language Models Are Zero-Shot Time Series Forecasters</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 14 Oct 2023 04:01:26 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                14
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
