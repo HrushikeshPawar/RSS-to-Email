@@ -20470,6 +20470,39 @@
                 15
             ],
             "email_sent": true
+        },
+        "IPL Win Predictor: Analyzing Winning Probabilities": {
+            "url": "https://www.emergentmind.com/posts/ipl-win-predictor-analyzing-winning-probabilities-by",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article details the creation of an IPL match win predictor which estimates the winning probability for both the bowling and batting teams based on the current match situation.</li>\n      <li>The predictor considers various factors such as the required run rate, current run rate, current wickets, target, current score, etc., using machine-learning techniques.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://medium.com/@harshsmj1504/ipl-win-predictor-analyzing-winning-probabilities-d9f4f38e0226\">IPL Win Predictor: Analyzing Winning Probabilities</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 15 Oct 2023 12:01:05 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                15
+            ],
+            "email_sent": true
+        },
+        "Cursor - The AI-first Code Editor": {
+            "url": "https://www.emergentmind.com/posts/cursor-the-ai-first-code-editor",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Cursor is an AI-first code editor designed for pair-programming that helps build software faster. It has features such as AI-written low-level logic, code generation from scratch, bug spotting and fixing, and automatic investigation of errors.</li>\n      <li>Cursor also offers one-click migration of VSCode extensions and a privacy mode for secure coding. It's trusted and used by tens of thousands of engineers worldwide.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://cursor.sh/\">Cursor - The AI-first Code Editor</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 15 Oct 2023 11:03:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                15
+            ],
+            "email_sent": true
+        },
+        "When Physics Powers AI: A Paradigm Shift in Generative Models": {
+            "url": "https://www.emergentmind.com/posts/when-physics-powers-ai-a-paradigm-shift-in-generative",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers at MIT's Computer Science and Artificial Intelligence Laboratory have developed a new generative AI model, PFGM++, which integrates two physical laws, diffusion and Poisson Flow, resulting in superior image generation.</li>\n      <li>The PFGM++ model has potential applications in various fields, including antibody and RNA sequence generation, audio production, and graph generation.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.futurology.site/2023/10/when-physics-powers-ai-paradigm-shift.html\">When Physics Powers AI: A Paradigm Shift in Generative Models</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sun, 15 Oct 2023 10:01:32 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                15
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
