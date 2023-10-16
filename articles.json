@@ -5921,6 +5921,17 @@
                 10
             ],
             "email_sent": true
+        },
+        "Calling all AI cybersecurity startups  in Europe and, now, the U.S.": {
+            "url": "https://blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/",
+            "description": "Photograph of a woman wearing a Google lanyard looking at a large screen in an office.",
+            "pubdate": "Mon, 16 Oct 2023 10:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                16
+            ],
+            "email_sent": true
         }
     },
     "OpenAI Blog": {
@@ -20514,6 +20525,28 @@
                 16
             ],
             "email_sent": true
+        },
+        "5 Best ChatGPT Prompts for Marketing (Ultimate Guide for 2023) - Prompts": {
+            "url": "https://www.emergentmind.com/posts/5-best-chatgpt-prompts-for-marketing-ultimate-guide",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article provides an in-depth guide on using ChatGPT for marketing, including creating a 30-day marketing plan, crafting compelling ad copy, understanding psychological frameworks, mastering sales emails, and writing SEO-friendly articles.</li>\n      <li>ChatGPT, an AI tool, can be used to automate various marketing tasks like content creation, email campaigns, and social media posts, enhancing efficiency and reach.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.godofprompt.ai/blog/chatgpt-for-marketing-5-best-prompts\">5 Best ChatGPT Prompts for Marketing (Ultimate Guide for 2023) - Prompts</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 16 Oct 2023 13:01:17 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                16
+            ],
+            "email_sent": true
+        },
+        "NVIDIA AI Unveils SteerLM: A New Artificial Intelligence Method that Allows Users to Customize the Responses of Large Language Models (LLMs) During Inference - MarkTechPost": {
+            "url": "https://www.emergentmind.com/posts/nvidia-ai-unveils-steerlm-a-new-artificial",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>NVIDIA Research has introduced SteerLM, a new AI method that enables users to customize the responses of Large Language Models (LLMs) during inference.</li>\n      <li>SteerLM, which operates through a four-step supervised fine-tuning process, offers users more control over the model's outputs and allows real-time adjustability, making it a significant advancement in the field of AI customization.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.marktechpost.com/2023/10/16/nvidia-ai-unveils-steerlm-a-new-artificial-intelligence-method-that-allows-users-to-customize-the-responses-of-large-language-models-llms-during-inference/\">NVIDIA AI Unveils SteerLM: A New Artificial Intelligence Method that Allows Users to Customize the Responses of Large Language Models (LLMs) During Inference - MarkTechPost</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 16 Oct 2023 09:01:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                16
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -21581,6 +21614,61 @@
                 2023,
                 10,
                 13
+            ],
+            "email_sent": true
+        },
+        "AI Tools Question Authenticity of War Images": {
+            "url": "https://www.superpowerdaily.com/p/ai-tools-question-authenticity-of-war-images",
+            "description": "Experts warn against relying solely on AI tools to verify image authenticity.",
+            "pubdate": "2023-10-16T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                16
+            ],
+            "email_sent": true
+        },
+        "Silicon Valley's AI Influence on Capitol Hill": {
+            "url": "https://www.superpowerdaily.com/p/silicon-valley-s-ai-influence-on-capitol-hill",
+            "description": "Inside the Billionaire-Backed Push to Shape AI Policy in Washington",
+            "pubdate": "2023-10-16T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                16
+            ],
+            "email_sent": true
+        },
+        "Shaking Up Predictions: AI Nails Earthquake Forecasts": {
+            "url": "https://www.superpowerdaily.com/p/shaking-up-predictions-ai-nails-earthquake-forecasts",
+            "description": "Texas University's AI model brings a seismic shift in earthquake prediction.",
+            "pubdate": "2023-10-16T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                16
+            ],
+            "email_sent": true
+        },
+        "AI Revolution in Science: Polymathic AI's Grand Vision": {
+            "url": "https://www.superpowerdaily.com/p/ai-revolution-in-science-polymathic-ai-s-grand-vision",
+            "description": "Harnessing the Power of ChatGPT's Tech for Scientific Breakthroughs",
+            "pubdate": "2023-10-16T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                16
+            ],
+            "email_sent": true
+        },
+        "Use GPT-4 with voice as a negotiation instructor": {
+            "url": "https://www.superpowerdaily.com/p/192-use-gpt-4-with-voice-as-a-negotiation-instructor",
+            "description": "How a billionaire-backed network of AI advisers took over Washington",
+            "pubdate": "2023-10-16T07:16:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                16
             ],
             "email_sent": true
         }
