@@ -2135,6 +2135,28 @@
                 12
             ],
             "email_sent": true
+        },
+        "Striking Performance: Large Language Models up to 4x Faster on RTX With TensorRT-LLM for Windows": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/17/tensorrt-llm-windows-stable-diffusion-rtx/",
+            "description": "GeForce RTX and NVIDIA RTX GPUs, which are packed with dedicated AI processors called Tensor Cores, are bringing the power of generative AI natively to more than 100 million Windows PCs and workstations.",
+            "pubdate": "Tue, 17 Oct 2023 13:00:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
+            ],
+            "email_sent": true
+        },
+        "NVIDIA RTX Video Super Resolution Update Enhances Video Quality, Detail Preservation and Expands to GeForce RTX 20 Series GPUs": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/17/rtx-video-super-resolution-ai-obs-broadcast/",
+            "description": "NVIDIA today announced an update to RTX Video Super Resolution (VSR) that delivers greater overall graphical fidelity with preserved details, upscaling for native videos and support for GeForce RTX 20 Series GPUs.",
+            "pubdate": "Tue, 17 Oct 2023 13:00:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -20569,6 +20591,50 @@
                 17
             ],
             "email_sent": true
+        },
+        "@chrlschn - Interviews in the Age of AI: Ditch Leetcode - Try Code Reviews Instead": {
+            "url": "https://www.emergentmind.com/posts/chrlschn-interviews-in-the-age-of-ai-ditch-leetcode",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article criticizes the use of leetcode exercises in tech interviews, arguing they do not accurately reflect a candidate's abilities or how they will fit into a team. Instead, the author suggests using code reviews as a more effective evaluation method.</li>\n      <li>The author also highlights the growing importance of being able to quickly read and identify defects in AI-generated code, as teams increasingly rely on these tools. They provide strategies for implementing code reviews in interviews, including using actual parts of an active codebase, identifying logical flaws, and focusing on best practices.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/\">@chrlschn - Interviews in the Age of AI: Ditch Leetcode - Try Code Reviews Instead</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 17 Oct 2023 13:01:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
+            ],
+            "email_sent": true
+        },
+        "Study finds ChatGPT better at diagnosing depression than your doctor": {
+            "url": "https://www.emergentmind.com/posts/study-finds-chatgpt-better-at-diagnosing-depression",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A study has found that ChatGPT, an AI chatbot, is more effective at diagnosing depression than primary care physicians, correctly identifying depression symptoms without biases related to gender or social class.</li>\n      <li>While the AI shows promise for improving mental health accessibility, researchers warn that more studies are needed to determine its effectiveness in severe cases and to address potential risks and ethical issues.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://interestingengineering.com/science/study-chatgpt-diagnosing-depression-doctor?utm_source=Reddit&amp;utm_medium=content&amp;utm_campaign=organic&amp;utm_content=Oct17\">Study finds ChatGPT better at diagnosing depression than your doctor</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 17 Oct 2023 11:02:49 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
+            ],
+            "email_sent": true
+        },
+        "SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML - News": {
+            "url": "https://www.emergentmind.com/posts/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>SiFive has introduced two new RISC-V processors aimed at machine learning and general-purpose High Performance Computing (HPC). The processors, named P870/P870A and Intelligence X390, offer advanced features and significant performance improvements over their predecessors.</li>\n      <li>The P870/P870A is designed for consumer applications and data centers, and the X390 is built to cater to the growing demands of AI and ML applications. These releases signify SiFive's commitment to drive the RISC-V industry forward with innovative and powerful computing architectures.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/\">SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML - News</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 17 Oct 2023 08:01:47 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
+            ],
+            "email_sent": true
+        },
+        "Finland's ChatGPT equivalent begins to think in Estonian as well": {
+            "url": "https://www.emergentmind.com/posts/finland-s-chatgpt-equivalent-begins-to-think-in",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The University of Turku in Finland is creating an artificial language corpus for all European languages, including minor ones like Estonian, to safeguard them in the post-ChatGPT era. The project, supported by the Estonian Language Institute (EKI), requires extensive digitization of Estonian texts.</li>\n      <li>The new language model, being developed with SiloGen, aims to be a transparent open-source tool that understands not only words and sentences, but also cultural contexts. The model will be hosted on LUMI, one of the world's largest supercomputers, located in Finland.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://news.err.ee/1609120697/finland-s-chatgpt-equivalent-begins-to-think-in-estonian-as-well\">Finland's ChatGPT equivalent begins to think in Estonian as well</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 17 Oct 2023 07:01:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -21691,6 +21757,50 @@
                 2023,
                 10,
                 16
+            ],
+            "email_sent": true
+        },
+        "A.I. Overlords: The Rise of Digital Assistants": {
+            "url": "https://www.superpowerdaily.com/p/ai-overlords-the-rise-of-digital-assistants",
+            "description": "The Next Era: Autonomous A.I. Agents That Do More Than Just Talk",
+            "pubdate": "2023-10-17T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
+            ],
+            "email_sent": true
+        },
+        "The Rise of AI Relationships: More Than Just Code?": {
+            "url": "https://www.superpowerdaily.com/p/the-rise-of-ai-relationships-more-than-just-code",
+            "description": "Exploring the Phenomenon of Virtual Companions in the Digital Age",
+            "pubdate": "2023-10-17T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
+            ],
+            "email_sent": true
+        },
+        "Baidu's Ernie Rivals ChatGPT: China's AI Ambition": {
+            "url": "https://www.superpowerdaily.com/p/baidu-s-ernie-rivals-chatgpt-china-s-ai-ambition",
+            "description": "Ernie 4.0 steps up to challenge the dominance of ChatGPT in AI language models.",
+            "pubdate": "2023-10-17T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
+            ],
+            "email_sent": true
+        },
+        "ChatGPT alternative, Pi, now has access to the internet": {
+            "url": "https://www.superpowerdaily.com/p/193-chatgpt-alternative-pi-is-getting-access-to-the-internet",
+            "description": "Baidu Says Its AI as Good as ChatGPT in Big Claim for China",
+            "pubdate": "2023-10-17T06:40:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                17
             ],
             "email_sent": true
         }
