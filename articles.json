@@ -2157,6 +2157,17 @@
                 17
             ],
             "email_sent": true
+        },
+        "Foxconn and NVIDIA Amp Up Electric Vehicle Innovation": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/17/foxconn-nvidia-electric-vehicle/",
+            "description": "NVIDIA founder and CEO Jensen Huang joined Hon Hai (Foxconn) Chairman and CEO Young Liu to unveil the latest in their ongoing partnership to develop the next wave of intelligent electric vehicle (EV) platforms for the global automotive market. This latest move, announced today at the fourth annual Hon Hai Tech Day in Taiwan, will <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/10/17/foxconn-nvidia-electric-vehicle/\">Read article &#62;</a>",
+            "pubdate": "Wed, 18 Oct 2023 03:00:44 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -20633,6 +20644,17 @@
                 2023,
                 10,
                 17
+            ],
+            "email_sent": true
+        },
+        "The Challenges of Producing Quality Code When Using AI-Based Generalistic Models": {
+            "url": "https://www.emergentmind.com/posts/the-challenges-of-producing-quality-code-when-using",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Using AI with generalistic models for specific tasks like generating code can lead to mismatches in standards and quality. Specialised models could be a solution.</li>\n      <li>AI may generate code, but its safety, quality, and standards need human assessment. General models may combine different versions of code, causing issues.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.infoq.com/news/2023/10/producing-quality-code-AI/\">The Challenges of Producing Quality Code When Using AI-Based Generalistic Models</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 18 Oct 2023 03:02:04 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
             ],
             "email_sent": true
         }
