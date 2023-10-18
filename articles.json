@@ -2168,6 +2168,17 @@
                 18
             ],
             "email_sent": true
+        },
+        "Into the Omniverse: Marmoset Brings Breakthroughs in Rendering, Extends OpenUSD Support to Enhance 3D Art Production": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/18/marmoset-extends-openusd-support/",
+            "description": "Real-time rendering, animation and texture baking are essential workflows for 3D art production. Using the Marmoset Toolbag software, 3D artists can enhance their creative workflows and build complex 3D models without disruptions to productivity.",
+            "pubdate": "Wed, 18 Oct 2023 13:00:39 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -5974,6 +5985,17 @@
                 2023,
                 10,
                 17
+            ],
+            "email_sent": true
+        },
+        "How to build a secure foundation for American leadership in AI": {
+            "url": "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/",
+            "description": "illustration of a lock with security icons",
+            "pubdate": "Wed, 18 Oct 2023 13:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
             ],
             "email_sent": true
         }
@@ -20657,6 +20679,61 @@
                 18
             ],
             "email_sent": true
+        },
+        "GPT-4 Vision Prompt Injection": {
+            "url": "https://www.emergentmind.com/posts/gpt-4-vision-prompt-injection",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Vision Prompt Injection is a security vulnerability where attackers can inject malicious data into a text prompt through an image, potentially compromising system security and facilitating unauthorized actions. OpenAI's advanced model, GPT-4, is susceptible to this form of attack due to its ability to read text found in uploaded images.</li>\n      <li>Defending against this vulnerability is challenging, requiring the model to distinguish between good and bad instructions. Strategies based on adding additional instructions and ordering the model to ignore potential instructions in the image may improve security, but also lead to reduced usability.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://blog.roboflow.com/gpt-4-vision-prompt-injection/\">GPT-4 Vision Prompt Injection</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 18 Oct 2023 13:01:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
+            ],
+            "email_sent": true
+        },
+        "Screen Recording 2023-10-18 at 12.52.11": {
+            "url": "https://www.emergentmind.com/posts/screen-recording-2023-10-18-at-12-52-11",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>A screen recording from October 18, 2023 at 12:52:11 has been viewed once.</li>\n      <li>No further details about the content of the recording are provided.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://streamable.com/u4zt3m?src=player-page-share\">Screen Recording 2023-10-18 at 12.52.11</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 18 Oct 2023 11:03:34 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
+            ],
+            "email_sent": true
+        },
+        "After ChatGPT disruption, Stack Overflow lays off 28 percent of staff": {
+            "url": "https://www.emergentmind.com/posts/after-chatgpt-disruption-stack-overflow-lays-off-28",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Stack Overflow, a popular forum for developers, has laid off 28% of its staff as it struggles with profitability amid the rise of AI chatbots like ChatGPT that offer more specific coding help.</li>\n      <li>The company is working on 'Overflow AI', a direct response to ChatGPT, and aims to cut costs for profitability, while CEO Prashanth Chandrasekar argues that sites like Stack Overflow are essential for training chatbots with progressing knowledge.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arstechnica.com/gadgets/2023/10/after-chatgpt-disruption-stack-overflow-lays-off-28-percent-of-staff/\">After ChatGPT disruption, Stack Overflow lays off 28 percent of staff</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 18 Oct 2023 06:01:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
+            ],
+            "email_sent": true
+        },
+        "GitHub - Gnol86/GPTFT": {
+            "url": "https://www.emergentmind.com/posts/github-gnol86-gptft",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>This is about a commit in the Gnol86/GPTFT repository that doesn't belong to any branch and might be part of an external fork.</li>\n      <li>A concern is raised about a tag in use that could potentially cause unexpected behavior due to its overlap with branch names.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/Gnol86/GPTFT\">GitHub - Gnol86/GPTFT</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 18 Oct 2023 04:01:15 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
+            ],
+            "email_sent": true
+        },
+        "AI just got 100-fold more energy efficient - Northwestern Now": {
+            "url": "https://www.emergentmind.com/posts/ai-just-got-100-fold-more-energy-efficient",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Northwestern University engineers have developed a nanoelectronic device that can perform machine-learning tasks with 100-fold less energy than current technologies. The device can process large amounts of data and perform AI tasks in real time without needing to send data to the cloud for analysis.</li>\n      <li>The device can be directly incorporated into wearable electronics like smart watches and fitness trackers for real-time data processing and near-instant diagnostics. In tests, the device was able to accurately identify and classify irregular heartbeats from ECG data with near 95% accuracy.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/\">AI just got 100-fold more energy efficient - Northwestern Now</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 18 Oct 2023 04:01:12 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -21823,6 +21900,39 @@
                 2023,
                 10,
                 17
+            ],
+            "email_sent": true
+        },
+        "Revolutionary Nano Device Powers AI with Minimal Energy": {
+            "url": "https://www.superpowerdaily.com/p/revolutionary-nano-device-powers-ai-with-minimal-energy",
+            "description": "Wave goodbye to power-hungry servers: AI analysis now on your wrist",
+            "pubdate": "2023-10-18T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
+            ],
+            "email_sent": true
+        },
+        "Demystifying AI: Key Terms to Know": {
+            "url": "https://www.superpowerdaily.com/p/demystifying-ai-key-terms-to-know",
+            "description": "Your Crash Course on the Revolutionizing World of Artificial Intelligence",
+            "pubdate": "2023-10-18T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
+            ],
+            "email_sent": true
+        },
+        "ChatGPT is used by 1/3 of postdocs": {
+            "url": "https://www.superpowerdaily.com/p/194-chatgpt-is-used-by-1-3-of-postdocs",
+            "description": "Microsoft is offering up to $15,000 in new AI bounty program",
+            "pubdate": "2023-10-18T07:47:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                18
             ],
             "email_sent": true
         }
