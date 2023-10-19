@@ -2179,6 +2179,17 @@
                 18
             ],
             "email_sent": true
+        },
+        "Coming in Clutch: Stream Counter-Strike 2 From the Cloud for Highest Frame Rates": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/19/geforce-now-thursday-oct-19/",
+            "description": "Rush to the cloud \u2014 stream Counter-Strike 2 on GeForce NOW for the highest frame rates. Members can play through the newest chapter of Valve\u2019s elite, competitive, first-person shooter from the cloud. It\u2019s all part of an action-packed GFN Thursday, with 22 more games joining the cloud gaming platform\u2019s library, including Hot Wheels Unleashed 2 <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/10/19/geforce-now-thursday-oct-19/\">Read article &#62;</a>",
+            "pubdate": "Thu, 19 Oct 2023 13:00:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                19
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -20767,6 +20778,28 @@
                 19
             ],
             "email_sent": true
+        },
+        "Nvidia and iPhone maker Foxconn to build 'AI factories' - BBC News": {
+            "url": "https://www.emergentmind.com/posts/nvidia-and-iphone-maker-foxconn-to-build-ai-factories",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Nvidia and Foxconn are collaborating to build 'AI factories', a new type of data center that uses Nvidia chips for a wide range of applications such as autonomous vehicles and robotics.</li>\n      <li>The move comes amidst US plans to cut off more exports of advanced chips to China, impacting Nvidia's recent artificial intelligence chips created for the Chinese market.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.bbc.com/news/business-67153669\">Nvidia and iPhone maker Foxconn to build 'AI factories' - BBC News</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 19 Oct 2023 13:01:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                19
+            ],
+            "email_sent": true
+        },
+        "Mamba: Linear-Time Sequence Modeling with Selective State Spaces": {
+            "url": "https://www.emergentmind.com/posts/mamba-linear-time-sequence-modeling-with-selective",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Mamba is a new state-of-the-art sequence model that integrates a selection mechanism into state space models, leading to improved results in general sequence modeling including language.</li>\n      <li>The Mamba model is faster, scales linearly with sequence length, and outperforms Transformers of the same size, showing promise in various fields such as language, audio, and genomics.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://openreview.net/forum?id=AL1fq05o7H\">Mamba: Linear-Time Sequence Modeling with Selective State Spaces</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 19 Oct 2023 05:00:51 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                19
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -21966,6 +21999,50 @@
                 2023,
                 10,
                 18
+            ],
+            "email_sent": true
+        },
+        "GPT-4's Vulnerabilities Uncovered": {
+            "url": "https://www.superpowerdaily.com/p/gpt-4-s-vulnerabilities-uncovered",
+            "description": "Microsoft-backed study reveals potential pitfalls in OpenAI's latest model",
+            "pubdate": "2023-10-19T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                19
+            ],
+            "email_sent": true
+        },
+        "AI Revolution: A New Era of Work and Play": {
+            "url": "https://www.superpowerdaily.com/p/ai-revolution-a-new-era-of-work-and-play",
+            "description": "The Future of Jobs and the Role of AI in Shaping It",
+            "pubdate": "2023-10-19T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                19
+            ],
+            "email_sent": true
+        },
+        "AI Pioneer Sounds Alarm: Humanity's Defense Needed": {
+            "url": "https://www.superpowerdaily.com/p/ai-pioneer-sounds-alarm-humanity-s-defense-needed",
+            "description": "Yoshua Bengio, a leading figure in AI, warns of the potential threats posed by unchecked artificial intelligence.",
+            "pubdate": "2023-10-19T06:00:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                19
+            ],
+            "email_sent": true
+        },
+        "Everything we know about OpenAIs alleged Secret Model Arrakis": {
+            "url": "https://www.superpowerdaily.com/p/195-everything-we-know-about-openai-s-alleged-secret-model-arrakis",
+            "description": "For $20/mo any kid can now have a private tutor",
+            "pubdate": "2023-10-19T07:50:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                19
             ],
             "email_sent": true
         }
