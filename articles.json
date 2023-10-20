@@ -2190,6 +2190,28 @@
                 19
             ],
             "email_sent": true
+        },
+        "For the World to See: Nonprofit Deploys GPU-Powered Simulators to Train Providers in Sight-Saving Surgery": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/20/helpmesee-nonprofit-training-simulator-for-cataract-surgery/",
+            "description": "GPU-powered surgical-simulation devices are helping train more than 2,000 doctors a year in lower-income countries to treat cataract blindness, the world\u2019s leading cause of blindness, thanks to the nonprofit HelpMeSee. While cataract surgery has a success rate of around 99%, many patients in low- and middle-income countries lack access to the common procedure due to <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/10/20/helpmesee-nonprofit-training-simulator-for-cataract-surgery/\">Read article &#62;</a>",
+            "pubdate": "Fri, 20 Oct 2023 13:00:50 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                20
+            ],
+            "email_sent": true
+        },
+        "Eureka! NVIDIA Research Breakthrough Puts New Spin on Robot Learning": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/20/eureka-robotics-research/",
+            "description": "A new AI agent developed by NVIDIA Research that can teach robots complex skills has trained a robotic hand to perform rapid pen-spinning tricks \u2014 for the first time as well as a human can. The stunning prestidigitation, showcased in the video above, is one of nearly 30 tasks that robots have learned to expertly <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/10/20/eureka-robotics-research/\">Read article &#62;</a>",
+            "pubdate": "Fri, 20 Oct 2023 13:00:24 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                20
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -20822,6 +20844,28 @@
                 20
             ],
             "email_sent": true
+        },
+        "Weekly Piece of Future #38 - by Zoltan Tapi": {
+            "url": "https://www.emergentmind.com/posts/weekly-piece-of-future-38-by-zoltan-tapi",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The newsletter discusses various technological advancements such as a tiny generator producing electricity from molecular motion, AI-powered relationships, energy-efficient AI chips, and AI's diagnostic capabilities.</li>\n      <li>It also explores the potential of bat genes for human immunity, 3D printable finger prostheses, Amazon's humanoid robot, and AI's capability to predict molecular age and illnesses.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://rushingrobotics.com/p/weekly-piece-of-future-38\">Weekly Piece of Future #38 - by Zoltan Tapi</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 20 Oct 2023 13:01:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                20
+            ],
+            "email_sent": true
+        },
+        " Anguilla Island generates 30% of GDP from .ai domain": {
+            "url": "https://www.emergentmind.com/posts/anguilla-island-generates-30-of-gdp-from-ai-domain",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The tiny Caribbean island of Anguilla generates up to 10% of its GDP from selling '.ai' domains, equating to about $30 million for the nation with less than 20,000 residents. Additionally, developments in AI technology are ongoing, with an AI-powered drone beating champion drone pilots and Microsoft filing a patent for an AI-assisted wearable backpack.</li>\n      <li>In business news, IBM and Salesforce are collaborating to bring AI tools and consulting to their customers, and OpenAI has filed a motion to dismiss multiple claims against it, including copyright infringement. There are also applications of AI in monitoring wildfires, and ChatGPT can be used to boost creativity in creating YouTube content.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://aitoolsup.beehiiv.com/p/anguilla-island-generates-30-gdp-ai-domain\">\ud83c\udf0e\ufe0f Anguilla Island generates 30% of GDP from .ai domain</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Fri, 20 Oct 2023 08:01:13 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                20
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -22065,6 +22109,17 @@
                 2023,
                 10,
                 19
+            ],
+            "email_sent": true
+        },
+        "DALLE 3 is now available in ChatGPT Plus and Enterprise": {
+            "url": "https://www.superpowerdaily.com/p/196-dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise",
+            "description": "AI Chatbots Can Guess Your Personal Information From What You Type RECOMMENDED",
+            "pubdate": "2023-10-20T07:01:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                20
             ],
             "email_sent": true
         }
