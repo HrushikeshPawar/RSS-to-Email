@@ -20866,6 +20866,17 @@
                 20
             ],
             "email_sent": true
+        },
+        "AMD Wants To Know If You'd Like Ryzen AI Support On Linux - Phoronix": {
+            "url": "https://www.emergentmind.com/posts/amd-wants-to-know-if-you-d-like-ryzen-ai-support-on",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AMD is potentially considering supporting Ryzen AI on Linux operating systems. This comes after Ryzen AI, a dedicated machine learning accelerator, was introduced in AMD's new Ryzen 7040 series laptops but only supported on Microsoft Windows.</li>\n      <li>The possibility of Linux support has been reopened for discussion on GitHub by an AMD staff member, inviting users to voice their interest. It is suggested that if users want to see Ryzen AI support for Linux, they should indicate their interest on the GitHub ticket.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.phoronix.com/news/Ryzen-AI-For-Linux-Requests\">AMD Wants To Know If You'd Like Ryzen AI Support On Linux - Phoronix</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Sat, 21 Oct 2023 03:01:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                21
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
