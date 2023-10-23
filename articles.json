@@ -11427,6 +11427,17 @@
                 22
             ],
             "email_sent": true
+        },
+        "Speaker Diarization: Adding Speaker Labels for Enterprise Speech-to-Text": {
+            "url": "https://www.assemblyai.com/blog/speaker-diarization-speaker-labels-enterprise-speech-to-text/",
+            "description": "Speaker Diarization, or speaker labels, models automatically assign speakers to words spoken in an audio/video transcription. In this article, we look at the benefits, challenges, and use cases for Speaker Diarization.",
+            "pubdate": "Mon, 23 Oct 2023 13:25:36 GMT",
+            "pubdate_parsed": [
+                2023,
+                10,
+                23
+            ],
+            "email_sent": true
         }
     },
     "Javier ML Blog": {},
@@ -20954,6 +20965,39 @@
                 22
             ],
             "email_sent": true
+        },
+        "AI and Open Source in 2023 - by Sebastian Raschka, PhD": {
+            "url": "https://www.emergentmind.com/posts/ai-and-open-source-in-2023-by-sebastian-raschka-phd",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Throughout 2023, AI technology has continued to advance with major developments in research and open-source space. The trend has largely focused on upgrading existing technologies such as GPT 3.5 to GPT 4 and DALL-E 2 to DALL-E 3, with a rumour that GPT-4 is a mixture of experts model with 16 submodules. On the other hand, the open-source community has focused on latent diffusion models and LLMs, and despite the growing trend of researchers sharing less information in their papers, open-source has had an active year with many breakthroughs.</li>\n      <li>The year also saw the release of the first pretrained Llama model by Meta that inspired a lot of researchers, and the introduction of other models like Fuyu-8B. Despite the challenges faced by AI technology such as hallucination, copyright debates, and expensive hosting and runtime costs, the industry has seen a rise in AI productivity tools like Microsoft's and GitHub's Copilot coding assistant which reduces the time to complete a coding task by ~55%. The year ended on a positive note with small and efficient models coming closer to the performance of large proprietary models.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023\">AI and Open Source in 2023 - by Sebastian Raschka, PhD</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 23 Oct 2023 13:01:31 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                23
+            ],
+            "email_sent": true
+        },
+        "amd/RyzenAI-SW": {
+            "url": "https://www.emergentmind.com/posts/linux-issue-2-amd-ryzenai-sw-github",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The AMD's AI technologies are not fully open source for windows as many libraries are binary only, they have only open-sourced the UI and API to the model.</li>\n      <li>Embracing Linux for this technology would promote open interoperability and allow users to maximize the potential of AMD's AI technologies, while also fostering a more inclusive and collaborative tech environment.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/amd/RyzenAI-SW/issues/2\">amd/RyzenAI-SW</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 23 Oct 2023 11:01:10 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                23
+            ],
+            "email_sent": true
+        },
+        "Cortical Labs - Dishbrain Intelligence": {
+            "url": "https://www.emergentmind.com/posts/cortical-labs-dishbrain-intelligence",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Cortical is growing human neurons into silicon to create a new type of digital intelligence that learns better than any digital model.</li>\n      <li>The neurons exist inside a Biological Intelligence Operating System (biOS), which runs a simulation and sends information about their environment, allowing the neurons to react and affect their digital world.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://corticallabs.com/\">Cortical Labs - Dishbrain Intelligence</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Mon, 23 Oct 2023 07:01:20 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                23
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -22208,6 +22252,17 @@
                 2023,
                 10,
                 20
+            ],
+            "email_sent": true
+        },
+        "Can GPT-4 teach a robot hand to do pen-spinning tricks better than you do?": {
+            "url": "https://www.superpowerdaily.com/p/197-can-gpt-4-teach-a-robot-hand-to-do-pen-spinning-tricks-better-than-you-do",
+            "description": "How to Fake Everything with AI",
+            "pubdate": "2023-10-23T06:15:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                23
             ],
             "email_sent": true
         }
