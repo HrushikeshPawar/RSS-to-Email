@@ -2212,6 +2212,17 @@
                 20
             ],
             "email_sent": true
+        },
+        "On Razers Edge: VFX Star Surfaced Studio Creates Stunning Sci-Fi World This Week In The NVIDIA Studio": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/24/surfaced-studio-adobe-premiere-pro-after-effects-blender-unreal/",
+            "description": "Visual effects artist Surfaced Studio returns to 'In the NVIDIA Studio' to share his real-world VFX project, created on a brand new Razer Blade 16 Mercury Edition laptop powered by GeForce RTX 4080 graphics.",
+            "pubdate": "Tue, 24 Oct 2023 13:00:42 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                24
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -2975,6 +2986,17 @@
                 2023,
                 10,
                 22
+            ],
+            "email_sent": true
+        },
+        "How to Read and Display Videos Using OpenCV": {
+            "url": "https://machinelearningmastery.com/how-to-read-and-display-videos-using-opencv/",
+            "description": "<p>Digital videos are close relatives of digital images because they are, indeed, made up of many digital images that are sequentially displayed in rapid succession to create the effect of moving visual data.&#160; The OpenCV library provides several methods to work with videos, such as reading video data from different sources as well as accessing [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/how-to-read-and-display-videos-using-opencv/\" rel=\"nofollow\">How to Read and Display Videos Using OpenCV</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Tue, 24 Oct 2023 13:23:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                24
             ],
             "email_sent": true
         }
@@ -12985,6 +13007,17 @@
                 28
             ],
             "email_sent": true
+        },
+        "The N Implementation Details of RLHF with PPO": {
+            "url": "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo",
+            "description": null,
+            "pubdate": "Tue, 24 Oct 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                10,
+                24
+            ],
+            "email_sent": true
         }
     },
     "Sorta Insightful": {
@@ -22274,6 +22307,61 @@
                 2023,
                 10,
                 23
+            ],
+            "email_sent": true
+        },
+        "Artists Wield Nightshade Against AI Infringements": {
+            "url": "https://www.superpowerdaily.com/p/artists-wield-nightshade-against-ai-infringements",
+            "description": "Invisible data alterations by Nightshade can wreck AI models trained on stolen art.",
+            "pubdate": "2023-10-24T06:29:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                24
+            ],
+            "email_sent": true
+        },
+        "Google has 25 years of coding history to train AI": {
+            "url": "https://www.superpowerdaily.com/p/198-google-has-25-years-of-coding-history-to-train-ai",
+            "description": "SF\u2019s top AI hackers all came to a mansion to push the creative limits of art and music",
+            "pubdate": "2023-10-24T06:30:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                24
+            ],
+            "email_sent": true
+        },
+        "Virtual Reality: Riley Reid Shapes AI's Future in Adult Entertainment": {
+            "url": "https://www.superpowerdaily.com/p/virtual-reality-riley-reid-shapes-ai-s-future-in-adult-entertainment",
+            "description": "Exploring the new horizon where AI complements, not replaces, the adult industry.",
+            "pubdate": "2023-10-24T06:27:30Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                24
+            ],
+            "email_sent": true
+        },
+        "AI Fear Overblown, Claims Meta's Lead Scientist": {
+            "url": "https://www.superpowerdaily.com/p/ai-fear-overblown-claims-meta-s-lead-scientist",
+            "description": "Yann LeCun: \"Machines smarter than us? Exciting, not scary!\"",
+            "pubdate": "2023-10-24T06:23:12Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                24
+            ],
+            "email_sent": true
+        },
+        "San Francisco's AI Renaissance": {
+            "url": "https://www.superpowerdaily.com/p/san-francisco-s-ai-renaissance",
+            "description": "The tech city is reborn as AI start-ups reshape its landscape.",
+            "pubdate": "2023-10-24T06:17:53Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                24
             ],
             "email_sent": true
         }
