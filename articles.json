@@ -20998,6 +20998,17 @@
                 23
             ],
             "email_sent": true
+        },
+        "How to Build Your Own AI-Generated Image with ControlNet and Stable Diffusion": {
+            "url": "https://www.emergentmind.com/posts/how-to-build-your-own-ai-generated-image-with",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Generative AI refers to a type of artificial intelligence that can generate new content such as images, music, text, or video, using machine learning algorithms to learn from large datasets. This can be used for tasks such as content creation, data augmentation, simulation, personalization, and predictive analysis.</li>\n      <li>In the article, the author explains how to build AI-generated images using ControlNet and Stable Diffusion, techniques in generative AI. The process includes object transform and color augmentations, background in-painting, and object in-painting. The methods are demonstrated with the example of creating high-quality product advertisement photos.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion\">How to Build Your Own AI-Generated Image with ControlNet and Stable Diffusion</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Tue, 24 Oct 2023 02:01:29 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                24
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
