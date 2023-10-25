@@ -2223,6 +2223,17 @@
                 24
             ],
             "email_sent": true
+        },
+        "Next-Gen Neural Networks: NVIDIA Research Announces Array of AI Advancements at NeurIPS": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/25/neurips-ai-research/",
+            "description": "NVIDIA researchers are collaborating with academic centers worldwide to advance generative AI, robotics and the natural sciences \u2014 and more than a dozen of these projects will be shared at NeurIPS, one of the world\u2019s top AI conferences. Set for Dec. 10-16 in New Orleans, NeurIPS brings together experts in generative AI, machine learning, computer <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/10/25/neurips-ai-research/\">Read article &#62;</a>",
+            "pubdate": "Wed, 25 Oct 2023 13:00:09 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                25
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -6316,6 +6327,17 @@
             "pubdate_parsed": [
                 2023,
                 9,
+                25
+            ],
+            "email_sent": true
+        },
+        "Frontier Model Forum updates": {
+            "url": "https://openai.com/blog/frontier-model-forum-updates",
+            "description": "Together with Anthropic, Google and Microsoft, we\u2019re announcing the new Executive Director of the Frontier Model Forum and a new $10 million AI Safety Fund.",
+            "pubdate": "Wed, 25 Oct 2023 07:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                10,
                 25
             ],
             "email_sent": true
@@ -21064,6 +21086,28 @@
                 24
             ],
             "email_sent": true
+        },
+        "The Panthera(P.)uncia of Cybersecurity - Subdomain & Exploit Hunter powered by AI": {
+            "url": "https://www.emergentmind.com/posts/github-arpsyndicate-puncia-the-panthera-p-uncia-of",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>The article discusses a potential issue with Git where a tag and a branch have the same name, which could cause unexpected behavior.</li>\n      <li>The user is prompted to confirm if they still want to create the branch with the same name.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://github.com/ARPSyndicate/puncia\">The Panthera(P.)uncia of Cybersecurity - Subdomain &amp; Exploit Hunter powered by AI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 25 Oct 2023 10:01:28 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                25
+            ],
+            "email_sent": true
+        },
+        "What Are AI Agents? The Future Of Workflow Automation": {
+            "url": "https://www.emergentmind.com/posts/what-are-ai-agents-the-future-of-workflow-automation",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>AI agents are advanced versions of chatbots designed to interact with large language models (LLMs) like GPT-4 and perform tasks autonomously. They are capable of interacting with each other and can perform complex tasks like web searches, managing tasks, and even collaborating on projects.</li>\n      <li>Taskade introduces 'Roundtable', a multi-agent feature that includes specialized AI agents like CEO Agent, PM Agent, Designer Agent, etc., to assist with specific aspects of a project or task. AI agents are expected to redefine work processes by managing mundane tasks, offering strategic insights, streamlining processes, and fostering collaboration.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://www.taskade.com/blog/ai-agents\">What Are AI Agents? The Future Of Workflow Automation</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Wed, 25 Oct 2023 08:01:19 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                25
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -22384,6 +22428,17 @@
                 2023,
                 10,
                 24
+            ],
+            "email_sent": true
+        },
+        "Apple just announced their next event titled \"Scary Fast\"": {
+            "url": "https://www.superpowerdaily.com/p/199-apple-just-announced-their-next-event-titled-scary-fast",
+            "description": "Bill Gates does not expect GPT-5 to be much better than GPT-4",
+            "pubdate": "2023-10-25T06:50:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                25
             ],
             "email_sent": true
         }
