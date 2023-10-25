@@ -10153,6 +10153,17 @@
                 6
             ],
             "email_sent": true
+        },
+        "Meet Our new AITutor!": {
+            "url": "https://www.louisbouchard.ai/rag-aitutor/",
+            "description": "How we Built an Open-Source RAG-based ChatGPT Web App",
+            "pubdate": "Wed, 25 Oct 2023 01:22:45 GMT",
+            "pubdate_parsed": [
+                2023,
+                10,
+                25
+            ],
+            "email_sent": true
         }
     },
     "Computational Intelligence Blog": {
@@ -13016,6 +13027,17 @@
                 2023,
                 10,
                 24
+            ],
+            "email_sent": true
+        },
+        "Interactively explore your Huggingface dataset with one line of code": {
+            "url": "https://huggingface.co/blog/scalable-data-inspection",
+            "description": null,
+            "pubdate": "Wed, 25 Oct 2023 00:00:00 GMT",
+            "pubdate_parsed": [
+                2023,
+                10,
+                25
             ],
             "email_sent": true
         }
