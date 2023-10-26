@@ -2234,6 +2234,17 @@
                 25
             ],
             "email_sent": true
+        },
+        "The Skys the Limit: Cities: Skylines II Streams This Week on GeForce NOW": {
+            "url": "https://blogs.nvidia.com/blog/2023/10/26/geforce-now-thursday-oct-26/",
+            "description": "The cloud is full of treats this GFN Thursday with Cities: Skylines II now streaming, leading 15 newly supported games this week. The game\u2019s publisher, Paradox Interactive, is offering GeForce NOW one-month Priority memberships for those who pick up the game first, so make sure to grab one before they\u2019re gone. Among the newly supported <a class=\"read-more\" href=\"https://blogs.nvidia.com/blog/2023/10/26/geforce-now-thursday-oct-26/\">Read article &#62;</a>",
+            "pubdate": "Thu, 26 Oct 2023 13:00:01 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                26
+            ],
+            "email_sent": true
         }
     },
     "CMU Machine Learning Blog": {
@@ -3008,6 +3019,17 @@
                 2023,
                 10,
                 24
+            ],
+            "email_sent": true
+        },
+        "K-Means Clustering in OpenCV and Application for Color Quantization": {
+            "url": "https://machinelearningmastery.com/k-means-clustering-in-opencv-and-application-for-color-quantization/",
+            "description": "<p>The k-means clustering algorithm is an unsupervised machine learning technique that seeks to group similar data into distinct clusters, with the aim of uncovering patterns in the data that may not be apparent to the naked eye.&#160; It is possibly the most widely known algorithm for data clustering, and it comes implemented in the OpenCV [&#8230;]</p>\n<p>The post <a href=\"https://machinelearningmastery.com/k-means-clustering-in-opencv-and-application-for-color-quantization/\" rel=\"nofollow\">K-Means Clustering in OpenCV and Application for Color Quantization</a> appeared first on <a href=\"https://machinelearningmastery.com\" rel=\"nofollow\">MachineLearningMastery.com</a>.</p>",
+            "pubdate": "Thu, 26 Oct 2023 13:07:39 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                26
             ],
             "email_sent": true
         }
@@ -6084,6 +6106,17 @@
                 2023,
                 10,
                 18
+            ],
+            "email_sent": true
+        },
+        "Acting on our commitment to safe and secure AI": {
+            "url": "https://blog.google/technology/safety-security/google-ai-security-expansion/",
+            "description": "a blue shield with a G on it surrounded by icons like folders and magnifying glasses",
+            "pubdate": "Thu, 26 Oct 2023 12:00:00 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                26
             ],
             "email_sent": true
         }
@@ -21141,6 +21174,28 @@
                 26
             ],
             "email_sent": true
+        },
+        "ConvNets Match Vision Transformers at Scale": {
+            "url": "https://www.emergentmind.com/posts/2310-16764-convnets-match-vision-transformers-at",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Researchers challenge the belief that ConvNets are less competitive than Vision Transformers on web-scale datasets by testing a ConvNet architecture on a large labelled dataset.</li>\n      <li>After fine-tuning on ImageNet, the ConvNet model matches the performance of Vision Transformers, achieving a top-1 accuracy of 90.4%.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://arxiv.org/abs/2310.16764\">ConvNets Match Vision Transformers at Scale</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 26 Oct 2023 07:06:22 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                26
+            ],
+            "email_sent": true
+        },
+        "Knowledge cutoff: April 2023": {
+            "url": "https://www.emergentmind.com/posts/knowledge-cutoff-april-2023",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>ChatGPT is an AI with a knowledge cutoff in April 2023, and can provide information up to that date.</li>\n      <li>It lists ten significant catastrophes after 2022, including earthquakes in Turkey, Syria, and Afghanistan, floods in Brazil and Pakistan, a train derailment in Greece, a tornado outbreak in the U.S., a ferry fire and a typhoon in the Philippines, landslides in Peru, and a cyclone in New Zealand.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://chat.openai.com/share/3b088460-86f8-4fa6-afd1-802b7f9a5e9f\">Knowledge cutoff: April 2023</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 26 Oct 2023 07:02:58 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                26
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
@@ -22472,6 +22527,17 @@
                 2023,
                 10,
                 25
+            ],
+            "email_sent": true
+        },
+        "Confirmation that AGI is indeed here": {
+            "url": "https://www.superpowerdaily.com/p/200-confirmation-that-agi-is-indeed-here",
+            "description": "ChatGPT's knowledge cutoff is being updated",
+            "pubdate": "2023-10-26T07:21:00Z",
+            "pubdate_parsed": [
+                2023,
+                10,
+                26
             ],
             "email_sent": true
         }
