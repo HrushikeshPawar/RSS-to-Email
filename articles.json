@@ -21108,6 +21108,39 @@
                 25
             ],
             "email_sent": true
+        },
+        "Researchers develop 'Woodpecker': A groundbreaking solution to AI's hallucination problem": {
+            "url": "https://www.emergentmind.com/posts/researchers-develop-woodpecker-a-groundbreaking",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Woodpecker is a framework designed to validate and correct inconsistencies between image content and generated text, effectively improving the accuracy of AI systems. It identifies main objects in the text, asks questions about them, uses expert models to answer these questions, and then modifies any hallucinations based on this visual knowledge base.</li>\n      <li>The researchers have released the source code and provided an interactive demo for the wider AI community to explore and apply. The system's effectiveness is backed by comprehensive analysis, showing a substantial improvement in accuracy in various tests. The development of Woodpecker is a significant step towards more reliable and accurate AI systems.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://venturebeat.com/ai/researchers-develop-woodpecker-a-groundbreaking-solution-to-ais-hallucination-problem/\">Researchers develop 'Woodpecker': A groundbreaking solution to AI's hallucination problem</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 26 Oct 2023 03:01:14 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                26
+            ],
+            "email_sent": true
+        },
+        "Simulating History with Multimodal AI: an Update": {
+            "url": "https://www.emergentmind.com/posts/simulating-history-with-multimodal-ai-an-update",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Generative AI offers a new way of teaching history, providing a more engaging and possibly more empathetic approach to learning. It has been used to generate interactive historical fiction that helps students understand the past.</li>\n      <li>The rise of multimodal AI means that these large language models can now interpret and create images, which opens up new possibilities for creating immersive historical simulations, such as the simulation of a day in the life of a temple scribe in the ancient city-state of Ur in 2254 BCE.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://resobscura.substack.com/p/simulating-history-with-multimodal\">Simulating History with Multimodal AI: an Update</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 26 Oct 2023 03:01:11 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                26
+            ],
+            "email_sent": true
+        },
+        "Jina AI Launches World's First Open-Source 8K Text Embedding, Rivaling OpenAI": {
+            "url": "https://www.emergentmind.com/posts/jina-ai-launches-world-s-first-open-source-8k-text",
+            "description": "<p>Summary:</p>\n  <ul>\n      <li>Jina AI, a Berlin-based artificial intelligence company, announces its second-generation text embedding model, jina-embeddings-v2, supporting an impressive 8K context length. This model rivals OpenAI's proprietary model in terms of capabilities and performance.</li>\n      <li>The new model, developed from scratch, has potential applications in legal document analysis, medical research, literary analysis, financial forecasting, and conversational AI. It marks a significant leap from its predecessor, outperforming OpenAI's model in several benchmarks.</li>\n  </ul>\n\n\n<p>\n  Full article: <a href=\"https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/\">Jina AI Launches World's First Open-Source 8K Text Embedding, Rivaling OpenAI</a>\n</p>\n\n<p>---</p>\n<p>PS: <a href=\"https://www.emergentmind.com/sale\">Emergent Mind is for sale</a>.</p>",
+            "pubdate": "Thu, 26 Oct 2023 01:01:21 +0000",
+            "pubdate_parsed": [
+                2023,
+                10,
+                26
+            ],
+            "email_sent": true
         }
     },
     "Superpower": {
